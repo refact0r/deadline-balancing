@@ -1,4 +1,4 @@
-﻿0.22.12,Sat Jun 29 16:41:00 2024,,,,,,,,,,,,,
+﻿0.22.12,Sun Jun 30 14:12:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -147,20 +147,20 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,6,0.03,,,,,,,,,750
 ,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,6,0.03,,,,,,,,,750
 ,stock,,,,,,,,,,,,,
-122,,fortis_la_stock,Fortis LA,16,0.16,-8,-10,,,,,,,600
+122,,fortis_la_stock,Fortis LA,17,0.2,-16,-7,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-6,-24,,,,,,,1000
-124,,si_viper_mod1_stock,Strike Industries Viper MOD1 Stock,18,0.18,-7,-8,,,,,,,500
-125,,magpul_moe_carbine_stock,MOE Carbine,17,0.19,-12,-10,,,,,,,900
-126,,ar_tr2_stock,AR TR2,18,0.2,-9,-14,,,,,,,500
-127,,vltor_emod_stock,VLtor Emod,14,0.29,-14,-13,,,,,,,600
-128,,magpul_prs_gen3_stock,Magpul PRS Gen3 Stock,22,0.4,-9,-13,,,,,,,1500
-129,,hera_arms_ccs_stock,Hera Arms CSS,15,0.17,-12,-18,,,,,,,600
-130,,ak12_gen1_std_stock,Kalashnikov Concern AK-12 Gen 1,16,0.19,-15,-10,,,,,,,750
-131,,colt_m4ss_stock,Colt M4SS,18,0.25,-14,-10,,,,,,,0
-132,,lmt_sopmod,LMT Sopmod,18,0.28,-5,-22,,,,,,,750
-133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.19,-10,-14,,,,,,,500
+124,,si_viper_mod1_stock,Strike Industries Viper MOD1 Stock,18,0.14,-8,-10,,,,,,,500
+125,,magpul_moe_carbine_stock,Magpul MOE Carbine,17,0.19,-12,-11,,,,,,,900
+126,,ar_tr2_stock,AR TR2,16,0.22,-10,-15,,,,,,,800
+127,,vltor_emod_stock,VLTOR EMOD,14,0.26,-14,-14,,,,,,,700
+128,,magpul_prs_gen3_stock,Magpul PRS Gen3 Stock,19,0.35,-8,-9,,,,,,,1500
+129,,hera_arms_ccs_stock,Hera Arms CCS,15,0.21,-12,-16,,,,,,,600
+130,,ak12_gen1_std_stock,Kalashnikov Concern AK-12 Gen 1,16,0.22,-15,-10,,,,,,,750
+131,,colt_m4ss_stock,Colt M4SS,17,0.2,-13,-10,,,,,,,0
+132,,lmt_sopmod,LMT Sopmod,18,0.24,-6,-18,,,,,,,700
+133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.14,-9,-14,,,,,,,500
 134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,7,0.16,-2,-2,,,,,,,600
-135,,magpul_str_carbine_stock,Magpul STR Carbine,17,0.19,-10,-12,,,,,,,1000
+135,,magpul_str_carbine_stock,Magpul STR Carbine,17,0.23,-12,-12,,,,,,,900
 ,ak_fixed_stock,,,,,,,,,,,,,
 136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.16,-7,-13,,,,,,,500
 137,,izhmash_ak74_polymer_6p20_sb7,Polymer 6P20 Sb.7 Polymer,17,0.12,-7,-10,,,,,,,600
@@ -310,8 +310,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 225,,30mm_cqr,CQR 30mm,4,0.1,-1,,,,,,,,500
 226,,45mm_cqr,CQR 45mm,6,0.15,-2,-1,,,,,,,750
 ,cqr_gen2_stock,,,,,,,,,,,,,
-,,hera_arms_cqr_gen2_stock,Hera Arms CQR Gen2 Stock,10,0.3,-9,-13,,,,,,,1500
-,,hera_arms_cqr_gen2_buttpad,Hera Arms CQR Gen2 Buttpad,2,0.05,-1,-1,,,,,,,0
+,,hera_arms_cqr_gen2_stock,Hera Arms CQR Gen2 Stock,12,0.32,-9,-13,,,,,,,1500
+,,hera_arms_cqr_gen2_buttpad,Hera Arms CQR Gen2 Buttpad,1,0.05,-1,-1,,,,,,,0
 ,leupold_deltapoint_footprint,,,,,,,,,,,,,
 227,,leupold_deltapoint_reflex_sight,Leupold DeltaPoint Reflex,-2,0.1,,,,,,,,,750
 228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-2.5,0.12,,,,,,,,,1000
@@ -436,20 +436,20 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,modtac_mrac_low_profile_mounting_plates,MODTAC M-RAC Low Profile Mounting Plates,3,0.06,,,,,,,,,200
 ,,modtac_mrac_picatinny_rail_mounting_plates,MODTAC M-RAC Picatinny Rail Mounting Plates,1,0.08,,,,,,,,,400
 ,ar15_buffer,,,,,,,,,,,,,
-293,,sb_tactical_vector_brace,SB Tactical Vector Brace,25,0.2,-9,-10,,,,,,,500
-294,,doublestar_ace_m4_socom_gen4_stock,Doublestar ACE M4 SOCOM Gen4,14,0.29,-13,-15,,,,,,,750
+293,,sb_tactical_vector_brace,SB Tactical Vector Brace,20,0.28,-4,-5,,,,,,,500
+294,,doublestar_ace_m4_socom_gen4_stock,Doublestar ACE M4 SOCOM,14,0.32,-13,-13,,,,,,,1000
 295,,hk_416_enhanced_buffer_tube,HK Enhanced Buffer Tube,-1,0.23,,-3,,-0.1,,,,,400
-296,,si_ar_are_t7_buffer_tube,Strike Industries Advanced Receiver Extension T7,-1,0.17,-2,-2,,0,,,,,1000
-297,,colt_buffer_tube,Colt,-2,0.2,-2,-3,,-0.1,,,,,0
+296,,si_ar_are_t7_buffer_tube,Strike Industries Advanced Receiver Extension T7,-1,0.12,-2,-2,,0,,,,,600
+297,,colt_buffer_tube,Colt,-2,0.15,-2,-3,,-0.1,,,,,0
 ,ar15_castlenut,,,,,,,,,,,,,
 298,,colt_m4a1_castlenut_hk,Colt M4A1 Castle Nut,0,0.01,,,,,,,,,0
 299,,colt_m4a1_castlenut_for_all,Colt M4A1 Castle Nut,0,0.01,,,,,,,,,0
-300,,mdt_lss_stock_adapter,MDT LSS Fixed,-1,0.04,,,,,,,,,50
-301,,leapers_utg_model_15_fixed_a2_ar15_stock,UTG A2 fixed stock,4,0.25,-15,-20,,,,,,,750
-302,,colt_m4a1_castlenut,Colt M4A1 Castle Nut,0,0.01,,,,,,,,,0
-303,,magpul_ubr_gen2_buffer,Magpul UBR GEN2,-1,0.25,-1,-2,,-0.2,,,,,400
-304,,troy_m7a1,Troy M7A1,-2,0.07,0,0,,,,,,,1000
-305,,colt_a2_buffer,Colt A2,-3,0.17,-2,-3,,-0.4,,,,,300
+300,,mdt_lss_stock_adapter,MDT LSS Fixed,-1,0.04,,,,,,,,,100
+301,,leapers_utg_model_15_fixed_a2_ar15_stock,UTG A2 Fixed,10,0.4,-16,-21,,,,,,,700
+302,,colt_m4a1_castlenut,Colt M4A1 Castle Nut,0,0.02,,,,,,,,,0
+303,,magpul_ubr_gen2_buffer,Magpul UBR Gen2 Receiver Extension,-1,0.14,-1,-2,,-0.2,,,,,400
+304,,troy_m7a1,Troy M7A1,-2,0.12,0,0,,,,,,,1000
+305,,colt_a2_buffer,Colt A2,-3,0.15,-2,-3,,-0.4,,,,,300
 ,,ews_bufferless_system_ar15_castlenut,EWS Bufferless System AR15 Castlenut,20,0.08,7,10,,1,,,,,250
 ,scr_stocks,,,,,,,,,,,,,
 ,,fightlite_scr_wooden_rifle_stock,Fightlite SCR Wooden Rifle Stock,12,0.2,-10,-14,,,,,,,1000
@@ -1846,7 +1846,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ddw,,,,,,,,,,,,,
 1151,,ddw_qd,Daniel Defence Wave QD,-11,0.24,-3,-9,,0,0.2,100,,,1300
 ,doublestar_ace_recoil_pad,,,,,,,,,,,,,
-1152,,doublestar_ace_0.5_recoil_pad,Doublestar ACE M4 SOCOM Gen4,2,0.03,-1,-1,,,,,,,0
+1152,,doublestar_ace_0.5_recoil_pad,Doublestar ACE M4 SOCOM Buttpad,2,0.03,-1,-1,,,,,,,0
 ,dsa_sa58_mag_plate,,,,,,,,,,,,,
 1153,,dsa_sa58_enhanced_bumper_magazine_bottom_plate,DSA FAL SA-58 Enhanced Bumper Magazine,2,0.04,,,,,,,,,500
 1154,,dsa_sa58_mag_bottom_plate,DSA FAL SA-58 Magazine,1,0.02,,,,,,,,,0
@@ -1885,8 +1885,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1167,,mdt_lss_nv_hood,MDT LSS Night Vision,-3,0.04,,,,,,,,,500
 1168,,mdt_lss_xl_nv_hood_oversize,MDT LSS-XL Gen II Night Vision,-2,0.06,,,,,,,,,750
 ,mdt_stock,,,,,,,,,,,,,
-1169,,mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,10,0.25,-1,-2,,,,,,,1000
-1170,,mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,8,0.21,-1,-2,,,,,,,750
+1169,,mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,22,0.35,-6,-7,,,,,,,1200
+1170,,mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,22,0.34,-6,-7,,,,,,,1200
 ,mk10_bottom,,,,,,,,,,,,,
 1171,,mk10_bottom_adapter_large,MK10RL Large,-2,0.09,,,,,,,,,0
 1172,,mk10_bottom_adapter_small,MK10RL Small,-1,0.06,,,,,,,,,0
@@ -1899,7 +1899,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,oss_bpr_supp,,,,,,,,,,,,,
 1177,,oss_bpr_suppressor_system_srm_6,OSS BPR Suppressor System SRM-6,-4,0.14,-4,-6,,-0.2,0.05,150,,,1000
 ,prs_adjustment,,,,,,,,,,,,,
-1178,,prs_adjustable_piece,Magpul PRS Gen3 Stock,0,0.05,,-2,,,,,,,0
+1178,,prs_adjustable_piece,Magpul PRS Gen3 Adjustment Piece,0,0.05,,,,,,,,,0
 ,pso_cup,,,,,,,,,,,,,
 1179,,belomo_cup,PSO belamo,5,0.04,,,,,,,,,0
 ,pu_scope,,,,,,,,,,,,,
@@ -1921,8 +1921,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,stanag_plate,,,,,,,,,,,,,
 1189,,stanag_bottom_plate,STANAG Straight Mag Bottom Plate,1,0.015,,,,,,,,,0
 ,stocka2,,,,,,,,,,,,,
-1190,,magpul_prs_gen2_stock,Magpul PRS Gen2,4,0.34,-12,-23,,,,,,,1200
-1191,,hera_hrs_light_stock,Hera HRS Light Fixed,17,0.16,-10,-13,,,,,,,1000
+1190,,magpul_prs_gen2_stock,Magpul PRS Gen2,17,0.4,-8,-16,,,,,,,1200
+1191,,hera_hrs_light_stock,Hera HRS Light Fixed,15,0.16,-10,-13,,,,,,,1000
 ,surefire_handguard_light,,,,,,,,,,,,,
 1192,,lm2,SureFire LM2,-0.5,0.1,,,,,,,,,500
 ,surefire_rc,,,,,,,,,,,,,
@@ -1942,9 +1942,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1198,,tb_7,Thunder Beast Ultra 7,-6,0.23,-5,-8,,-0.3,0.1,120,,,1200
 1199,,tb_9,Thunder Beast Ultra 9,-7,0.27,-5,-9,,-0.5,0.15,150,,,1500
 ,ti_stock,,,,,,,,,,,,,
-1200,,ti_stock,Troy M7A1 Extendable Buttpad,23,0.15,-7,-10,,,,,,,750
+1200,,ti_stock,Troy M7A1 Extendable Buttpad,23,0.15,-7,-10,,,,,,,800
 ,ubr_stock,,,,,,,,,,,,,
-1201,,ubr_gen2_stock,Magpul UBR GEN2,9,0.29,-9,-27,,,,,,,750
+1201,,ubr_gen2_stock,Magpul UBR Gen2,12,0.29,-18,-8,,,,,,,700
 ,unity_fast_30mm_offset_mount,,,,,,,,,,,,,
 1202,,unity_fast_offset_optic_base,Unity Fast LPVO Offset Optic Base,-0.5,0.05,,,,,,,,,200
 ,unity_offset_base_adapter,,,,,,,,,,,,,
@@ -1999,21 +1999,21 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1235,,zenit_rk5,Zenitco Rk-5 ,3,0.05,-4,-4,,,,,,,500
 1236,,zenit_rk6,Zenitco Rk-6,5,0.04,-2,-3,,,,,,,500
 ,prs_3_stock_pad,,,,,,,,,,,,,
-1237,,prs_gen3_buttpad,Magpul PRS Gen3 Buttpad,3,0.04,-2,0,,,,,,,0
+1237,,prs_gen3_buttpad,Magpul PRS Gen3 Buttpad,2,0.04,-1,-1,,,,,,,0
 ,moe_stock_buttpad,,,,,,,,,,,,,
-1238,,magpul_moe_butt_pad,Magpul MOE,2,0.02,0,0,,,,,,,0
+1238,,magpul_moe_butt_pad,Magpul STR Buttpad,1,0.02,-1,-1,,,,,,,0
 ,str_butt_pad,,,,,,,,,,,,,
 ,,magpul_str_butt_pad,Magpul STR Butt Pad,2,0.02,,,,,,,,,0
 ,moe_old_stock_pad,,,,,,,,,,,,,
-1239,,moe_stock_pad,MOE Stock Pad,2,0.02,0,0,,,,,,,0
+1239,,moe_stock_pad,Magpul MOE Buttpad,1,0.02,-1,-1,,,,,,,0
 ,lmt_stock_pad,,,,,,,,,,,,,
-1240,,lmt_pad,LMT,2,0.02,0,0,,,,,,,0
+1240,,lmt_pad,LMT Buttpad,1,0.02,-1,-1,,,,,,,0
 ,emod_stock_pad,,,,,,,,,,,,,
-1241,,emod_pad,Emod,2,0.025,-1,0,,,,,,,0
+1241,,emod_pad,EMOD Buttpad,1,0.025,-1,-1,,,,,,,0
 ,xm177_buttpad,,,,,,,,,,,,,
-1242,,cf_rubber_buttpad,CF Rubber Buttstock,4,0.04,-2,-2,,,,,,,0
+1242,,cf_rubber_buttpad,CF Rubber Buttpad,2,0.04,-1,-1,,,,,,,0
 ,viper_stock_pad,,,,,,,,,,,,,
-1243,,viper_rubber_pad,Viper Rubber,2,0.03,-1,-1,,,,,,,0
+1243,,viper_rubber_pad,Viper Rubber Buttpad,1,0.02,-1,-1,,,,,,,0
 ,acr_stock_cheek_pad,,,,,,,,,,,,,
 1244,,kinetic_development_group_sas_acr_stock_cheek_pad,Kinetic Development Group SAS Adaptive ACR Stock,5,0.04,0,-1,,,,,,,0
 ,acr_stock_moving_part,,,,,,,,,,,,,
@@ -2022,7 +2022,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,acr_stock_retractor,,,,,,,,,,,,,
 1247,,kinetic_development_group_sas_acr_stock_retractor,Kinetic Development Group SAS Adaptive ACR Retractor,-1,0.03,-1,-1,,,,,,,0
 ,ar_tr2_stock_pad,,,,,,,,,,,,,
-1248,,ar_tr2_pad,AR Tr2,2,0.03,0,-1,,,,,,,0
+1248,,ar_tr2_pad,AR TR2 Buttpad,1,0.03,-1,-1,,,,,,,0
 ,frs_15_pad,,,,,,,,,,,,,
 1249,,t_frs15_pad,Thordsen FRS-15,2,0.04,0,-2,,,,,,,0
 ,hunter700_cheek,,,,,,,,,,,,,
