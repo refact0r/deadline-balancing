@@ -1,4 +1,4 @@
-﻿0.22.12,Sun Jun 30 14:23:00 2024,,,,,,,,,,,,,
+﻿0.22.12,Sun Jun 30 14:29:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -2001,11 +2001,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,prs_3_stock_pad,,,,,,,,,,,,,
 1237,,prs_gen3_buttpad,Magpul PRS Gen3 Buttpad,2,0.04,-1,-1,,,,,,,0
 ,moe_stock_buttpad,,,,,,,,,,,,,
-1238,,magpul_moe_butt_pad,Magpul STR Buttpad,1,0.02,-1,-1,,,,,,,0
+1238,,magpul_moe_butt_pad,Magpul MOE Buttpad,2,0.02,-1,-1,,,,,,,0
 ,str_butt_pad,,,,,,,,,,,,,
 ,,magpul_str_butt_pad,Magpul STR Butt Pad,2,0.02,,,,,,,,,0
 ,moe_old_stock_pad,,,,,,,,,,,,,
-1239,,moe_stock_pad,Magpul MOE Buttpad,2,0.02,-1,-1,,,,,,,0
+1239,,moe_stock_pad,Magpul STR Buttpad,1,0.02,-1,-1,,,,,,,0
 ,lmt_stock_pad,,,,,,,,,,,,,
 1240,,lmt_pad,LMT Buttpad,1,0.02,-1,-1,,,,,,,0
 ,emod_stock_pad,,,,,,,,,,,,,
