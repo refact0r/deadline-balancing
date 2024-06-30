@@ -1,4 +1,4 @@
-﻿0.22.12,Sun Jun 30 14:12:00 2024,,,,,,,,,,,,,
+﻿0.22.12,Sun Jun 30 14:20:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -156,7 +156,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 128,,magpul_prs_gen3_stock,Magpul PRS Gen3 Stock,19,0.35,-8,-9,,,,,,,1500
 129,,hera_arms_ccs_stock,Hera Arms CCS,15,0.21,-12,-16,,,,,,,600
 130,,ak12_gen1_std_stock,Kalashnikov Concern AK-12 Gen 1,16,0.22,-15,-10,,,,,,,750
-131,,colt_m4ss_stock,Colt M4SS,17,0.2,-13,-10,,,,,,,0
+131,,colt_m4ss_stock,Colt M4SS,16,0.2,-12,-10,,,,,,,0
 132,,lmt_sopmod,LMT Sopmod,18,0.24,-6,-18,,,,,,,700
 133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.14,-9,-14,,,,,,,500
 134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,7,0.16,-2,-2,,,,,,,600
