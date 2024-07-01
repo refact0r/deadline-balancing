@@ -7,7 +7,6 @@ def update_csv(changes, original):
     with open(changes, "r", encoding="utf-8-sig") as f:
         reader = csv.reader(f)
         c_headers = next(reader)
-        print(c_headers)
         c_name_idx = c_headers.index("name")
         data = {row[c_name_idx]: row for row in reader}
 
@@ -18,7 +17,6 @@ def update_csv(changes, original):
     lines[0][1] = datetime.now().strftime("%a %b %d %H:%M:%S %Y")
 
     o_headers = lines[1]
-    print(o_headers)
     o_name_idx = o_headers.index("name")
 
     for i in range(2, len(lines)):
