@@ -3,9 +3,12 @@ import csv
 from datetime import datetime
 
 
-def update_csv(changes, original):
+def update_csv(changes, original, header_line=1):
     with open(changes, "r", encoding="utf-8-sig") as f:
         reader = csv.reader(f)
+        if header_line > 1:
+            for i in range(header_line - 1):
+                next(reader)
         c_headers = next(reader)
         c_name_idx = c_headers.index("name")
         data = {row[c_name_idx]: row for row in reader}
@@ -28,9 +31,9 @@ def update_csv(changes, original):
                     o_idx = o_headers.index(c_headers[j])
                     lines[i][o_idx] = changes_row[j]
 
-    with open(original, "w", newline="") as f:
+    with open(original, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f)
         writer.writerows(lines)
 
 
-update_csv(sys.argv[1], sys.argv[2])
+update_csv(sys.argv[1], sys.argv[2], int(sys.argv[3]))
