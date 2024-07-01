@@ -1,4 +1,4 @@
-﻿0.22.12,Sat Jun 29 15:59:00 2024,,,,,,,,,,,,,
+﻿0.22.12,Mon Jul 01 15:12:24 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -524,7 +524,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 342,,colt_m4a1_std_lower_receiver,Colt M4A1,0,0.3,,,,,,,,,0
 ,,fightlite_scr_rifle_lower_receiver,Fightlite SCR Rifle Lower Receiver,14,0.23,-14,10,,,,,,,3000
 ,,radian_weapons_ax556_adac15_lower_receiver,Radian Weapons AX556 ADAC15 Lower Receiver,8,0.45,-2,-4,,,,,,,4000
-,,noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,2,0.35,,,,,,,,,2000
+,,noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,4,0.35,-1,-1,,,,,,,2000
 ,m4a1_mag_release,,,,,,,,,,,,,
 343,,m4a1_std_mag_release,Colt M4A1,0,0.01,,,,,,,,,0
 ,,radian_weapons_adac15_mag_release,Radian Weapons ADAC15 Mag Rlease,1,0.02,,,,,,,,,200
