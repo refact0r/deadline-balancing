@@ -35,4 +35,4 @@ amtac_cqb_suppressor,AMTAC Long,-8,-6,-12,400,0.2,0.32,-0.5,2000,12.1,,-5,-8,-11
 kac_mcq_prt_suppressor_cover,,,,,,,,,,,,3,,,,,0.06,,500,
 kac_crs_prt_suppressor_cover,,,,,,,,,,,,2,,,,,0.04,,500,
 ,,,,,,,,,,,,,,,,,,,,
-rat_worx_aug_5.56x45_supp_adapter,Rat Worx Adapter,-2,5,5,-50,0,0.05,0.1,1500,-0.35,,-1,0,0,30,0.02,0.04,0.05,1500,8.5
+rat_worx_aug_5.56x45_supp_adapter,Rat Worx Adapter,-2,5,5,-50,0,0.05,0.1,1500,-0.35,,-1,0,0,30,0,0.04,0.05,1500,8.3
