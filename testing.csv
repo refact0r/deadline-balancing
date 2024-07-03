@@ -1,4 +1,4 @@
-﻿0.22.12,Wed Jul 03 13:05:40 2024,,,,,,,,,,,,,
+﻿0.22.12,Wed Jul 03 13:55:40 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -336,7 +336,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,susat_backup_sights,,,,,,,,,,,,,
 243,,susat_backup_sights,SUSAT Backup Sights,0,0,,,,,,,,,0
 ,asr_mounts,,,,,,,,,,,,,
-244,,silencerco_qd_asr_mount,SilencerCo QD ASR Mount,-0.5,0.03,,,,,,,,,200
+244,,silencerco_qd_asr_mount,SilencerCo QD ASR Mount,-5,0.03,,,,,,,,,200
 ,asr_suppressors,,,,,,,,,,,,,
 245,,silencerco_omega_300_suppressor,SilencerCo OMEGA 300,-6,0.23,-6,-10,,-0.3,0.08,200,,,1000
 ,hensoldt_zf_6x42_scope_eye_cup,,,,,,,,,,,,,
