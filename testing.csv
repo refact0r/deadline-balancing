@@ -1615,7 +1615,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,steyr_aug_threaded,,,,,,,,,,,,,
 998,,steyr_aug_a1_tulip_5.56x45_closed_flash_hider,Steyr AUG A1 Tulip 5.56x45 Closed,-2,0.05,-6,-5,,0,0.05,50,,,0
 999,,steyr_aug_a3_5.56x45_closed_flash_hider,Steyr AUG A3 5.56x45 Closed,-2,0.06,-8,-3,,0.05,0,120,,,500
-1000,,rat_worx_aug_5.56x45_supp_adapter,Rat Worx AUG 5.56x45 1/2x28,-1,0.04,0,0,,0.05,0,30,,,1500
+1000,,rat_worx_aug_5.56x45_supp_adapter,Rat Worx AUG 5.56x45 1/2x28,-3,0.04,0,0,,0.05,0,30,,,1500
 ,,steyr_aug_a3_5.56x45_original_closed_muzzle_brake,Steyr AUG A3 5.56 Original Closed Flash Hider,-1,0.07,-5,-7,,0,0,0,,,750
 ,steyr_aug_austrian_mag_bottom_plates,,,,,,,,,,,,,
 1001,,steyr_aug_austrian_mag_bottom_plate,Steyr AUG A3 Austrian Mag,0,0.01,,,,,,,,,0
