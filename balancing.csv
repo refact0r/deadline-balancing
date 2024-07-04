@@ -1,4 +1,4 @@
-﻿0.22.12,Tue Jul 02 16:43:47 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 04 16:37:10 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -36,7 +36,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 33,,firefield_mg_kemper_xl_reflex_sight,Firefield MG Kemper XL Reflex,-6,0.3,0,-1,,,,,,,2000
 34,,fn_scar_rear_sight_base,FN Scar Rear Sight Base,0,0.02,,,,,,,,,100
 35,,gbrs_group_aimpoint_hydra_mount_kit,GBRS Group Hydra Mount Kit For Aimpoint,-3,0.17,,,,,,,,,1000
-36,,grip_pod_gps_02_body,Grip Pod Systems GPS-02,1,0.15,-6,-6,,,,,,,1100
+36,,grip_pod_gps_02_body,Grip Pod Systems GPS-02,0,0.15,0,0,,,,,,,1100
 37,,holosun_hs401g5,Holosun HS401G5,-5,0.18,,,,,,,,,800
 38,,holosun_ls321g,Holosun LS321G,-2,0.12,,,,,,,,,800
 39,,insight_technology_an_peq_5_cvl,Insight Technology CVL AN/PEQ-5,-2,0.14,,,,,,,,,600
@@ -140,9 +140,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,primary_arms_slx_1x_microprism_acss_g2_scope_alt,,-1,0.08,,,,,,,,,1300
 ,,primary_arms_slx_1.53inch_straight_spacer_alt,,0,0.05,,,,,,,,,100
 ,,gbrs_group_lerna_picatinny_eotech_mount,GBRS Group Lerna Picatinny Eotech Mount,-1,0.07,,,,,,,,,900
-,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,2,0.1,-6,-4,,,,,,,700
-,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,0,0.06,0,0,,,,,,,0
-,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-3,0.06,-2,-2,,,,,,,0
+,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,0,0.1,0,0,,,,,,,700
+,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,1,0.06,-6,-4,,,,,,,0
+,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-2,0.06,-8,-6,,,,,,,0
 ,,strike_industries_cobra_tactical_foregrip,Strike Industries Cobra Tactical Foregrip,5,0.06,-4,0,,,,,,,500
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,6,0.03,,,,,,,,,750
 ,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,6,0.03,,,,,,,,,750
@@ -1615,7 +1615,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,steyr_aug_threaded,,,,,,,,,,,,,
 998,,steyr_aug_a1_tulip_5.56x45_closed_flash_hider,Steyr AUG A1 Tulip 5.56x45 Closed,-2,0.05,-6,-5,,0,0.05,50,,,0
 999,,steyr_aug_a3_5.56x45_closed_flash_hider,Steyr AUG A3 5.56x45 Closed,-2,0.06,-8,-3,,0.05,0,120,,,500
-1000,,rat_worx_aug_5.56x45_supp_adapter,Rat Worx AUG 5.56x45 1/2x28,-2,0.05,5,5,,0.1,0,-50,,,1500
+1000,,rat_worx_aug_5.56x45_supp_adapter,Rat Worx AUG 5.56x45 1/2x28,-1,0.04,0,0,,0.05,0,30,,,1500
 ,,steyr_aug_a3_5.56x45_original_closed_muzzle_brake,Steyr AUG A3 5.56 Original Closed Flash Hider,-1,0.07,-5,-7,,0,0,0,,,750
 ,steyr_aug_austrian_mag_bottom_plates,,,,,,,,,,,,,
 1001,,steyr_aug_austrian_mag_bottom_plate,Steyr AUG A3 Austrian Mag,0,0.01,,,,,,,,,0
@@ -1708,27 +1708,27 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,pp19_rear_sight,,,,,,,,,,,,,
 1056,,pp19_rear_sight,PP19 Standard,1,0.03,,,,,,,,,0
 ,5.56x45_muzzle_device,,,,,,,,,,,,,
-1057,,tb_mount_223_mb,Thunder Beast 223CB,-1,0.02,-1,-1,,0.1,0,5,,,400
-1058,,troy_claymore556,TROY Claymore 5.56x45,-3,0.09,-7,-4,,0.1,0.05,40,,,750
-1059,,gemtech_adapter,Gemtech One,-1,0.03,0,2,,0.1,0,5,,,300
-1060,,ddw_adapter,Daniel Defence Wave MB,-1,0.04,-3,-1,,0.1,0,5,,,300
-1061,,bt_st6012,Bulletec ST-6012 5.56x45,-2,0.05,-5,-6,,0.2,0,50,,,750
-1062,,nordic_corvette_556,Nordic Corvette 5.56x45,-3,0.1,-6,-6,,0.3,0.05,10,,,750
-0,,annihilator_556,Annihilator 5.56,-0.5,0.07,-5,-5,,0.05,0.05,30,,,1000
-1064,,amtac_cqbm_suppressor,AMTAC Cqbm 5.56x45,-6.5,0.27,-6,-10,,-0.5,0.1,250,,,2000
-1065,,amtac_cqb_suppressor,AMTAC Cqbm 5.56x45,-8,0.32,-6,-12,,-0.5,0.2,400,,,2000
-1066,,ss_combo_mount,Spike's Tatical combo mount,-2,0.04,-3,-3,,0,-0.05,0,,,500
-1067,,jt_5.5inch_flashsuppressor,"JT 5.5"" Flash Suppressor",-2,0.1,-4,-3,,0,0.07,100,,,400
-1068,,jg_usgi_a2_birdcage_m4a1_flash_hider,JG Standard birdcage M4A1,-2,0.07,-4,-4,,0.05,0,100,,,0
-1069,,surefire_warcomp_5.56x45_flash_hider,Surefire WarComp 5.56x45,-1,0.06,-5,-5,,0,0,60,,,750
-1070,,kac_qdc_m4qd_5.56x56_flash_suppressor,KAC QDC M4QD 5.56x45,0,0.07,-3,-4,,0.1,0,90,,,500
-,,ips_5.56x45_1inch_barrel_extension,IPS 5.56 1in Barrel Extension,-1,0.06,0,0,,0.05,,40,,,500
-,,ips_5.56x45_2inch_barrel_extension,IPS 5.56 2in Barrel Extension,-1.5,0.09,-1,-1,,0.1,,60,,,750
-,,ips_5.56x45_4inch_barrel_extension,IPS 5.56 4in Barrel Extension,-2,0.12,-2,-2,,0.15,0.05,80,,,1000
+1057,,tb_mount_223_mb,Thunder Beast 223CB,0,0.05,-5,-2,,0.1,0,0,,,400
+1058,,troy_claymore556,TROY Claymore 5.56x45,-1,0.07,-7,-4,,0.05,0.02,20,,,500
+1059,,gemtech_adapter,Gemtech One,0,0.03,-2,-1,,0.05,0.02,20,,,300
+1060,,ddw_adapter,Daniel Defence Wave MB,-1,0.06,-7,-2,,0.1,0,0,,,500
+1061,,bt_st6012,Bulletec ST-6012 5.56x45,-2,0.07,-8,-4,,0.05,0,0,,,400
+1062,,nordic_corvette_556,Nordic Corvette 5.56x45,-1,0.05,-8,-1,,0.05,0,0,,,400
+0,,annihilator_556,Annihilator 5.56,-1,0.07,-6,-5,,0.05,0,0,,,500
+1064,,amtac_cqbm_suppressor,AMTAC Cqbm 5.56x45,-3,0.27,-6,-10,,-0.2,0.08,60,,,1500
+1065,,amtac_cqb_suppressor,AMTAC Cqbm 5.56x45,-5,0.32,-8,-11,,-0.3,0.12,80,,,1600
+1066,,ss_combo_mount,Spike's Tatical combo mount,-1,0.07,-2,-5,,0.05,0.04,30,,,500
+1067,,jt_5.5inch_flashsuppressor,"JT 5.5"" Flash Suppressor",-2,0.1,-3,-7,,0,0.06,40,,,300
+1068,,jg_usgi_a2_birdcage_m4a1_flash_hider,JG Standard birdcage M4A1,0,0.03,-2,-4,,0.1,0,0,,,0
+1069,,surefire_warcomp_5.56x45_flash_hider,Surefire WarComp 5.56x45,-1,0.06,-5,-6,,0.05,0,0,,,700
+1070,,kac_qdc_m4qd_5.56x56_flash_suppressor,KAC QDC M4QD 5.56x45,0,0.04,-3,-5,,0.1,0,0,,,500
+,,ips_5.56x45_1inch_barrel_extension,IPS 5.56 1in Barrel Extension,-1,0.03,-1,0,,0.05,0.02,20,,,400
+,,ips_5.56x45_2inch_barrel_extension,IPS 5.56 2in Barrel Extension,-1,0.06,-1,-1,,0.1,0.04,40,,,500
+,,ips_5.56x45_4inch_barrel_extension,IPS 5.56 4in Barrel Extension,-2,0.1,-2,-2,,0.15,0.08,80,,,600
 ,,ips_1_2x28_to_5_8x24_knurled_thread_adapter,ISP 1/2x28 to 5/8x24 Knurled Thread Adapter,-2,0.05,6,8,,0.1,,-100,,,1000
-,,surefire_socom556_sfmb_muzzle_brake,Surefire SOCOM556 SFMB Muzzle Break,-1,0.1,-3,-2,,0.05,,,,,800
-,,surefire_warden_blast_regulator,Surefire Warden Blast Regulator,-3,0.2,-5,-4,,-0.1,0.05,25,,,1200
-,,kac_qdc_3prong_flash_5.56x45_eliminator,Kac QDC 3prong Flash Eliminator 5.56,-1,0.07,-3,-4,,0.05,,60,,,600
+,,surefire_socom556_sfmb_muzzle_brake,Surefire SOCOM556 SFMB Muzzle Break,0,0.07,-6,-3,,0.1,0,0,,,700
+,,surefire_warden_blast_regulator,Surefire Warden Blast Regulator,-3,0.12,-5,-2,,-0.05,0.02,40,,,1000
+,,kac_qdc_3prong_flash_5.56x45_eliminator,Kac QDC 3prong Flash Eliminator 5.56,-1,0.04,-6,-4,,0.05,0,0,,,600
 ,9x19_muzzle_device,,,,,,,,,,,,,
 1071,,custom4port,CUSTOM4PORT,-2,0.07,0,-10,,0.1,0,10,,,500
 1072,,fd917,FD917,-12,0.27,-6,-12,,-0.3,0.2,300,,,2000
@@ -1867,7 +1867,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1160,,deltapoint_attachment,Leupold DeltaPoint Cap,0,0.01,,,,,,,,,0
 1161,,leupold_cq_deltapoint_pro_rear_ironsight,Leupold CQ DeltaPoint Pro Rear,0.5,0.02,,,,,,,,,200
 ,lrs_1_suppressor,,,,,,,,,,,,,
-1162,,ss_lrs1_suppressor,Spike's Tactical Lrs-1,-10,0.3,-6,-7,,-0.7,0,75,,,1000
+1162,,ss_lrs1_suppressor,Spike's Tactical Lrs-1,-5,0.3,-7,-7,,-0.3,0.14,100,,,1200
 ,makarov_laser,,,,,,,,,,,,,
 1163,,ncstar_apls_laser,NcStart APLS,-1,0.04,,,,,,,,,400
 ,pjs_cqc_handguard,,,,,,,,,,,,,
@@ -1926,21 +1926,21 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,surefire_handguard_light,,,,,,,,,,,,,
 1192,,lm2,SureFire LM2,-0.5,0.1,,,,,,,,,500
 ,surefire_rc,,,,,,,,,,,,,
-1193,,surefire_socom556_rc2_suppressor,SureFire SOCOM556-RC2 Fast-Attach,-10,0.23,-4,-8,,-0.1,0.15,120,,,1500
+1193,,surefire_socom556_rc2_suppressor,SureFire SOCOM556-RC2 Fast-Attach,-6,0.25,-8,-6,,-0.1,0.12,80,,,1500
 ,qdc_suppressors,,,,,,,,,,,,,
-,,kac_qdc_crs_prt_5.56x45_suppressor,KAC QDC/CRS PRT 5.56 Suppressor,-10,0.23,-6,-6,,-0.1,0.15,120,,,2500
-,,kac_crs_prt_suppressor_cover,KAC CRS PRT Suppressor Cover,4,0.06,,,,,,,,,500
-,,kac_qdc_mcq_prt_5.56x45_suppressor,KAC QDC/MRQ PRT 5.56 Suppressor,-6,0.19,-4,-4,,-0.05,0.07,60,,,1500
-,,kac_mcq_prt_suppressor_cover,KAC MRQ PRT Suppressor Cover,2,0.04,,,,,,,,,500
+,,kac_qdc_crs_prt_5.56x45_suppressor,KAC QDC/CRS PRT 5.56 Suppressor,-6,0.28,-5,-9,,-0.2,0.12,90,,,2000
+,,kac_crs_prt_suppressor_cover,KAC CRS PRT Suppressor Cover,2,0.04,,,,,,,,,500
+,,kac_qdc_mcq_prt_5.56x45_suppressor,KAC QDC/MRQ PRT 5.56 Suppressor,-4,0.2,-3,-7,,-0.1,0.04,60,,,1800
+,,kac_mcq_prt_suppressor_cover,KAC MRQ PRT Suppressor Cover,3,0.06,,,,,,,,,500
 ,swivel_mount,,,,,,,,,,,,,
 1194,,harris_hbr_base,Harris HBR Bipod Base,-1,0.03,,,,,,,,,500
 ,tailhook_brace,,,,,,,,,,,,,
 1195,,ghw_tailhook_mod1_brace_small,GHW Tailhook MOD 1,12,0.1,-10,2,,,,,,,400
 1196,,ghw_tailhook_mod1_brace_big,GHW Tailhook MOD 1,12,0.1,-10,2,,,,,,,400
 ,thunderbeast_ultra,,,,,,,,,,,,,
-1197,,tb_5,Thunder Beast Ultra 5,-5,0.19,-5,-6,,-0.1,0.05,90,,,900
-1198,,tb_7,Thunder Beast Ultra 7,-6,0.23,-5,-8,,-0.3,0.1,120,,,1200
-1199,,tb_9,Thunder Beast Ultra 9,-7,0.27,-5,-9,,-0.5,0.15,150,,,1500
+1197,,tb_5,Thunder Beast Ultra 5,-3,0.09,-4,-4,,-0.1,0.04,50,,,1200
+1198,,tb_7,Thunder Beast Ultra 7,-4,0.12,-5,-5,,-0.2,0.06,70,,,1300
+1199,,tb_9,Thunder Beast Ultra 9,-5,0.15,-6,-5,,-0.3,0.1,90,,,1400
 ,ti_stock,,,,,,,,,,,,,
 1200,,ti_stock,Troy M7A1 Extendable Buttpad,23,0.15,-7,-10,,,,,,,800
 ,ubr_stock,,,,,,,,,,,,,
@@ -1968,10 +1968,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,z24_covers,,,,,,,,,,,,,
 1213,,z24_covers,Z24,4,0.03,,,,,,,,,0
 ,kac_qd_suppressor,,,,,,,,,,,,,
-1214,,kac_qdss_nt4_5.56x45_suppressor,KAC QDSS NT-4 5.56x45,-6,0.25,-4,-8,,-0.5,0.1,150,,,2000
+1214,,kac_qdss_nt4_5.56x45_suppressor,KAC QDSS NT-4 5.56x45,-7,0.3,-10,-8,,-0.3,0.12,90,,,1900
 ,grip_pod_gps_02_legs,,,,,,,,,,,,,
-1215,,grip_pod_gps_02_legs_ext,GPS-02 Extended,-3,0.1,-9,-7,,,,,,,200
-1216,,grip_pod_gps_02_legs_col,GPS-02 Collapsed,4,0.1,-3,-2,,,,,,,200
+1215,,grip_pod_gps_02_legs_ext,GPS-02 Extended,-3,0.09,-7,-9,,,,,,,0
+1216,,grip_pod_gps_02_legs_col,GPS-02 Collapsed,0,0.09,-5,-7,,,,,,,0
 ,zenitco_pt_lock,,,,,,,,,,,,,
 1217,,zenitco_pt_1_klassika_base_part,"Zenitco PT-1 ""Klassika"" Base Part",-4,0.12,-2,-5,,,,,,,400
 1218,,zenitco_pt_3_base_part,Zenitco PT-3 Adjustable,6,0.1,3,1,,,,,,,800
