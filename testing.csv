@@ -1,4 +1,4 @@
-﻿0.22.12,Thu Jul 04 13:07:11 2024,,,,,,,,,,,,,
+﻿0.22.12,Thu Jul 04 13:07:12 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -24,7 +24,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 21,,cobra_ekp_8_18,Cobra EKP 8 18,-3,0.14,,,,,,,,,800
 22,,colt_ca2r,Colt CA2R,0.5,0.09,,,,,,,,,400
 23,,colt_m4a1_carry_handle,Colt M4A1 Carry Handle,7,0.14,,,,,,,,,0
-24,,hera_arms_cqr_gen1_foregrip,CQR FG,-2,0.23,-6,-8,,,,,,,1000
+24,,hera_arms_cqr_gen1_foregrip,CQR FG,100,0.23,-6,-8,,,,,,,1000
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-4,0.3,-1,-4,,,,,,,3000
 26,,elcan_specter_os4x_sfov4,ELCAN Specter OS4X Fixed-Magn. SFOV4,-3,0.21,,-2,,,,,,,3000
 27,,elcan_specterdr_1_4x_dfov14_t1,ELCAN SpecterDR 1-4x DFOV14-T1,-3,0.26,,0,,,,,,,5000
