@@ -1,4 +1,4 @@
-﻿0.22.12,Wed Jul 03 22:21:54 2024,,,,,,,,,,,,,
+﻿0.22.12,Thu Jul 04 13:07:11 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -36,7 +36,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 33,,firefield_mg_kemper_xl_reflex_sight,Firefield MG Kemper XL Reflex,-6,0.3,0,-1,,,,,,,2000
 34,,fn_scar_rear_sight_base,FN Scar Rear Sight Base,0,0.02,,,,,,,,,100
 35,,gbrs_group_aimpoint_hydra_mount_kit,GBRS Group Hydra Mount Kit For Aimpoint,-3,0.17,,,,,,,,,1000
-36,,grip_pod_gps_02_body,Grip Pod Systems GPS-02,1,0.15,-6,-6,,,,,,,1100
+36,,grip_pod_gps_02_body,Grip Pod Systems GPS-02,0,0.15,0,0,,,,,,,1100
 37,,holosun_hs401g5,Holosun HS401G5,-5,0.18,,,,,,,,,800
 38,,holosun_ls321g,Holosun LS321G,-2,0.12,,,,,,,,,800
 39,,insight_technology_an_peq_5_cvl,Insight Technology CVL AN/PEQ-5,-2,0.14,,,,,,,,,600
@@ -140,9 +140,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,primary_arms_slx_1x_microprism_acss_g2_scope_alt,,-1,0.08,,,,,,,,,1300
 ,,primary_arms_slx_1.53inch_straight_spacer_alt,,0,0.05,,,,,,,,,100
 ,,gbrs_group_lerna_picatinny_eotech_mount,GBRS Group Lerna Picatinny Eotech Mount,-1,0.07,,,,,,,,,900
-,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,2,0.1,-6,-4,,,,,,,700
-,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,0,0.06,0,0,,,,,,,0
-,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-3,0.06,-2,-2,,,,,,,0
+,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,0,0.1,0,0,,,,,,,700
+,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,1,0.06,-6,-4,,,,,,,0
+,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-2,0.06,-8,-6,,,,,,,0
 ,,strike_industries_cobra_tactical_foregrip,Strike Industries Cobra Tactical Foregrip,5,0.06,-4,0,,,,,,,500
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,6,0.03,,,,,,,,,750
 ,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,6,0.03,,,,,,,,,750
@@ -1970,8 +1970,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,kac_qd_suppressor,,,,,,,,,,,,,
 1214,,kac_qdss_nt4_5.56x45_suppressor,KAC QDSS NT-4 5.56x45,-7,0.3,-10,-8,,-0.3,0.12,90,,,1900
 ,grip_pod_gps_02_legs,,,,,,,,,,,,,
-1215,,grip_pod_gps_02_legs_ext,GPS-02 Extended,-3,0.1,-9,-7,,,,,,,200
-1216,,grip_pod_gps_02_legs_col,GPS-02 Collapsed,4,0.1,-3,-2,,,,,,,200
+1215,,grip_pod_gps_02_legs_ext,GPS-02 Extended,-3,0.09,-7,-9,,,,,,,0
+1216,,grip_pod_gps_02_legs_col,GPS-02 Collapsed,0,0.09,-5,-7,,,,,,,0
 ,zenitco_pt_lock,,,,,,,,,,,,,
 1217,,zenitco_pt_1_klassika_base_part,"Zenitco PT-1 ""Klassika"" Base Part",-4,0.12,-2,-5,,,,,,,400
 1218,,zenitco_pt_3_base_part,Zenitco PT-3 Adjustable,6,0.1,3,1,,,,,,,800
