@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 04 16:37:10 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 04 17:32:59 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -82,8 +82,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 77,,ncstar_mark_3_tactical_gen2_3_9x42,NcStar Mark III Tactical Gen 2 3-9x42,-3,0.29,-1,-5,,,,,,,2700
 78,,ncstar_mpr45_offset_mount,NcStar Mpr45 Offset mount,-1,0.02,,,,,,,,,200
 79,,npz_1p78_kashtan_p1_picatinny_adapter,NPZ 1P78 Kashtan P-1 Picatinny Adapter,-1,0.06,,,,,,,,,300
-80,,okb_crazy_romanian_picatinny_full_grip,OKB Crazy Romanian Picatinny Full Grip,4,0.11,-4,-5,,,,,,,800
-81,,okb_crazy_romanian_picatinny_half_grip,OKB Crazy Romanian Picatinny Half Grip,6,0.6,-2,-3,,,,,,,450
+80,,okb_crazy_romanian_picatinny_full_grip,OKB Crazy Romanian Picatinny Full Grip,3,0.11,-3,-5,,,,,,,800
+81,,okb_crazy_romanian_picatinny_half_grip,OKB Crazy Romanian Picatinny Half Grip,5,0.06,-2,-3,,,,,,,600
 82,,pilad_p1x42,Pilad P1x42,-3.5,0.15,,,,,,,,,1000
 83,,priceli_narod_okp_7_picatinny,Priceli Narod OKP-7,-2,0.14,0,0,,,,,,,1000
 84,,pts_fortis_shift_tactical_grip,Pts Fortis Shift Tactical Grip,3,0.09,-4,-4,,,,,,,600
