@@ -1,5 +1,7 @@
 # deadline balancing
 
+attachment stats for deadline.
+
 ## port.py
 
 Script to port changes from a change sheet into `balancing.csv` or `testing.csv`. Usage:
