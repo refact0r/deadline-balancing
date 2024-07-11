@@ -1,6 +1,6 @@
 # deadline balancing
 
-attachment stats for deadline.
+attachment stats for deadline. game link: https://www.roblox.com/games/3837841034
 
 ## port.py
 
