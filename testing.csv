@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 11 00:55:32 2024,,,,,,,,,,,,,
+﻿0.22.13,Fri Jul 12 20:27:21 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -375,25 +375,25 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 258,,2a_armament_builder_series_gen1_15inch_handguard,"2A Armament Builder Series Gen 1 15""",9,0.33,-16,-14,,,,,,,900
 259,,2a_armament_builder_series_gen1_7inch_handguard,"2A Armament Builder Series Gen 1 7""",15,0.2,-9,-10,,,,,,,700
 260,,usgi_m16a1_triangle_handguard,USGI M16A1 Triangle Handguard,13,0.27,-14,-20,,0.07,,,,,600
-261,,kac_urx_4_mlok_10.75inch_handguard,"KAC URX 4 MLOK 10.75""",11,0.28,-13,-14,,,,,,,1150
-262,,dd_m4a1_fsp_ris_2_12.25_handguard,DD M4A1 FSP RIS II 12.25,6,0.33,-17,-18,,,,,,,1100
-263,,dd_m4a1_ris_2_12.25_handguard,DD M4A1 RIS II 12.25,6,0.35,-17,-19,,,,,,,1100
-264,,dd_mk18_fsp_ris_2_9.55_handguard,DD MK18 FSP RIS II 9.55,8,0.28,-15,-16,,,,,,,1000
-265,,dd_mk18_ris_2_9.55_handguard,DD Mk18 RIS II 9.55,8,0.3,-15,-17,,,,,,,1000
-266,,kac_ras_m4a1_handguard,KAC RAS,10,0.23,-10,-17,,0.04,,,,,600
+261,,kac_urx_4_mlok_10.75inch_handguard,"KAC URX 4 MLOK 10.75""",11,0.28,-13,-15,,,,,,,1150
+262,,dd_m4a1_fsp_ris_2_12.25_handguard,DD M4A1 FSP RIS II 12.25,6,0.33,-17,-19,,,,,,,1100
+263,,dd_m4a1_ris_2_12.25_handguard,DD M4A1 RIS II 12.25,6,0.35,-17,-20,,,,,,,1100
+264,,dd_mk18_fsp_ris_2_9.55_handguard,DD MK18 FSP RIS II 9.55,8,0.28,-15,-17,,,,,,,1000
+265,,dd_mk18_ris_2_9.55_handguard,DD Mk18 RIS II 9.55,8,0.3,-15,-18,,,,,,,1000
+266,,kac_ras_m4a1_handguard,KAC RAS,10,0.23,-10,-17,,0.04,,,,,700
 267,,geissele_smr_mk16_mlok_urg_i_13.5inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 13.5""",8,0.33,-17,-15,,,,,,,1100
 268,,geissele_smr_mk16_mlok_urg_i_15inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 15""",7,0.36,-16,-16,,,,,,,1200
-269,,geissele_smr_mk16_mlok_urg_i_9.3inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 9.3""",11,0.26,-15,-10,,,,,,,1000
+269,,geissele_smr_mk16_mlok_urg_i_9.3inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 9.3""",11,0.26,-15,-11,,,,,,,1000
 272,,kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,0,0,0,0,,,,,,,0
-,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-16,-23,,0.04,,,,,1500
-273,,kac_mre_ras_free_float_12inch,"KAC MRE RAS Free Float 12"" ",7,0.31,-14,-19,,,,,,,850
-274,,kac_ras_free_float_12inch,"KAC RAS Free Float 12"" ",7,0.33,-14,-20,,,,,,,800
-275,,kac_ras_free_float_5inch,"KAC RAS Free Float 5"" ",11,0.21,-9,-16,,,,,,,500
+,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-15,-20,,0.04,,,,,1200
+273,,kac_mre_ras_free_float_12inch,"KAC MRE RAS Free Float 12"" ",7,0.31,-14,-20,,,,,,,950
+274,,kac_ras_free_float_12inch,"KAC RAS Free Float 12"" ",7,0.33,-14,-21,,,,,,,900
+275,,kac_ras_free_float_5inch,"KAC RAS Free Float 5"" ",11,0.21,-9,-16,,,,,,,750
 276,,lvoa_c_handguard,LVOA-C,11,0.3,-15,-22,,,,,,,900
 277,,lvoa_s_handguard,LVOA-S,9,0.34,-17,-24,,,,,,,950
 278,,monster_10i_type_a_handguard,"Monster 10"" type A",8,0.27,-12,-18,,,,,,,600
 279,,monster_15i_type_a_handguard,"Monster 15"" type A",6,0.34,-14,-21,,,,,,,800
-280,,veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",15,0.16,-6,-10,,,,,,,700
+280,,veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",14,0.13,-6,-9,,,,,,,700
 281,,mk10_rl_handguard,MK10RL,13,0.34,-16,-16,,,,,,,1000
 282,,magpul_moe_sl_carbine_handguard,Moe SL Carbine Length,14,0.21,-8,-11,,,,,,,500
 ,,magpul_moe_sl_mid_handguard,MOE SL Mid Length,12,0.25,-10,-13,,,,,,,550
@@ -403,18 +403,18 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 286,,stngr_hwk_15i,"Stngr Hkw 15""",8,0.34,-14,-19,,,,,,,900
 287,,colt_a2_std_rifle_plastic_handguard,Colt M16A2 Rifle Length Plastic,12,0.29,-15,-21,,0.08,,,,,500
 288,,geissele_smr_mk16_mlok_urg_i_10.5inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 10.5""",10,0.29,-16,-12,,,,,,,1050
-,,geissele_smr_mk4_federal_mlok_10inch,"Geissele Super Modular Rail Mk4 Federal MLOK 10""",10,0.31,-16,-13,,,,,,,1000
-289,,kac_urx_4_mlok_8.5inch_handguard,"KAC URX 4 MLOK 8.5""",13,0.24,-11,-12,,,,,,,1100
-290,,kac_urx_4_mlok_13inch_handguard,"KAC URX 4 MLOK 13""",9,0.32,-15,-16,,,,,,,1250
-291,,kac_urx_4_mlok_14.5inch_handguard,"KAC URX 4 MLOK 14.5""",8,0.35,-16,-17,,,,,,,1300
+,,geissele_smr_mk4_federal_mlok_10inch,"Geissele Super Modular Rail Mk4 Federal MLOK 10""",10,0.31,-16,-14,,,,,,,1100
+289,,kac_urx_4_mlok_8.5inch_handguard,"KAC URX 4 MLOK 8.5""",13,0.24,-11,-13,,,,,,,1100
+290,,kac_urx_4_mlok_13inch_handguard,"KAC URX 4 MLOK 13""",9,0.32,-15,-17,,,,,,,1250
+291,,kac_urx_4_mlok_14.5inch_handguard,"KAC URX 4 MLOK 14.5""",8,0.35,-16,-18,,,,,,,1300
 292,,colt_m4_std_carbine_plastic_handguard,Colt M4 Standard Carbine Length Plastic,14,0.2,-14,-14,,0.05,,,,,0
 ,,aeroknox_ax15_10.5inch_handguard,"Aeroknox AX15 10.5"" Handguard",14,0.24,-8,-14,,,,,,,800
 ,,radian_weapons_ar15_model_1_m1curgh_10inch_handguard,"Radian Weapons AR15 Model 1 M1CURGH 10"" Handguard",12,0.28,-13,-15,,,,,,,1500
-,,midwest_industries_supp_series_sp7m_mlok_handguard,"Midwest Industries Supp Series SP7M 7.25"" ",14,0.24,-9,-14,,,,,,,1300
-,,midwest_industries_supp_series_sp9m_mlok_handguard,"Midwest Industries Supp Series SP9M 9.25""",12,0.27,-10,-17,,,,,,,1350
-,,midwest_industries_supp_series_sp10m_mlok_handguard,"Midwest Industries Supp Series SP10M 10.5""",11,0.3,-11,-18,,,,,,,1400
-,,midwest_industries_supp_series_sp12m_mlok_handguard,"Midwest Industries Supp Series SP12M 12.625""",9,0.34,-13,-20,,,,,,,1450
-,,midwest_industries_supp_series_sp15m_mlok_handguard,"Midwest Industries Supp Series SP15M 15""",7,0.38,-15,-21,,,,,,,1500
+,,midwest_industries_supp_series_sp7m_mlok_handguard,"Midwest Industries Supp Series SP7M 7.25"" ",14,0.24,-9,-15,,,,,,,1300
+,,midwest_industries_supp_series_sp9m_mlok_handguard,"Midwest Industries Supp Series SP9M 9.25""",12,0.27,-10,-18,,,,,,,1350
+,,midwest_industries_supp_series_sp10m_mlok_handguard,"Midwest Industries Supp Series SP10M 10.5""",11,0.3,-11,-19,,,,,,,1400
+,,midwest_industries_supp_series_sp12m_mlok_handguard,"Midwest Industries Supp Series SP12M 12.625""",9,0.34,-13,-21,,,,,,,1450
+,,midwest_industries_supp_series_sp15m_mlok_handguard,"Midwest Industries Supp Series SP15M 15""",7,0.38,-15,-22,,,,,,,1500
 ,,midwest_industries_supp_series_sp18m_mlok_handguard,"Midwest Industries Supp Series SP18M 18""",5,0.42,-16,-23,,,,,,,1600
 ,modtac_mounting_coupler,,,,,,,,,,,,,
 ,,modtac_mrac_gen2_mounting_coupler,MODTAC M-RAC Gen2 Mounting Coupler,-2,0.04,,,,,,,,,300
@@ -799,9 +799,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 510,,9x18_makarov_pm/ppsh_drum_84r,STD 84R,-5,0.68,,,84,1,,,,,2000
 511,,9x18_makarov_8r,Izhevsk PM Std. 8R,0,0.1,,,8,,,,,,300
 ,magazine_9x19_edc_x9,,,,,,,,,,,,,
-512,,wilson_combat_edc_x9_18r_magazine,EDC X9 Std. 18r,21,0.19,,,18,,,,,,1000
-513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,20,0.15,,,15,,,,,,500
-514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,19,0.1,,,10,,,,,,300
+512,,wilson_combat_edc_x9_18r_magazine,EDC X9 Std. 18r,15,0.19,,,18,,,,,,1000
+513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,16,0.15,,,15,,,,,,500
+514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,17,0.1,,,10,,,,,,300
 ,magazine_9x19,,,,,,,,,,,,,
 515,,9x19_glock_stick_31r,Glock 9x19 31R Stick,-1,0.29,,,29,,,,,,1000
 516,,glock17_gen5_9x19_17r_magazine,Glock 9x19 17R,0,0.15,,,17,,,,,,500
@@ -1327,15 +1327,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,edc_x9_hammer,,,,,,,,,,,,,
 836,,wilson_combat_edc_x9_hammer,EDC X9 Std.,0,0.01,,,,,,,,,0
 ,edc_x9_barrel,,,,,,,,,,,,,
-837,,wilson_combat_edc_x9_102mm_9x19_barrel,Wilson Combat EDC X9 102mm 9x19,0,0.16,-5,-5,,0,0,-70,,,0
-838,,wilson_combat_edc_x9_127mm_threaded_9x19_barrel,Wilson Combat EDC X9 127mm Threaded 9x19,-1.5,0.18,-3,-2,,0.1,0,-40,,,750
+837,,wilson_combat_edc_x9_102mm_9x19_barrel,Wilson Combat EDC X9 102mm 9x19,0,0.16,-2,-2,,0,0,-70,,,0
+838,,wilson_combat_edc_x9_127mm_threaded_9x19_barrel,Wilson Combat EDC X9 127mm Threaded 9x19,-1.5,0.18,0,1,,0.1,0,-40,,,750
 ,edc_x9_bottomplate,,,,,,,,,,,,,
 839,,wilson_combat_edc_x9_mag_bottomplate,Wilson Combat EDC X9 Magazine,1,0.02,,,,,,,,,0
 ,edc_x9_grip,,,,,,,,,,,,,
 840,,wilson_combat_edc_x9_aggressive_starburst_g10_grip,Wilson Combat EDC X9 Aggressive Starburst G10,2,0.08,,,,,,,,,0
 ,edc_x9_backstrap,,,,,,,,,,,,,
 841,,wilson_combat_edc_x9_backstrap_small,Wilson Combat EDC X9 Small,1,0.03,,,,,,,,,0
-842,,wilson_combat_edc_x9_backstrap_large,Wilson Combat EDC X9 Large,3,0.05,,,,,,,,,200
+842,,wilson_combat_edc_x9_backstrap_large,Wilson Combat EDC X9 Large,3,0.07,,,,,,,,,200
 ,ammo_556x45,,,,,,,,,,,,,
 843,,5.56x45_federal_american_eagle_training_xm193blx_55gr_fmj,5.56x45 Federal American Eagle Training 55gr FMJ (XM193BLX),0,0.1,,,,0,,,,,0
 844,,5.56x45_cbcdefense_m196_55gr_red_tracer,5.56x45 CBC Defense M196 55gr Red Tracer,0,0.1,0,1,,0.05,,10,,,600
