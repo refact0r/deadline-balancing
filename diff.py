@@ -1,17 +1,17 @@
 import csv
 import sys
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
 
-def read_csv(file_path: str) -> Dict[str, Dict[str, str]]:
+def read_csv(file_path: str) -> Tuple[str, Dict[str, Dict[str, str]]]:
     data = {}
     with open(file_path, "r", newline="", encoding="utf-8-sig") as f:
-        f.readline()
+        version = f.readline().split(",")[0]
         reader = csv.DictReader(f)
         for row in reader:
             if row["name"]:
                 data[row["name"]] = row
-    return data
+    return version, data
 
 
 def format_header(header: str) -> str:
@@ -31,8 +31,8 @@ def compare_rows(
 
 
 def main(file1: str, file2: str):
-    data1 = read_csv(file1)
-    data2 = read_csv(file2)
+    _, data1 = read_csv(file1)
+    version, data2 = read_csv(file2)
 
     compare_cols = list(next(iter(data1.values())).keys())[4:]
 
@@ -43,13 +43,13 @@ def main(file1: str, file2: str):
             if row_changes:
                 pretty_name = row2.get("pretty_name") or row2["name"]
                 changes.append(
-                    f"### {pretty_name}\n\n" + "\n\n".join(row_changes) + "\n"
+                    f"## {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n"
                 )
 
     output_file = "differences.md"
     with open(output_file, "w", encoding="utf-8-sig") as f:
-        f.write(f"# Differences\n\n")
-        f.write(f"Number of rows changed: {len(changes)}\n\n")
+        f.write(f"# {version} Balancing Changes\n\n")
+        f.write(f"Attachments changed: {len(changes)}\n\n")
         f.write("\n".join(changes))
 
     print(f"Output written to {output_file}")
