@@ -46,7 +46,7 @@ def main(file1: str, file2: str):
                     f"### {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n"
                 )
 
-    output_file = "differences.md"
+    output_file = "changelogs/" + version.replace(".", "-") + "-changelog.md"
     with open(output_file, "w", encoding="utf-8-sig") as f:
         f.write(f"# {version} Balancing Changes\n\n")
         f.write(f"Attachments changed: {len(changes)}\n\n")
