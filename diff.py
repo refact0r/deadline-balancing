@@ -43,7 +43,7 @@ def main(file1: str, file2: str):
             if row_changes:
                 pretty_name = row2.get("pretty_name") or row2["name"]
                 changes.append(
-                    f"## {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n"
+                    f"### {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n"
                 )
 
     output_file = "differences.md"
