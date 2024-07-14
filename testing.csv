@@ -1,4 +1,4 @@
-﻿0.22.13,Fri Jul 12 20:27:21 2024,,,,,,,,,,,,,
+﻿0.22.13,Sun Jul 14 16:42:16 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1929,9 +1929,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1193,,surefire_socom556_rc2_suppressor,SureFire SOCOM556-RC2 Fast-Attach,-4,0.25,-13,-13,,-0.1,0.12,80,,,1500
 ,qdc_suppressors,,,,,,,,,,,,,
 ,,kac_qdc_crs_prt_5.56x45_suppressor,KAC QDC/CRS PRT 5.56 Suppressor,-5,0.28,-14,-14,,-0.15,0.12,90,,,2000
-,,kac_crs_prt_suppressor_cover,KAC CRS PRT Suppressor Cover,2,0.04,,,,,,,,,500
+,,kac_crs_prt_suppressor_cover,KAC CRS PRT Suppressor Cover,2,0.06,,,,,,,,,500
 ,,kac_qdc_mcq_prt_5.56x45_suppressor,KAC QDC/MRQ PRT 5.56 Suppressor,-2,0.2,-11,-11,,-0.1,0.08,60,,,1800
-,,kac_mcq_prt_suppressor_cover,KAC MRQ PRT Suppressor Cover,2,0.06,,,,,,,,,500
+,,kac_mcq_prt_suppressor_cover,KAC MRQ PRT Suppressor Cover,2,0.04,,,,,,,,,500
 ,swivel_mount,,,,,,,,,,,,,
 1194,,harris_hbr_base,Harris HBR Bipod Base,-1,0.03,,,,,,,,,500
 ,tailhook_brace,,,,,,,,,,,,,

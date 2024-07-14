@@ -35,5 +35,5 @@ steyr_aug_a1_tulip_5.56x45_closed_flash_hider,AUG A1 Tulip,-2,-6,-5,50,0.05,0.05
 steyr_aug_a3_5.56x45_closed_flash_hider,AUG A3 Closed,-2,-8,-3,120,0,0.06,0.05,500,15.55,,1,-8,-9,60,0,0.06,0.05,500,11.85
 steyr_aug_a3_5.56x45_original_closed_muzzle_brake,AUG A3 Original,-1,-5,-7,0,0,0.07,0,750,15.8,,0,-9,-10,0,0,0.07,0,750,11.8
 rat_worx_aug_5.56x45_supp_adapter,Rat Worx Adapter,-2,5,5,-50,0,0.05,0.1,1500,-0.35,,0,0,0,30,0.02,0.04,0.1,1500,-0.55
-kac_mcq_prt_suppressor_cover,,,,,,,,,,,,2,,,,,0.06,,500,
-kac_crs_prt_suppressor_cover,,,,,,,,,,,,2,,,,,0.04,,500,
+kac_mcq_prt_suppressor_cover,,,,,,,,,,,,2,,,,,0.04,,500,
+kac_crs_prt_suppressor_cover,,,,,,,,,,,,2,,,,,0.06,,500,
