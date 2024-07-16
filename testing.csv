@@ -6,7 +6,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 3,,primary_arms_slx_1.53inch_straight_spacer,,0,0.05,,,,,,,,,100
 4,,25mm_universal_mount,25mm Universal Tactical Mount,0,0.04,,,,,,,,,100
 5,,arms_no5_mount,A.R.M.S. #5 Multibase,-1,0.06,,,,,,,,,400
-6,,a3_angled_foregrip,A3 Angled,100,0.12,-4,-7,,,,,,,900
+6,,a3_angled_foregrip,A3 Angled,1,0.12,-4,-7,,,,,,,900
 7,,abom_cnc_works_picatinny_susat_adapter,Abom's CNC Works Picatinny SUSAT Adapter,0,0.07,0,0,,,,,,,300
 8,,ac32062_mount,AC32062,-1,0.03,,,,,,,,,200
 9,,aeroknox_ax15_front_sight_base,Aeroknox AX15 Front Sight Base,0,0.02,,,,,,,,,200
@@ -2159,7 +2159,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1339,,SCARL,FN SCAR Mk16,30,0.4,65,70,0,0.36,1.1,1650,,,100
 1340,,G3,H&K G3,44,0.5,70,100,0,0.66,0.75,1500,,,100
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,100
-1342,,AKMN,Izhmash AKMN,100,1.2,85,105,0,0.66,1,1500,,,100
+1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,100
 1343,,AK74N,Izhmash AK74N,20,1,70,85,0,0.4,1,1500,,,100
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,100
 ,shotgun,,,,,,,,,,,,,
