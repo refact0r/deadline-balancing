@@ -2159,7 +2159,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1339,,SCARL,FN SCAR Mk16,30,0.4,65,70,0,0.36,1.1,1650,,,100
 1340,,G3,H&K G3,44,0.5,70,100,0,0.66,0.75,1500,,,100
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,100
-1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,100
+1342,,AKMN,Izhmash AKMN,100,1.2,85,105,0,0.66,1,1500,,,100
 1343,,AK74N,Izhmash AK74N,20,1,70,85,0,0.4,1,1500,,,100
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,100
 ,shotgun,,,,,,,,,,,,,
