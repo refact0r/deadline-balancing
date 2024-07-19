@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 18 20:25:46 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 18 21:49:08 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -287,8 +287,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 214,,magpul_mlok_1.6_top,Magpul mlok 1.6,-0.5,0.02,,,,,,,,,100
 215,,magpul_mlok_1.6_side,Magpul mlok 1.6,-0.5,0.02,,,,,,,,,100
 ,,magpul_mvg,Magpul MVG,4,0.05,-4,-1,,,,,,,300
-,,okb_crazy_romanian_mlok_full_grip,OKB Crazy Romanian MLOK Full Grip,4,0.1,-4,-5,,,,,,,750
-,,okb_crazy_romanian_mlok_half_grip,OKB Crazy Romanian MLOK Half Grip,6,0.05,-2,-3,,,,,,,400
+,,okb_crazy_romanian_mlok_full_grip,OKB Crazy Romanian MLOK Full Grip,3,0.11,-3,-5,,,,,,,800
+,,okb_crazy_romanian_mlok_half_grip,OKB Crazy Romanian MLOK Half Grip,5,0.06,-2,-3,,,,,,,600
 ,,railscales_rsb_vg,RailScales RSB Vertical Grip,5,0.07,-3,-2,,,,,,,800
 ,,si_link_curved_mlok_fg,Strike Industries LINK Curved MLOK Foregrip,6,0.06,-2,-1,,,,,,,500
 ,pmag_m3_bottom_plate,,,,,,,,,,,,,
