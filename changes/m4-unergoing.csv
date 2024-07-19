@@ -8,14 +8,17 @@ armaspec_rhino_r23_tactical_magwell,Armaspec Rhino R-23 Tactical,5,0.17,,-2,,,,,
 ncstar_blastar_vkarmw_magwell,NcStar BlastAR VKARMW,4,0.13,-2,,,,,,,,500,3,,3,0.13,,-2,,,,,,,500,1.6
 radian_weapons_ax556_adac15_lower_receiver,Radian Weapons AX556 ADAC15 Lower Receiver,8,0.45,-2,-4,,,,,,,4000,3,,6,0.45,-2,-4,,,,,,,4000,1
 noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,5,0.35,-2,-1,,,,,,,2000,0.2,,5,0.35,-2,-1,,,,,,,2000,0.2
-sig_sauer_romeo_cowitness_qd_mount,Sig Sauer Romeo Cowitness QD Mount,1,0.07,,,,,,,,,400,-0.4,,0,0.05,,,,,,,,,400,-1
+sig_sauer_romeo_cowitness_qd_mount,Sig Sauer Romeo Cowitness QD Mount,1,0.07,,,,,,,,,400,-0.4,,-0.5,0.05,,,,,,,,,400,-1
 romeo4t_folded_lens_caps,Romeo4T Folded Lens,4,0.05,,,,,,,,,0,3,,3,0.05,,,,,,,,,0,2
+scalarworks_leap01_swo100_1.42_mount,Scalarworks Leap01 SWO 100 1.42 Mount,-1,0.04,,,,,,,,,500,,,-1,0.04,,,,,,,,,500,
+scalarworks_leap01_swo110_1.57_mount,Scalarworks Leap01 SWO 110 1.57 Mount,-2,0.05,,,,,,,,,600,,,-1,0.05,,,,,,,,,600,
+scalarworks_leap01_swo120_1.93_mount,Scalarworks Leap01 SWO 120 1.93 Mount,-3,0.06,,,,,,,,,750,,,-1,0.06,,,,,,,,,750,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 battle_arms_rack_charging_handle,Battle arms rack,4,0.05,,,,,,,,,600,3,,4.5,0.07,,,,,,,,,600,3.1
 bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,3,0.04,,,,,,,,,600,2.2,,3,0.03,,,,,,,,,600,2.4
 diemaco_c7_ambi_charging_handle,Diemaco C7 Ambi,4,0.05,,,,,,,,,400,3,,3,0.04,,,,,,,,,400,2.2
-hera_arms_straight_pull_charging_handle,Hera Arms straight-pull,6,0.07,,,,,,,,,1000,4.6,,5,0.11,,,,,,,,,1000,2.8
-radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,6,0.1,-1,,,-0.05,,,,,750,5.05,,5,0.08,,,,,,,,,750,3.4
+hera_arms_straight_pull_charging_handle,Hera Arms straight-pull,6,0.07,,,,,,,,,1000,4.6,,5,0.11,,,,,,,,,750,2.8
+radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,6,0.1,-1,,,-0.05,,,,,1000,5.05,,5,0.08,,,,,,,,,750,3.4
 tc_enforcer_small_charging_handle,Timber Creek enforcer small,3,0.04,,,,,,,,,300,2.2,,2.5,0.02,,,,,,,,,300,2.1
 tc_enforcer_charging_handle,Timber Creek Enforcer,5,0.06,,,,,,,,,300,3.8,,3.5,0.05,,,,,,,,,300,2.5
 armaspec_victory_charging_handle,Armaspec Victory,3,0.04,,,,,,,,,500,2.2,,4,0.06,,,,,,,,,500,2.8
