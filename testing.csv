@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 18 20:12:33 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 18 20:25:46 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -460,7 +460,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,3,0.03,,,,,,,,,600
 308,,diemaco_c7_ambi_charging_handle,Diemaco C7 Ambi,3,0.04,,,,,,,,,400
 309,,hera_arms_straight_pull_charging_handle,Hera Arms straight-pull,5,0.11,,,,,,,,,1000
-310,,radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,5,0.08,-1,,,-0.05,,,,,750
+310,,radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,5,0.08,,,,,,,,,750
 311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,2.5,0.02,,,,,,,,,300
 312,,tc_enforcer_charging_handle,Timber Creek Enforcer,3.5,0.05,,,,,,,,,300
 313,,armaspec_victory_charging_handle,Armaspec Victory,4,0.06,,,,,,,,,500
@@ -524,7 +524,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 342,,colt_m4a1_std_lower_receiver,Colt M4A1,0,0.3,,,,,,,,,0
 ,,fightlite_scr_rifle_lower_receiver,Fightlite SCR Rifle Lower Receiver,14,0.23,-14,10,,,,,,,3000
 ,,radian_weapons_ax556_adac15_lower_receiver,Radian Weapons AX556 ADAC15 Lower Receiver,6,0.45,-2,-4,,,,,,,4000
-,,noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,4,0.35,-2,-1,,,,,,,2000
+,,noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,5,0.35,-2,-1,,,,,,,2000
 ,m4a1_mag_release,,,,,,,,,,,,,
 343,,m4a1_std_mag_release,Colt M4A1,0,0.01,,,,,,,,,0
 ,,radian_weapons_adac15_mag_release,Radian Weapons ADAC15 Mag Rlease,1,0.02,,,,,,,,,200
