@@ -1,4 +1,4 @@
-﻿0.22.13,Mon Jul 22 00:53:03 2024,,,,,,,,,,,,,
+﻿0.22.13,Mon Jul 22 20:55:45 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -11,7 +11,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 8,,ac32062_mount,AC32062,-1,0.03,,,,,,,,,200
 9,,aeroknox_ax15_front_sight_base,Aeroknox AX15 Front Sight Base,0,0.02,,,,,,,,,200
 10,,aeroknox_ax15_rear_sight_base,Aeroknox AX15 Rear Sight Base,0,0.02,,,,,,,,,200
-11,,aim_sports_low_profile_45_degree_sight_base,AIM Sports Low Profile 45 Degree Sight Base,2,0.01,,,,,,,,,100
+11,,aim_sports_low_profile_45_degree_sight_base,AIM Sports Low Profile 45 Degree Sight Base,0,0.02,,,,,,,,,100
 12,,aimpoint_30mm_low_ring,Aimpoint 30mm Low Ring,-0.5,0.02,,,,,,,,,200
 13,,aimpoint_amm_dovetail_11mm_mount,Aimpoint AMM Dovetail Groove 11mm Mount,0,0.03,,,,,,,,,200
 14,,aimpoint_electronic_g2_red_dot,Aimpoint Electronic G2,-2,0.09,,,,,,,,,500
@@ -22,8 +22,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 19,,burris_ar_prb_mount,Burris AR PRB Mount,-0.5,0.03,,,,,,,,,400
 20,,burris_ar_pepr_30mm_mount,Burris AR-P.E.P.R.™,-2,0.14,,,,,,,,,800
 21,,cobra_ekp_8_18,Cobra EKP 8 18,-3,0.14,,,,,,,,,800
-22,,colt_ca2r,Colt CA2R,0.5,0.09,,,,,,,,,400
-23,,colt_m4a1_carry_handle,Colt M4A1 Carry Handle,7,0.14,,,,,,,,,0
+22,,colt_ca2r,Colt CA2R,3,0.09,,,,,,,,,400
+23,,colt_m4a1_carry_handle,Colt M4A1 Carry Handle,4,0.14,,,,,,,,,0
 24,,hera_arms_cqr_gen1_foregrip,CQR FG,-2,0.23,-6,-8,,,,,,,1000
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-4,0.3,-1,-4,,,,,,,3000
 26,,elcan_specter_os4x_sfov4,ELCAN Specter OS4X Fixed-Magn. SFOV4,-3,0.21,,-2,,,,,,,3000
@@ -48,10 +48,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 45,,kac_5rib_railpanel,KAC 5 Rib,0.75,0.03,,,,,,,,,300
 46,,kac_6rib_railpanel,KAC 6 Rib,1,0.04,,,,,,,,,400
 47,,kac_9rib_railpanel,KAC 9 Rib,1.25,0.05,,,,,,,,,500
-48,,kac_front_sight_base,KAC Front Base,2,0.01,,,,,,,,,100
-49,,kac_micro_front_sight_base,KAC Micro Front Base,2,0.01,,,,,,,,,100
-50,,kac_micro_rear_sight_base,KAC Micro Rear Base,2,0.01,,,,,,,,,100
-51,,kac_rear_sight_base,KAC Rear Base,2,0.01,,,,,,,,,100
+48,,kac_front_sight_base,KAC Front Base,0,0.02,,,,,,,,,100
+49,,kac_micro_front_sight_base,KAC Micro Front Base,0,0.01,,,,,,,,,100
+50,,kac_micro_rear_sight_base,KAC Micro Rear Base,0,0.01,,,,,,,,,100
+51,,kac_rear_sight_base,KAC Rear Base,0,0.02,,,,,,,,,100
 52,,kac_vpg,KAC VPG,2,0.09,-6,-3,,,,,,,700
 53,,khf_34mm_iea,KHF I-E-A 34mm,-1,0.08,,,,,,,,,500
 54,,l3harris_atpial_an_peq_15,L3Harris ATPIAL AN/PEQ-15,-1,0.06,,,,,,,,,1200
@@ -71,7 +71,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 66,,magpul_xtm_enhanced_panel_1,Magpul XTM Enhanced Modular Panel Piece,0.5,0.015,-0.5,0,,,,,,,50
 67,,magpul_xtm_enhanced_short_handstop_1,Magpul XTM Enhanced Short Handstop Piece,0.5,0.02,0,0,,,,,,,50
 68,,xtm_full_handstop,Magpul XTM Full Handstop,4,0.14,-1.5,-3,,,,,,,500
-69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.03,,,,,,,,,200
+69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.04,,,,,,,,,200
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
 71,,mission_first_folding_grip,Mission First Tactical Folding Grip,3,0.1,-5,-3,,,,,,,400
 72,,monstrum_prism_2x32_scope,Monstrum Tactical Compact Prism Scope 2x32,-2,0.16,,-1,,,,,,,1000
@@ -117,7 +117,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 111,,trijicon_rx14_mount,Trijicon RX14,-1,0.04,,,,,,,,,200
 112,,trijicon_srs02,Trijicon SRS-02,-2,0.13,,,,,,,,,900
 113,,trijicon_ta51_flattop_mount,Trijicon TA51 Thumbscrew Flattop ,-0.5,0.03,,,,,,,,,400
-114,,tristar_compact_carry_handle,Tristar Compact Carry Handle,10,0.3,,,,,,,,,1200
+114,,tristar_compact_carry_handle,Tristar Compact Carry Handle,7,0.3,,,,,,,,,1200
 115,,true_view_rap4_offset_picatinny_mount,True View Rap4 Offset Picatinny Mount,-2,0.08,,,,,,,,,500
 116,,true_view_rap4_offset_picatinny_mount_flipped,True View Rap4 Offset Picatinny Mount,-2,0.08,,,,,,,,,500
 117,,um_3_wilson,UM3,-1,0.06,,,,,,,,,300
@@ -144,8 +144,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,1,0.06,-5,-3,,,,,,,0
 ,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-2,0.06,-7,-5,,,,,,,0
 ,,strike_industries_cobra_tactical_foregrip,Strike Industries Cobra Tactical Foregrip,5,0.06,-4,0,,,,,,,500
-,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,6,0.03,,,,,,,,,750
-,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,6,0.03,,,,,,,,,750
+,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,0,0.03,,,,,,,,,750
+,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,0,0.03,,,,,,,,,750
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-16,-7,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-6,-24,,,,,,,1000
@@ -206,7 +206,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 155,,elcan_alt_view,Elcan alt view,0,0,,,,,,,,,0
 ,kac_front_sight,,,,,,,,,,,,,
 156,,kac_front_sight_folded,KAC Front Sight Folded,2,0.01,,,,,,,,,100
-157,,kac_front_sight,KAC Front Sight,3,0.02,,,,,,,,,100
+157,,kac_front_sight,KAC Front Sight,3,0.01,,,,,,,,,100
 ,kac_micro_front_sight,,,,,,,,,,,,,
 158,,kac_micro_front_sight,KAC Micro Front Sight,3,0.01,,,,,,,,,100
 159,,kac_micro_front_sight_folded,KAC Micro Front Sight Folded,2,0.01,,,,,,,,,100
@@ -215,20 +215,20 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 161,,kac_micro_rear_sight,KAC Micro Rear Sight,3,0.01,,,,,,,,,100
 ,kac_rear_sight,,,,,,,,,,,,,
 162,,kac_rear_sight_folded,KAC Rear Sight Folded,2,0.01,,,,,,,,,100
-163,,kac_rear_sight,KAC Rear Sight,3,0.02,,,,,,,,,100
+163,,kac_rear_sight,KAC Rear Sight,3,0.01,,,,,,,,,100
 ,magpul_mbus_top_sight,,,,,,,,,,,,,
 164,,magpul_mbus_gen2_rear_top_folded,Magpul MBUS Gen2 RS Folded,2,0.01,,,,,,,,,100
 165,,magpul_mbus_gen2_rear_top,Magpul MBUS Gen2 RS,3,0.01,,,,,,,,,100
 166,,magpul_mbus_gen2_front_top,Magpul MBUS Gen2 FS,3,0.01,,,,,,,,,100
 167,,magpul_mbus_gen2_front_top_folded,Magpul MBUS Gen2 FS Folded,2,0.01,,,,,,,,,100
 ,aeroknox_iron_sight,,,,,,,,,,,,,
-,,aeroknox_ax15_front_sight,Aeroknox AX15 Front Sight,2,0.01,,,,,,,,,0
+,,aeroknox_ax15_front_sight,Aeroknox AX15 Front Sight,3,0.01,,,,,,,,,0
 ,,aeroknox_ax15_front_sight_folded,Aeroknox AX15 Front Sight Folded,2,0.01,,,,,,,,,0
-,,aeroknox_ax15_rear_sight,Aeroknox AX15 Rear Sight ,2,0.01,,,,,,,,,0
+,,aeroknox_ax15_rear_sight,Aeroknox AX15 Rear Sight ,3,0.01,,,,,,,,,0
 ,,aeroknox_ax15_rear_sight_folded,Aeroknox AX15 Rear Sight Folded,2,0.01,,,,,,,,,0
 ,matech_rear_aperture,,,,,,,,,,,,,
-168,,matech_usgi_rear_buis_aperture_folded,MaTech USGI Rear BUIS Folded,2,0.02,,,,,,,,,100
-169,,matech_usgi_rear_buis_aperture,MaTech USGI Rear BUIS,6,0.02,,,,,,,,,100
+168,,matech_usgi_rear_buis_aperture_folded,MaTech USGI Rear BUIS Folded,2,0.01,,,,,,,,,100
+169,,matech_usgi_rear_buis_aperture,MaTech USGI Rear BUIS,3,0.01,,,,,,,,,100
 ,theoretical_barrel,,,,,,,,,,,,,
 170,,theoretical_barrel,Technically a barrel,,,,,,,,,,,0
 ,thumbscrew_flattop_mount,,,,,,,,,,,,,
@@ -245,13 +245,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-7,0.31,,-10,,,,,,,900
 ,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-3,0.15,,,,,,,,,300
 ,magpul_mbus_frontsight_post,,,,,,,,,,,,,
-181,,magpul_mbus_gen2_frontsight_post,Magpul MBUS Gen2 Sight,1,0.01,,,,,,,,,50
+181,,magpul_mbus_gen2_frontsight_post,Magpul MBUS Gen2 Sight,0,0.01,,,,,,,,,50
 ,magpul_mbus_rearsight_post,,,,,,,,,,,,,
-182,,magpul_rearsight_post200m,Magpul MBUS Gen2 200m,1,0.01,,,,,,,,,50
-183,,magpul_rearsight_post600m,Magpul MBUS Gen2 600m,5,0.01,,,,,,,,,0
+182,,magpul_rearsight_post200m,Magpul MBUS Gen2 200m,0,0.01,,,,,,,,,50
+183,,magpul_rearsight_post600m,Magpul MBUS Gen2 600m,0,0.01,,,,,,,,,0
 ,scalarworks_apertures,,,,,,,,,,,,,
-,,scalarworks_peak01_front_post,Scalarworks Peak01 Front Aperture,,0.01,,,,,,,,,
-,,scalarworks_peak01_rear_aperture,Scalarworks Peak01 Rear Aperture,,0.01,,,,,,,,,
+,,scalarworks_peak01_front_post,Scalarworks Peak01 Front Aperture,3,0.01,,,,,,,,,0
+,,scalarworks_peak01_rear_aperture,Scalarworks Peak01 Rear Aperture,3,0.01,,,,,,,,,0
 ,stanag_30r_bottom_plate,,,,,,,,,,,,,
 184,,stanag_30r_plate,STANAG 30R Mag Bottom Plate,1,0.015,,,,,,,,,0
 ,mlok,,,,,,,,,,,,,
@@ -317,10 +317,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-2.5,0.12,,,,,,,,,1000
 229,,eotech_eflx_mini_red_dot,Eotech EFLX Mini Red Dot,-2,0.11,,,,,,,,,1100
 ,aim_sport_low_profile_sight,,,,,,,,,,,,,
-230,,aim_sports_front_sight,AIM Sports Low Profile 45 Degree Front Sight,3,0.02,,,,,,,,,100
-231,,aim_sports_rear_sight_folded,AIM Sports Low Profile 45 Degree Folded Rear Sight,3,0.02,,,,,,,,,100
-232,,aim_sports_front_sight_folded,AIM Sports Low Profile 45 Degree Folded Folded Front Sight,3,0.02,,,,,,,,,100
-233,,aim_sports_rear_sight,AIM Sports Low Profile 45 Degree Rear Sight,3,0.02,,,,,,,,,100
+230,,aim_sports_front_sight,AIM Sports Low Profile 45 Degree Front Sight,2,0.02,,,,,,,,,100
+231,,aim_sports_rear_sight_folded,AIM Sports Low Profile 45 Degree Folded Rear Sight,1,0.02,,,,,,,,,100
+232,,aim_sports_front_sight_folded,AIM Sports Low Profile 45 Degree Folded Folded Front Sight,1,0.02,,,,,,,,,100
+233,,aim_sports_rear_sight,AIM Sports Low Profile 45 Degree Rear Sight,2,0.02,,,,,,,,,100
 ,aimpoint_t_series,,,,,,,,,,,,,
 234,,sig_sauer_romeo4_sight,Sig Sauer Romeo4,-2,0.08,,,,,,,,,800
 235,,sig_sauer_romeo4t_sight,Sig Sauer Romeo4T,-2,0.07,,,,,,,,,1200
@@ -368,7 +368,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 252,,jp_enterprises_5b_gasblock,JP Enterprises 5B,-0.5,0.13,-1,-2,,,,,,,750
 253,,danieldefense_mk12_low_profile_gasblock,Daniel Defense MK12 Low Profile,0,0.06,-1,-1,,,,,,,1200
 254,,windham_weaponry_railed_ar15_gasblock,Windham Weaponry Rail Gas Block,-0.5,0.09,0,-1,,,,,,,1000
-255,,colt_m4fs_gasblock,Colt M4 Standard,2,0.11,0,0,,,,,,,0
+255,,colt_m4fs_gasblock,Colt M4 Standard,3,0.11,0,0,,,,,,,0
 ,m4a1_handguard,,,,,,,,,,,,,
 256,,2a_armament_builder_series_gen1_10inch_handguard,"2A Armament Builder Series Gen 1 10""",13,0.25,-8,-7,,,,,,,750
 257,,2a_armament_builder_series_gen1_12inch_handguard,"2A Armament Builder Series Gen 1 12""",11,0.28,-10,-8,,,,,,,800
@@ -587,8 +587,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 380,,cmmg_mk9_406mm_9x19_m_barrel,"CmmG Mk9 16"" 9x19 Mid Length",-9,0.48,-4,-5,,0.1,0,200,,,1200
 381,,cmmg_mk9_127mm_9x19_barrel,"CmmG Mk9 5"" 9x19",4,0.15,5,4,,0.25,-0.2,-225,,,800
 ,fn_rear_sight,,,,,,,,,,,,,
-382,,fn_scar_rear_sight,FN SCAR Standard,2,0.01,,,,,,,,,100
-383,,fn_scar_rear_sight_folded,FN SCAR Standard Folded,0,0.01,,,,,,,,,100
+382,,fn_scar_rear_sight,FN SCAR Standard,3,0.01,,,,,,,,,100
+383,,fn_scar_rear_sight_folded,FN SCAR Standard Folded,2,0.01,,,,,,,,,100
 ,fn_scar_rear_sight_apertures,,,,,,,,,,,,,
 384,,fn_scar_rear_sight_600m_aperture,FN Scar 600m Aperture,0,0.005,,,,,,,,,50
 385,,fn_scar_rear_sight_200m_aperture,FN Scar 200m Aperture,0,0.005,,,,,,,,,50
@@ -1841,8 +1841,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,amrs_picatinny,,,,,,,,,,,,,
 1148,,picatinny_section,Air for mounting picatinny attachments,0,0,,,,,,,,,0
 ,colt_sight,,,,,,,,,,,,,
-1149,,colt_rear_ironsight_200m,Colt 200m,1,0.01,,,,,,,,,0
-1150,,colt_rear_ironsight_600m,Colt 600m,7,0.01,,,,,,,,,0
+1149,,colt_rear_ironsight_200m,Colt 200m,0,0.01,,,,,,,,,0
+1150,,colt_rear_ironsight_600m,Colt 600m,0,0.01,,,,,,,,,0
 ,ddw,,,,,,,,,,,,,
 1151,,ddw_qd,Daniel Defence Wave QD,-6,0.25,-15,-13,,-0.1,0.16,90,,,1200
 ,doublestar_ace_recoil_pad,,,,,,,,,,,,,
