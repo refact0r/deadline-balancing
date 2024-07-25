@@ -57,7 +57,7 @@ m4a1_556_bolt,Colt M4 Standard,,,,,,,,,,,0,0,,0,0.1,0,0,,,,,,,0,-2
 fightlite_scr_rifle_bcg,Fightlite SCR Rifle Bolt Carrier Group,4,0.1,2,2,,,,,,,750,-0.8,,3,0.07,2,5,,,,,,,750,-3
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
 colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.4,0,0,,,,,,,750,-8,,0,0.3,0,0,,,,,,,750,-6
-aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,-3,0.3,,1,,,,,,,1000,-9.6,,-1,0.2,0,1,,,,,,,1000,-5.6
+aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,-3,0.3,,1,,,,,,,1000,-9.6,,0,0.2,0,1,,,,,,,1000,-4.6
 colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,7,0.5,-1,,,,,,,,750,-2.2,,6,0.4,0,0,,,,,,,750,-2
 lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.35,1,1,,,,,,,3000,-6.4,,2,0.25,1,0,,,,,,,3000,-3.8
 lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,4,0.55,1,-1,,-0.2,,,,,4000,-6.2,,5,0.4,1,1,,-0.1,,,,,4000,-3.9

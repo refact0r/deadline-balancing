@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 25 12:19:38 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 25 13:17:34 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -503,7 +503,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,strike_industries_polyflex_ar15_trigger_guard,Strike Industries Polyflex AR15 Trigger Guard,3,0.08,,,,,,,,,400
 ,m4a1_upper_receiver,,,,,,,,,,,,,
 338,,colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.3,0,0,,,,,,,750
-,,aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,-1,0.2,0,1,,,,,,,1000
+,,aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,0,0.2,0,1,,,,,,,1000
 ,,colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,6,0.4,0,0,,,,,,,750
 ,,lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.25,1,0,,,,,,,3000
 ,,lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,5,0.4,1,1,,-0.1,,,,,4000
