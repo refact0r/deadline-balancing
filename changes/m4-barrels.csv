@@ -1,15 +1,15 @@
 ﻿,,old,,,,,,,,,,,,,new,,,,,,,,,,,
 name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
-brwnls_a1_m4a1_5.56x45_508mm_govt_r_barrel,"Brownells A1 Government 20"" Rifle Length Gastube 5.56x45",-10,0.58,-13,-12,,-0.2,0.3,367,,,1600,-7.165,,-7,0.58,-13,-12,,-0.2,0.3,367,,,1600,-4.165
+brwnls_a1_m4a1_5.56x45_508mm_govt_r_barrel,"Brownells A1 Government 20"" Rifle Length Gastube 5.56x45",-10,0.58,-13,-12,,-0.2,0.3,367,,,1600,-7.165,,-5,0.58,-12,-10,,-0.2,0.3,367,,,1600,-4.165
 brwnls_m4a1_5.56x45_406mm_govt_m_barrel,"Brownells Government 16"" Mid Length Gastube 5.56x45",-5,0.5,-8,-9,,0,0.12,178,,,1200,-4.71,,-2,0.5,-8,-9,,0,0.12,178,,,1200,-1.71
-brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-12.5,0.65,-14,-15,,-0.22,0.3,379,,,1700,-8.305,,-9,0.65,-14,-15,,-0.22,0.3,379,,,1700,-4.805
-brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-4.5,0.47,-6.5,-7,,-0.05,0.1,49,,,1400,-6.005,,-1.5,0.47,-6.5,-7,,-0.05,0.1,49,,,1400,-3.005
-cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-20,0.8,-16,-17,,-0.3,0.45,550,,,5000,-17.75,,-12,0.8,-16,-17,,-0.3,0.45,550,,,5000,-9.75
+brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-12.5,0.65,-14,-15,,-0.22,0.3,379,,,1700,-8.305,,-7,0.65,-13,-14,,-0.22,0.3,379,,,1700,-4.205
+brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-4.5,0.47,-6.5,-7,,-0.05,0.1,49,,,1400,-6.005,,-1,0.46,-7,-7,,-0.05,0.1,49,,,1400,-1.905
+cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-20,0.8,-16,-17,,-0.3,0.45,550,,,5000,-17.75,,-14,0.72,-16,-17,,-0.3,0.45,550,,,5000,-10.15
 colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",-1,0.3,-1,-1,,0.25,-0.15,-239,,,750,-5.045,,2,0.3,-1,-1,,0.25,-0.14,-239,,,750,-2.245
 colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",-2.5,0.35,-2,-2,,0.2,-0.1,-117,,,800,-6.285,,1,0.35,-2,-2,,0.2,-0.08,-117,,,800,-3.185
 colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",-3,0.42,-4,-4,,0.08,0,-22,,,900,-6.31,,0,0.42,-4,-4,,0.08,0.02,-22,,,900,-3.71
 colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",0,0.23,0,0,,0.5,-0.2,-633,,,750,-6.265,,3,0.23,0,0,,0.5,-0.2,-633,,,750,-3.265
 colt_m4a1_5.56x45_368mm_socom_c_barrel,"Colt Socom 14.5"" Carbine Length Gastube 5.56x45",-3,0.46,-6,-6,,0.05,0.05,33,,,2500,-4.885,,0,0.46,-6,-6,,0.05,0.06,33,,,2500,-2.085
 custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,3,0.16,5,5,,1,-0.4,-700,,0.125,1100,-7.7,,6,0.16,5,5,,1,-0.4,-700,,0.125,1100,-4.7
-veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,2,0.25,0,0,,0.6,-0.3,-685,,0.063,1200,-3.425,,5,0.25,0,0,,0.6,-0.3,-685,,0.063,1200,-0.425
-x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-7,0.52,-9,-10,,-0.1,0.2,267,,,3000,-6.365,,-4,0.52,-9,-10,,-0.1,0.2,267,,,3000,-3.365
+veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,2,0.25,0,0,,0.6,-0.3,-685,,0.063,1200,-3.425,,5,0.25,1,2,,0.6,-0.26,-685,,0.063,1200,-3.225
+x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-7,0.52,-9,-10,,-0.1,0.2,267,,,3000,-6.365,,-4,0.52,-10,-10,,-0.1,0.2,267,,,3000,-2.565
