@@ -1,4 +1,4 @@
-﻿0.22.13,Wed Jul 24 17:34:28 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 25 12:19:38 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -503,11 +503,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,strike_industries_polyflex_ar15_trigger_guard,Strike Industries Polyflex AR15 Trigger Guard,3,0.08,,,,,,,,,400
 ,m4a1_upper_receiver,,,,,,,,,,,,,
 338,,colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.3,0,0,,,,,,,750
-,,aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,-2,0.2,0,1,,,,,,,1000
+,,aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,-1,0.2,0,1,,,,,,,1000
 ,,colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,6,0.4,0,0,,,,,,,750
-,,lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,1,0.25,0,0,,,,,,,3000
+,,lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.25,1,0,,,,,,,3000
 ,,lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,5,0.4,1,1,,-0.1,,,,,4000
-,,noveske_gen3_ar15_upper_receiver,Noveske GEN3 AR15 Upper Receiver,1,0.35,-2,0,,-0.05,,,,,2000
+,,noveske_gen3_ar15_upper_receiver,Noveske GEN3 AR15 Upper Receiver,1,0.34,-2,0,,-0.05,,,,,2000
 ,,noveske_marked_vltor_mur1s_ar15_upper_receiver,Noveske Marked VLTOR MUR1S AR15 Upper Receiver,2,0.37,-1,-1,,,,,,,2000
 ,,vltor_mur1s_ar15_upper_receiver,VLTOR MUR1S AR15 Upper Receiver,1,0.36,-1,-2,,,,,,,3000
 ,,radian_weapons_ar15_model_1_m1curgh_upper_receiver,Radian Weapons AR15 Model 1 M1CURGH Upper Receiver,4,0.5,-2,-2,,-0.05,,,,,3000
@@ -534,8 +534,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hrf_concepts_rcm_ar15_milspec_magwell,HRF Concepts RCM AR15 Milspec Magwell,2,0.1,,,,,,,,,250
 ,m4a1_bolt,,,,,,,,,,,,,
 346,,m4a1_556_bolt,Colt M4 Standard,0,0.1,0,0,,,,,,,0
-,,fightlite_scr_rifle_bcg,Fightlite SCR Rifle Bolt Carrier Group,3,0.07,2,4,,,,,,,750
-,,ews_bufferless_system_ar15_bcg,EWS Bufferless System AR15 Bolt Carrier Group,4,0.08,4,3,,,,,,,500
+,,fightlite_scr_rifle_bcg,Fightlite SCR Rifle Bolt Carrier Group,3,0.07,2,5,,,,,,,750
+,,ews_bufferless_system_ar15_bcg,EWS Bufferless System AR15 Bolt Carrier Group,4,0.08,4,4,,,,,,,500
 ,,radian_weapons_ar15_enhanced_bcg,Radian Weapons AR15 Enhanced Bolt Carrier Group,2,0.16,0,0,,,,,,,1000
 ,m4a1_5.56x45_barrel,,,,,,,,,,,,,
 347,,brwnls_a1_m4a1_5.56x45_508mm_govt_r_barrel,"Brownells A1 Government 20"" Rifle Length Gastube 5.56x45",-10,0.58,-13,-12,,-0.2,0.3,367,,,1600
@@ -1338,10 +1338,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 842,,wilson_combat_edc_x9_backstrap_large,Wilson Combat EDC X9 Large,3,0.07,,,,,,,,,200
 ,ammo_556x45,,,,,,,,,,,,,
 843,,5.56x45_federal_american_eagle_training_xm193blx_55gr_fmj,5.56x45 Federal American Eagle Training 55gr FMJ (XM193BLX),0,0.1,0,0,,0,0.04,200,,,0
-844,,5.56x45_cbcdefense_m196_55gr_red_tracer,5.56x45 CBC Defense M196 55gr Red Tracer,0,0.09,-1,-1,,0.1,0,250,,,600
-845,,5.56x45_winchester_m855_62gr_fmj_greentip_vm855,5.56x45 Winchester M855 62gr FMJ Green Tip (VM855),-2,0.15,2,2,,-0.05,0,100,,,1000
-846,,5.56x45_cbcdefense_sat_ip_62gr_clf_aep_97,5.56x45 CBC Defense SAT IP 62gr CLF (AEP-97),-1,0.13,0,1,,-0.2,0.08,0,,,2000
-847,,5.56x45_novx_copper_pentagon_55gr_mchp_556n55cp,5.56x45 NOVX Copper Pentagon 55gr MCHP (556N55CP),0,0.07,3,3,,0.3,0,300,,,1200
+844,,5.56x45_cbcdefense_m196_55gr_red_tracer,5.56x45 CBC Defense M196 55gr Red Tracer,0,0.09,-1,-1,,0.1,0,225,,,600
+845,,5.56x45_winchester_m855_62gr_fmj_greentip_vm855,5.56x45 Winchester M855 62gr FMJ Green Tip (VM855),-2,0.15,2,2,,-0.05,0,150,,,1000
+846,,5.56x45_cbcdefense_sat_ip_62gr_clf_aep_97,5.56x45 CBC Defense SAT IP 62gr CLF (AEP-97),-1,0.13,0,1,,-0.2,0.08,100,,,2000
+847,,5.56x45_novx_copper_pentagon_55gr_mchp_556n55cp,5.56x45 NOVX Copper Pentagon 55gr MCHP (556N55CP),0,0.07,3,3,,0.3,0,250,,,1200
 ,ammo_762x51,,,,,,,,,,,,,
 848,,7.62x51_fedarm_m80_ball_147gr_fmj_lc_cr_762_fmj,7.62x51 FedArm M80 Ball Range Grade 147gr FMJ LC (CR-762-FMJ),-10,0.2,,,,,,50,,,0
 849,,7.62x51_federal_american_eagle_xm119cs_175gr_ot,7.62x51 Federal American Eagle XM119CS Match Grade 175gr OT,-13,0.26,7,5,,-0.2,,250,,,2000
