@@ -1,7 +1,7 @@
 ﻿,,old,,,,,,,,,old damage,,,,,new,,,,,,,,,new damage,,,,,irl stats,
 name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,bullet_deviationold,bullet_damageold,bullet_velocityold,fire_rateold,priceold,0st,100st,200st,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,bullet_deviation,bullet_damage,bullet_velocity,fire_rate,price,0st,100st,200st,strength,,mv,energy
 5.56x45_federal_american_eagle_training_xm193blx_55gr_fmj,5.56x45 Federal American Eagle Training 55gr FMJ (XM193BLX),0,0.1,,,0,,,,0,52,48,42,-2,,0,0.1,0,0,0,0.04,200,,0,54.1,49.9,43.7,-1,,3165,1658.165
-5.56x45_cbcdefense_m196_55gr_red_tracer,5.56x45 CBC Defense M196 55gr Red Tracer,0,0.1,0,1,0.05,,10,,600,52,48,42,-2.8,,0,0.09,-1,-1,0.1,0,250,,600,52.0,48.0,42.0,0.35,,3200,1512
-5.56x45_winchester_m855_62gr_fmj_greentip_vm855,5.56x45 Winchester M855 62gr FMJ Green Tip (VM855),-1,0.13,1,2,-0.1,,50,,1000,58,55,51,-4.85,,-2,0.15,2,2,-0.05,0,100,,1000,58.0,55.0,51.0,-7.05,,3060,1748
-5.56x45_cbcdefense_sat_ip_62gr_clf_aep_97,5.56x45 CBC Defense SAT IP 62gr CLF (AEP-97),-3,0.17,2,3,-0.4,,300,,2000,52,48,42,-6.3,,-1,0.13,0,1,-0.2,0.08,0,,2000,56.2,51.8,45.4,-3.2,,2953,1620
-5.56x45_novx_copper_pentagon_55gr_mchp_556n55cp,5.56x45 NOVX Copper Pentagon 55gr MCHP (556N55CP),0,0.07,5,4,0.3,,-100,,1200,62,50,38,-9.8,,0,0.07,3,3,0.3,0,300,,1200,62.0,50.0,38.0,-5.6,,3340,1844
+5.56x45_cbcdefense_m196_55gr_red_tracer,5.56x45 CBC Defense M196 55gr Red Tracer,0,0.1,0,1,0.05,,10,,600,52,48,42,-2.8,,0,0.09,-1,-1,0.1,0,225,,600,52,48,42,0.35,,3200,1512
+5.56x45_winchester_m855_62gr_fmj_greentip_vm855,5.56x45 Winchester M855 62gr FMJ Green Tip (VM855),-1,0.13,1,2,-0.1,,50,,1000,58,55,51,-4.85,,-2,0.15,2,2,-0.05,0,150,,1000,58,55,51,-7.05,,3060,1748
+5.56x45_cbcdefense_sat_ip_62gr_clf_aep_97,5.56x45 CBC Defense SAT IP 62gr CLF (AEP-97),-3,0.17,2,3,-0.4,,300,,2000,52,48,42,-6.3,,-1,0.13,0,1,-0.2,0.08,100,,2000,56.2,51.8,45.4,-3.2,,2953,1620
+5.56x45_novx_copper_pentagon_55gr_mchp_556n55cp,5.56x45 NOVX Copper Pentagon 55gr MCHP (556N55CP),0,0.07,5,4,0.3,,-100,,1200,62,50,38,-9.8,,0,0.07,3,3,0.3,0,250,,1200,62,50,38,-5.6,,3340,1844
