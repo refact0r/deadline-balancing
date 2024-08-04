@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 25 13:46:50 2024,,,,,,,,,,,,,
+﻿0.22.13,Thu Jul 25 13:48:50 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -542,7 +542,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 348,,brwnls_m4a1_5.56x45_406mm_govt_m_barrel,"Brownells Government 16"" Mid Length Gastube 5.56x45",-2,0.5,-8,-9,,0,0.12,178,,,1200
 349,,brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-7,0.65,-13,-14,,-0.22,0.3,379,,,1700
 350,,brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-1,0.46,-7,-7,,-0.05,0.1,49,,,1400
-351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-12,0.72,-16,-17,,-0.3,0.45,550,,,5000
+351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-14,0.72,-16,-17,,-0.3,0.45,550,,,5000
 352,,colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",2,0.3,-1,-1,,0.25,-0.14,-239,,,750
 353,,colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",1,0.35,-2,-2,,0.2,-0.08,-117,,,800
 354,,colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",0,0.42,-4,-4,,0.08,0.02,-22,,,900
@@ -1002,8 +1002,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak12_upper_handguard,,,,,,,,,,,,,
 645,,ak12_std_upper_handguard,Kalashnikov Concern AK-12 Std.,0,0.06,0,0,,,,,,,250
 ,ak308_barrel,,,,,,,,,,,,,
-646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,-0.1,0.25,350,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,-4,0,,-0.05,0.3,100,,,1000
+646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.15,0,350,,,500
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.2,0.05,100,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1503,8 +1503,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3_paddle_mag_release,,,,,,,,,,,,,
 951,,hk_g3_paddle_mag_release,HK G3 Paddle,0,0.02,,,,,,,,,0
 ,hk_g3_pistol_grip,,,,,,,,,,,,,
-952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,1,0.08,0,0,,,,,,,0
-,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,2,0.1,,,,,,,,,1000
+952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,1,0.08,-1,0,,,,,,,0
+,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,2,0.1,,1,,,,,,,1000
 ,hk_psg_grip_palm_rest,,,,,,,,,,,,,
 ,,hk_psg1_grip_palm_rest,HK PSG-1 Grip Palm Rest,2,0.08,,,,,,,,,0
 ,hk_g3_upper_receiver,,,,,,,,,,,,,
@@ -1768,11 +1768,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1100,,aac_scar_sd_blackout_51_tooth_flashhider_supp_mount,AAC SCAR-SD Blackout 51-Tooth Flash Hider,-0.5,0.08,-2,-5,,0,0,50,,,750
 1101,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston,-8,0.29,-3,-8,,-0.1,0.1,100,,,1500
 1102,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston_flipped,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston Flipped,-8,0.29,-3,-8,,-0.1,0.1,100,,,1500
-1103,,lantac_dgn762b_asr_muzzle_brake,LANTAC DGM762B-ASR Muzzle Brake,-1,0.06,-10,-15,,0.08,-0.06,20,,,1000
+1103,,lantac_dgn762b_asr_muzzle_brake,LANTAC DGM762B-ASR Muzzle Brake,-1,0.06,-10,-15,,0.12,-0.06,20,,,1000
 ,,ips_7.62x51_1inch_barrel_extension,IPS 7.62x51 1in Barrel Extension,-1,0.06,0,0,,0.05,,40,,,500
 ,,ips_7.62x51_2inch_barrel_extension,IPS 7.62x51 2in Barrel Extension,-1.5,0.09,-1,-1,,0.1,0.05,60,,,750
 ,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-2,0.12,-2,-2,,0.15,0.1,80,,,1000
-,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.08,-12,-10,,0.1,-0.1,30,,,900
+,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.08,-12,-10,,0.15,-0.1,30,,,900
 ,45acp_muzzle_device,,,,,,,,,,,,,
 1104,,direct_thread_adapter_omega45k,.45ACP Direct thread adapter for Omega 45K suppressor ,-1,0.03,2,0,,0.05,0,5,,,200
 1105,,silencerco_osprey45_gen1_45acp_suppressor,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor,-8,0.29,-2,-9,,0,0.27,200,,,1500
@@ -2135,8 +2135,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mp5sd_suppressor_mount,,,,,,,,,,,,,
 1319,,bt_sd_trirail,B&T SD Tri Rail,-1,0.06,,,,,,,,,0
 ,throwable,,,,,,,,,,,,,
-1320,,F1,F1 Grenade,,0.2,,,,,,,,,10000
-1321,,M67,M67 Grenade,,0.2,,,,,,,,,0
+1320,,F1,F1 Grenade,,,,,,,,,,,10000
+1321,,M67,M67 Grenade,,,,,,,,,,,0
 1322,,ExplosiveRadio,AN/PRC 152 Type A Radio,,,,,,,,,,,100
 1323,,TestFlash,TestFlash,,,,,,,,,,,5000
 1324,,TestSmoke,TestSmoke,,,,,,,,,,,2000
@@ -2150,7 +2150,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1330,,HK416A5,HK416A5,26,0.2,56,92,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,30,0.1,55,60,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
-1333,,AK308,Kalashnikov Concern AK-308,0,1.2,75,85,0,0.66,0.9,1300,,,65000
+1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.66,0.7,1300,,,65000
 1334,,M4A1,M4A1,15,0,67,90,0,0.46,1,1550,,,0
 1335,,QBZ95,Norinco QBZ-95,45,2.3,50,50,0,0.5,1,1550,,,25000
 1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1500,,,20000
@@ -2160,7 +2160,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1340,,G3,H&K G3,44,0.5,70,100,0,0.66,0.75,1500,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
-1343,,AK74N,Izhmash AK74N,20,1,70,85,0,0.4,1,1500,,,5000
+1343,,AK74N,Izhmash AK74N,10,1,70,85,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,14000
 ,shotgun,,,,,,,,,,,,,
 1345,,Remington870,Remington 870 Express,20,0.9,90,90,1,0.8,1,1000,5,,20000
