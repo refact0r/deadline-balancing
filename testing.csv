@@ -1,4 +1,4 @@
-﻿0.22.13,Mon Aug 05 08:41:24 2024,,,,,,,,,,,,,
+﻿0.22.13,Mon Aug 05 11:21:41 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -2057,15 +2057,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,r700_bolt_handle,,,,,,,,,,,,,
 1273,,r700_std_bolt_handle,Remington Std.,0,0.1,,,,,,,,,0
 ,r700_mdt_tac21,,,,,,,,,,,,,
-,,mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,4,0.24,-3,-3,,,,,,,1000
+,,mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,6,0.24,-3,-3,,,,,,,1000
 ,,mdt_tac21_gen2_r700_buffer_tube_adapter,MDT TAC21 Gen 2 Buffer Tube Adaptor,1,0.08,,,,,,,,,600
 ,,mdt_tac21_gen2_r700_lower_receiver,MDT TAC21 Gen 2 Lower Receiver,2,0.2,-2,-3,,,,,,,2000
 ,,mdt_tac21_gen2_r700_upper_receiver,MDT TAC21 Gen 2 Upper Receiver,2,0.24,-4,-5,,-0.1,,,,,1000
 ,,mdt_tac21_gen2_r700_mag_release,MDT TAC21 Gen 2 Magazine Release,1,0.04,,,,,,,,,0
 ,r700_stock,,,,,,,,,,,,,
 1274,,r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,34,0.65,-2,-5,,0,,,,,0
-1275,,magpul_hunter700_short_action,Magpul Hunter 700 Short Action,36,0.7,-4,-5,,0,,,,,1000
-1276,,mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,16,0.6,-2,-4,,-0.1,,,,,3000
+1275,,magpul_hunter700_short_action,Magpul Hunter 700 Short Action,38,0.7,-4,-5,,0,,,,,1000
+1276,,mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,18,0.6,-2,-4,,-0.1,,,,,3000
 ,rem700_bdl_barrel_front_sight,,,,,,,,,,,,,
 1277,,remington_700_bdl_front_sight,Remington 700 BDL Front Sight,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_front_sight_hood,,,,,,,,,,,,,
@@ -2076,7 +2076,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1280,,remington_870_rear_sight,Remington 870 Rear Sight,1,0.02,,,,,,,,,200
 1281,,remington_700_bdl_rear_sight,Remington 700 BDL Rear Sight,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_slider,,,,,,,,,,,,,
-1282,,remington_700_rear_sight_slider,Remington 700 BDL Rear Sight Slider,0,0.02,,,,,,,,,0
+1282,,remington_700_rear_sight_slider,Remington 700 BDL Rear Sight Slider,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_front_mount,,,,,,,,,,,,,
 1283,,remington_700_bdl_front_sight_mount,Remington 700 BDL Front Sight Mount,0,0.02,,,,,,,,,0
 ,badger_ordnance_comm_arc_mount,,,,,,,,,,,,,
