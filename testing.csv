@@ -1,4 +1,4 @@
-﻿0.22.13,Mon Aug 05 08:33:04 2024,,,,,,,,,,,,,
+﻿0.22.13,Mon Aug 05 08:41:24 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -159,7 +159,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 131,,colt_m4ss_stock,Colt M4SS,16,0.2,-12,-10,,,,,,,0
 132,,lmt_sopmod,LMT Sopmod,18,0.24,-6,-18,,,,,,,700
 133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.14,-9,-14,,,,,,,500
-134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,7,0.16,-2,-2,,,,,,,600
+134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,5,0.1,0,0,,,,,,,600
 135,,magpul_str_carbine_stock,Magpul STR Carbine,17,0.23,-12,-12,,,,,,,900
 ,ak_fixed_stock,,,,,,,,,,,,,
 136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.16,-7,-13,,,,,,,500
@@ -467,7 +467,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 314,,colt_m4a1_charging_handle,Colt M4 Standard,2,0.03,,,,,,,,,0
 ,ar15_endplate,,,,,,,,,,,,,
 315,,colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0
-,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,6,0.06,6,6,,,,,,,600
+,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,4,0.06,6,6,,,,,,,600
 ,ar15_pistol_grip,,,,,,,,,,,,,
 316,,timber_creek_enforcer_pistol_grip,Timber Creek Enforcer,4,0.07,-1,-7,,,,,,,500
 317,,td_skeletonized_pistol_grip,TD Skeletonized,2,0.04,-4,-5,,,,,,,1000
@@ -476,10 +476,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 320,,gral_s_pistol_grip,Gral-S,3,0.07,-4,-5,,,,,,,750
 321,,hk_ergo_psg_pistol_grip,HK Ergo Psg,10,0.14,0,0,,,,,,,1500
 322,,pmm_scar_modified_grip_hogue,PMM SCAR Modified Hogue Non-Beavertail,6,0.08,-3,-4,,,,,,,800
-323,,mdt_premier_avp_grip,MDT Premier AVP,8,0.08,0,0,,,,,,,500
+323,,mdt_premier_avp_grip,MDT Premier AVP,10,0.08,1,1,,,,,,,500
 324,,hk_battle_pistol_grip,HK Battle,5,0.08,-5,-3,,,,,,,750
 325,,colt_a2_pistol_grip,A2,4,0.08,-3,-3,,,,,,,0
-326,,thordsen_frs_15_stock,Thordsen FRS-15,16,0.26,-6,-8,,,,,,,1500
+326,,thordsen_frs_15_stock,Thordsen FRS-15,14,0.26,-6,-8,,,,,,,1500
 327,,magpul_moe_ar15_pistol_grip,Magpul MOE AR-15 Pistol Grip,7,0.1,-3,-5,,,,,,,600
 328,,magpul_moe_k2_ar15_pistol_grip,Magpul MOE-K2,7,0.1,-4,-4,,,,,,,800
 329,,magpul_moe_k2_scar_pistol_grip,Magpul MOE-K2 Modified,7,0.1,-4,-4,,,,,,,800
@@ -1882,11 +1882,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mdt_buttpad,,,,,,,,,,,,,
 1166,,mdt_buttpad,MDT V5,2,0.05,-1,-1,,,,,,,0
 ,mdt_hood,,,,,,,,,,,,,
-1167,,mdt_lss_nv_hood,MDT LSS Night Vision,-3,0.04,,,,,,,,,500
-1168,,mdt_lss_xl_nv_hood_oversize,MDT LSS-XL Gen II Night Vision,-2,0.06,,,,,,,,,750
+1167,,mdt_lss_nv_hood,MDT LSS Night Vision,0,0.04,,,,,,,,,500
+1168,,mdt_lss_xl_nv_hood_oversize,MDT LSS-XL Gen II Night Vision,0,0.06,,,,,,,,,750
 ,mdt_stock,,,,,,,,,,,,,
-1169,,mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,23,0.32,0,0,,,,,,,1200
-1170,,mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,23,0.3,0,0,,,,,,,1200
+1169,,mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,22,0.3,0,0,,,,,,,1200
+1170,,mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,22,0.28,0,0,,,,,,,1200
 ,mk10_bottom,,,,,,,,,,,,,
 1171,,mk10_bottom_adapter_large,MK10RL Large,-2,0.09,,,,,,,,,0
 1172,,mk10_bottom_adapter_small,MK10RL Small,-1,0.06,,,,,,,,,0
@@ -1942,7 +1942,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1198,,tb_7,Thunder Beast Ultra 7,-3,0.12,-13,-8,,-0.1,0.06,70,,,1300
 1199,,tb_9,Thunder Beast Ultra 9,-5,0.15,-14,-10,,-0.2,0.1,90,,,1400
 ,ti_stock,,,,,,,,,,,,,
-1200,,ti_stock,Troy M7A1 Extendable Buttpad,23,0.15,-7,-9,,,,,,,800
+1200,,ti_stock,Troy M7A1 Extendable Buttpad,21,0.15,-8,-10,,,,,,,800
 ,ubr_stock,,,,,,,,,,,,,
 1201,,ubr_gen2_stock,Magpul UBR Gen2,14,0.29,-17,-8,,,,,,,700
 ,unity_fast_30mm_offset_mount,,,,,,,,,,,,,
@@ -2028,57 +2028,57 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hunter700_cheek,,,,,,,,,,,,,
 1250,,hunter_cheekrest_flat,Hunter 700 Stock Cheek Rest Flat,0.5,0.02,,,,,,,,,0
 1251,,hunter_cheekrest_.25,Hunter 700 Stock Cheek Rest .25,1,0.03,,,,,,,,,0
-1252,,hunter_cheekrest_.5,Hunter 700 Stock Cheek Rest .5,2,0.04,,,,,,,,,0
-1253,,hunter_cheekrest_.75,Hunter 700 Stock Cheek Rest .75,3,0.05,,,,,,,,,0
+1252,,hunter_cheekrest_.5,Hunter 700 Stock Cheek Rest .5,1.5,0.04,,,,,,,,,0
+1253,,hunter_cheekrest_.75,Hunter 700 Stock Cheek Rest .75,2,0.05,,,,,,,,,0
 ,hunter700_cheek_sga,,,,,,,,,,,,,
 1254,,hunter_cheekrest_.25_sga,Hunter Cheek Rest .25 for SGA,1,0.03,,,,,,,,,0
 1255,,hunter_cheekrest_flat_sga,Hunter Cheek Rest Flat for SGA,0.5,0.02,,,,,,,,,0
 1256,,hunter_cheekrest_.75_sga,Hunter Cheek Rest .75 for SGA,2,0.05,,,,,,,,,0
 1257,,hunter_cheekrest_.5_sga,Hunter Cheek Rest .5 for SGA,1.5,0.04,,,,,,,,,0
 ,hunter700_magwell,,,,,,,,,,,,,
-1258,,magpul_hunter_ac_magwell,Magpul Hunter AC Magazine Magwell,5,0.08,,,,,,,,,0
-1259,,badger_ordnance_m4_trigger_guard,badger Ordnance M4 R700 Bottom Plate,8,0.05,,,5,,,,,,600
+1258,,magpul_hunter_ac_magwell,Magpul Hunter AC Magazine Magwell,1,0.08,,,,,,,,,0
+1259,,badger_ordnance_m4_trigger_guard,badger Ordnance M4 R700 Bottom Plate,3,0.1,,,5,,,,,,600
 ,hunter700_pad,,,,,,,,,,,,,
 1260,,hunterstock_lop_0.5_1,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
 1261,,hunterstock_lop_0.5_2,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
 1262,,hunterstock_lop_0.5_3,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
 1263,,hunterstock_lop_0.5_4,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
-1264,,hunter_stock_buttpad,Hunter 700 Stock Buttpad,3,0.05,-1,-1,,,,,,,0
+1264,,hunter_stock_buttpad,Hunter 700 Stock Buttpad,2,0.05,-1,-1,,,,,,,0
 ,r700_adapter,,,,,,,,,,,,,
 1265,,weaver_extended_rail,Weaver Extended Multi-Slot,-0.5,0.05,,,,,,,,,500
 1266,,mdt_r700_long_rail,MDT R700 Long,-3,0.1,,,,,,,,,750
 ,r700_barrel,,,,,,,,,,,,,
-1267,,r700_609mm_threaded_barrel,609mm R700 Threaded .308,-2,0.7,-2,-4,,0,0.05,310,,,1200
-1268,,r700_508mm_threaded_barrel,508mm Heavy Threaded .308,-1,0.59,0,0,,0.2,-0.05,150,,,750
-1269,,r700_508mm_heavy_barrel,508mm Heavy .308,0,0.6,0,0,,0,0,150,,,500
-1270,,r700_420mm_threaded_barrel,420mm R700 Threaded .308,2,0.5,2,1,,0.3,-0.1,0,,,1000
-1271,,r700_660mm_barrel,660mm R700 .308,-3,0.79,-3,-6,,-0.1,0.2,400,,,1500
-1272,,remington_700_bdl_559mm_barrel,"Remington 700 BDL 22"" Barrel",2,0.6,0,-3,,-0.1,0,230,,,0
+1267,,r700_609mm_threaded_barrel,609mm R700 Threaded .308,-2,0.7,-1,-2,,-0.1,0.1,310,,,1200
+1268,,r700_508mm_threaded_barrel,508mm Heavy Threaded .308,-1,0.6,-1,-1,,0.1,-0.05,150,,,750
+1269,,r700_508mm_heavy_barrel,508mm Heavy .308,0,0.61,0,-1,,0,0,150,,,500
+1270,,r700_420mm_threaded_barrel,420mm R700 Threaded .308,1,0.51,1,0,,0.25,-0.1,0,,,1000
+1271,,r700_660mm_barrel,660mm R700 .308,-3,0.76,-2,-3,,-0.2,0.2,400,,,1500
+1272,,remington_700_bdl_559mm_barrel,"Remington 700 BDL 22"" Barrel",-2,0.66,0,-2,,-0.1,0,230,,,0
 ,r700_bolt_handle,,,,,,,,,,,,,
 1273,,r700_std_bolt_handle,Remington Std.,0,0.1,,,,,,,,,0
 ,r700_mdt_tac21,,,,,,,,,,,,,
-,,mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,12,0.18,-1,-1,,,,,,,1000
-,,mdt_tac21_gen2_r700_buffer_tube_adapter,MDT TAC21 Gen 2 Buffer Tube Adaptor,2,0.08,,,,,,,,,600
-,,mdt_tac21_gen2_r700_lower_receiver,MDT TAC21 Gen 2 Lower Receiver,5,0.28,-2,-3,,,,,,,2000
-,,mdt_tac21_gen2_r700_upper_receiver,MDT TAC21 Gen 2 Upper Receiver,5,0.22,-4,-5,,-0.2,,,,,1000
-,,mdt_tac21_gen2_r700_mag_release,MDT TAC21 Gen 2 Magazine Release,2,0.04,,,,,,,,,0
+,,mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,4,0.24,-3,-3,,,,,,,1000
+,,mdt_tac21_gen2_r700_buffer_tube_adapter,MDT TAC21 Gen 2 Buffer Tube Adaptor,1,0.08,,,,,,,,,600
+,,mdt_tac21_gen2_r700_lower_receiver,MDT TAC21 Gen 2 Lower Receiver,2,0.2,-2,-3,,,,,,,2000
+,,mdt_tac21_gen2_r700_upper_receiver,MDT TAC21 Gen 2 Upper Receiver,2,0.24,-4,-5,,-0.1,,,,,1000
+,,mdt_tac21_gen2_r700_mag_release,MDT TAC21 Gen 2 Magazine Release,1,0.04,,,,,,,,,0
 ,r700_stock,,,,,,,,,,,,,
-1274,,r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,20,0.65,0,-7,,0,,,,,0
-1275,,magpul_hunter700_short_action,Magpul Hunter 700 Short Action,15,0.7,-5,-6,,-0.1,,,,,1000
-1276,,mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,10,0.6,-1,-4,,0.3,,,,,3000
+1274,,r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,34,0.65,-2,-5,,0,,,,,0
+1275,,magpul_hunter700_short_action,Magpul Hunter 700 Short Action,36,0.7,-4,-5,,0,,,,,1000
+1276,,mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,16,0.6,-2,-4,,-0.1,,,,,3000
 ,rem700_bdl_barrel_front_sight,,,,,,,,,,,,,
 1277,,remington_700_bdl_front_sight,Remington 700 BDL Front Sight,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_front_sight_hood,,,,,,,,,,,,,
 1278,,remington_700_bdl_front_sight_hood,Remington 700 BDL Front Sight Hood,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_mount,,,,,,,,,,,,,
-1279,,remington_700_bdl_rear_sight_mount,Remington 700 BDL Rear Sight Mount,1,0.02,,,,,,,,,0
+1279,,remington_700_bdl_rear_sight_mount,Remington 700 BDL Rear Sight Mount,0,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_sight,,,,,,,,,,,,,
 1280,,remington_870_rear_sight,Remington 870 Rear Sight,1,0.02,,,,,,,,,200
 1281,,remington_700_bdl_rear_sight,Remington 700 BDL Rear Sight,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_slider,,,,,,,,,,,,,
-1282,,remington_700_rear_sight_slider,Remington 700 BDL Rear Sight Slider,1,0.02,,,,,,,,,0
+1282,,remington_700_rear_sight_slider,Remington 700 BDL Rear Sight Slider,0,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_front_mount,,,,,,,,,,,,,
-1283,,remington_700_bdl_front_sight_mount,Remington 700 BDL Front Sight Mount,1,0.02,,,,,,,,,0
+1283,,remington_700_bdl_front_sight_mount,Remington 700 BDL Front Sight Mount,0,0.02,,,,,,,,,0
 ,badger_ordnance_comm_arc_mount,,,,,,,,,,,,,
 1284,,badger_ordnance_c1_30mm_12oclock_rmr_mount_for_arc,Badger Ordnance Condition 1 30mm 12 O'Clock RMR Mount for ARC,-1,0.03,,,,,,,,,200
 ,badger_ordnance_comm_j_arm,,,,,,,,,,,,,
