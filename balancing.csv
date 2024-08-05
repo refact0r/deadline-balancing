@@ -1,4 +1,4 @@
-﻿0.22.13,Thu Jul 25 13:48:50 2024,,,,,,,,,,,,,
+﻿0.22.13,Mon Aug 05 08:41:24 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -108,7 +108,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 102,,sightmark_lopro_mini_combo,Sightmark Lopro Mini Combo,-0.5,0.05,,,,,,,,,600
 103,,stark_se_5_express_forward_grip,Stark SE-5 Express Forward Grip,2,0.1,-4,-6,,,,,,,400
 104,,swampfox_kingslayer_sight,Swampfox Kingslayer,-2.5,0.09,,,,,,,,,800
-105,,swampfox_trihawk_3x30_prism_scope,Swampfox Trihawk 3x30 Prism Scope,-3,0.16,,,,,,,,,300
+105,,swampfox_trihawk_3x30_prism_scope,Swampfox Trihawk 3x30 Prism Scope,-3,0.16,,,,,,,,,1000
 106,,tangodown_bgv_mk46k_grip,Tangodown BGV-MK46K,3,0.08,-4,-4,,,,,,,600
 107,,timber_creek_enforcer_foregrip,Timber Creek Enforcer,5,0.05,-2,-2,,,,,,,700
 108,,timber_creek_enforcer_handstop,Timber Creek Enforcer,3,0.1,-3,-5,,,,,,,700
@@ -159,7 +159,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 131,,colt_m4ss_stock,Colt M4SS,16,0.2,-12,-10,,,,,,,0
 132,,lmt_sopmod,LMT Sopmod,18,0.24,-6,-18,,,,,,,700
 133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.14,-9,-14,,,,,,,500
-134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,7,0.16,-2,-2,,,,,,,600
+134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,5,0.1,0,0,,,,,,,600
 135,,magpul_str_carbine_stock,Magpul STR Carbine,17,0.23,-12,-12,,,,,,,900
 ,ak_fixed_stock,,,,,,,,,,,,,
 136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.16,-7,-13,,,,,,,500
@@ -467,7 +467,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 314,,colt_m4a1_charging_handle,Colt M4 Standard,2,0.03,,,,,,,,,0
 ,ar15_endplate,,,,,,,,,,,,,
 315,,colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0
-,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,6,0.06,6,6,,,,,,,600
+,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,4,0.06,6,6,,,,,,,600
 ,ar15_pistol_grip,,,,,,,,,,,,,
 316,,timber_creek_enforcer_pistol_grip,Timber Creek Enforcer,4,0.07,-1,-7,,,,,,,500
 317,,td_skeletonized_pistol_grip,TD Skeletonized,2,0.04,-4,-5,,,,,,,1000
@@ -476,10 +476,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 320,,gral_s_pistol_grip,Gral-S,3,0.07,-4,-5,,,,,,,750
 321,,hk_ergo_psg_pistol_grip,HK Ergo Psg,10,0.14,0,0,,,,,,,1500
 322,,pmm_scar_modified_grip_hogue,PMM SCAR Modified Hogue Non-Beavertail,6,0.08,-3,-4,,,,,,,800
-323,,mdt_premier_avp_grip,MDT Premier AVP,8,0.08,0,0,,,,,,,500
+323,,mdt_premier_avp_grip,MDT Premier AVP,10,0.08,1,1,,,,,,,500
 324,,hk_battle_pistol_grip,HK Battle,5,0.08,-5,-3,,,,,,,750
 325,,colt_a2_pistol_grip,A2,4,0.08,-3,-3,,,,,,,0
-326,,thordsen_frs_15_stock,Thordsen FRS-15,16,0.26,-6,-8,,,,,,,1500
+326,,thordsen_frs_15_stock,Thordsen FRS-15,14,0.26,-6,-8,,,,,,,1500
 327,,magpul_moe_ar15_pistol_grip,Magpul MOE AR-15 Pistol Grip,7,0.1,-3,-5,,,,,,,600
 328,,magpul_moe_k2_ar15_pistol_grip,Magpul MOE-K2,7,0.1,-4,-4,,,,,,,800
 329,,magpul_moe_k2_scar_pistol_grip,Magpul MOE-K2 Modified,7,0.1,-4,-4,,,,,,,800
@@ -593,7 +593,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 384,,fn_scar_rear_sight_600m_aperture,FN Scar 600m Aperture,0,0.005,,,,,,,,,50
 385,,fn_scar_rear_sight_200m_aperture,FN Scar 200m Aperture,0,0.005,,,,,,,,,50
 ,fn_scar_h_gasblock,,,,,,,,,,,,,
-386,,fn_scar_mk20_gas_block,FN SCAR Mk20,4,0.16,1,3,,-0.1,,200,,,1000
+386,,fn_scar_mk20_gas_block,FN SCAR Mk20,4,0.16,1,3,,-0.05,,200,,,1000
 387,,fn_scar_h_gasblock,FN SCAR-H Standard,0,0.12,0,0,,,,,,,500
 ,,hi_desertdog_hdd_tactical_scarh_hitorque_gasblock,Hi-desertdog HDD Tactical Scar H HiTorque Gasblock,2,0.16,,,,,,,,,400
 ,fn_front_sight_base,,,,,,,,,,,,,
@@ -620,25 +620,25 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 400,,fn_scar_fire_selector,FN SCAR-H Standard,0,0,,,,,,,,,0
 401,,kinetic_development_group_talon_ambi_scar_45_90_safety_selector,Kinetic Development Group Talon Ambi SCAR 45/90,1.5,0.02,,,,,,,,,300
 ,fn_scar_h_barrel,,,,,,,,,,,,,
-402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,0,0.65,4,3,,-0.2,0,250,,,1500
-403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",-1,0.52,-1,-1,,0.1,-0.05,150,,,2000
-404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-2,0.54,-2,-2,,0.1,-0.05,150,,,1500
-,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",5,0.46,3,1,,0.12,-0.07,0,,,1500
-405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,4,0.49,1,0,,0.2,-0.07,0,,,1000
-406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,7,0.4,2,1,,0.3,-0.09,-110,,,1200
-,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,10,0.33,4,3,,0.45,-0.11,-200,,0.05,1500
+402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,8,6,,-0.1,0.1,250,,,1500
+403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,8,,0,0.05,300,,,2000
+404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0,150,,,1500
+,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",4,0.51,6,4,,0.07,-0.04,100,,,1500
+405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,6,0.49,4,5,,0.2,-0.07,0,,,1000
+406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.12,-110,,,1200
+,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,18,0.3,11,8,,0.45,-0.16,-200,,0.05,1500
 ,fn_scar_h_bolt,,,,,,,,,,,,,
 407,,fn_scar_h_bolt_carrier,FN SCAR-H Bolt,0,0,,,,,,,,,0
 ,,imperial_arms_buffered_scar_bolt_carrier,Imperial Arms Buffered Scar BCG,-2,0.15,-2,-3,,,,,,,500
 ,fn_scar_h_lower_receiver,,,,,,,,,,,,,
-408,,x_products_scar_h_x17_trigger_module_lower_receiver,X Products X-17 SCAR-H Trigger Module,2,0.42,-3,-2,,,,,,,2000
-409,,fn_scar_h_lower_receiver,FN Scar-H Standard,0,0.4,-3,-2,,,,,,,0
-,,lingle_industries_ar17_scar_h_lower,Lingle Industries AR17 Scar H Lower,5,0.45,-4,-2,,,,,,,2500
+408,,x_products_scar_h_x17_trigger_module_lower_receiver,X Products X-17 SCAR-H Trigger Module,2,0.42,1,0,,,,,,,2000
+409,,fn_scar_h_lower_receiver,FN Scar-H Standard,0,0.38,-1,1,,,,,,,0
+,,lingle_industries_ar17_scar_h_lower,Lingle Industries AR17 Scar H Lower,4,0.45,-1,-1,,,,,,,2500
 ,lingle_mag_release,,,,,,,,,,,,,
 ,,m4a1_std_mag_release_scar,Lingle Industries AR17 Scar H Mag Release,0,0.1,,,,,,,,,0
 ,fn_scar_h_upper_receiver,,,,,,,,,,,,,
 410,,fn_scar_h_upper_receiver,FN SCAR-H Standard,0,0.65,0,0,,,,,,,2000
-411,,fn_scar_mk20_upper_receiver,FN SCAR Mk20,8,0.85,3,6,,,0.05,50,,,4000
+411,,fn_scar_mk20_upper_receiver,FN SCAR Mk20,11,0.85,3,6,,,0.05,50,,,4000
 412,,imperial_arms_cypher_x_standard_scar_h_upper_receiver,Imperial Arms CypherX Standard SCAR-H,3,0.7,0,0,,,,,,,3000
 ,fn_scar_l_barrel,,,,,,,,,,,,,
 413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,5,0.3,1,3,,0.1,0,-200,,,1200
@@ -666,9 +666,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 427,,fn_scar_stock_cheek_piece,FN SCAR,4,0.1,-3,-2,,,,,,,0
 ,fn_scar_stock_connector,,,,,,,,,,,,,
 428,,fn_scar_stock_connector,FN SCAR,0,0.04,0,0,,,,,,,0
-429,,fn_scar_ssr_stock_assembly,FN SCAR SSR,17,0.2,-3,-3,,,,,,,600
+429,,fn_scar_ssr_stock_assembly,FN SCAR SSR,21,0.2,-1,1,,,,,,,600
 430,,kinetic_development_group_sas_acr_stock_scar_adapter,Kinetic Development Group SAS Adaptive ACR Stock Connector,-0.5,0.03,0,0,,,,,,,300
-,,mesa_tactical_faro_scar_buffer_tube_adapter,Mesa Tactical Faro Scar Buffer Tube Adapter,-4,0.1,0,-1,,,,,,,450
+,,mesa_tactical_faro_scar_buffer_tube_adapter,Mesa Tactical Faro Scar Buffer Tube Adapter,-5,0.15,2,1,,0.07,,,,,450
 ,fn_scar_stock_shoulder_piece,,,,,,,,,,,,,
 431,,fn_scar_stock_shoulder_piece,FN SCAR,5,0.1,-6,-10,,,,,,,0
 ,scar47_barrel,,,,,,,,,,,,,
@@ -1002,8 +1002,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak12_upper_handguard,,,,,,,,,,,,,
 645,,ak12_std_upper_handguard,Kalashnikov Concern AK-12 Std.,0,0.06,0,0,,,,,,,250
 ,ak308_barrel,,,,,,,,,,,,,
-646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,-0.1,0.25,350,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,-4,0,,-0.05,0.3,100,,,1000
+646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.15,0,350,,,500
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.2,0.05,100,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1343,10 +1343,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 846,,5.56x45_cbcdefense_sat_ip_62gr_clf_aep_97,5.56x45 CBC Defense SAT IP 62gr CLF (AEP-97),-1,0.13,0,1,,-0.2,0.08,100,,,2000
 847,,5.56x45_novx_copper_pentagon_55gr_mchp_556n55cp,5.56x45 NOVX Copper Pentagon 55gr MCHP (556N55CP),0,0.07,3,3,,0.3,0,250,,,1200
 ,ammo_762x51,,,,,,,,,,,,,
-848,,7.62x51_fedarm_m80_ball_147gr_fmj_lc_cr_762_fmj,7.62x51 FedArm M80 Ball Range Grade 147gr FMJ LC (CR-762-FMJ),-10,0.2,,,,,,50,,,0
-849,,7.62x51_federal_american_eagle_xm119cs_175gr_ot,7.62x51 Federal American Eagle XM119CS Match Grade 175gr OT,-13,0.26,7,5,,-0.2,,250,,,2000
-850,,7.62x51_fedarm_m62_147gr_red_tracer_cr_762_tr,7.62x51 FedArm M62 Range Grade 147gr Red Tracer (CR-762-TR),-11,0.22,,,,,,0,,,1000
-851,,7.62x51_cbcdefense_lilac_139gr_ir_tracer,7.62x51 CBC Defense LILAC NVD 139gr IR Tracer,-10,0.22,1,1,,0.1,,20,,,3000
+848,,7.62x51_fedarm_m80_ball_147gr_fmj_lc_cr_762_fmj,7.62x51 FedArm M80 Ball Range Grade 147gr FMJ LC (CR-762-FMJ),-10,0.2,,,,0.15,,50,,,0
+849,,7.62x51_federal_american_eagle_xm119cs_175gr_ot,7.62x51 Federal American Eagle XM119CS Match Grade 175gr OT,-13,0.26,7,5,,-0.05,,250,,,2000
+850,,7.62x51_fedarm_m62_147gr_red_tracer_cr_762_tr,7.62x51 FedArm M62 Range Grade 147gr Red Tracer (CR-762-TR),-11,0.22,,,,0.15,,0,,,1000
+851,,7.62x51_cbcdefense_lilac_139gr_ir_tracer,7.62x51 CBC Defense LILAC NVD 139gr IR Tracer,-10,0.22,1,1,,0.25,,20,,,3000
 ,ammo_7.62x54r,,,,,,,,,,,,,
 852,,7.62x54r_tulammo_ps_151gr_fbmj_7n1,7.62x54R Tulammo PS 151gr FBMJ (7N1),0,0.1,,,,,,,,,0
 853,,7.62x54r_ppu_150gr_sp_pp76254s,7.62x54R PPU 150gr SP (PP76254S),0,0.1,1,1,,0.1,,100,,,2000
@@ -1405,7 +1405,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 895,,hk_bolt,HK416A5 Bolt,1.5,0.05,,,,,,,,,0
 ,ump_upper_receiver,,,,,,,,,,,,,
 896,,ump45_std_upper_receiver,UMP45 Standard .45 ACP Upper Receiver,0,0.25,0,0,,,,,,,0
-897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,0,0.25,0,-9,,,,200,,0.25,3000
+897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,0,0.25,-4,-13,,,,200,,0.25,3000
 ,ump_trigger,,,,,,,,,,,,,
 898,,ump_std_trigger,UMP Standard,0,0.02,,,,,,,,,0
 ,ump_top_rail,,,,,,,,,,,,,
@@ -1493,24 +1493,24 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 948,,hk_g3_front_sight_assembly,HK G3 Front Sight,0,0.03,,,,,,,,,0
 ,hk_g3_handguard,,,,,,,,,,,,,
 949,,hk_g3_wide_tropical_handguard,HK G3 Wide Tropical,5,0.26,-15,-15,,,,,,,0
-950,,fab_defense_g3_rs_handguard,FAB Defense G3-RS Railed,-3,0.29,-11,-13,,,,,,,2000
+950,,fab_defense_g3_rs_handguard,FAB Defense G3-RS Railed,-1,0.29,-11,-15,,,,,,,2000
 ,,kac_long_ras_g3_modular_rail_handguard,KAC Long RAS G3 Modular Rail Handguard,-4,0.31,-13,-15,,,,,,,2250
 ,,kac_ras_g3_aimpoint_99048_30mm_mount,KAC RAS G3 Aimpoint 30mm Mount,3,0.08,1,,,,,,,,250
-,,aim_sports_extended_g3_mmh94_mlok_handguard,Aim Sports Extended G3 MMH94 MLOK Handguard,-4,0.26,-10,-12,,,,,,,2500
+,,aim_sports_extended_g3_mmh94_mlok_handguard,Aim Sports Extended G3 MMH94 MLOK Handguard,3,0.24,-9,-16,,,,,,,2500
 ,aimsports_top,,,,,,,,,,,,,
-,,aim_sports_mmh94_mlok_top,Aim Sports MMH94 MLOK Top,0,0.05,,,,,,,,,250
-,,aim_sports_mmh94_picatinny_top,Aim Sports MMH94 Picatinny Top,-1,0.07,-1,0,,,,,,,250
+,,aim_sports_mmh94_mlok_top,Aim Sports MMH94 MLOK Top,1,0.05,,,,,,,,,250
+,,aim_sports_mmh94_picatinny_top,Aim Sports MMH94 Picatinny Top,0,0.07,-1,0,,,,,,,250
 ,hk_g3_paddle_mag_release,,,,,,,,,,,,,
 951,,hk_g3_paddle_mag_release,HK G3 Paddle,0,0.02,,,,,,,,,0
 ,hk_g3_pistol_grip,,,,,,,,,,,,,
-952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,1,0.08,0,0,,,,,,,0
-,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,2,0.1,,,,,,,,,1000
+952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,1,0.08,-1,0,,,,,,,0
+,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,2,0.1,,1,,,,,,,1000
 ,hk_psg_grip_palm_rest,,,,,,,,,,,,,
 ,,hk_psg1_grip_palm_rest,HK PSG-1 Grip Palm Rest,2,0.08,,,,,,,,,0
 ,hk_g3_upper_receiver,,,,,,,,,,,,,
 953,,hk_g3_std_upper_receiver,HK G3 Standard Upper,0,0.6,0,0,,,,,,,0
-954,,hk_psg1_upper_receiver,HK PSG-1 Upper,0,0.85,-2,-4,,,,,,,10000
-,,hk_psg1_upper_receiver_modified,HK PSG-1 Upper Receiver Modified,-2,0.79,-2,-4,,,,,,,10750
+954,,hk_psg1_upper_receiver,HK PSG-1 Upper,4,0.85,-2,0,,,,,,,10000
+,,hk_psg1_upper_receiver_modified,HK PSG-1 Upper Receiver Modified,2,0.79,0,-2,,,,,,,10750
 ,,fr_ordnance_mc51_upper_receiver,FR Ordinance MC51 Upper Receiver,3,0.5,4,5,,,,,,,4000
 ,,fr_ordnance_mc51k_upper_receiver,FR Ordinance MC51K Upper Receiver,6,0.45,10,5,,,,,,,2000
 ,,fr_ordnance_mc51sd_upper_receiver,FR Ordinance MC51SD Upper Receiver,1,0.5,3,3,,,,,,,4000
@@ -1525,7 +1525,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_psg1_stock_assembly,,,,,,,,,,,,,
 ,,hk_psg1_stock_buttpad,HK PSG-1 Stock Buttpad,2,0.07,,,,,,,,,0
 ,,hk_psg1_stock_cheek_rest,HK PSG-1 Stock Cheek Rest,4,0.08,,,,,,,,,0
-,,hk_psg1_stock_base,HK Sniper PSG-1 Version 2 Stock Assembly,13,0.26,-6,-8,,,,,,,3000
+,,hk_psg1_stock_base,HK Sniper PSG-1 Version 2 Stock Assembly,16,0.26,-4,-5,,,,,,,3000
 ,spuhr_stock,,,,,,,,,,,,,
 ,,spuhr_g3_r410_stock_assembly_stock,Spuhr G3 R410 Stock,8,0.07,-8,-18,,,,,,,0
 ,,spuhr_g3_r410_stock_assembly_cheek_pad,Spuhr G3 R410 Stock Cheek Pad,2,0.03,,,,,,,,,0
@@ -1536,19 +1536,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3/mp5_trigger,,,,,,,,,,,,,
 959,,hk_g3_std_trigger,HK G3 Standard,0,0.04,,,,,,,,,0
 ,hk_g3_barrel,,,,,,,,,,,,,
-960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,0,0.5,0,1,,0.3,0.1,180,,,0
-961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-2,0.6,-1,-2,,0.01,0.15,260,,,800
-962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,2,0.35,4,6,,0.5,-0.02,-100,,,2500
-963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,6,0.27,10,6,,1,-0.1,-200,,,1500
-,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,2,0.24,12,8,,1.25,-0.15,-220,,,2500
-964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-6,0.7,-5,-5,,-0.3,0.25,630,,,4500
+960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,2,0.5,2,4,,0.1,0,180,,,0
+961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-6,0.6,-2,-3,,-0.1,0.15,260,,,800
+962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,8,0.35,6,8,,0.3,-0.04,-100,,,2500
+963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,14,0.24,11,13,,0.4,-0.1,-200,,,1500
+,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,16,0.22,12,8,,0.5,-0.15,-220,,,2500
+964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-4,0.7,-2,0,,-0.38,0.25,630,,,4500
 ,ptr_32_barrel,,,,,,,,,,,,,
 ,,ptr_32_7.62x39_457mm_barrel,PTR 32 7.62x39 18in Barrel,-3,0.6,-8,-11,,-0.05,0.35,67,,,3000
 ,,ptr_32_7.62x39_457mm_5-8x24_barrel,PTR 32 7.62x39 18in 5/8 Threaded Barrel,-4,0.6,-7,-10,,-0.05,0.35,67,,,3250
 ,,ptr_32_7.62x39_406mm_barrel,PTR 32 7.62x39 16in Barrel,-1,0.5,-5,-8,,0.05,0.3,-17,,,2000
 ,,ptr_32_7.62x39_406mm_5-8x24_barrel,PTR 32 7.62x39 16in 5/8 Threaded Barrel,-2,0.5,-4,-7,,0.05,0.3,-17,,,2250
 ,mc51sd_suppressor,,,,,,,,,,,,,
-,,fr_ordnance_mc51sd_suppressor,FR Ordinance MC51SD Suppressor,-7,0.3,-7,-6,,-1.35,0.2,90,,,5000
+,,fr_ordnance_mc51sd_suppressor,FR Ordinance MC51SD Suppressor,-7,0.25,-7,-6,,-0.3,0.2,90,,,5000
 ,hk_g3_rear_sight_assembly_top,,,,,,,,,,,,,
 965,,hk_g3_rear_sight_assembly_top,HK G3 Rear Sight Assembly,0,0.02,,,,,,,,,0
 966,,hk_mp5_g3_rear_sight_rmr_mount,HK MP5/G3 Rear Sight RMR,-1,0.05,,,,,,,,,600
@@ -1571,8 +1571,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 975,,fr_ordnance_mc51_bolt_assembly,FR Ordnance MC51 Bolt,0,0,,,,,,,,,0
 976,,hk_psg1_bolt_assembly,HK PSG-1 Bolt,0,0,,,,,,,,,1500
 ,hk_g3_trigger_housing,,,,,,,,,,,,,
-977,,hk_g3_sef_metal_trigger_housing,HK G3 SEF Metal Trigger,0,0.6,,,,,,,,,0
-978,,hk_psg1_metal_trigger_housing,HK PSG-1 Metal Trigger,0,0.6,,,,,,,,,2000
+977,,hk_g3_sef_metal_trigger_housing,HK G3 SEF Metal Trigger,0,0.6,-1,,,,,,,,0
+978,,hk_psg1_metal_trigger_housing,HK PSG-1 Metal Trigger,3,0.6,,1,,,,,,,2000
 ,,aeroknox_ax_mp5_modified_trigger_housing,Aeroknox AX MP5 Modified Trigger Housing,-3,0.5,,1,,,,,,,1250
 ,,ptr_32_sef_metal_trigger_housing,PTR 32 SEF Metal Trigger Housing,-1,0.55,,,,,,,,,500
 ,hk_psg_trigger,,,,,,,,,,,,,
@@ -1768,11 +1768,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1100,,aac_scar_sd_blackout_51_tooth_flashhider_supp_mount,AAC SCAR-SD Blackout 51-Tooth Flash Hider,-0.5,0.08,-2,-5,,0,0,50,,,750
 1101,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston,-8,0.29,-3,-8,,-0.1,0.1,100,,,1500
 1102,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston_flipped,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston Flipped,-8,0.29,-3,-8,,-0.1,0.1,100,,,1500
-1103,,lantac_dgn762b_asr_muzzle_brake,LANTAC DGM762B-ASR Muzzle Brake,-1,0.06,-10,-15,,0.08,-0.06,20,,,1000
+1103,,lantac_dgn762b_asr_muzzle_brake,LANTAC DGM762B-ASR Muzzle Brake,-1,0.06,-6,-12,,0.12,-0.06,20,,,1000
 ,,ips_7.62x51_1inch_barrel_extension,IPS 7.62x51 1in Barrel Extension,-1,0.06,0,0,,0.05,,40,,,500
 ,,ips_7.62x51_2inch_barrel_extension,IPS 7.62x51 2in Barrel Extension,-1.5,0.09,-1,-1,,0.1,0.05,60,,,750
 ,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-2,0.12,-2,-2,,0.15,0.1,80,,,1000
-,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.08,-12,-10,,0.1,-0.1,30,,,900
+,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.08,-11,-8,,0.15,-0.1,30,,,900
 ,45acp_muzzle_device,,,,,,,,,,,,,
 1104,,direct_thread_adapter_omega45k,.45ACP Direct thread adapter for Omega 45K suppressor ,-1,0.03,2,0,,0.05,0,5,,,200
 1105,,silencerco_osprey45_gen1_45acp_suppressor,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor,-8,0.29,-2,-9,,0,0.27,200,,,1500
@@ -1882,11 +1882,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mdt_buttpad,,,,,,,,,,,,,
 1166,,mdt_buttpad,MDT V5,2,0.05,-1,-1,,,,,,,0
 ,mdt_hood,,,,,,,,,,,,,
-1167,,mdt_lss_nv_hood,MDT LSS Night Vision,-3,0.04,,,,,,,,,500
-1168,,mdt_lss_xl_nv_hood_oversize,MDT LSS-XL Gen II Night Vision,-2,0.06,,,,,,,,,750
+1167,,mdt_lss_nv_hood,MDT LSS Night Vision,0,0.04,,,,,,,,,500
+1168,,mdt_lss_xl_nv_hood_oversize,MDT LSS-XL Gen II Night Vision,0,0.06,,,,,,,,,750
 ,mdt_stock,,,,,,,,,,,,,
-1169,,mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,23,0.32,0,0,,,,,,,1200
-1170,,mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,23,0.3,0,0,,,,,,,1200
+1169,,mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,22,0.3,0,0,,,,,,,1200
+1170,,mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,22,0.28,0,0,,,,,,,1200
 ,mk10_bottom,,,,,,,,,,,,,
 1171,,mk10_bottom_adapter_large,MK10RL Large,-2,0.09,,,,,,,,,0
 1172,,mk10_bottom_adapter_small,MK10RL Small,-1,0.06,,,,,,,,,0
@@ -1942,7 +1942,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1198,,tb_7,Thunder Beast Ultra 7,-3,0.12,-13,-8,,-0.1,0.06,70,,,1300
 1199,,tb_9,Thunder Beast Ultra 9,-5,0.15,-14,-10,,-0.2,0.1,90,,,1400
 ,ti_stock,,,,,,,,,,,,,
-1200,,ti_stock,Troy M7A1 Extendable Buttpad,23,0.15,-7,-9,,,,,,,800
+1200,,ti_stock,Troy M7A1 Extendable Buttpad,21,0.15,-8,-10,,,,,,,800
 ,ubr_stock,,,,,,,,,,,,,
 1201,,ubr_gen2_stock,Magpul UBR Gen2,14,0.29,-17,-8,,,,,,,700
 ,unity_fast_30mm_offset_mount,,,,,,,,,,,,,
@@ -2028,57 +2028,57 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hunter700_cheek,,,,,,,,,,,,,
 1250,,hunter_cheekrest_flat,Hunter 700 Stock Cheek Rest Flat,0.5,0.02,,,,,,,,,0
 1251,,hunter_cheekrest_.25,Hunter 700 Stock Cheek Rest .25,1,0.03,,,,,,,,,0
-1252,,hunter_cheekrest_.5,Hunter 700 Stock Cheek Rest .5,2,0.04,,,,,,,,,0
-1253,,hunter_cheekrest_.75,Hunter 700 Stock Cheek Rest .75,3,0.05,,,,,,,,,0
+1252,,hunter_cheekrest_.5,Hunter 700 Stock Cheek Rest .5,1.5,0.04,,,,,,,,,0
+1253,,hunter_cheekrest_.75,Hunter 700 Stock Cheek Rest .75,2,0.05,,,,,,,,,0
 ,hunter700_cheek_sga,,,,,,,,,,,,,
 1254,,hunter_cheekrest_.25_sga,Hunter Cheek Rest .25 for SGA,1,0.03,,,,,,,,,0
 1255,,hunter_cheekrest_flat_sga,Hunter Cheek Rest Flat for SGA,0.5,0.02,,,,,,,,,0
 1256,,hunter_cheekrest_.75_sga,Hunter Cheek Rest .75 for SGA,2,0.05,,,,,,,,,0
 1257,,hunter_cheekrest_.5_sga,Hunter Cheek Rest .5 for SGA,1.5,0.04,,,,,,,,,0
 ,hunter700_magwell,,,,,,,,,,,,,
-1258,,magpul_hunter_ac_magwell,Magpul Hunter AC Magazine Magwell,5,0.08,,,,,,,,,0
-1259,,badger_ordnance_m4_trigger_guard,badger Ordnance M4 R700 Bottom Plate,8,0.05,,,5,,,,,,600
+1258,,magpul_hunter_ac_magwell,Magpul Hunter AC Magazine Magwell,1,0.08,,,,,,,,,0
+1259,,badger_ordnance_m4_trigger_guard,badger Ordnance M4 R700 Bottom Plate,3,0.1,,,5,,,,,,600
 ,hunter700_pad,,,,,,,,,,,,,
 1260,,hunterstock_lop_0.5_1,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
 1261,,hunterstock_lop_0.5_2,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
 1262,,hunterstock_lop_0.5_3,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
 1263,,hunterstock_lop_0.5_4,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0
-1264,,hunter_stock_buttpad,Hunter 700 Stock Buttpad,3,0.05,-1,-1,,,,,,,0
+1264,,hunter_stock_buttpad,Hunter 700 Stock Buttpad,2,0.05,-1,-1,,,,,,,0
 ,r700_adapter,,,,,,,,,,,,,
 1265,,weaver_extended_rail,Weaver Extended Multi-Slot,-0.5,0.05,,,,,,,,,500
 1266,,mdt_r700_long_rail,MDT R700 Long,-3,0.1,,,,,,,,,750
 ,r700_barrel,,,,,,,,,,,,,
-1267,,r700_609mm_threaded_barrel,609mm R700 Threaded .308,-2,0.7,-2,-4,,0,0.05,310,,,1200
-1268,,r700_508mm_threaded_barrel,508mm Heavy Threaded .308,-1,0.59,0,0,,0.2,-0.05,150,,,750
-1269,,r700_508mm_heavy_barrel,508mm Heavy .308,0,0.6,0,0,,0,0,150,,,500
-1270,,r700_420mm_threaded_barrel,420mm R700 Threaded .308,2,0.5,2,1,,0.3,-0.1,0,,,1000
-1271,,r700_660mm_barrel,660mm R700 .308,-3,0.79,-3,-6,,-0.1,0.2,400,,,1500
-1272,,remington_700_bdl_559mm_barrel,"Remington 700 BDL 22"" Barrel",2,0.6,0,-3,,-0.1,0,230,,,0
+1267,,r700_609mm_threaded_barrel,609mm R700 Threaded .308,-2,0.7,-1,-2,,-0.1,0.1,310,,,1200
+1268,,r700_508mm_threaded_barrel,508mm Heavy Threaded .308,-1,0.6,-1,-1,,0.1,-0.05,150,,,750
+1269,,r700_508mm_heavy_barrel,508mm Heavy .308,0,0.61,0,-1,,0,0,150,,,500
+1270,,r700_420mm_threaded_barrel,420mm R700 Threaded .308,1,0.51,1,0,,0.25,-0.1,0,,,1000
+1271,,r700_660mm_barrel,660mm R700 .308,-3,0.76,-2,-3,,-0.2,0.2,400,,,1500
+1272,,remington_700_bdl_559mm_barrel,"Remington 700 BDL 22"" Barrel",-2,0.66,0,-2,,-0.1,0,230,,,0
 ,r700_bolt_handle,,,,,,,,,,,,,
 1273,,r700_std_bolt_handle,Remington Std.,0,0.1,,,,,,,,,0
 ,r700_mdt_tac21,,,,,,,,,,,,,
-,,mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,12,0.18,-1,-1,,,,,,,1000
-,,mdt_tac21_gen2_r700_buffer_tube_adapter,MDT TAC21 Gen 2 Buffer Tube Adaptor,2,0.08,,,,,,,,,600
-,,mdt_tac21_gen2_r700_lower_receiver,MDT TAC21 Gen 2 Lower Receiver,5,0.28,-2,-3,,,,,,,2000
-,,mdt_tac21_gen2_r700_upper_receiver,MDT TAC21 Gen 2 Upper Receiver,5,0.22,-4,-5,,-0.2,,,,,1000
-,,mdt_tac21_gen2_r700_mag_release,MDT TAC21 Gen 2 Magazine Release,2,0.04,,,,,,,,,0
+,,mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,4,0.24,-3,-3,,,,,,,1000
+,,mdt_tac21_gen2_r700_buffer_tube_adapter,MDT TAC21 Gen 2 Buffer Tube Adaptor,1,0.08,,,,,,,,,600
+,,mdt_tac21_gen2_r700_lower_receiver,MDT TAC21 Gen 2 Lower Receiver,2,0.2,-2,-3,,,,,,,2000
+,,mdt_tac21_gen2_r700_upper_receiver,MDT TAC21 Gen 2 Upper Receiver,2,0.24,-4,-5,,-0.1,,,,,1000
+,,mdt_tac21_gen2_r700_mag_release,MDT TAC21 Gen 2 Magazine Release,1,0.04,,,,,,,,,0
 ,r700_stock,,,,,,,,,,,,,
-1274,,r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,20,0.65,0,-7,,0,,,,,0
-1275,,magpul_hunter700_short_action,Magpul Hunter 700 Short Action,15,0.7,-5,-6,,-0.1,,,,,1000
-1276,,mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,10,0.6,-1,-4,,0.3,,,,,3000
+1274,,r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,34,0.65,-2,-5,,0,,,,,0
+1275,,magpul_hunter700_short_action,Magpul Hunter 700 Short Action,36,0.7,-4,-5,,0,,,,,1000
+1276,,mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,16,0.6,-2,-4,,-0.1,,,,,3000
 ,rem700_bdl_barrel_front_sight,,,,,,,,,,,,,
 1277,,remington_700_bdl_front_sight,Remington 700 BDL Front Sight,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_front_sight_hood,,,,,,,,,,,,,
 1278,,remington_700_bdl_front_sight_hood,Remington 700 BDL Front Sight Hood,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_mount,,,,,,,,,,,,,
-1279,,remington_700_bdl_rear_sight_mount,Remington 700 BDL Rear Sight Mount,1,0.02,,,,,,,,,0
+1279,,remington_700_bdl_rear_sight_mount,Remington 700 BDL Rear Sight Mount,0,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_sight,,,,,,,,,,,,,
 1280,,remington_870_rear_sight,Remington 870 Rear Sight,1,0.02,,,,,,,,,200
 1281,,remington_700_bdl_rear_sight,Remington 700 BDL Rear Sight,1,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_rear_slider,,,,,,,,,,,,,
-1282,,remington_700_rear_sight_slider,Remington 700 BDL Rear Sight Slider,1,0.02,,,,,,,,,0
+1282,,remington_700_rear_sight_slider,Remington 700 BDL Rear Sight Slider,0,0.02,,,,,,,,,0
 ,rem700_bdl_barrel_front_mount,,,,,,,,,,,,,
-1283,,remington_700_bdl_front_sight_mount,Remington 700 BDL Front Sight Mount,1,0.02,,,,,,,,,0
+1283,,remington_700_bdl_front_sight_mount,Remington 700 BDL Front Sight Mount,0,0.02,,,,,,,,,0
 ,badger_ordnance_comm_arc_mount,,,,,,,,,,,,,
 1284,,badger_ordnance_c1_30mm_12oclock_rmr_mount_for_arc,Badger Ordnance Condition 1 30mm 12 O'Clock RMR Mount for ARC,-1,0.03,,,,,,,,,200
 ,badger_ordnance_comm_j_arm,,,,,,,,,,,,,
@@ -2135,8 +2135,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mp5sd_suppressor_mount,,,,,,,,,,,,,
 1319,,bt_sd_trirail,B&T SD Tri Rail,-1,0.06,,,,,,,,,0
 ,throwable,,,,,,,,,,,,,
-1320,,F1,F1 Grenade,,0.2,,,,,,,,,10000
-1321,,M67,M67 Grenade,,0.2,,,,,,,,,0
+1320,,F1,F1 Grenade,,,,,,,,,,,10000
+1321,,M67,M67 Grenade,,,,,,,,,,,0
 1322,,ExplosiveRadio,AN/PRC 152 Type A Radio,,,,,,,,,,,100
 1323,,TestFlash,TestFlash,,,,,,,,,,,5000
 1324,,TestSmoke,TestSmoke,,,,,,,,,,,2000
@@ -2150,17 +2150,17 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1330,,HK416A5,HK416A5,26,0.2,56,92,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,30,0.1,55,60,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
-1333,,AK308,Kalashnikov Concern AK-308,0,1.2,75,85,0,0.66,0.9,1300,,,65000
+1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.66,0.7,1300,,,65000
 1334,,M4A1,M4A1,15,0,67,90,0,0.46,1,1550,,,0
 1335,,QBZ95,Norinco QBZ-95,45,2.3,50,50,0,0.5,1,1550,,,25000
 1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1500,,,20000
 1337,,SCAR47,Handl Defense SCAR-47,40,0.35,60,60,0,0.2,0.9,1650,,,60000
 1338,,SCARH,FN SCAR Mk17,30,0.5,75,75,0,0.2,0.9,1650,,,75000
 1339,,SCARL,FN SCAR Mk16,30,0.4,65,70,0,0.36,1.1,1650,,,40000
-1340,,G3,H&K G3,44,0.5,70,100,0,0.66,0.75,1500,,,30000
+1340,,G3,H&K G3,44,0.5,70,100,0,0.56,0.75,1500,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
-1343,,AK74N,Izhmash AK74N,20,1,70,85,0,0.4,1,1500,,,5000
+1343,,AK74N,Izhmash AK74N,10,1,70,85,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,14000
 ,shotgun,,,,,,,,,,,,,
 1345,,Remington870,Remington 870 Express,20,0.9,90,90,1,0.8,1,1000,5,,20000
