@@ -1,0 +1,47 @@
+﻿,,old,,,,,,,,,,,,,,new,,,,,,,,,,,,
+name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,strength_norecoil,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,strength_norecoil
+r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,20,0.65,0,-7,,0,,,,,0,11.2,7,,34,0.65,-2,-5,,0,,,,,0,25.6,21
+magpul_hunter700_short_action,Magpul Hunter 700 Short Action,15,0.7,-5,-6,,-0.1,,,,,1000,9.1,1.5,,36,0.7,-4,-5,,0,,,,,1000,28.2,22
+mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,10,0.6,-1,-4,,0.3,,,,,3000,-0.3,-3.5,,16,0.6,-2,-4,,-0.1,,,,,3000,8.5,4.5
+,,,,,,,,,,,,,0,0,,,,,,,,,,,,,0,0
+magpul_hunter_ac_magwell,Magpul Hunter AC Magazine Magwell,5,0.08,,,,,,,,,0,3.4,3.4,,1,0.08,,,,,,,,,0,-0.6,-0.6
+badger_ordnance_m4_trigger_guard,badger Ordnance M4 R700 Bottom Plate,8,0.05,,,5,,,,,,600,7,7,,3,0.1,,,5,,,,,,600,1,1
+hunterstock_lop_0.5_1,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3,,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3
+hunterstock_lop_0.5_2,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3,,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3
+hunterstock_lop_0.5_3,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3,,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3
+hunterstock_lop_0.5_4,Hunter 700 Stock 0.5 Spacer,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3,,0.5,0.04,0,0,,,,,,,0,-0.3,-0.3
+hunter_stock_buttpad,Hunter 700 Stock Buttpad,3,0.05,-1,-1,,,,,,,0,3.4,2,,2,0.05,-1,-1,,,,,,,0,2.4,1
+hunter_cheekrest_flat,Hunter 700 Stock Cheek Rest Flat,0.5,0.02,,,,,,,,,0,0.1,0.1,,0.5,0.02,,,,,,,,,0,0.1,0.1
+hunter_cheekrest_.25,Hunter 700 Stock Cheek Rest .25,1,0.03,,,,,,,,,0,0.4,0.4,,1,0.03,,,,,,,,,0,0.4,0.4
+hunter_cheekrest_.5,Hunter 700 Stock Cheek Rest .5,2,0.04,,,,,,,,,0,1.2,1.2,,1.5,0.04,,,,,,,,,0,0.7,0.7
+hunter_cheekrest_.75,Hunter 700 Stock Cheek Rest .75,3,0.05,,,,,,,,,0,2,2,,2,0.05,,,,,,,,,0,1,1
+,,,,,,,,,,,,,0,0,,,,,,,,,,,,,0,0
+mdt_lss_stock_adapter,MDT LSS Fixed,-1,0.04,,,,,,,,,100,-1.8,-1.8,,-1,0.04,,,,,,,,,100,-1.8,-1.8
+mdt_v5_skeleton_rifle_stock,MDT Skeleton V5,23,0.32,0,0,,,,,,,1200,16.6,16.6,,22,0.3,0,0,,,,,,,1200,16,16
+mdt_v5_skeleton_rifle_stock_short,MDT Skeleton V5 Short,23,0.3,0,0,,,,,,,1200,17,17,,22,0.28,0,0,,,,,,,1200,16.4,16.4
+mdt_buttpad,MDT V5,2,0.05,-1,-1,,,,,,,0,2.4,1,,2,0.05,-1,-1,,,,,,,0,2.4,1
+mdt_premier_avp_grip,MDT Premier AVP,8,0.08,0,0,,,,,,,500,6.4,6.4,,10,0.08,1,1,,,,,,,500,7,8.4
+mdt_lss_nv_hood,MDT LSS Night Vision,-3,0.04,,,,,,,,,500,-3.8,-3.8,,0,0.04,,,,,,,,,500,-0.8,-0.8
+mdt_lss_xl_nv_hood_oversize,MDT LSS-XL Gen II Night Vision,-2,0.06,,,,,,,,,750,-3.2,-3.2,,0,0.06,,,,,,,,,750,-1.2,-1.2
+,,,,,,,,,,,,,0,0,,,,,,,,,,,,,0,0
+mdt_tac21_gen2_15inch_r700_mlok_handguard,MDT TAC21 Gen 2 15in MLOK Handguard,12,0.18,-1,-1,,,,,,,1000,9.8,8.4,,4,0.24,-3,-3,,,,,,,1000,3.4,-0.8
+mdt_tac21_gen2_r700_buffer_tube_adapter,MDT TAC21 Gen 2 Buffer Tube Adaptor,2,0.08,,,,,,,,,600,0.4,0.4,,1,0.08,,,,,,,,,600,-0.6,-0.6
+mdt_tac21_gen2_r700_lower_receiver,MDT TAC21 Gen 2 Lower Receiver,5,0.28,-2,-3,,,,,,,2000,2.8,-0.6,,2,0.2,-2,-3,,,,,,,2000,1.4,-2
+mdt_tac21_gen2_r700_upper_receiver,MDT TAC21 Gen 2 Upper Receiver,5,0.22,-4,-5,,-0.2,,,,,1000,7.8,1.6,,2,0.24,-4,-5,,-0.1,,,,,1000,3.9,-2.3
+mdt_tac21_gen2_r700_mag_release,MDT TAC21 Gen 2 Magazine Release,2,0.04,,,,,,,,,0,1.2,1.2,,1,0.04,,,,,,,,,0,0.2,0.2
+,,,,,,,,,,,,,0,0,,,,,,,,,,,,,0,0
+wyatts_5r,Wyatt's Outdoor .308 5R,-1,0.14,,,5,,,,,,300,-3.8,-3.8,,-1,0.14,,,5,,,,,,300,-3.8,-3.8
+wyatts_10r,Wyatt's Outdoor .308 10R,-5,0.21,,,10,,,,,,1000,-9.2,-9.2,,-5,0.21,,,10,,,,,,1000,-9.2,-9.2
+magpul_pmag_ac_5r,Magpul PMAG AC .308 5R,-2,0.13,,,5,,,,,,500,-4.6,-4.6,,-2,0.13,,,5,,,,,,500,-4.6,-4.6
+magpul_pmag_ac_10r,Magpul PMAG AC .308 10R,-6,0.2,,,10,,,,,,1200,-10,-10,,-6,0.2,,,10,,,,,,1200,-10,-10
+,,,,,,,,,,,,,0,0,,,,,,,,,,,,,0,0
+thordsen_frs_15_stock,Thordsen FRS-15,16,0.26,-6,-8,,,,,,,1500,20.4,10.8,,14,0.26,-6,-8,,,,,,,1500,18.4,8.8
+thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,6,0.06,6,6,,,,,,,600,-3.6,4.8,,4,0.06,6,6,,,,,,,600,-5.6,2.8
+thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,7,0.16,-2,-2,,,,,,,600,6.6,3.8,,5,0.1,0,0,,,,,,,600,3,3
+ti_stock,Troy M7A1 Extendable Buttpad,23,0.15,-7,-9,,,,,,,800,31,20,,21,0.15,-8,-10,,,,,,,800,30.4,18
+,,,,,,,,,,,,,0,0,,,,,,,,,,,,,0,0
+,hogue overmolded,19,0.79,0,-7,5,0,0,0,0,0,300,7.4,3.2,,33,0.79,-2,-5,5,0,0,0,0,0,300,21.8,17.2
+,magpul hunter,24,1.01,-6,-7,5,-0.1,0,0,0,0,1500,13.3,4.3,,39,1.01,-5,-6,5,0,0,0,0,0,1500,26.4,18.8
+,magpul hunter internal,29,0.85,-6,-7,5,-0.1,0,0,0,0,1600,21.5,12.5,,43,0.9,-5,-6,5,0,0,0,0,0,1600,32.6,25
+,mdt lss,40,1.2,-2,-5,5,0.3,0,0,0,0,5300,19.1,14.5,,47,1.18,-2,-4,5,-0.1,0,0,0,0,5300,27.9,23.9
+,mdt tac21,56,1.4,-8,-10,5,-0.2,0,0,0,0,6900,41.4,29,,41,1.38,-9,-11,5,-0.1,0,0,0,0,6900,27.7,13.9
