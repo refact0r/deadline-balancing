@@ -1,4 +1,4 @@
-﻿# 0.22.13 Balancing Changes
+﻿# 0.23.0 Balancing Changes
 
 Attachments changed: 378
 
@@ -273,7 +273,7 @@ Weight: **0.02** -> **0.01**
 
 Ergonomics: **2** -> **3**
 
-### Aeroknox AX15 Rear Sight 
+### Aeroknox AX15 Rear Sight
 
 Ergonomics: **2** -> **3**
 
@@ -463,19 +463,19 @@ Horizontal Recoil: **-16** -> **-11** \
 Vertical Recoil: **-23** -> **-16** \
 Price: **1500** -> **1200**
 
-### KAC MRE RAS Free Float 12" 
+### KAC MRE RAS Free Float 12"
 
 Horizontal Recoil: **-14** -> **-10** \
 Vertical Recoil: **-19** -> **-16** \
 Price: **850** -> **950**
 
-### KAC RAS Free Float 12" 
+### KAC RAS Free Float 12"
 
 Horizontal Recoil: **-14** -> **-10** \
 Vertical Recoil: **-20** -> **-17** \
 Price: **800** -> **900**
 
-### KAC RAS Free Float 5" 
+### KAC RAS Free Float 5"
 
 Horizontal Recoil: **-9** -> **-5** \
 Vertical Recoil: **-16** -> **-12** \
@@ -589,7 +589,7 @@ Vertical Recoil: **-14** -> **-10**
 Horizontal Recoil: **-13** -> **-9** \
 Vertical Recoil: **-15** -> **-11**
 
-### Midwest Industries Supp Series SP7M 7.25" 
+### Midwest Industries Supp Series SP7M 7.25"
 
 Horizontal Recoil: **-9** -> **-5** \
 Vertical Recoil: **-14** -> **-11**
@@ -929,7 +929,7 @@ Vertical Recoil: **** -> **0**
 Weight: **0.35** -> **0.25** \
 Vertical Recoil: **1** -> **0**
 
-### Lone Star Armory TX15 AR15 Upper Receiver 
+### Lone Star Armory TX15 AR15 Upper Receiver
 
 Ergonomics: **4** -> **5** \
 Weight: **0.55** -> **0.4** \
@@ -1484,7 +1484,7 @@ Weight: **0.04** -> **0.02**
 
 Weight: **0.43** -> **0.49**
 
-### AUG Para 9x19 Std.
+### AUG Para 9x19 Std
 
 Weight: **0.25** -> **0.2** \
 Horizontal Recoil: **** -> **-2** \
@@ -1532,7 +1532,7 @@ Weight: **0.03** -> **0.06**
 
 Weight: **0.02** -> **0.03**
 
-### AUG A3 Std.
+### AUG A3 Std
 
 Ergonomics: **5** -> **3** \
 Horizontal Recoil: **-5** -> **-4** \
