@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Aug 06 13:49:04 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Aug 07 13:49:17 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -620,11 +620,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 400,,fn_scar_fire_selector,FN SCAR-H Standard,0,0,,,,,,,,,0
 401,,kinetic_development_group_talon_ambi_scar_45_90_safety_selector,Kinetic Development Group Talon Ambi SCAR 45/90,1.5,0.02,,,,,,,,,300
 ,fn_scar_h_barrel,,,,,,,,,,,,,
-402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,8,6,,-0.1,0.1,250,,,1500
-403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,8,,0,0.05,300,,,2000
+402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,9,8,,-0.1,0.1,250,,,1500
+403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.05,300,,,2000
 404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0,150,,,1500
-,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",4,0.51,6,4,,0.07,-0.04,100,,,1500
-405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,6,0.49,4,5,,0.2,-0.07,0,,,1000
+,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",3,0.51,7,7,,0.07,-0.04,100,,,1500
+405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,5,0.49,4,5,,0.2,-0.07,0,,,1000
 406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.12,-110,,,1200
 ,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,18,0.3,11,8,,0.45,-0.16,-200,,0.05,1500
 ,fn_scar_h_bolt,,,,,,,,,,,,,
@@ -840,8 +840,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 544,,7.62x54_promag_5r,ProMag AA762R 01 5R,-1,0.15,,,5,,,,,,500
 545,,7.62x54_mosin_5r,Mosin Standard 5R,0,0.2,,,5,,,,,,0
 ,magazine_9x19_mp5,,,,,,,,,,,,,
-546,,9x19_hk_mp5_std_30r,Std MP5 30R,-1,0.31,,,30,,,,,,500
+546,,hk_mp5_std_curved_30r_9x19_magazine,HK MP5 Std. Curved 30rd 9x19 Magazine,-1,0.28,,,30,,,,,,500
+,,hk_mp5_straight_30r_9x19_magazine,HK MP5 Straight 30rd 9x19 Magazine,1,0.33,,,30,,,,,,
 547,,9x19_hk_mp5_50r,X-5 MP5 50R,-4,0.59,,,50,,,,,,3000
+,mp5_magazine_bottom_plate,,,,,,,,,,,,,
+,,hk_mp5_std_mag_plate ,HK MP5 Std. Magazine Plate,,,,,,,,,,,
 ,magazine_9x19_pp19,,,,,,,,,,,,,
 548,,9x19_pp19_kp9_drum,KP9 Drum 50R,-4,0.58,,,50,0.5,,,,,3000
 549,,9x19_pp19_std,Standard PP-19-01 30R,-1,0.31,,,30,,,,,,500
@@ -1352,9 +1355,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 853,,7.62x54r_ppu_150gr_sp_pp76254s,7.62x54R PPU 150gr SP (PP76254S),0,0.1,1,1,,0.1,,100,,,2000
 854,,7.62x54r_tulammo_t_46_149gr_green_tracer_7t2,7.62x54R Tulammo T-46 149gr Green Tracer (7T2),1,0.13,3,3,,0.2,,200,,,1000
 ,ammo_762x39,,,,,,,,,,,,,
-855,,7.62x39_tulammo_122gr_fmj_ul076201,7.62x39 Tulammo Steel Case 122gr FMJ (UL076201),0,0.01,,1,,0.1,,-400,,,0
-856,,7.62x39_tulammo_154gr_sp,7.62x39 Tulammo Steel Case 154gr SP,-2,0.04,,3,,0.2,,-450,,,2000
-857,,7.62x39_tulammo_144gr_tracer_t_45,7.62x39 Tulammo Steel Case 144gr Tracer (T-45),-3,0.03,,4,,0.15,,-390,,,1000
+855,,7.62x39_tulammo_122gr_fmj_ul076201,7.62x39 Tulammo Steel Case 122gr FMJ (UL076201),0,0.01,,1,,0.25,,-400,,,0
+856,,7.62x39_tulammo_154gr_sp,7.62x39 Tulammo Steel Case 154gr SP,-2,0.04,,3,,0.35,,-450,,,2000
+857,,7.62x39_tulammo_144gr_tracer_t_45,7.62x39 Tulammo Steel Case 144gr Tracer (T-45),-3,0.03,,4,,0.3,,-390,,,1000
 ,ammo_5.45x39,,,,,,,,,,,,,
 858,,5.45x39_hornady_black_60gr_v_max,5.45x39 Hornady BLACK 60gr V-MAX (TA545390),1,0.08,1,3,,-0.2,,100,,,2000
 859,,5.45x39_tulammo_60gr_fmj_ta545390,5.45x39 TulAmmo 60gr FMJ (TA545390),0,0.1,,,,,,,,,0
@@ -1441,7 +1444,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump9_barrel,,,,,,,,,,,,,
 917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.2,0,0,,0,0,-25,,,500
 918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.21,0,0,,0.1,0,-25,,,600
-919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-5,-3,,-0.2,0,275,,,1000
+919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-5,-3,,-0.2,0.1,275,,,1000
 ,ump45_bolt,,,,,,,,,,,,,
 920,,ump_45_full_auto_bolt,UMP .45 ACP Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,hk_mp5k_handguard,,,,,,,,,,,,,
@@ -1511,7 +1514,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 953,,hk_g3_std_upper_receiver,HK G3 Standard Upper,0,0.6,0,0,,,,,,,0
 954,,hk_psg1_upper_receiver,HK PSG-1 Upper,4,0.85,-2,0,,,,,,,10000
 ,,hk_psg1_upper_receiver_modified,HK PSG-1 Upper Receiver Modified,2,0.79,0,-2,,,,,,,10750
-,,fr_ordnance_mc51_upper_receiver,FR Ordinance MC51 Upper Receiver,3,0.5,4,5,,,,,,,4000
+,,fr_ordnance_mc51_upper_receiver,FR Ordinance MC51 Upper Receiver,3,0.5,4,5,,,,,,,5000
 ,,fr_ordnance_mc51k_upper_receiver,FR Ordinance MC51K Upper Receiver,6,0.45,10,5,,,,,,,2000
 ,,fr_ordnance_mc51sd_upper_receiver,FR Ordinance MC51SD Upper Receiver,1,0.5,3,3,,,,,,,4000
 ,,ptr_32_7.62x39_upper_receiver,PTR 32 7.62x39 Upper Receiver,-20,0.6,-12,-18,,,,,,,10000
@@ -1520,7 +1523,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3_stock,,,,,,,,,,,,,
 956,,hk_g3_std_fixed_plastic_stock,HK G3 Standard Fixed Plastic,8,0.26,-11,-13,,,,,,,0
 ,,haga_defense_hk_g3_acr_stock_adapter,Haga Defense HK G3 ACR Stock Adaptor,3,0.06,-1,-2,,,,,,,1500
-,,ptr_hk_g3_milspec_ar15_buffer_tube_adapter,PTR HK G3 MilSpec AR15 Buffer Tube Adaptor,2,0.14,3,4,,,,,,,1200
+,,ptr_hk_g3_milspec_ar15_buffer_tube_adapter,PTR HK G3 MilSpec AR15 Buffer Tube Adaptor,1,0.14,3,4,,0.1,,,,,1200
 ,,spuhr_g3_r410_stock_assembly_adapter,Spuhr G3 R410 Stock Assembly Adaptor,-2,0.1,0,0,,,,,,,1000
 ,hk_psg1_stock_assembly,,,,,,,,,,,,,
 ,,hk_psg1_stock_buttpad,HK PSG-1 Stock Buttpad,2,0.07,,,,,,,,,0
@@ -1538,8 +1541,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3_barrel,,,,,,,,,,,,,
 960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,2,0.5,2,4,,0.1,0,180,,,0
 961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-6,0.6,-2,-3,,-0.1,0.15,260,,,800
-962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,8,0.35,6,8,,0.3,-0.04,-100,,,2500
-963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,14,0.24,11,13,,0.4,-0.1,-200,,,1500
+962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,8,0.35,7,9,,0.3,-0.04,-100,,,3500
+963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,14,0.24,11,13,,0.4,-0.14,-200,,,1500
 ,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,16,0.22,12,8,,0.5,-0.15,-220,,,2500
 964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-4,0.7,-2,0,,-0.38,0.25,630,,,4500
 ,ptr_32_barrel,,,,,,,,,,,,,
@@ -1556,9 +1559,6 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 967,,hk_g3_rear_sight_assembly_base,HK G3 Rear Sight Assembly,0,0.02,,,,,,,,,0
 ,hk_g3_rear_sight,,,,,,,,,,,,,
 968,,hk_g3_rear_drum_sight,HK G3 Drum,1,0.04,,,,,,,,,0
-,hk_mp5_handguard,,,,,,,,,,,,,
-969,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.2,-9,-7,,,,,,,3500
-,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,8,0.25,-5,-8,,,,,,,3500
 ,hk_10r_mag_bottom_plate,,,,,,,,,,,,,
 970,,hk_g3_us_made_10r_bottom_plate,HK G3/MSG-90 Mag Bottom Plate,0,0.03,,,,,,,,,0
 ,hk_psg1_upper_receiver_sides,,,,,,,,,,,,,
@@ -2094,46 +2094,40 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1292,,badger_ordnance_c1_34mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 34mm 12 O'Clock T1/T2 Optical Half Tube Plate,-1,0.05,,,,,,,,,200
 1293,,badger_ordnance_c1_30mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 30mm 12 O'Clock T1/T2 Optical Half Tube Plate,-1,0.05,,,,,,,,,200
 ,mp5_a3_stock,,,,,,,,,,,,,
-1294,,hk_a3_stock_ending,HK A3 Adjustable,10,0.12,-10,-20,,,,,,,0
+,,,,,,,,,,,,,,
 ,mp5_barrel,,,,,,,,,,,,,
-1295,,mp5_320mm,"RCM 12.7"" CHF",-5,0.34,-8,-7,,-0.1,0.1,100,,,0
-1296,,mp5_225mm,HK MP5 225mm,2,0.22,0,-1,,0,0,-100,,,0
-,mp5_bt_adapter,,,,,,,,,,,,,
+,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.15,-10,-14,,0.1,0.1,100,,,0
 ,mp5_drum_sight,,,,,,,,,,,,,
-1297,,mp5_drum,MP5 Standard,1,0.04,,,,,,,,,0
 ,mp5_front_sight,,,,,,,,,,,,,
-1298,,hk_front_sight,HK Standard,1,0.01,,,,,,,,,0
-1299,,hk_chevron_front_sight,HK Blitzkrieg Chevron,1,0.02,,,,,,,,,0
+,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,,,,,,,,,,,
 ,mp5_handguard,,,,,,,,,,,,,
-1300,,tropical_handguard,Tropical,10,0.16,-14,-10,,,,,,,0
-1301,,caa_hx5_handguard,CAA HX-5 MP5,0,0.25,-12,-18,,,,,,,0
-1302,,tl_99_handguard,TL 99 MP5,3,0.22,-15,-14,,,,,,,0
-1303,,surefire_628lmf,SureFire 628LMF,10,0.2,-12,-10,,,,,,,0
-1304,,ptr_trirail_handguard,PTR Tri-Rail MP5,2,0.22,-10,-12,,,,,,,0
+,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.2,-9,-7,,,,,,,0
+,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,8,0.25,-5,-8,,,,,,,3500
+,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500
 ,mp5_lower_receiver,,,,,,,,,,,,,
-1305,,mp5_lower_receiver,MP5 Standard,0,0,,,,,,,,,0
-,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,4,0.05,2,3,,,,,,,1000
+,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.4,,,,,,,,,0
+,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-1,0.45,-1,1,,,,,,,1000
+,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.45,2,1,,,,,,,1500
+,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,3,0.47,1,-1,,,,,,,1750
 ,mp5_stock,,,,,,,,,,,,,
-1306,,hk_a2_stock,HK A2 Stock,10,0.2,-14,-12,,,,,,,0
-1307,,hk_endcap_stock,HK EndCap,20,0.06,7,5,,,,,,,0
-1308,,hk_a3_stock,HK A3 Stock Attach mount,2,0.06,0,0,,,,,,,0
-1309,,bt_mp5_folding_stock_adapter,B&T MP5 Folding Stock Adapter,-2,0.07,0,0,,,,,,,0
-1310,,hk_buffer_tube_adapter,HK MP5 Buffer Tube Adapter,-5,0.08,5,5,,,,,,,0
+,,hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-9,-11,,,,,,,0
 ,mp5_threaded,,,,,,,,,,,,,
-1311,,3lug_thread_protector,3Lug Thread Protector,0,0.04,0,-1,,-0.1,0,10,,,0
-1312,,3lug_threadedprotector,3Lug,0,0.04,0,1,,-0.05,0,5,,,0
 ,mp5_upper_receiver,,,,,,,,,,,,,
-1313,,mp5sd_std_upper,MP5SD,-1,0.35,0,-4,,,,,,,0
-1314,,mp5_std_upper,MP5,0,0.3,0,-2,,,,,,,0
+,,hk_mp5_std_upper_receiver,HK MP5 Std. Upper Receiver,,0.3,,,,,,,,,
+,,hk_mp5sd_upper_receiver ,HK MP5SD Std. Upper Receiver,-3,0.32,-2,,,,,,,,3500
+,mp5_front_trunnion,,,,,,,,,,,,,
+,,hk_mp5_std_9x19_front_trunnion,HK MP5 Std. 9x19 Front Trunnion,,,,,,,,,,,
+,,hk_mp5sd_9x19_front_trunnion,HK MP5SD 9x19 Front Trunnion,,,,,,,,,,,
+,mp5_function,,,,,,,,,,,,,
+,,hk_mp5_std_cocking_support,HK MP5 Std. Cocking Support,,,,,,,,,,,
+,,hk_mp5_std_charging_handle,HK MP5 Std. Charging Handle,,,,,,,,,,,
+,,hk_mp5_std_9x19_bolt_assembly,HK MP5 Std. 9x19 Bolt Assembly,,,,,,,,,,,
+,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,,,,,,,,,,,
+,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,,,,,,,,,,,
 ,mp5sd_barrel,,,,,,,,,,,,,
-1315,,mp5sd_145mm,"HK MP5SD 5.74""",3,0.2,-1,-1,,0.1,-0.1,-100,,,0
-,mp5sd_handguard,,,,,,,,,,,,,
-1316,,mp5sd_polymer_handguard,MP5SD Polymer,6,0.1,-10,-12,,,,,,,0
-1317,,mp5sd_trirail_handguard,B&T MP5SD Tri-Rail,2,0.19,-14,-16,,,,,,,0
+,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.12,,,,,,,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
-1318,,mp5sd_suppressor,MP5SD Suppressor,-7,0.23,-15,-15,,-0.8,0.2,-300,,,0
-,mp5sd_suppressor_mount,,,,,,,,,,,,,
-1319,,bt_sd_trirail,B&T SD Tri Rail,-1,0.06,,,,,,,,,0
+,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.2,-16,-20,,-0.05,0.15,-600,,,3500
 ,throwable,,,,,,,,,,,,,
 1320,,F1,F1 Grenade,,,,,,,,,,,10000
 1321,,M67,M67 Grenade,,,,,,,,,,,0
