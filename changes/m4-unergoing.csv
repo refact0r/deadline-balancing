@@ -35,13 +35,3 @@ ews_bufferless_system_ar15_bcg,EWS Bufferless System AR15 Bolt Carrier Group,8,0
 radian_weapons_ar15_enhanced_bcg,Radian Weapons AR15 Enhanced Bolt Carrier Group,4,0.14,,,,,,,,,1000,1.2,,2,0.16,0,0,,,,,,,1000,-1.2
 m4a1_556_bolt,Colt M4 Standard,,,,,,,,,,,0,0,,0,0.1,0,0,,,,,,,0,-2
 fightlite_scr_rifle_bcg,Fightlite SCR Rifle Bolt Carrier Group,4,0.1,2,2,,,,,,,750,-0.8,,3,0.07,2,5,,,,,,,750,-3
-,,,,,,,,,,,,,0,,,,,,,,,,,,,0
-colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.4,0,0,,,,,,,750,-8,,0,0.3,0,0,,,,,,,750,-6
-aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,-3,0.3,,1,,,,,,,1000,-9.6,,0,0.2,0,1,,,,,,,1000,-4.6
-colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,7,0.5,-1,,,,,,,,750,-2.2,,6,0.4,0,0,,,,,,,750,-2
-lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.35,1,1,,,,,,,3000,-6.4,,2,0.25,1,0,,,,,,,3000,-3.8
-lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,4,0.55,1,-1,,-0.2,,,,,4000,-6.2,,5,0.4,1,1,,-0.1,,,,,4000,-3.9
-noveske_gen3_ar15_upper_receiver,Noveske GEN3 AR15 Upper Receiver,1,0.43,-1,,,-0.05,,,,,2000,-6.55,,1,0.34,-2,0,,-0.05,,,,,2000,-3.95
-noveske_marked_vltor_mur1s_ar15_upper_receiver,Noveske Marked VLTOR MUR1S AR15 Upper Receiver,3,0.47,,-1,,,,,,,2000,-5.8,,2,0.37,-1,-1,,,,,,,2000,-4
-vltor_mur1s_ar15_upper_receiver,VLTOR MUR1S AR15 Upper Receiver,-1,0.46,-1,-2,,,,,,,3000,-8.2,,1,0.36,-1,-2,,,,,,,3000,-4.2
-radian_weapons_ar15_model_1_m1curgh_upper_receiver,Radian Weapons AR15 Model 1 M1CURGH Upper Receiver,4,0.6,-2,-2,,-0.05,,,,,3000,-4.95,,4,0.5,-2,-2,,-0.05,,,,,3000,-2.95

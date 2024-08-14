@@ -1,0 +1,11 @@
+﻿,,new,,,,,,,,,,,
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.2,0,0,,,,,,,750,-4
+aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,0,0.1,0,1,,,,,,,1000,-2.6
+colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,6,0.3,0,0,,,,,,,750,0
+lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.15,1,0,,,,,,,3000,-1.8
+lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,5,0.3,1,1,,-0.1,,,,,4000,-2.4
+noveske_gen3_ar15_upper_receiver,Noveske GEN3 AR15 Upper Receiver,1,0.24,0,-3,,-0.05,,,,,2000,-2
+noveske_marked_vltor_mur1s_ar15_upper_receiver,Noveske Marked VLTOR MUR1S AR15 Upper Receiver,2,0.27,-1,-1,,,,,,,2000,-2
+vltor_mur1s_ar15_upper_receiver,VLTOR MUR1S AR15 Upper Receiver,1,0.26,-1,-2,,,,,,,3000,-2.2
+radian_weapons_ar15_model_1_m1curgh_upper_receiver,Radian Weapons AR15 Model 1 M1CURGH Upper Receiver,4,0.36,-1,-1,,-0.05,,,,,3000,-1.8
