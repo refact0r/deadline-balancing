@@ -1,6 +1,1215 @@
 ﻿# 0.23.0 Balancing Changes
 
-Attachments changed: 378
+New attachments: 86
+
+Attachments changed: 426
+
+## New Attachments
+
+### Armasight Orion 3x Gen1+ Night Vision Scope
+
+Ergonomics: **0** -> **-8** \
+Weight: **0** -> **0.26** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1000**
+
+### BCM Gunfighter Mod 3 Picatinny Foregrip
+
+Ergonomics: **0** -> **5** \
+Weight: **0** -> **0.07** \
+Horizontal Recoil: **0** -> **-1** \
+Vertical Recoil: **0** -> **-4** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 Picatinny Foregrip Flipped
+
+Ergonomics: **0** -> **4** \
+Weight: **0** -> **0.07** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-3** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 Picatinny Shortened Foregrip
+
+Ergonomics: **0** -> **6** \
+Weight: **0** -> **0.05** \
+Horizontal Recoil: **0** -> **0** \
+Vertical Recoil: **0** -> **-3** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 Picatinny Shortened Foregrip Flipped
+
+Ergonomics: **0** -> **5** \
+Weight: **0** -> **0.05** \
+Horizontal Recoil: **0** -> **-2** \
+Vertical Recoil: **0** -> **-2** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 MLOK Foregrip
+
+Ergonomics: **0** -> **5** \
+Weight: **0** -> **0.07** \
+Horizontal Recoil: **0** -> **-1** \
+Vertical Recoil: **0** -> **-4** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 MLOK Foregrip Flipped
+
+Ergonomics: **0** -> **4** \
+Weight: **0** -> **0.07** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-3** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 MLOK Shortened Foregrip
+
+Ergonomics: **0** -> **6** \
+Weight: **0** -> **0.05** \
+Horizontal Recoil: **0** -> **0** \
+Vertical Recoil: **0** -> **-3** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### BCM Gunfighter Mod 3 MLOK Shortened Foregrip Flipped
+
+Ergonomics: **0** -> **5** \
+Weight: **0** -> **0.05** \
+Horizontal Recoil: **0** -> **-2** \
+Vertical Recoil: **0** -> **-2** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### Aimpoint CompM5
+
+Ergonomics: **0** -> **1** \
+Weight: **0** -> **0.13** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1300**
+
+### Aimpoint CompM5 Lens Caps
+
+Ergonomics: **0** -> **1** \
+Weight: **0** -> **0.03** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### Noveske N4 NSR Gen 3 9.15in Handguard
+
+Ergonomics: **0** -> **12** \
+Weight: **0** -> **0.24** \
+Horizontal Recoil: **0** -> **-9** \
+Vertical Recoil: **0** -> **-8** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1100**
+
+### BCM Gunfighter Mod 3 AR-15 Pistol Grip
+
+Ergonomics: **0** -> **8** \
+Weight: **0** -> **0.12** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-4** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **750**
+
+### PMM BCM Gunfighter Mod3 SCAR Pistol Grip
+
+Ergonomics: **0** -> **8** \
+Weight: **0** -> **0.12** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-4** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **800**
+
+### HK MP5 Std. Curved 30rd 9x19 Magazine
+
+Ergonomics: **0** -> **-1** \
+Weight: **0** -> **0.28** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **30** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### HK MP5 Straight 30rd 9x19 Magazine
+
+Ergonomics: **0** -> **1** \
+Weight: **0** -> **0.33** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **30** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **500**
+
+### X Products MP5 50rd 9x19 Drum
+
+Ergonomics: **0** -> **-6** \
+Weight: **0** -> **0.51** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **50** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **3000**
+
+### HK MP5 Std. Magazine Plate
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### NPZ NSPU-M 3.5x 1PN58 Night Vision Optic
+
+Ergonomics: **0** -> **-6** \
+Weight: **0** -> **0.38** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **750**
+
+### Type 97 Canada QBZ95 Trigger
+
+Ergonomics: **0** -> **0.5** \
+Weight: **0** -> **0.04** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### Type 97 Canada QBZ95 Fire Selector
+
+Ergonomics: **0** -> **0.5** \
+Weight: **0** -> **0.03** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### Type 97 Canada QBZ95 Handguard Trigger Housing
+
+Ergonomics: **0** -> **3** \
+Weight: **0** -> **0.14** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-1** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **3000**
+
+### Norinco QBZ Factory Type 1 Bird Cage Flash Hider
+
+Ergonomics: **0** -> **-1** \
+Weight: **0** -> **0.08** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-2** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **-0.05** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **30** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### Norinco QBZ Factory Type 2 Bird Cage Flash Hider
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.1** \
+Horizontal Recoil: **0** -> **-1** \
+Vertical Recoil: **0** -> **-3** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **0** \
+Bullet Damage: **0** -> **0.04** \
+Bullet Velocity: **0** -> **60** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **300**
+
+### 1PN58 Eye Cup
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.04** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### Armasight Orion Eye Cup
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.04** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5A3 Early Generation Stock Endplate
+
+Ergonomics: **0** -> **6** \
+Weight: **0** -> **0.08** \
+Horizontal Recoil: **0** -> **4** \
+Vertical Recoil: **0** -> **4** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1500**
+
+### HK MP5A3 Early Generation Collapsible Stock
+
+Ergonomics: **0** -> **8** \
+Weight: **0** -> **0.12** \
+Horizontal Recoil: **0** -> **-10** \
+Vertical Recoil: **0** -> **-12** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### HK MP5 9x19 225mm Barrel
+
+Ergonomics: **0** -> **0** \
+Weight: **0** -> **0.15** \
+Horizontal Recoil: **0** -> **-10** \
+Vertical Recoil: **0** -> **-14** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **0.1** \
+Bullet Damage: **0** -> **0.1** \
+Bullet Velocity: **0** -> **100** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### MFI HK Universal Low Profile Scope Mount
+
+Ergonomics: **0** -> **-2** \
+Weight: **0** -> **0.08** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **750**
+
+### MFI HK Universal Low Profile Scope Mount Flipped
+
+Ergonomics: **0** -> **-2** \
+Weight: **0** -> **0.08** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **750**
+
+### HK MP5 Std. Front Sight Assembly
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5 Slim Checkered Handguard
+
+Ergonomics: **0** -> **10** \
+Weight: **0** -> **0.18** \
+Horizontal Recoil: **0** -> **-7** \
+Vertical Recoil: **0** -> **-6** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1500**
+
+### HK MP5 Plastic 4 Position Trigger Housing
+
+Ergonomics: **0** -> **0** \
+Weight: **0** -> **0.4** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### HK MP5 SEF Polymer Contoured Trigger Housing
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.45** \
+Horizontal Recoil: **0** -> **2** \
+Vertical Recoil: **0** -> **1** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1500**
+
+### HK MP5/HK94 SEF Metal Trigger Housing
+
+Ergonomics: **0** -> **3** \
+Weight: **0** -> **0.47** \
+Horizontal Recoil: **0** -> **1** \
+Vertical Recoil: **0** -> **-1** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1750**
+
+### HK MP5A2 Plastic Fixed Stock
+
+Ergonomics: **0** -> **8** \
+Weight: **0** -> **0.26** \
+Horizontal Recoil: **0** -> **-9** \
+Vertical Recoil: **0** -> **-11** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### HK MP5/HK94 Choate Stock Base
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.04** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **0** -> **-2** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **750**
+
+### HK MP5/HK94 Choate Stock
+
+Ergonomics: **0** -> **6** \
+Weight: **0** -> **0.1** \
+Horizontal Recoil: **0** -> **-4** \
+Vertical Recoil: **0** -> **-11** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### HP MP5/HK94 Stock Endcap
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.1** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1000**
+
+### HK MP5 Endcap Sling Swivel
+
+Ergonomics: **0** -> **16** \
+Weight: **0** -> **0.04** \
+Horizontal Recoil: **0** -> **6** \
+Vertical Recoil: **0** -> **10** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **0.3** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **250**
+
+### HK MP5 Std. Upper Receiver
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5SD Std. Upper Receiver
+
+Ergonomics: **0** -> **-3** \
+Weight: **0** -> **0.32** \
+Horizontal Recoil: **0** -> **-2** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **3500**
+
+### HK MP5 Std. 9x19 Front Trunnion
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5SD 9x19 Front Trunnion
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5 Std. Cocking Support
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5 Std. Charging Handle
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5 Std. 9x19 Bolt Assembly
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5 Std. Fire Selector
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5 Std. Mag Release
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> ****
+
+### HK MP5SD 9x19 146mm Barrel
+
+Ergonomics: **0** -> **2** \
+Weight: **0** -> **0.12** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **1500**
+
+### HK MP5SD 9x19 Suppressor
+
+Ergonomics: **0** -> **-5** \
+Weight: **0** -> **0.2** \
+Horizontal Recoil: **0** -> **-16** \
+Vertical Recoil: **0** -> **-20** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **-0.05** \
+Bullet Damage: **0** -> **0.15** \
+Bullet Velocity: **0** -> **-600** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **3500**
+
+### F1 Grenade
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **10000**
+
+### M67 Grenade
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### AN/PRC 152 Type A Radio
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **100**
+
+### TestFlash
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **5000**
+
+### TestSmoke
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **2000**
+
+### Izhevsk PM
+
+Ergonomics: **0** -> **62** \
+Weight: **0** -> **0** \
+Horizontal Recoil: **0** -> **31** \
+Vertical Recoil: **0** -> **31** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **2** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1200** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **2000**
+
+### Tula TT-33
+
+Ergonomics: **0** -> **60** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **35** \
+Vertical Recoil: **0** -> **35** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **2** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1400** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **5000**
+
+### Wilson Combat EDC X9
+
+Ergonomics: **0** -> **60** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **28** \
+Vertical Recoil: **0** -> **28** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **1.2** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1500** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **25000**
+
+### Glock 17
+
+Ergonomics: **0** -> **50** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **40** \
+Vertical Recoil: **0** -> **70** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **2** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1250** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### Glock 20
+
+Ergonomics: **0** -> **50** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **50** \
+Vertical Recoil: **0** -> **70** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **2** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1250** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **10000**
+
+### HK416A5
+
+Ergonomics: **0** -> **26** \
+Weight: **0** -> **0.2** \
+Horizontal Recoil: **0** -> **56** \
+Vertical Recoil: **0** -> **92** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.32** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1600** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **30000**
+
+### Steyr AUG A3
+
+Ergonomics: **0** -> **30** \
+Weight: **0** -> **0.1** \
+Horizontal Recoil: **0** -> **55** \
+Vertical Recoil: **0** -> **60** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.5** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1550** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **42000**
+
+### Kalashnikov Concern AK-12
+
+Ergonomics: **0** -> **28** \
+Weight: **0** -> **0.85** \
+Horizontal Recoil: **0** -> **63** \
+Vertical Recoil: **0** -> **57** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.5** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1500** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **25000**
+
+### Kalashnikov Concern AK-308
+
+Ergonomics: **0** -> **10** \
+Weight: **0** -> **1.2** \
+Horizontal Recoil: **0** -> **85** \
+Vertical Recoil: **0** -> **100** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.76** \
+Bullet Damage: **0** -> **0.7** \
+Bullet Velocity: **0** -> **1300** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **65000**
+
+### M4A1
+
+Ergonomics: **0** -> **15** \
+Weight: **0** -> **0** \
+Horizontal Recoil: **0** -> **67** \
+Vertical Recoil: **0** -> **90** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.46** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1550** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **0**
+
+### Norinco QBZ-95
+
+Ergonomics: **0** -> **45** \
+Weight: **0** -> **2.3** \
+Horizontal Recoil: **0** -> **50** \
+Vertical Recoil: **0** -> **50** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.5** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1550** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **25000**
+
+### DS Arms SA-58
+
+Ergonomics: **0** -> **41** \
+Weight: **0** -> **1.08** \
+Horizontal Recoil: **0** -> **66** \
+Vertical Recoil: **0** -> **99** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.66** \
+Bullet Damage: **0** -> **0.75** \
+Bullet Velocity: **0** -> **1500** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **20000**
+
+### Handl Defense SCAR-47
+
+Ergonomics: **0** -> **40** \
+Weight: **0** -> **0.35** \
+Horizontal Recoil: **0** -> **60** \
+Vertical Recoil: **0** -> **60** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.2** \
+Bullet Damage: **0** -> **0.9** \
+Bullet Velocity: **0** -> **1650** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **60000**
+
+### FN SCAR Mk17
+
+Ergonomics: **0** -> **30** \
+Weight: **0** -> **0.5** \
+Horizontal Recoil: **0** -> **75** \
+Vertical Recoil: **0** -> **75** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.2** \
+Bullet Damage: **0** -> **0.9** \
+Bullet Velocity: **0** -> **1650** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **75000**
+
+### FN SCAR Mk16
+
+Ergonomics: **0** -> **30** \
+Weight: **0** -> **0.4** \
+Horizontal Recoil: **0** -> **65** \
+Vertical Recoil: **0** -> **70** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.36** \
+Bullet Damage: **0** -> **1.1** \
+Bullet Velocity: **0** -> **1650** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **40000**
+
+### H&K G3
+
+Ergonomics: **0** -> **44** \
+Weight: **0** -> **0.5** \
+Horizontal Recoil: **0** -> **70** \
+Vertical Recoil: **0** -> **100** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.56** \
+Bullet Damage: **0** -> **0.6** \
+Bullet Velocity: **0** -> **1500** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **30000**
+
+### Remington Model 700
+
+Ergonomics: **0** -> **50** \
+Weight: **0** -> **1** \
+Horizontal Recoil: **0** -> **80** \
+Vertical Recoil: **0** -> **92** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.1** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1900** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **42000**
+
+### Izhmash AKMN
+
+Ergonomics: **0** -> **9** \
+Weight: **0** -> **1.2** \
+Horizontal Recoil: **0** -> **85** \
+Vertical Recoil: **0** -> **105** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.66** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1500** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **15000**
+
+### Izhmash AK74N
+
+Ergonomics: **0** -> **10** \
+Weight: **0** -> **1** \
+Horizontal Recoil: **0** -> **70** \
+Vertical Recoil: **0** -> **85** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.4** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1500** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **5000**
+
+### Mosin Nagant M91/30 PU
+
+Ergonomics: **0** -> **35** \
+Weight: **0** -> **1** \
+Horizontal Recoil: **0** -> **80** \
+Vertical Recoil: **0** -> **92** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.2** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **2000** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **14000**
+
+### Remington 870 Express
+
+Ergonomics: **0** -> **20** \
+Weight: **0** -> **0.9** \
+Horizontal Recoil: **0** -> **90** \
+Vertical Recoil: **0** -> **90** \
+Magazine Capacity: **0** -> **1** \
+Bullet Deviation: **0** -> **0.8** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1000** \
+Buck Bullet Deviation: **0** -> **5** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **20000**
+
+### Baikal MP-133
+
+Ergonomics: **0** -> **40** \
+Weight: **0** -> **0.9** \
+Horizontal Recoil: **0** -> **50** \
+Vertical Recoil: **0** -> **70** \
+Magazine Capacity: **0** -> **1** \
+Bullet Deviation: **0** -> **0.6** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1000** \
+Buck Bullet Deviation: **0** -> **5** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **9000**
+
+### H&K MP5
+
+Ergonomics: **0** -> **15** \
+Weight: **0** -> **0.2** \
+Horizontal Recoil: **0** -> **55** \
+Vertical Recoil: **0** -> **65** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **1.1** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1300** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **5000**
+
+### TDI Kriss Vector Gen II
+
+Ergonomics: **0** -> **30** \
+Weight: **0** -> **0.7** \
+Horizontal Recoil: **0** -> **60** \
+Vertical Recoil: **0** -> **40** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **1.5** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1300** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **90000**
+
+### CmmG MK9 T
+
+Ergonomics: **0** -> **24** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **70** \
+Vertical Recoil: **0** -> **85** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.46** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1450** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **20000**
+
+### H&K UMP
+
+Ergonomics: **0** -> **45** \
+Weight: **0** -> **0.2** \
+Horizontal Recoil: **0** -> **70** \
+Vertical Recoil: **0** -> **90** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **1** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1200** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **15000**
+
+### Izhmash PP-19 Vityaz
+
+Ergonomics: **0** -> **20** \
+Weight: **0** -> **0.3** \
+Horizontal Recoil: **0** -> **50** \
+Vertical Recoil: **0** -> **75** \
+Magazine Capacity: **0** -> **0** \
+Bullet Deviation: **0** -> **0.9** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **1300** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **11000**
+
+### Handheld turret
+
+Ergonomics: **0** -> **30** \
+Weight: **0** -> **3** \
+Horizontal Recoil: **0** -> **60** \
+Vertical Recoil: **0** -> **40** \
+Magazine Capacity: **0** -> **200** \
+Bullet Deviation: **0** -> **1.6** \
+Bullet Damage: **0** -> **1** \
+Bullet Velocity: **0** -> **600** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **100**
+
+### AN/PRC 152 Type A Radio
+
+Ergonomics: **0** -> **** \
+Weight: **0** -> **0.2** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> **** \
+Magazine Capacity: **0** -> **** \
+Bullet Deviation: **0** -> **** \
+Bullet Damage: **0** -> **** \
+Bullet Velocity: **0** -> **** \
+Buck Bullet Deviation: **0** -> **** \
+Fire Rate: **0** -> **** \
+Price: **0** -> **100**
+## Changed Attachments
 
 ### 25mm Universal Tactical Mount
 
@@ -154,8 +1363,7 @@ Vertical Recoil: **0** -> **-3**
 
 ### Strike Industries Bipod Foregrip Extended
 
-Ergonomics: **-3** -> **-2** \
-Horizontal Recoil: **-2** -> **-7** \
+Horizontal Recoil: **-2** -> **-6** \
 Vertical Recoil: **-2** -> **-5**
 
 ### Scalarworks Peak01 Fixed Front Irons
@@ -245,6 +1453,10 @@ Weight: **0.19** -> **0.23** \
 Horizontal Recoil: **-10** -> **-12** \
 Price: **1000** -> **900**
 
+### FAB Defense UAS AKN P
+
+Vertical Recoil: **-13** -> **-16**
+
 ### Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version
 
 Ergonomics: **-7** -> **-3**
@@ -273,7 +1485,7 @@ Weight: **0.02** -> **0.01**
 
 Ergonomics: **2** -> **3**
 
-### Aeroknox AX15 Rear Sight
+### Aeroknox AX15 Rear Sight 
 
 Ergonomics: **2** -> **3**
 
@@ -344,6 +1556,10 @@ Ergonomics: **3** -> **1**
 ### AIM Sports Low Profile 45 Degree Rear Sight
 
 Ergonomics: **3** -> **2**
+
+### Aimpoint Micro T2 Lens Caps
+
+Weight: **0.05** -> **0.03**
 
 ### Arisaka Inline Scout MLOK Mount
 
@@ -463,19 +1679,19 @@ Horizontal Recoil: **-16** -> **-11** \
 Vertical Recoil: **-23** -> **-16** \
 Price: **1500** -> **1200**
 
-### KAC MRE RAS Free Float 12"
+### KAC MRE RAS Free Float 12" 
 
 Horizontal Recoil: **-14** -> **-10** \
 Vertical Recoil: **-19** -> **-16** \
 Price: **850** -> **950**
 
-### KAC RAS Free Float 12"
+### KAC RAS Free Float 12" 
 
 Horizontal Recoil: **-14** -> **-10** \
 Vertical Recoil: **-20** -> **-17** \
 Price: **800** -> **900**
 
-### KAC RAS Free Float 5"
+### KAC RAS Free Float 5" 
 
 Horizontal Recoil: **-9** -> **-5** \
 Vertical Recoil: **-16** -> **-12** \
@@ -589,7 +1805,7 @@ Vertical Recoil: **-14** -> **-10**
 Horizontal Recoil: **-13** -> **-9** \
 Vertical Recoil: **-15** -> **-11**
 
-### Midwest Industries Supp Series SP7M 7.25"
+### Midwest Industries Supp Series SP7M 7.25" 
 
 Horizontal Recoil: **-9** -> **-5** \
 Vertical Recoil: **-14** -> **-11**
@@ -729,6 +1945,11 @@ Weight: **0.07** -> **0.12**
 
 Weight: **0.17** -> **0.15**
 
+### EWS Bufferless System AR15 Castlenut
+
+Ergonomics: **20** -> **3** \
+Bullet Deviation: **1** -> **3**
+
 ### Battle arms rack
 
 Ergonomics: **4** -> **4.5** \
@@ -773,28 +1994,33 @@ Weight: **0.04** -> **0.06**
 
 ### Thorsden FRS15 Gen3 AR15 Endplate
 
-Ergonomics: **20** -> **4** \
-Horizontal Recoil: **14** -> **6** \
-Vertical Recoil: **18** -> **6**
+Ergonomics: **20** -> **2** \
+Horizontal Recoil: **14** -> **8** \
+Vertical Recoil: **18** -> **8** \
+Bullet Deviation: **** -> **3**
 
 ### Timber Creek Enforcer
 
 Ergonomics: **2** -> **4** \
 Weight: **0.05** -> **0.07** \
 Horizontal Recoil: **-4** -> **-1** \
-Vertical Recoil: **-5** -> **-7**
+Vertical Recoil: **-5** -> **-7** \
+Price: **500** -> **900**
 
 ### TD Skeletonized
 
-Ergonomics: **-2** -> **2** \
+Ergonomics: **-2** -> **3** \
 Weight: **0.02** -> **0.04** \
-Horizontal Recoil: **-1** -> **-4** \
-Vertical Recoil: **-2** -> **-5**
+Horizontal Recoil: **-1** -> **-3** \
+Vertical Recoil: **-2** -> **-5** \
+Price: **1000** -> **700**
 
 ### Juggernaut tacticals featureless
 
-Horizontal Recoil: **-2** -> **-8** \
-Vertical Recoil: **-8** -> **-2**
+Ergonomics: **-3** -> **-1** \
+Horizontal Recoil: **-2** -> **-6** \
+Vertical Recoil: **-8** -> **-1** \
+Price: **750** -> **700**
 
 ### CQR PGS
 
@@ -805,7 +2031,8 @@ Vertical Recoil: **-20** -> **-18**
 
 Weight: **0.04** -> **0.07** \
 Horizontal Recoil: **-3** -> **-4** \
-Vertical Recoil: **-6** -> **-5**
+Vertical Recoil: **-6** -> **-5** \
+Price: **750** -> **500**
 
 ### HK Ergo Psg
 
@@ -817,20 +2044,21 @@ Vertical Recoil: **-1** -> **0**
 ### PMM SCAR Modified Hogue Non-Beavertail
 
 Ergonomics: **8** -> **6** \
-Horizontal Recoil: **-2** -> **-3** \
-Vertical Recoil: **-3** -> **-4**
+Vertical Recoil: **-3** -> **-6** \
+Price: **800** -> **600**
 
 ### MDT Premier AVP
 
 Ergonomics: **3** -> **10** \
 Weight: **0.1** -> **0.08** \
 Horizontal Recoil: **-1** -> **1** \
-Vertical Recoil: **-7** -> **1**
+Vertical Recoil: **-7** -> **1** \
+Price: **500** -> **700**
 
 ### HK Battle
 
 Horizontal Recoil: **-2** -> **-5** \
-Vertical Recoil: **-4** -> **-3**
+Price: **750** -> **800**
 
 ### A2
 
@@ -848,7 +2076,8 @@ Vertical Recoil: **-10** -> **-8**
 
 Weight: **0.06** -> **0.1** \
 Horizontal Recoil: **-4** -> **-3** \
-Vertical Recoil: **-3** -> **-5**
+Vertical Recoil: **-3** -> **-5** \
+Price: **600** -> **800**
 
 ### Magpul MOE-K2
 
@@ -860,14 +2089,25 @@ Horizontal Recoil: **-5** -> **-4**
 Ergonomics: **8** -> **7** \
 Horizontal Recoil: **-5** -> **-4**
 
+### Magpul MOE Scar Pistol Grip
+
+Weight: **0.06** -> **0.1** \
+Horizontal Recoil: **-4** -> **-3** \
+Vertical Recoil: **-3** -> **-5**
+
 ### Hera Arms CQR Gen 2 Pistol Grip
 
-Weight: **0.42** -> **0.12** \
-Vertical Recoil: **-2** -> **-1**
+Ergonomics: **5** -> **4** \
+Weight: **0.42** -> **0.14** \
+Price: **1500** -> **1200**
 
 ### Aeroknox AX15 Orion Pistol Grip
 
-Weight: **0.06** -> **0.09**
+Ergonomics: **10** -> **9** \
+Weight: **0.06** -> **0.09** \
+Horizontal Recoil: **0** -> **-2** \
+Vertical Recoil: **-2** -> **-1** \
+Price: **750** -> **1000**
 
 ### M4 Standard
 
@@ -909,53 +2149,55 @@ Fire Rate: **** -> **0**
 
 ### Colt M4 Standard
 
-Weight: **0.4** -> **0.3**
+Weight: **0.4** -> **0.2**
 
 ### Aeroknox AX15 Upper Receiver
 
 Ergonomics: **-3** -> **0** \
-Weight: **0.3** -> **0.2** \
+Weight: **0.3** -> **0.1** \
 Horizontal Recoil: **** -> **0**
 
 ### Colt M16A2 Carry Handle Upper Receiver
 
 Ergonomics: **7** -> **6** \
-Weight: **0.5** -> **0.4** \
+Weight: **0.5** -> **0.3** \
 Horizontal Recoil: **-1** -> **0** \
 Vertical Recoil: **** -> **0**
 
 ### Lone Star Armory TX15 Light AR15 Upper Receiver
 
-Weight: **0.35** -> **0.25** \
+Weight: **0.35** -> **0.15** \
 Vertical Recoil: **1** -> **0**
 
-### Lone Star Armory TX15 AR15 Upper Receiver
+### Lone Star Armory TX15 AR15 Upper Receiver 
 
 Ergonomics: **4** -> **5** \
-Weight: **0.55** -> **0.4** \
+Weight: **0.55** -> **0.3** \
 Vertical Recoil: **-1** -> **1** \
 Bullet Deviation: **-0.2** -> **-0.1**
 
 ### Noveske GEN3 AR15 Upper Receiver
 
-Weight: **0.43** -> **0.34** \
-Horizontal Recoil: **-1** -> **-2** \
-Vertical Recoil: **** -> **0**
+Weight: **0.43** -> **0.24** \
+Horizontal Recoil: **-1** -> **0** \
+Vertical Recoil: **** -> **-3**
 
 ### Noveske Marked VLTOR MUR1S AR15 Upper Receiver
 
 Ergonomics: **3** -> **2** \
-Weight: **0.47** -> **0.37** \
+Weight: **0.47** -> **0.27** \
 Horizontal Recoil: **** -> **-1**
 
 ### VLTOR MUR1S AR15 Upper Receiver
 
 Ergonomics: **-1** -> **1** \
-Weight: **0.46** -> **0.36**
+Weight: **0.46** -> **0.26**
 
 ### Radian Weapons AR15 Model 1 M1CURGH Upper Receiver
 
-Weight: **0.6** -> **0.5**
+Weight: **0.6** -> **0.36** \
+Horizontal Recoil: **-2** -> **-1** \
+Vertical Recoil: **-2** -> **-1**
 
 ### Radian Weapons AR15 Extended Bolt Catch
 
@@ -982,14 +2224,21 @@ Vertical Recoil: **** -> **-1**
 
 ### Armaspec Rhino R-23 Tactical
 
-Ergonomics: **5** -> **4** \
+Ergonomics: **5** -> **3** \
+Weight: **0.17** -> **0.13** \
 Vertical Recoil: **-2** -> ****
 
 ### NcStar BlastAR VKARMW
 
-Ergonomics: **4** -> **3** \
+Ergonomics: **4** -> **2** \
+Weight: **0.13** -> **0.07** \
 Horizontal Recoil: **-2** -> **** \
 Vertical Recoil: **** -> **-2**
+
+### HRF Concepts RCM AR15 Milspec Magwell
+
+Ergonomics: **2** -> **1.5** \
+Weight: **0.1** -> **0.05**
 
 ### Colt M4 Standard
 
@@ -1020,70 +2269,96 @@ Vertical Recoil: **** -> **0**
 
 ### Brownells A1 Government 20" Rifle Length Gastube 5.56x45
 
-Ergonomics: **-10** -> **-5** \
-Horizontal Recoil: **-13** -> **-12** \
+Ergonomics: **-10** -> **-8** \
+Weight: **0.58** -> **0.88** \
+Horizontal Recoil: **-13** -> **-10** \
 Vertical Recoil: **-12** -> **-10**
 
 ### Brownells Government 16" Mid Length Gastube 5.56x45
 
-Ergonomics: **-5** -> **-2**
+Ergonomics: **-5** -> **-4** \
+Weight: **0.5** -> **0.7** \
+Horizontal Recoil: **-8** -> **-7** \
+Vertical Recoil: **-9** -> **-7**
 
 ### Brownells HBAR 20" Rifle Length Gastube 5.56x45
 
-Ergonomics: **-12.5** -> **-7** \
-Horizontal Recoil: **-14** -> **-13** \
-Vertical Recoil: **-15** -> **-14**
+Ergonomics: **-12.5** -> **-9** \
+Weight: **0.65** -> **0.96** \
+Horizontal Recoil: **-14** -> **-11** \
+Vertical Recoil: **-15** -> **-12**
 
 ### Brownells Socom 16" Carbine Length Gastube 5.56x45
 
-Ergonomics: **-4.5** -> **-1** \
-Weight: **0.47** -> **0.46** \
-Horizontal Recoil: **-6.5** -> **-7**
+Ergonomics: **-4.5** -> **-3** \
+Weight: **0.47** -> **0.72** \
+Horizontal Recoil: **-6.5** -> **-7** \
+Vertical Recoil: **-7** -> **-6**
 
 ### CMMG 24" Fluted AR-15 Rifle Length Gastube 5.56x45
 
-Ergonomics: **-20** -> **-14** \
-Weight: **0.8** -> **0.72**
+Ergonomics: **-20** -> **-13** \
+Weight: **0.8** -> **0.96** \
+Horizontal Recoil: **-16** -> **-12** \
+Vertical Recoil: **-17** -> **-13**
 
 ### Colt Government 10.5" Carbine Length Gastube 5.56x45
 
 Ergonomics: **-1** -> **2** \
+Weight: **0.3** -> **0.46** \
+Horizontal Recoil: **-1** -> **-2** \
+Vertical Recoil: **-1** -> **-2** \
 Bullet Damage: **-0.15** -> **-0.14**
 
 ### Colt Government 12.5" Carbine Length Gastube 5.56x45
 
 Ergonomics: **-2.5** -> **1** \
+Weight: **0.35** -> **0.54** \
+Horizontal Recoil: **-2** -> **-3** \
+Vertical Recoil: **-2** -> **-3** \
 Bullet Damage: **-0.1** -> **-0.08**
 
 ### Colt Government 14.5" Carbine Length Gastube 5.56x45
 
 Ergonomics: **-3** -> **0** \
+Weight: **0.42** -> **0.62** \
 Bullet Damage: **0** -> **0.02**
 
 ### Colt Government 7.5" Pistol Length Gastube 5.56x45
 
-Ergonomics: **0** -> **3**
+Ergonomics: **0** -> **3** \
+Weight: **0.23** -> **0.33** \
+Horizontal Recoil: **0** -> **-1** \
+Vertical Recoil: **0** -> **-1** \
+Bullet Deviation: **0.5** -> **0.4**
 
 ### Colt Socom 14.5" Carbine Length Gastube 5.56x45
 
-Ergonomics: **-3** -> **0** \
-Bullet Damage: **0.05** -> **0.06**
+Ergonomics: **-3** -> **-1** \
+Weight: **0.46** -> **0.66** \
+Horizontal Recoil: **-6** -> **-5** \
+Vertical Recoil: **-6** -> **-5** \
+Bullet Damage: **0.05** -> **0.04**
 
 ### Custom 2in AR15 Barrel
 
-Ergonomics: **3** -> **6**
+Ergonomics: **3** -> **5** \
+Weight: **0.16** -> **0.1**
 
 ### Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube
 
-Ergonomics: **2** -> **5** \
+Ergonomics: **2** -> **4** \
+Weight: **0.25** -> **0.22** \
 Horizontal Recoil: **0** -> **1** \
-Vertical Recoil: **0** -> **2** \
+Vertical Recoil: **0** -> **1** \
 Bullet Damage: **-0.3** -> **-0.26**
 
 ### X-Caliber Custom 18" Spiral 6 Groove Mid Length Gastube .223 Wylde
 
-Ergonomics: **-7** -> **-4** \
-Horizontal Recoil: **-9** -> **-10**
+Ergonomics: **-7** -> **-6** \
+Weight: **0.52** -> **0.74** \
+Horizontal Recoil: **-9** -> **-8** \
+Vertical Recoil: **-10** -> **-8**
 
 ### FN SCAR Standard
 
@@ -1108,8 +2383,8 @@ Ergonomics: **1** -> **1.5**
 ### FN SCAR Mk20 508mm
 
 Ergonomics: **-4** -> **-2** \
-Horizontal Recoil: **1** -> **8** \
-Vertical Recoil: **0** -> **6** \
+Horizontal Recoil: **1** -> **9** \
+Vertical Recoil: **0** -> **8** \
 Bullet Damage: **-0.04** -> **0.1**
 
 ### Deadshot FN SCAR 20 Spiral 20" Threaded
@@ -1117,7 +2392,7 @@ Bullet Damage: **-0.04** -> **0.1**
 Ergonomics: **-1** -> **0** \
 Weight: **0.52** -> **0.61** \
 Horizontal Recoil: **-1** -> **7** \
-Vertical Recoil: **-1** -> **8** \
+Vertical Recoil: **-1** -> **11** \
 Bullet Deviation: **0.1** -> **0** \
 Bullet Damage: **-0.05** -> **0.05** \
 Bullet Velocity: **150** -> **300**
@@ -1131,17 +2406,17 @@ Bullet Damage: **-0.05** -> **0**
 
 ### Deadshot FN SCAR 20 Spiral 16" Threaded
 
-Ergonomics: **5** -> **4** \
+Ergonomics: **5** -> **3** \
 Weight: **0.46** -> **0.51** \
-Horizontal Recoil: **3** -> **6** \
-Vertical Recoil: **1** -> **4** \
+Horizontal Recoil: **3** -> **7** \
+Vertical Recoil: **1** -> **7** \
 Bullet Deviation: **0.12** -> **0.07** \
 Bullet Damage: **-0.07** -> **-0.04** \
 Bullet Velocity: **0** -> **100**
 
 ### FN SCAR-H 406mm
 
-Ergonomics: **4** -> **6** \
+Ergonomics: **4** -> **5** \
 Horizontal Recoil: **1** -> **4** \
 Vertical Recoil: **0** -> **5**
 
@@ -1155,7 +2430,7 @@ Bullet Damage: **-0.09** -> **-0.12**
 
 ### Hi-desertdog HDD Tactical Scar H 267mm Barrel
 
-Ergonomics: **10** -> **18** \
+Ergonomics: **10** -> **24** \
 Weight: **0.33** -> **0.3** \
 Horizontal Recoil: **4** -> **11** \
 Vertical Recoil: **3** -> **8** \
@@ -1229,6 +2504,7 @@ Bullet Deviation: **** -> **0.07**
 
 ### HANDL DEFENSE SCAR 47 394mm
 
+Bullet Deviation: **0** -> **0.25** \
 Bullet Damage: **0** -> **-0.1**
 
 ### FN SCAR Mk20
@@ -1249,6 +2525,10 @@ Horizontal Recoil: **-1.5** -> **0**
 Ergonomics: **5** -> **8** \
 Vertical Recoil: **-5** -> **-7**
 
+### Kriss Vector .45ACP
+
+Vertical Recoil: **5** -> **15**
+
 ### EDC X9 Std. 18r
 
 Ergonomics: **21** -> **15**
@@ -1260,6 +2540,79 @@ Ergonomics: **20** -> **16**
 ### EDC X9 Std. 10r
 
 Ergonomics: **19** -> **17**
+
+### DSA FAL SA-58 U.S. Made Metric 10R
+
+Ergonomics: **14** -> **9** \
+Weight: **0.19** -> **0.21**
+
+### DSA FAL SA-58 U.S. Made Metric 20R
+
+Ergonomics: **5** -> **-2** \
+Weight: **0.39** -> **0.31**
+
+### DSA FAL SA-58 U.S. Made Metric 30R
+
+Ergonomics: **-10** -> **-9**
+
+### Enfield L1A1 SLR Pattern 30R
+
+Ergonomics: **-10** -> **-7** \
+Weight: **0.6** -> **0.64** \
+Vertical Recoil: **-2** -> ****
+
+### Moses Mag Works Polymer 20R
+
+Ergonomics: **4** -> **-4** \
+Weight: **0.37** -> **0.28** \
+Vertical Recoil: **0** -> ****
+
+### X Products X-FAL .308 50R Drum
+
+Ergonomics: **-15** -> **-17** \
+Weight: **0.9** -> **0.92** \
+Vertical Recoil: **-4** -> **** \
+Bullet Deviation: **** -> **0.1**
+
+### Custom G3 Welded 30R
+
+Ergonomics: **-5** -> **-9**
+
+### FAB Defence AK74 PDC
+
+Ergonomics: **-2** -> **3** \
+Horizontal Recoil: **-1** -> **-2** \
+Bullet Deviation: **** -> **0.05**
+
+### Izhmash AK74 6P1 0-1
+
+Ergonomics: **7** -> **8**
+
+### Zenitco B-33 Gen 1
+
+Ergonomics: **0** -> **5**
+
+### AKademia bastion
+
+Ergonomics: **-1** -> **1** \
+Horizontal Recoil: **-2** -> **-3** \
+Vertical Recoil: **-2** -> **-5** \
+Bullet Deviation: **** -> **0.05**
+
+### Midwest Industries ALPHA AK series Railed Top Cover
+
+Ergonomics: **-2** -> **4** \
+Horizontal Recoil: **-4** -> **-2** \
+Vertical Recoil: **-2** -> **-4**
+
+### Scout Scopes AK
+
+Ergonomics: **-2** -> **1** \
+Weight: **0.06** -> **0.12**
+
+### Strike Industries Ak
+
+Weight: **0.03** -> **0.06**
 
 ### AK-308 415mm 7.62x51
 
@@ -1276,6 +2629,18 @@ Bullet Damage: **0.3** -> **0.05**
 
 Ergonomics: **0** -> **8**
 
+### German Democratic Republic ZVN-64 Front Night Shooting
+
+Ergonomics: **-0.5** -> **1**
+
+### German Democratic Republic ZVN-64 Rear Night Shooting
+
+Ergonomics: **-0.5** -> **2**
+
+### German Democratic Republic ZVN-64 Rear Night Shooting
+
+Ergonomics: **-0.5** -> **2**
+
 ### AK74 Std. Polymer 6P20 Sb.9 Upper Piece
 
 Ergonomics: **-0.5** -> **0**
@@ -1283,6 +2648,10 @@ Ergonomics: **-0.5** -> **0**
 ### AK74 Polymer 6P20 Sb.9 Lower
 
 Ergonomics: **15** -> **16**
+
+### Magazine
+
+Magazine Capacity: **17** -> **0**
 
 ### Wilson Combat EDC X9 102mm 9x19
 
@@ -1356,15 +2725,47 @@ Bullet Deviation: **** -> **0.15**
 
 Bullet Deviation: **0.1** -> **0.25**
 
+### 7.62x39 Tulammo Steel Case 122gr FMJ (UL076201)
+
+Bullet Deviation: **0.1** -> **0.25**
+
+### 7.62x39 Tulammo Steel Case 154gr SP
+
+Bullet Deviation: **0.2** -> **0.35**
+
+### 7.62x39 Tulammo Steel Case 144gr Tracer (T-45)
+
+Bullet Deviation: **0.15** -> **0.3**
+
 ### 5.8x42_test
 
 Magazine Capacity: **** -> **0.1** \
 Bullet Velocity: **270** -> **-250**
 
+### Remington Accutip 12g 2.75" Slug
+
+Bullet Deviation: **0.1** -> **0.2**
+
+### MILI 12g 2.75" 9 PELLETS 00 BUCK
+
+Buck Bullet Deviation: **** -> **0.1**
+
+### Pheonix Rising Hellfire 3inch Dragon's Breath with buck
+
+Buck Bullet Deviation: **** -> **0.25**
+
+### Federal Ammunition Game-Shok Upland Heavy Field 12g 2.75" 150 PELLETS #4 BUCK
+
+Buck Bullet Deviation: **** -> **0.5**
+
 ### UMP9 9x19 Upper Receiver
 
 Horizontal Recoil: **0** -> **-4** \
 Vertical Recoil: **-5** -> **-13**
+
+### HK USC 9x19 16.5" 
+
+Bullet Damage: **0** -> **0.1**
 
 ### FAB Defense G3-RS Railed
 
@@ -1407,6 +2808,15 @@ Ergonomics: **-2** -> **2** \
 Horizontal Recoil: **-2** -> **0** \
 Vertical Recoil: **-4** -> **-2**
 
+### FR Ordinance MC51 Upper Receiver
+
+Price: **4000** -> **5000**
+
+### PTR HK G3 MilSpec AR15 Buffer Tube Adaptor
+
+Ergonomics: **2** -> **1** \
+Bullet Deviation: **** -> **0.1**
+
 ### HK Sniper PSG-1 Version 2 Stock Assembly
 
 Ergonomics: **13** -> **16** \
@@ -1418,7 +2828,7 @@ Vertical Recoil: **-8** -> **-5**
 Ergonomics: **0** -> **2** \
 Horizontal Recoil: **0** -> **2** \
 Vertical Recoil: **1** -> **4** \
-Bullet Deviation: **0.3** -> **0.1** \
+Bullet Deviation: **0.3** -> **0** \
 Bullet Damage: **0.1** -> **0**
 
 ### HK G3 457mm 7.62x51
@@ -1426,15 +2836,16 @@ Bullet Damage: **0.1** -> **0**
 Ergonomics: **-2** -> **-6** \
 Horizontal Recoil: **-1** -> **-2** \
 Vertical Recoil: **-2** -> **-3** \
-Bullet Deviation: **0.01** -> **-0.1**
+Bullet Deviation: **0.01** -> **-0.2**
 
 ### FR Ordnance MC51 211mm 7.62x51
 
 Ergonomics: **2** -> **8** \
-Horizontal Recoil: **4** -> **6** \
-Vertical Recoil: **6** -> **8** \
+Horizontal Recoil: **4** -> **7** \
+Vertical Recoil: **6** -> **9** \
 Bullet Deviation: **0.5** -> **0.3** \
-Bullet Damage: **0.05** -> **-0.04**
+Bullet Damage: **0.05** -> **-0.04** \
+Price: **2500** -> **3500**
 
 ### FR Ordnance MC51k 145mm 7.62x51
 
@@ -1442,7 +2853,8 @@ Ergonomics: **6** -> **14** \
 Weight: **0.27** -> **0.24** \
 Horizontal Recoil: **10** -> **11** \
 Vertical Recoil: **6** -> **13** \
-Bullet Deviation: **1** -> **0.4**
+Bullet Deviation: **1** -> **0.4** \
+Bullet Damage: **-0.1** -> **-0.14**
 
 ### FR Ordinance MC51SD 125mm 7.62x51
 
@@ -1455,7 +2867,23 @@ Bullet Deviation: **1.25** -> **0.5**
 Ergonomics: **-6** -> **-4** \
 Horizontal Recoil: **-5** -> **-2** \
 Vertical Recoil: **-5** -> **0** \
-Bullet Deviation: **-0.3** -> **-0.38**
+Bullet Deviation: **-0.3** -> **-0.4**
+
+### PTR 32 7.62x39 18in Barrel
+
+Bullet Deviation: **-0.05** -> **-0.15**
+
+### PTR 32 7.62x39 18in 5/8 Threaded Barrel
+
+Bullet Deviation: **-0.05** -> **-0.15**
+
+### PTR 32 7.62x39 16in Barrel
+
+Bullet Deviation: **0.05** -> **-0.05**
+
+### PTR 32 7.62x39 16in 5/8 Threaded Barrel
+
+Bullet Deviation: **0.05** -> **-0.05**
 
 ### FR Ordinance MC51SD Suppressor
 
@@ -1471,10 +2899,32 @@ Horizontal Recoil: **** -> **-1**
 Ergonomics: **0** -> **3** \
 Vertical Recoil: **** -> **1**
 
+### Steyr AUG A3 5.56x45 407mm
+
+Ergonomics: **4** -> **6** \
+Horizontal Recoil: **1** -> **0** \
+Vertical Recoil: **3** -> **2**
+
+### Steyr AUG A3 5.56x45 508mm
+
+Ergonomics: **-2** -> **0** \
+Weight: **0.53** -> **0.59** \
+Horizontal Recoil: **-1** -> **-2** \
+Vertical Recoil: **-2** -> **-4**
+
+### Steyr AUG A3 5.56x45 350mm
+
+Weight: **0.4** -> **0.39** \
+Vertical Recoil: **6** -> **4**
+
 ### Steyr AUG HBAR 5.56x45 620mm Heavy LMG
 
 Ergonomics: **-9** -> **-7** \
-Weight: **0.76** -> **0.8**
+Weight: **0.76** -> **0.8** \
+Horizontal Recoil: **-3** -> **-5** \
+Vertical Recoil: **-4** -> **-7** \
+Bullet Deviation: **-0.2** -> **0.2** \
+Bullet Damage: **0.2** -> **0.1**
 
 ### PuP Light 25mm Flashlight
 
@@ -1484,7 +2934,7 @@ Weight: **0.04** -> **0.02**
 
 Weight: **0.43** -> **0.49**
 
-### AUG Para 9x19 Std
+### AUG Para 9x19 Std.
 
 Weight: **0.25** -> **0.2** \
 Horizontal Recoil: **** -> **-2** \
@@ -1532,7 +2982,7 @@ Weight: **0.03** -> **0.06**
 
 Weight: **0.02** -> **0.03**
 
-### AUG A3 Std
+### AUG A3 Std.
 
 Ergonomics: **5** -> **3** \
 Horizontal Recoil: **-5** -> **-4** \
@@ -1694,25 +3144,33 @@ Bullet Velocity: **90** -> **0**
 
 ### IPS 5.56 1in Barrel Extension
 
-Ergonomics: **-1** -> **0** \
-Weight: **0.06** -> **0.03** \
+Weight: **0.06** -> **0.04** \
+Bullet Deviation: **0.05** -> **0.06** \
 Bullet Damage: **** -> **0.02** \
 Bullet Velocity: **40** -> **20** \
 Price: **500** -> **400**
 
 ### IPS 5.56 2in Barrel Extension
 
-Ergonomics: **-1.5** -> **-1** \
-Weight: **0.09** -> **0.06** \
+Weight: **0.09** -> **0.08** \
+Bullet Deviation: **0.1** -> **0.12** \
 Bullet Damage: **** -> **0.04** \
 Bullet Velocity: **60** -> **40** \
 Price: **750** -> **500**
 
 ### IPS 5.56 4in Barrel Extension
 
-Weight: **0.12** -> **0.1** \
+Ergonomics: **-2** -> **-3** \
+Weight: **0.12** -> **0.16** \
+Bullet Deviation: **0.15** -> **0.24** \
 Bullet Damage: **0.05** -> **0.08** \
 Price: **1000** -> **600**
+
+### ISP 1/2x28 to 5/8x24 Knurled Thread Adapter
+
+Ergonomics: **-2** -> **-3** \
+Bullet Deviation: **0.1** -> **0.25** \
+Bullet Velocity: **-100** -> **-200**
 
 ### Surefire SOCOM556 SFMB Muzzle Break
 
@@ -1745,6 +3203,11 @@ Vertical Recoil: **-4** -> **-8** \
 Bullet Damage: **** -> **0** \
 Bullet Velocity: **60** -> **0**
 
+### IPS 9x19 1in Barrel Extension
+
+Weight: **0.06** -> **0.04** \
+Bullet Deviation: **0.05** -> **0.06**
+
 ### SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston
 
 Horizontal Recoil: **-1** -> **-3** \
@@ -1763,6 +3226,20 @@ Horizontal Recoil: **-10** -> **-6** \
 Vertical Recoil: **-15** -> **-12** \
 Bullet Deviation: **0.08** -> **0.12** \
 Bullet Damage: **-0.05** -> **-0.06**
+
+### IPS 7.62x51 1in Barrel Extension
+
+Bullet Deviation: **0.05** -> **0.06**
+
+### IPS 7.62x51 2in Barrel Extension
+
+Bullet Deviation: **0.1** -> **0.12**
+
+### IPS 7.62x51 4in Barrel Extension
+
+Ergonomics: **-2** -> **-3** \
+Weight: **0.12** -> **0.15** \
+Bullet Deviation: **0.15** -> **0.24**
 
 ### Surefire SOCOM762 SFMB Muzzle Break
 
@@ -1965,17 +3442,16 @@ Price: **2000** -> **1900**
 
 ### GPS-02 Extended
 
-Ergonomics: **-3** -> **-4** \
+Ergonomics: **-3** -> **-5** \
 Weight: **0.1** -> **0.09** \
-Horizontal Recoil: **-9** -> **-6** \
+Horizontal Recoil: **-9** -> **-5** \
 Vertical Recoil: **-7** -> **-9** \
 Price: **200** -> **0**
 
 ### GPS-02 Collapsed
 
-Ergonomics: **4** -> **-1** \
+Ergonomics: **4** -> **-2** \
 Weight: **0.1** -> **0.09** \
-Horizontal Recoil: **-3** -> **-4** \
 Vertical Recoil: **-2** -> **-7** \
 Price: **200** -> **0**
 
@@ -2137,3 +3613,14 @@ Ergonomics: **1** -> **0**
 ### Remington 700 BDL Front Sight Mount
 
 Ergonomics: **1** -> **0**
+
+### HK MP5 Wide Tropical
+
+Price: **3500** -> **0**
+
+### Aeroknox AX MP5 Trigger Housing
+
+Ergonomics: **4** -> **-1** \
+Weight: **0.05** -> **0.45** \
+Horizontal Recoil: **2** -> **-1** \
+Vertical Recoil: **3** -> **1**
