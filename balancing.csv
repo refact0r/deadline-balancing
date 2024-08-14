@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Aug 13 18:46:58 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Aug 13 18:48:56 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -515,15 +515,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 337,,colt_m4a1_trigger_guard,Colt M4 standard Trigger Guard,2,0.02,,,,,,,,,0
 ,,strike_industries_polyflex_ar15_trigger_guard,Strike Industries Polyflex AR15 Trigger Guard,3,0.08,,,,,,,,,400
 ,m4a1_upper_receiver,,,,,,,,,,,,,
-338,,colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.3,0,0,,,,,,,750
-,,aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,0,0.2,0,1,,,,,,,1000
-,,colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,6,0.4,0,0,,,,,,,750
-,,lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.25,1,0,,,,,,,3000
-,,lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,5,0.4,1,1,,-0.1,,,,,4000
-,,noveske_gen3_ar15_upper_receiver,Noveske GEN3 AR15 Upper Receiver,1,0.34,-2,0,,-0.05,,,,,2000
-,,noveske_marked_vltor_mur1s_ar15_upper_receiver,Noveske Marked VLTOR MUR1S AR15 Upper Receiver,2,0.37,-1,-1,,,,,,,2000
-,,vltor_mur1s_ar15_upper_receiver,VLTOR MUR1S AR15 Upper Receiver,1,0.36,-1,-2,,,,,,,3000
-,,radian_weapons_ar15_model_1_m1curgh_upper_receiver,Radian Weapons AR15 Model 1 M1CURGH Upper Receiver,4,0.5,-2,-2,,-0.05,,,,,3000
+338,,colt_m4a1_std_upper_receiver,Colt M4 Standard,0,0.2,0,0,,,,,,,750
+,,aeroknox_ax15_upper_receiver,Aeroknox AX15 Upper Receiver,0,0.1,0,1,,,,,,,1000
+,,colt_m16a2_carry_handle_upper_receiver,Colt M16A2 Carry Handle Upper Receiver,6,0.3,0,0,,,,,,,750
+,,lone_star_armory_tx15_light_ar15_upper_receiver,Lone Star Armory TX15 Light AR15 Upper Receiver,2,0.15,1,0,,,,,,,3000
+,,lone_star_armory_tx15_regular_ar15_upper_receiver,Lone Star Armory TX15 AR15 Upper Receiver ,5,0.3,1,1,,-0.1,,,,,4000
+,,noveske_gen3_ar15_upper_receiver,Noveske GEN3 AR15 Upper Receiver,1,0.24,0,-3,,-0.05,,,,,2000
+,,noveske_marked_vltor_mur1s_ar15_upper_receiver,Noveske Marked VLTOR MUR1S AR15 Upper Receiver,2,0.27,-1,-1,,,,,,,2000
+,,vltor_mur1s_ar15_upper_receiver,VLTOR MUR1S AR15 Upper Receiver,1,0.26,-1,-2,,,,,,,3000
+,,radian_weapons_ar15_model_1_m1curgh_upper_receiver,Radian Weapons AR15 Model 1 M1CURGH Upper Receiver,4,0.36,-1,-1,,-0.05,,,,,3000
 ,m4a1_bolt_catch,,,,,,,,,,,,,
 339,,m4a1_std_bolt_catch,Colt M4 Standard,0,0.01,,,,,,,,,0
 ,,radian_weapons_ar15_extended_bolt_catch,Radian Weapons AR15 Extended Bolt Catch,1,0.03,,,,,,,,,300
