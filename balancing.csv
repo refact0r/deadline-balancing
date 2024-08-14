@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Aug 06 13:49:17 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Aug 13 18:43:36 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -147,10 +147,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,0,0.03,,,,,,,,,750
 ,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,0,0.03,,,,,,,,,750
 ,,armasight_orion_3x_gen1_plus_nv_scope,Armasight Orion 3x Gen1+ Night Vision Scope,-8,0.26,,,,,,,,,1000
-,,bcm_gunfighter_mod3_picatinny_foregrip,BCM Gunfighter Mod3 Picatinny Foregrip,,,,,,,,,,,300
-,,bcm_gunfighter_mod3_picatinny_foregrip_flipped,BCM Gunfighter Mod3 Picatinny Foregrip Flipped,,,,,,,,,,,300
-,,bcm_gunfighter_mod3_picatinny_shortened_foregrip,BCM Gunfighter Mod3 Picatinny Shortened Foregrip,,,,,,,,,,,250
-,,bcm_gunfighter_mod3_picatinny_shortened_foregrip_flipped,BCM Gunfighter Mod3 Picatinny Shortened Foregrip Flipped,,,,,,,,,,,250
+,,bcm_gunfighter_mod3_picatinny_foregrip,BCM Gunfighter Mod 3 Picatinny Foregrip,5,0.07,-1,-4,,,,,,,300
+,,bcm_gunfighter_mod3_picatinny_foregrip_flipped,BCM Gunfighter Mod 3 Picatinny Foregrip Flipped,4,0.07,-3,-3,,,,,,,300
+,,bcm_gunfighter_mod3_picatinny_shortened_foregrip,BCM Gunfighter Mod 3 Picatinny Shortened Foregrip,6,0.05,0,-3,,,,,,,300
+,,bcm_gunfighter_mod3_picatinny_shortened_foregrip_flipped,BCM Gunfighter Mod 3 Picatinny Shortened Foregrip Flipped,5,0.05,-2,-2,,,,,,,300
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-16,-7,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-6,-24,,,,,,,1000
@@ -264,10 +264,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 186,,aeroknox_ax_mlok_cover_flipped,Aeroknox AX MLOK Cover,0.5,0.01,,,,,,,,,100
 187,,aeroknox_ax_mlok_grip,Aeroknox AX MLOK Handstop,6,0.04,-1,-2,,,,,,,600
 188,,bcm_gunfighter_kag,BCM Gunfighter KAG MLOK Foregrip,7,0.04,-1,0,,,,,,,300
-189,,bcm_gunfighter_mod3_mlok_foregrip,BCM Gunfighter Mod3 MLOK Foregrip,4,0.07,-3,-3,,,,,,,300
-190,,bcm_gunfighter_mod3_mlok_foregrip_flipped,BCM Gunfighter Mod3 MLOK Foregrip Flipped,5,0.07,-1,-4,,,,,,,300
-,,bcm_gunfighter_mod3_mlok_shortened_foregrip,BCM Gunfighter Mod3 MLOK Shortened Foregrip,,,,,,,,,,,250
-,,bcm_gunfighter_mod3_mlok_shortened_foregrip_flipped,BCM Gunfighter Mod3 MLOK Shortened Foregrip Flipped,,,,,,,,,,,250
+189,,bcm_gunfighter_mod3_mlok_foregrip,BCM Gunfighter Mod 3 MLOK Foregrip,5,0.07,-1,-4,,,,,,,300
+190,,bcm_gunfighter_mod3_mlok_foregrip_flipped,BCM Gunfighter Mod 3 MLOK Foregrip Flipped,4,0.07,-3,-3,,,,,,,300
+,,bcm_gunfighter_mod3_mlok_shortened_foregrip,BCM Gunfighter Mod 3 MLOK Shortened Foregrip,6,0.05,0,-3,,,,,,,300
+,,bcm_gunfighter_mod3_mlok_shortened_foregrip_flipped,BCM Gunfighter Mod 3 MLOK Shortened Foregrip Flipped,5,0.05,-2,-2,,,,,,,300
 191,,dd_enhanced_mvg,DD Enhanced MVG,4,0.07,-1,-6,,,,,,,400
 192,,generic_11_slot_mlok_rail_bottom,Generic 11 Slot MLOK,-2,0.06,,,,,,,,,500
 193,,generic_11_slot_mlok_rail_side,Generic 11 Slot MLOK,-2,0.06,,,,,,,,,500
