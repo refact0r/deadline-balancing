@@ -23,7 +23,7 @@ def compare_rows(
 ) -> List[str]:
     changes = []
     for key in compare_cols:
-        if row1.get(key, "0") != row2.get(key, "0"):
+        if not row1 or row1.get(key, "0") != row2.get(key, "0"):
             changes.append(
                 f"{format_header(key)}: **{row1.get(key, '0')}** -> **{row2.get(key, '0')}**"
             )
@@ -36,20 +36,31 @@ def main(file1: str, file2: str):
 
     compare_cols = list(next(iter(data1.values())).keys())[4:]
 
+    new = []
     changes = []
     for name, row2 in data2.items():
+        row_changes = []
         if name in data1:
             row_changes = compare_rows(data1[name], row2, compare_cols)
-            if row_changes:
+            if len(row_changes) > 0:
                 pretty_name = row2.get("pretty_name") or row2["name"]
                 changes.append(
                     f"### {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n"
                 )
+        else:
+            row_changes = compare_rows({}, row2, compare_cols)
+            if len(row_changes) > 0:
+                pretty_name = row2.get("pretty_name") or row2["name"]
+                new.append(f"### {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n")
 
     output_file = "changelogs/" + version.replace(".", "-") + "-changelog.md"
     with open(output_file, "w", encoding="utf-8-sig") as f:
         f.write(f"# {version} Balancing Changes\n\n")
+        f.write(f"New attachments: {len(new)}\n\n")
         f.write(f"Attachments changed: {len(changes)}\n\n")
+        f.write(f"## New Attachments\n\n")
+        f.write("\n".join(new))
+        f.write(f"## Changed Attachments\n\n")
         f.write("\n".join(changes))
 
     print(f"Output written to {output_file}")
