@@ -12,4 +12,4 @@ colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gas
 colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",-1,0.3,-1,-1,,0.25,-0.15,-239,,,750,-8.795,,2,0.46,-2,-2,,0.25,-0.14,-239,,,750,-7.545,,0.04,10.5,0,0.46
 colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",0,0.23,0,0,,0.5,-0.2,-633,,,750,-11.265,,3,0.33,-1,-1,,0.4,-0.2,-633,,,750,-8.365,,0.03,7.5,0,0.33
 veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,2,0.25,0,0,,0.6,-0.3,-685,,0.063,1200,-10.925,,4,0.22,1,1,,0.6,-0.26,-685,,0.063,1200,-9.525,,0.02,5,0,0.22
-custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,3,0.16,5,5,,1,-0.4,-700,,0.125,1100,-17.7,,5,0.1,5,5,,1,-0.4,-700,,0.125,1100,-14.5,,0.02,2,0,0.1
+custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,3,0.16,5,5,,1,-0.4,-700,,0.125,1100,-17.7,,5,0.1,5,5,,5,-0.4,-700,,0.125,1100,-14.5,,0.02,2,0,0.1

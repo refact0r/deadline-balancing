@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Aug 13 18:48:56 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Aug 13 23:01:37 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -561,7 +561,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 354,,colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",0,0.62,-4,-4,,0.08,0.02,-22,,,900
 355,,colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",3,0.33,-1,-1,,0.4,-0.2,-633,,,750
 356,,colt_m4a1_5.56x45_368mm_socom_c_barrel,"Colt Socom 14.5"" Carbine Length Gastube 5.56x45",-1,0.66,-5,-5,,0.05,0.04,33,,,2500
-357,,custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,5,0.1,5,5,,1,-0.4,-700,,0.125,1100
+357,,custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,5,0.1,5,5,,5,-0.4,-700,,0.125,1100
 ,,veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,4,0.22,1,1,,0.6,-0.26,-685,,0.063,1200
 ,,x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-6,0.74,-8,-8,,-0.1,0.2,267,,,3000
 ,m4_gasblock_mount,,,,,,,,,,,,,
