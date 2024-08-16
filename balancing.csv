@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Aug 16 10:55:25 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Aug 16 11:29:52 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -166,6 +166,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.14,-9,-14,,,,,,,500
 134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,5,0.1,0,0,,,,,,,600
 135,,magpul_str_carbine_stock,Magpul STR Carbine,17,0.23,-12,-12,,,,,,,900
+,,magpul_moe_sl_k_carbine_stock,Magpul MOE SL-K Carbine,18,0.18,-10,-12,,,,,,,900
 ,ak_fixed_stock,,,,,,,,,,,,,
 136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.16,-7,-16,,,,,,,500
 137,,izhmash_ak74_polymer_6p20_sb7,Polymer 6P20 Sb.7 Polymer,17,0.12,-7,-10,,,,,,,600
@@ -2026,13 +2027,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,prs_3_stock_pad,,,,,,,,,,,,,
 1237,,prs_gen3_buttpad,Magpul PRS Gen3 Buttpad,2,0.04,-1,-1,,,,,,,0
 ,moe_stock_buttpad,,,,,,,,,,,,,
-1238,,magpul_moe_butt_pad,Magpul MOE Buttpad,1,0.02,-1,-1,,,,,,,0
+1238,,magpul_moe_butt_pad,Magpul MOE Carbine Buttpad,1,0.02,-1,-1,,,,,,,0
 ,str_butt_pad,,,,,,,,,,,,,
-,,magpul_str_butt_pad,Magpul STR Buttpad,1,0.02,-1,-1,,,,,,,0
+,,magpul_str_butt_pad,Magpul STR Carbine Buttpad,1,0.02,-1,-1,,,,,,,0
 ,moe_old_stock_pad,,,,,,,,,,,,,
 1239,,moe_stock_pad,MOE Stock Pad,2,0.02,0,0,,,,,,,0
+,slk_butt_pad,,,,,,,,,,,,,
+,,magpul_moe_sl_k_carbine_stock_buttpad,Magpul MOE SL-K Carbine Buttpad,1,0.02,-1,-1,,,,,,,0
 ,lmt_stock_pad,,,,,,,,,,,,,
-1240,,lmt_pad,LMT Buttpad,1,0.02,-1,-1,,,,,,,0
+1240,,lmt_pad,LMT Sopmod Buttpad,1,0.02,-1,-1,,,,,,,0
 ,emod_stock_pad,,,,,,,,,,,,,
 1241,,emod_pad,EMOD Buttpad,1,0.025,-1,-1,,,,,,,0
 ,xm177_buttpad,,,,,,,,,,,,,
