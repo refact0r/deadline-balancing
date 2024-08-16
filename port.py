@@ -24,7 +24,7 @@ def update_csv(changes, original, header_line=1):
 
     for i in range(2, len(lines)):
         name = lines[i][o_name_idx]
-        if name in data:
+        if len(name) > 0 and name in data:
             changes_row = data[name]
             for j in range(0, len(c_headers)):
                 if c_headers[j] in o_headers:

@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Aug 15 01:34:12 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Aug 16 10:07:51 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -622,9 +622,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 394,,fn_scar_trigger,FN Scar Standard,0,0.03,,,,,,,,,0
 395,,geissele_super_scar_trigger,Geissele Super SCAR,2,0.05,,,,,,,,,750
 ,fn_scar_bottom_rail_mount,,,,,,,,,,,,,
-396,,fn_scar_mk20_bottom_rail_mount,FN Scar Mk20,-1,0.15,,,,,,,,,400
-397,,fn_scar_bottom_rail_mount,FN Scar Bottom Rail Mount,-2,0.11,,,,,,,,,0
-,,pmm_scar_heavy_duty_mlok_bottom_panel,PMM Scar Heavy Duty MLOK Bottom Panel,-1.5,0.13,,,,,,,,,300
+396,,fn_scar_mk20_bottom_rail_mount,FN Scar Mk20,4,0.2,,,,,,,,,400
+397,,fn_scar_bottom_rail_mount,FN Scar Bottom Rail Mount,2.5,0.12,,,,,,,,,0
+,,pmm_scar_heavy_duty_mlok_bottom_panel,PMM Scar Heavy Duty MLOK Bottom Panel,2,0.1,,,,,,,,,300
 ,fn_scar_charging_handle,,,,,,,,,,,,,
 398,,fn_scar_charging_handle,FN SCAR-L Standard,1,0.02,,,,,,,,,0
 399,,apex_bolt_handle_for_scar,Apex Bolt Handle for SCAR,1.5,0.04,,,,,,,,,500
@@ -651,7 +651,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,m4a1_std_mag_release_scar,Lingle Industries AR17 Scar H Mag Release,0,0.1,,,,,,,,,0
 ,fn_scar_h_upper_receiver,,,,,,,,,,,,,
 410,,fn_scar_h_upper_receiver,FN SCAR-H Standard,0,0.65,0,0,,,,,,,2000
-411,,fn_scar_mk20_upper_receiver,FN SCAR Mk20,11,0.85,3,6,,,0.05,50,,,4000
+411,,fn_scar_mk20_upper_receiver,FN SCAR Mk20,8,0.85,3,6,,,0.05,50,,,4000
 412,,imperial_arms_cypher_x_standard_scar_h_upper_receiver,Imperial Arms CypherX Standard SCAR-H,3,0.7,0,0,,,,,,,3000
 ,fn_scar_l_barrel,,,,,,,,,,,,,
 413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,5,0.3,1,3,,0.1,0,-200,,,1200
@@ -697,16 +697,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 437,,fn_scar_mk20_upper_receiver_for_scar47,FN SCAR Mk20,8,0.85,3,6,,,0.05,50,,,4000
 438,,imperial_arms_cypher_x_standard_scar_h_upper_receiver_for_scar47,Imperial Arms CypherX Standard SCAR-H,3,0.7,0,0,,,,,,,3000
 ,scar_handguard,,,,,,,,,,,,,
-439,,handl_defense_scar47_mlok_handguard,Handl Defense SCAR47 MLOK,2,0.27,-3,-1,,,,,,,1200
-440,,pmm_scar_mlok_xl_rail_extension_mre_xl,PMM SCAR MLOK XL Rail Extension (MRE XL),4,0.16,0,0,,,,,,,900
-441,,madbull_pws_srx_5inch_rail_handguard,"Madbull PWS SRX 5"" ",2,0.19,-1,-1,,,,,,,800
-442,,kinetic_development_group_scar_mrex_mlok_6.5inch_gen1_handguard,"Kinetic Development Group SCAR MREX MLOK 6.5"" Gen 1",2.5,0.3,-1,-3,,,,,,,1750
-443,,midwest_industries_scar_socom_extended_mlok_handguard,Midwest Industries SCAR SOCOM Extended MLOK,4,0.32,0,-2,,,,,,,1600
-444,,midwest_industries_scar_quad_rail_handguard,Midwest Industries SCAR Quad Rail Extension,1,0.36,-2,-3,,,,,,,1500
-445,,laylax_scar_rail_extension,Laylax SCAR Rail Extension,2,0.22,-2,-1,,,,,,,1300
-,,kinetic_development_group_scar_mrex_mk2_mlok_2.2inch_handguard,"Kinetic Development Group Scar MREX Mk2 MLOK 2.2"" Handguard",0,0.26,0,-1,,,,,,,1250
-,,kinetic_development_group_scar_mrex_mk2_mlok_4.25inch_handguard,"Kinetic Development Group Scar MREX Mk2 MLOK 4.25"" Handguard",-1,0.29,-1,-2,,,,,,,1750
-,,kinetic_development_group_scar_mrex_mk2_mlok_6.5inch_handguard,"Kinetic Development Group Scar MREX Mk2 MLOK 6.5"" Handguard",-2,0.33,-3,-3,,,,,,,2000
+439,,handl_defense_scar47_mlok_handguard,Handl Defense SCAR47 MLOK,2,0.27,0,-4,,,,,,,1200
+440,,pmm_scar_mlok_xl_rail_extension_mre_xl,PMM SCAR MLOK XL Rail Extension (MRE XL),2,0.16,0,-1,,,,,,,900
+441,,madbull_pws_srx_5inch_rail_handguard,"Madbull PWS SRX 5"" ",1,0.19,-1,-2,,,,,,,800
+442,,kinetic_development_group_scar_mrex_mlok_6.5inch_gen1_handguard,"Kinetic Development Group SCAR MREX MLOK 6.5"" Gen 1",3,0.3,-1,-3,,,,,,,1750
+443,,midwest_industries_scar_socom_extended_mlok_handguard,Midwest Industries SCAR SOCOM Extended MLOK,3,0.32,-3,-1,,,,,,,1600
+444,,midwest_industries_scar_quad_rail_handguard,Midwest Industries SCAR Quad Rail Extension,2,0.36,-4,-2,,,,,,,1500
+445,,laylax_scar_rail_extension,Laylax SCAR Rail Extension,1,0.23,-2,-2,,,,,,,1300
+,,kinetic_development_group_scar_mrex_mk2_mlok_2.2inch_handguard,"Kinetic Development Group Scar MREX Mk2 MLOK 2.2"" Handguard",4,0.25,-1,0,,,,,,,1250
+,,kinetic_development_group_scar_mrex_mk2_mlok_4.25inch_handguard,"Kinetic Development Group Scar MREX Mk2 MLOK 4.25"" Handguard",3,0.29,-2,-2,,,,,,,1750
+,,kinetic_development_group_scar_mrex_mk2_mlok_6.5inch_handguard,"Kinetic Development Group Scar MREX Mk2 MLOK 6.5"" Handguard",2,0.33,-3,-3,,,,,,,2000
 ,fn_scar_gas_selector,,,,,,,,,,,,,
 446,,mototech_engineering_scarburator_gen3,Mototech Engineering SCARburator Gen3,0,0.04,0,-2,,,,,,,400
 447,,fn_scar_oem_gas_selector,FN SCAR OEM,0,0.02,0,0,,,,,,,0
