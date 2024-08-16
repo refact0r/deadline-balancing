@@ -803,7 +803,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,colt_smg_extension,,,,,,,,,,,,,
 ,,taylor_freelance_colt_smg_10r_mag_extension,Taylor Freelance Colt SMG 10r Mag Extension,-5,0.08,,,10,,,,,,1000
 ,colt_50_more,,,,,,,,,,,,,
-,,custom_colt_smg_mag_extension,Custom Colt SMG 50rnd Magazine Extension,-15,0.42,,,50,0.05,,,,,5000
+,,custom_colt_smg_9x19_50r_extension,Custom Colt SMG 50rnd Magazine Extension,-20,0.42,,,50,0.05,,,,,5000
 ,,custom_colt_smg_mag_coupler,Custom Colt SMG Mag Coupler,-2,0.04,,,,,,,,,0
 ,magazine_762x25mm_tt33,,,,,,,,,,,,,
 508,,tt33_std_8rnd,TT-33 Std. Single Stack 8R,27,0.09,,,8,,,,,,300
