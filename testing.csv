@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Aug 16 10:07:39 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Aug 16 10:55:25 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -6,7 +6,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 3,,primary_arms_slx_1.53inch_straight_spacer,,0,0.05,,,,,,,,,100
 4,,25mm_universal_mount,25mm Universal Tactical Mount,0,0.04,,,,,,,,,100
 5,,arms_no5_mount,A.R.M.S. #5 Multibase,-1,0.06,,,,,,,,,400
-6,,a3_angled_foregrip,A3 Angled,1,0.12,-4,-7,,,,,,,900
+6,,a3_angled_foregrip,A3 Angled,0,0.16,-3,-7,,,,,,,900
 7,,abom_cnc_works_picatinny_susat_adapter,Abom's CNC Works Picatinny SUSAT Adapter,0,0.07,0,0,,,,,,,300
 8,,ac32062_mount,AC32062,-1,0.03,,,,,,,,,200
 9,,aeroknox_ax15_front_sight_base,Aeroknox AX15 Front Sight Base,0,0.02,,,,,,,,,200
@@ -83,7 +83,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 78,,ncstar_mpr45_offset_mount,NcStar Mpr45 Offset mount,-1,0.02,,,,,,,,,200
 79,,npz_1p78_kashtan_p1_picatinny_adapter,NPZ 1P78 Kashtan P-1 Picatinny Adapter,-1,0.06,,,,,,,,,300
 80,,okb_crazy_romanian_picatinny_full_grip,OKB Crazy Romanian Picatinny Full Grip,3,0.11,-3,-5,,,,,,,800
-81,,okb_crazy_romanian_picatinny_half_grip,OKB Crazy Romanian Picatinny Half Grip,5,0.06,-2,-3,,,,,,,600
+81,,okb_crazy_romanian_picatinny_half_grip,OKB Crazy Romanian Picatinny Half Grip,5,0.06,-1,-3,,,,,,,600
 82,,pilad_p1x42,Pilad P1x42,-3.5,0.15,,,,,,,,,1000
 83,,priceli_narod_okp_7_picatinny,Priceli Narod OKP-7,-2,0.14,0,0,,,,,,,1000
 84,,pts_fortis_shift_tactical_grip,Pts Fortis Shift Tactical Grip,3,0.09,-4,-4,,,,,,,600
@@ -141,7 +141,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,primary_arms_slx_1.53inch_straight_spacer_alt,,0,0.05,,,,,,,,,100
 ,,gbrs_group_lerna_picatinny_eotech_mount,GBRS Group Lerna Picatinny Eotech Mount,-1,0.07,,,,,,,,,900
 ,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,0,0.1,0,0,,,,,,,700
-,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,1,0.06,-5,-3,,,,,,,0
+,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,0,0.06,-5,-3,,,,,,,0
 ,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-3,0.06,-6,-5,,,,,,,0
 ,,strike_industries_cobra_tactical_foregrip,Strike Industries Cobra Tactical Foregrip,5,0.06,-4,0,,,,,,,500
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,0,0.03,,,,,,,,,750
@@ -295,9 +295,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 215,,magpul_mlok_1.6_side,Magpul mlok 1.6,-0.5,0.02,,,,,,,,,100
 ,,magpul_mvg,Magpul MVG,4,0.05,-4,-1,,,,,,,300
 ,,okb_crazy_romanian_mlok_full_grip,OKB Crazy Romanian MLOK Full Grip,3,0.11,-3,-5,,,,,,,800
-,,okb_crazy_romanian_mlok_half_grip,OKB Crazy Romanian MLOK Half Grip,5,0.06,-2,-3,,,,,,,600
+,,okb_crazy_romanian_mlok_half_grip,OKB Crazy Romanian MLOK Half Grip,5,0.06,-1,-3,,,,,,,600
 ,,railscales_rsb_vg,RailScales RSB Vertical Grip,5,0.07,-3,-2,,,,,,,800
 ,,si_link_curved_mlok_fg,Strike Industries LINK Curved MLOK Foregrip,6,0.06,-2,-1,,,,,,,500
+,,magpul_mlok_afg_grip,Magpul MLOK AFG,4,0.05,-2,-4,,,,,,,500
 ,pmag_m3_bottom_plate,,,,,,,,,,,,,
 216,,magpul_std_m3_bottom_plate,Magpul Standard M3,1,0.02,,,,,,,,,0
 217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,2,0.03,,,,,,,,,200
@@ -803,7 +804,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,colt_smg_extension,,,,,,,,,,,,,
 ,,taylor_freelance_colt_smg_10r_mag_extension,Taylor Freelance Colt SMG 10r Mag Extension,-5,0.08,,,10,,,,,,1000
 ,colt_50_more,,,,,,,,,,,,,
-,,custom_colt_smg_mag_extension,Custom Colt SMG 50rnd Magazine Extension,-15,0.42,,,50,0.05,,,,,5000
+,,custom_colt_smg_9x19_50r_extension,Custom Colt SMG 50rnd Magazine Extension,-20,0.42,,,50,0.05,,,,,5000
 ,,custom_colt_smg_mag_coupler,Custom Colt SMG Mag Coupler,-2,0.04,,,,,,,,,0
 ,magazine_762x25mm_tt33,,,,,,,,,,,,,
 508,,tt33_std_8rnd,TT-33 Std. Single Stack 8R,27,0.09,,,8,,,,,,300
@@ -2009,12 +2010,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,zenitco_pt_adjust_part,,,,,,,,,,,,,
 1224,,zenitco_pt_1_klassika_adjust_part,"Zenitco PT-1 ""Klassika"" Adjustable",0,0.03,,,,,,,,,0
 ,zenitco_rk_grip_angled,,,,,,,,,,,,,
-1225,,zenit_rk6_angled,Zenitco Rk-6,8,0.035,-1,-2,,,,,,,500
-1226,,zenit_rk5_angled,Zenitco Rk-5,5,0.045,-4,-4,,,,,,,500
-1227,,zenit_rk1_angled,Zenitco Rk-1,1,0.07,-6,-5,,,,,,,500
-1228,,zenit_rk2_angled,Zenitco Rk-2,-4,0.09,-9,-8,,,,,,,1000
-1229,,zenit_rk4_angled,Zenitco Rk-4,6,0.04,-2,-4,,,,,,,600
-1230,,zenit_rk0_angled,Zenitco Rk-0,4,0.05,-5,-5,,,,,,,500
+1225,,zenit_rk6_angled,Zenitco Rk-6,5,0.04,-2,-3,,,,,,,500
+1226,,zenit_rk5_angled,Zenitco Rk-5,3,0.05,-4,-4,,,,,,,500
+1227,,zenit_rk1_angled,Zenitco Rk-1,1,0.07,-4,-8,,,,,,,600
+1228,,zenit_rk2_angled,Zenitco Rk-2,-1,0.1,-5,-9,,,,,,,700
+1229,,zenit_rk4_angled,Zenitco Rk-4,4,0.05,-3,-4,,,,,,,600
+1230,,zenit_rk0_angled,Zenitco Rk-0,3,0.05,-2,-7,,,,,,,500
 ,zenitco_rk_grip,,,,,,,,,,,,,
 1231,,zenit_rk0,Zenitco Rk-0,3,0.05,-2,-7,,,,,,,500
 1232,,zenit_rk1,Zenitco Rk-1,1,0.07,-4,-8,,,,,,,600
