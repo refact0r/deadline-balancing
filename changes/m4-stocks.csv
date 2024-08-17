@@ -48,7 +48,7 @@ magpul_str_carbine_stock,Magpul STR Carbine,17,0.23,-12,-12,,,,,,,900,29.2,,12.6
 magpul_str_butt_pad,Magpul STR Carbine Buttpad,1,0.02,-1,-1,,,,,,,0,2,,,,,
 magpul_moe_sl_k_carbine_stock,Magpul MOE SL-K Carbine,18,0.17,-10,-11,,,,,,,800,29.2,,7.8,,44.95,
 magpul_moe_sl_k_carbine_stock_buttpad,Magpul MOE SL-K Carbine Buttpad,1,0.02,-1,-1,,,,,,,0,2,,,,,
-daniel_defense_collapsible_milspec_buttstock,Daniel Defense Collapsible Milspec Stock,16,0.18,-13,-11,,,,,,,900,29.4,,8,,82,
+daniel_defense_collapsible_milspec_buttstock,Daniel Defense Collapsible Milspec Stock,16,0.18,-11,-13,,,,,,,900,29,,8,,82,
 daniel_defense_concave_buttpad,Daniel Defense Concave Buttpad,1,0.02,-1,-1,,,,,,,0,2,,,,,
 ,,,,,,,,,,,,,,,,,,
 ,CURRENT (SUMMED),,,,,,,,,,,,0,,,,,
@@ -76,4 +76,4 @@ daniel_defense_concave_buttpad,Daniel Defense Concave Buttpad,1,0.02,-1,-1,,,,,,
 ,Brownells XM177 CAR,16,0.33,-12,-17,0,0,0,0,0,0,1100,29.2,,11.4,0.311,102.95,808.85
 ,Magpul STR Carbine,17,0.4,-15,-15,0,0,0,0,0,0,1500,30,,18.4,0.416,137.9,913.7
 ,Magpul MOE SL-K Carbine,18,0.34,-13,-14,0,0,0,0,0,0,1400,30,,13.6,0.344,97.9,793.7
-,Daniel Defense Collapsible Milspec Stock,16,0.35,-16,-14,0,0,0,0,0,0,1500,30.2,,13.8,0.347,134.95,904.85
+,Daniel Defense Collapsible Milspec Stock,16,0.35,-14,-16,0,0,0,0,0,0,1500,29.8,,13.8,0.347,134.95,904.85

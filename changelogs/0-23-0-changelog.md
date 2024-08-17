@@ -1,8 +1,8 @@
 ﻿# 0.23.0 Balancing Changes
 
-New attachments: 77
+New attachments: 89
 
-Attachments changed: 426
+Attachments changed: 449
 
 ## New Attachments
 
@@ -44,6 +44,56 @@ Horizontal Recoil: **-2** \
 Vertical Recoil: **-2** \
 Price: **300**
 
+### Daniel Defense 3 inch Picatinny Rail Panel
+
+Ergonomics: **0.75** \
+Weight: **0.03** \
+Price: **300**
+
+### Daniel Defense 5 inch Picatinny Rail Panel
+
+Ergonomics: **1.25** \
+Weight: **0.05** \
+Price: **500**
+
+### Daniel Defense 7 inch Picatinny Rail Panel
+
+Ergonomics: **1.75** \
+Weight: **0.07** \
+Price: **700**
+
+### Daniel Defense Soft Touch Rubber Overmolding Vertical Foregrip
+
+Ergonomics: **4** \
+Weight: **0.09** \
+Horizontal Recoil: **-3** \
+Vertical Recoil: **-4** \
+Price: **500**
+
+### Magpul MOE SL-K Carbine
+
+Ergonomics: **18** \
+Weight: **0.17** \
+Horizontal Recoil: **-10** \
+Vertical Recoil: **-11** \
+Price: **800**
+
+### Daniel Defense Collapsible Milspec Stock
+
+Ergonomics: **16** \
+Weight: **0.18** \
+Horizontal Recoil: **-11** \
+Vertical Recoil: **-13** \
+Price: **900**
+
+### Daniel Defense Concave Buttpad
+
+Ergonomics: **1** \
+Weight: **0.02** \
+Horizontal Recoil: **-1** \
+Vertical Recoil: **-1** \
+Price: **0**
+
 ### BCM Gunfighter Mod 3 MLOK Foregrip
 
 Ergonomics: **5** \
@@ -76,6 +126,14 @@ Horizontal Recoil: **-2** \
 Vertical Recoil: **-2** \
 Price: **300**
 
+### Magpul MLOK AFG
+
+Ergonomics: **4** \
+Weight: **0.05** \
+Horizontal Recoil: **-2** \
+Vertical Recoil: **-4** \
+Price: **500**
+
 ### Aimpoint CompM5
 
 Ergonomics: **1** \
@@ -88,6 +146,14 @@ Ergonomics: **1** \
 Weight: **0.03** \
 Price: **0**
 
+### Daniel Defense MK12 Low Profile
+
+Ergonomics: **0** \
+Weight: **0.06** \
+Horizontal Recoil: **-1** \
+Vertical Recoil: **-1** \
+Price: **1200**
+
 ### Noveske N4 NSR Gen 3 9.15in Handguard
 
 Ergonomics: **12** \
@@ -99,9 +165,9 @@ Price: **1100**
 ### BCM Gunfighter Mod 3 AR-15 Pistol Grip
 
 Ergonomics: **8** \
-Weight: **0.12** \
+Weight: **0.09** \
 Horizontal Recoil: **-3** \
-Vertical Recoil: **-4** \
+Vertical Recoil: **-3** \
 Price: **750**
 
 ### PMM BCM Gunfighter Mod3 SCAR Pistol Grip
@@ -111,6 +177,22 @@ Weight: **0.12** \
 Horizontal Recoil: **-3** \
 Vertical Recoil: **-4** \
 Price: **800**
+
+### Daniel Defense Pistol Grip w/ Trigger Guard
+
+Ergonomics: **10** \
+Weight: **0.13** \
+Horizontal Recoil: **-4** \
+Vertical Recoil: **-2** \
+Price: **900**
+
+### Custom Colt SMG 50rnd Magazine Extension
+
+Ergonomics: **-20** \
+Weight: **0.42** \
+Magazine Capacity: **50** \
+Bullet Deviation: **0.05** \
+Price: **5000**
 
 ### HK MP5 Std. Curved 30rd 9x19 Magazine
 
@@ -190,6 +272,14 @@ Price: **0**
 
 Ergonomics: **2** \
 Weight: **0.04**
+
+### Magpul MOE SL-K Carbine Buttpad
+
+Ergonomics: **1** \
+Weight: **0.02** \
+Horizontal Recoil: **-1** \
+Vertical Recoil: **-1** \
+Price: **0**
 
 ### HK MP5A3 Early Generation Stock Endplate
 
@@ -695,6 +785,12 @@ Price: **100**
 
 Ergonomics: **-0.5** -> **0**
 
+### A3 Angled
+
+Ergonomics: **1** -> **0** \
+Weight: **0.12** -> **0.16** \
+Horizontal Recoil: **-4** -> **-3**
+
 ### AIM Sports Low Profile 45 Degree Sight Base
 
 Ergonomics: **2** -> **0** \
@@ -772,6 +868,30 @@ Weight: **0.14** -> **0.07**
 Ergonomics: **-1** -> **-0.5** \
 Weight: **0.09** -> **0.05**
 
+### Magpul XTM 2-Piece Panel
+
+Weight: **0.06** -> **0.04** \
+Horizontal Recoil: **-1** -> **** \
+Vertical Recoil: **-1** -> ****
+
+### Magpul XTM 4-Piece Panel
+
+Weight: **0.12** -> **0.08** \
+Horizontal Recoil: **-1** -> **** \
+Vertical Recoil: **-2** -> ****
+
+### Magpul XTM Enhanced Modular Half Panel Piece
+
+Ergonomics: **0** -> **0.25** \
+Horizontal Recoil: **0** -> **** \
+Vertical Recoil: **0** -> ****
+
+### Magpul XTM Enhanced Modular Panel Piece
+
+Weight: **0.015** -> **0.02** \
+Horizontal Recoil: **-0.5** -> **** \
+Vertical Recoil: **0** -> ****
+
 ### MaTech USGI Rear BUIS Base
 
 Weight: **0.03** -> **0.04**
@@ -785,6 +905,7 @@ Horizontal Recoil: **-4** -> **-3**
 
 Ergonomics: **6** -> **5** \
 Weight: **0.6** -> **0.06** \
+Horizontal Recoil: **-2** -> **-1** \
 Price: **450** -> **600**
 
 ### Scalarworks Leap01 SWO 110 1.57 Mount
@@ -837,7 +958,6 @@ Vertical Recoil: **-4** -> **0**
 
 ### Strike Industries Bipod Foregrip Collapsed
 
-Ergonomics: **0** -> **1** \
 Horizontal Recoil: **0** -> **-5** \
 Vertical Recoil: **0** -> **-3**
 
@@ -870,7 +990,8 @@ Vertical Recoil: **-8** -> **-10**
 
 ### Magpul MOE Carbine
 
-Vertical Recoil: **-10** -> **-11**
+Vertical Recoil: **-10** -> **-11** \
+Price: **900** -> **800**
 
 ### AR TR2
 
@@ -1011,6 +1132,7 @@ Price: **750** -> **800**
 
 Ergonomics: **6** -> **5** \
 Weight: **0.05** -> **0.06** \
+Horizontal Recoil: **-2** -> **-1** \
 Price: **400** -> **600**
 
 ### Hera Arms CQR Gen2 Stock
@@ -1749,7 +1871,7 @@ Vertical Recoil: **** -> **0**
 
 ### Brownells A1 Government 20" Rifle Length Gastube 5.56x45
 
-Ergonomics: **-10** -> **-8** \
+Ergonomics: **-10** -> **-9** \
 Weight: **0.58** -> **0.88** \
 Horizontal Recoil: **-13** -> **-10** \
 Vertical Recoil: **-12** -> **-10**
@@ -1759,12 +1881,13 @@ Vertical Recoil: **-12** -> **-10**
 Ergonomics: **-5** -> **-4** \
 Weight: **0.5** -> **0.7** \
 Horizontal Recoil: **-8** -> **-7** \
-Vertical Recoil: **-9** -> **-7**
+Vertical Recoil: **-9** -> **-7** \
+Bullet Damage: **0.12** -> **0.1**
 
 ### Brownells HBAR 20" Rifle Length Gastube 5.56x45
 
-Ergonomics: **-12.5** -> **-9** \
-Weight: **0.65** -> **0.96** \
+Ergonomics: **-12.5** -> **-10** \
+Weight: **0.65** -> **0.94** \
 Horizontal Recoil: **-14** -> **-11** \
 Vertical Recoil: **-15** -> **-12**
 
@@ -1773,11 +1896,12 @@ Vertical Recoil: **-15** -> **-12**
 Ergonomics: **-4.5** -> **-3** \
 Weight: **0.47** -> **0.72** \
 Horizontal Recoil: **-6.5** -> **-7** \
-Vertical Recoil: **-7** -> **-6**
+Vertical Recoil: **-7** -> **-6** \
+Bullet Damage: **0.1** -> **0.12**
 
 ### CMMG 24" Fluted AR-15 Rifle Length Gastube 5.56x45
 
-Ergonomics: **-20** -> **-13** \
+Ergonomics: **-20** -> **-15** \
 Weight: **0.8** -> **0.96** \
 Horizontal Recoil: **-16** -> **-12** \
 Vertical Recoil: **-17** -> **-13**
@@ -1823,7 +1947,8 @@ Bullet Damage: **0.05** -> **0.04**
 ### Custom 2in AR15 Barrel
 
 Ergonomics: **3** -> **5** \
-Weight: **0.16** -> **0.1**
+Weight: **0.16** -> **0.1** \
+Bullet Deviation: **1** -> **5**
 
 ### Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube
 
@@ -1835,7 +1960,6 @@ Bullet Damage: **-0.3** -> **-0.26**
 
 ### X-Caliber Custom 18" Spiral 6 Groove Mid Length Gastube .223 Wylde
 
-Ergonomics: **-7** -> **-6** \
 Weight: **0.52** -> **0.74** \
 Horizontal Recoil: **-9** -> **-8** \
 Vertical Recoil: **-10** -> **-8**
@@ -1854,7 +1978,18 @@ Bullet Deviation: **-0.1** -> **-0.05**
 
 ### FN Scar Mk20
 
-Ergonomics: **-3** -> **-1**
+Ergonomics: **-3** -> **4** \
+Weight: **0.15** -> **0.2**
+
+### FN Scar Bottom Rail Mount
+
+Ergonomics: **-2** -> **2.5** \
+Weight: **0.11** -> **0.12**
+
+### PMM Scar Heavy Duty MLOK Bottom Panel
+
+Ergonomics: **-1.5** -> **2** \
+Weight: **0.13** -> **0.1**
 
 ### Kinetic Development Group Talon Ambi SCAR 45/90
 
@@ -1935,7 +2070,7 @@ Vertical Recoil: **-2** -> **-1**
 
 ### FN SCAR Mk20
 
-Ergonomics: **-4** -> **11** \
+Ergonomics: **-4** -> **8** \
 Weight: **0.8** -> **0.85** \
 Horizontal Recoil: **-1** -> **3** \
 Vertical Recoil: **-2** -> **6**
@@ -1993,6 +2128,59 @@ Ergonomics: **-4** -> **8** \
 Weight: **0.8** -> **0.85** \
 Horizontal Recoil: **-1** -> **3** \
 Vertical Recoil: **-2** -> **6**
+
+### Handl Defense SCAR47 MLOK
+
+Horizontal Recoil: **-3** -> **0** \
+Vertical Recoil: **-1** -> **-4**
+
+### PMM SCAR MLOK XL Rail Extension (MRE XL)
+
+Ergonomics: **4** -> **2** \
+Vertical Recoil: **0** -> **-1**
+
+### Madbull PWS SRX 5" 
+
+Ergonomics: **2** -> **1** \
+Vertical Recoil: **-1** -> **-2**
+
+### Kinetic Development Group SCAR MREX MLOK 6.5" Gen 1
+
+Ergonomics: **2.5** -> **3**
+
+### Midwest Industries SCAR SOCOM Extended MLOK
+
+Ergonomics: **4** -> **3** \
+Horizontal Recoil: **0** -> **-3** \
+Vertical Recoil: **-2** -> **-1**
+
+### Midwest Industries SCAR Quad Rail Extension
+
+Ergonomics: **1** -> **2** \
+Horizontal Recoil: **-2** -> **-4** \
+Vertical Recoil: **-3** -> **-2**
+
+### Laylax SCAR Rail Extension
+
+Ergonomics: **2** -> **1** \
+Weight: **0.22** -> **0.23** \
+Vertical Recoil: **-1** -> **-2**
+
+### Kinetic Development Group Scar MREX Mk2 MLOK 2.2" Handguard
+
+Ergonomics: **0** -> **4** \
+Weight: **0.26** -> **0.25** \
+Horizontal Recoil: **0** -> **-1** \
+Vertical Recoil: **-1** -> **0**
+
+### Kinetic Development Group Scar MREX Mk2 MLOK 4.25" Handguard
+
+Ergonomics: **-1** -> **3** \
+Horizontal Recoil: **-1** -> **-2**
+
+### Kinetic Development Group Scar MREX Mk2 MLOK 6.5" Handguard
+
+Ergonomics: **-2** -> **2**
 
 ### PMM Scar 16/17
 
@@ -2935,25 +3123,63 @@ Weight: **0.1** -> **0.09** \
 Vertical Recoil: **-2** -> **-7** \
 Price: **200** -> **0**
 
+### Zenitco Rk-6
+
+Ergonomics: **8** -> **5** \
+Weight: **0.035** -> **0.04** \
+Horizontal Recoil: **-1** -> **-2** \
+Vertical Recoil: **-2** -> **-3**
+
+### Zenitco Rk-5
+
+Ergonomics: **5** -> **3** \
+Weight: **0.045** -> **0.05**
+
+### Zenitco Rk-1
+
+Horizontal Recoil: **-6** -> **-4** \
+Vertical Recoil: **-5** -> **-8** \
+Price: **500** -> **600**
+
+### Zenitco Rk-2
+
+Ergonomics: **-4** -> **-1** \
+Weight: **0.09** -> **0.1** \
+Horizontal Recoil: **-9** -> **-5** \
+Vertical Recoil: **-8** -> **-9** \
+Price: **1000** -> **700**
+
+### Zenitco Rk-4
+
+Ergonomics: **6** -> **4** \
+Weight: **0.04** -> **0.05** \
+Horizontal Recoil: **-2** -> **-3**
+
+### Zenitco Rk-0
+
+Ergonomics: **4** -> **3** \
+Horizontal Recoil: **-5** -> **-2** \
+Vertical Recoil: **-5** -> **-7**
+
 ### Magpul PRS Gen3 Buttpad
 
 Ergonomics: **3** -> **2** \
 Horizontal Recoil: **-2** -> **-1** \
 Vertical Recoil: **0** -> **-1**
 
-### Magpul MOE Buttpad
+### Magpul MOE Carbine Buttpad
 
 Ergonomics: **2** -> **1** \
 Horizontal Recoil: **0** -> **-1** \
 Vertical Recoil: **0** -> **-1**
 
-### Magpul STR Buttpad
+### Magpul STR Carbine Buttpad
 
 Ergonomics: **2** -> **1** \
 Horizontal Recoil: **** -> **-1** \
 Vertical Recoil: **** -> **-1**
 
-### LMT Buttpad
+### LMT Sopmod Buttpad
 
 Ergonomics: **2** -> **1** \
 Horizontal Recoil: **0** -> **-1** \

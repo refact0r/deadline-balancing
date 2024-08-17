@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Aug 16 19:38:20 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Aug 17 10:13:45 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -159,7 +159,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 122,,fortis_la_stock,Fortis LA,17,0.2,-16,-7,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-6,-24,,,,,,,1000
 124,,si_viper_mod1_stock,Strike Industries Viper MOD1 Stock,18,0.14,-8,-10,,,,,,,500
-125,,magpul_moe_carbine_stock,Magpul MOE Carbine,17,0.19,-12,-11,,,,,,,900
+125,,magpul_moe_carbine_stock,Magpul MOE Carbine,17,0.19,-12,-11,,,,,,,800
 126,,ar_tr2_stock,AR TR2,16,0.22,-10,-15,,,,,,,800
 127,,vltor_emod_stock,VLTOR EMOD,14,0.26,-14,-14,,,,,,,700
 128,,magpul_prs_gen3_stock,Magpul PRS Gen3 Stock,20,0.35,-6,-5,,,,,,,1500
@@ -170,8 +170,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 133,,brwnls_xm177_car,Brownells XM177 CAR,15,0.14,-9,-14,,,,,,,500
 134,,thordsen_frs15_cover_stock,Thordsen FRS-15 Cover,5,0.1,0,0,,,,,,,600
 135,,magpul_str_carbine_stock,Magpul STR Carbine,17,0.23,-12,-12,,,,,,,900
-,,magpul_moe_sl_k_carbine_stock,Magpul MOE SL-K Carbine,18,0.18,-10,-12,,,,,,,900
-,,daniel_defense_collapsible_milspec_buttstock,Daniel Defense Collapsible Milspec Stock,16,0.18,-13,-11,,,,,,,900
+,,magpul_moe_sl_k_carbine_stock,Magpul MOE SL-K Carbine,18,0.17,-10,-11,,,,,,,800
+,,daniel_defense_collapsible_milspec_buttstock,Daniel Defense Collapsible Milspec Stock,16,0.18,-11,-13,,,,,,,900
 ,,daniel_defense_concave_buttpad,Daniel Defense Concave Buttpad,1,0.02,-1,-1,,,,,,,0
 ,ak_fixed_stock,,,,,,,,,,,,,
 136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.16,-7,-16,,,,,,,500
