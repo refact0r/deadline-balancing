@@ -151,6 +151,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,bcm_gunfighter_mod3_picatinny_foregrip_flipped,BCM Gunfighter Mod 3 Picatinny Foregrip Flipped,4,0.07,-3,-3,,,,,,,300
 ,,bcm_gunfighter_mod3_picatinny_shortened_foregrip,BCM Gunfighter Mod 3 Picatinny Shortened Foregrip,6,0.05,0,-3,,,,,,,300
 ,,bcm_gunfighter_mod3_picatinny_shortened_foregrip_flipped,BCM Gunfighter Mod 3 Picatinny Shortened Foregrip Flipped,5,0.05,-2,-2,,,,,,,300
+,,daniel_defense_3inch_picatinny_rail_panel,Daniel Defense 3 inch Picatinny Rail Panel,0.75,0.03,,,,,,,,,300
+,,daniel_defense_5inch_picatinny_rail_panel,Daniel Defense 5 inch Picatinny Rail Panel,1.25,0.05,,,,,,,,,500
+,,daniel_defense_7inch_picatinny_rail_panel,Daniel Defense 7 inch Picatinny Rail Panel,1.75,0.07,,,,,,,,,700
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-16,-7,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-6,-24,,,,,,,1000
