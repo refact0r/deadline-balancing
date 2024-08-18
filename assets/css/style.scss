@@ -16,7 +16,13 @@ body {
 	h2,
 	h3,
 	h4 {
-		border-bottom-color: hsl(225, 8%, 23%);
+		border-bottom-color: hsl(225, 8%, 20%);
+		border-width: 2px;
+	}
+
+	code {
+		background: hsl(225, 8%, 20%);
+		color: hsl(225, 3%, 95%);
 	}
 }
 
