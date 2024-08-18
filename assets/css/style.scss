@@ -2,7 +2,9 @@
 ---
 
 @import '{{ site.theme }}';
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 body {
 	background: #1a1b1e;
+	font-family: 'Rubik', sans-serif;
 }
