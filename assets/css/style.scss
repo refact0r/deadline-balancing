@@ -5,6 +5,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 body {
-	background: #1a1b1e;
+	background: hsl(225, 7%, 11%);
+	color: hsl(225, 3%, 80%);
+}
+
+.markdown-body {
 	font-family: 'Rubik', sans-serif;
+
+	h1,
+	h2,
+	h3,
+	h4 {
+		border-bottom-color: hsl(225, 8%, 23%);
+	}
+}
+
+a {
+	color: hsl(225, 80%, 70%);
 }

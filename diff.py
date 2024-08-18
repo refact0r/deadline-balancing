@@ -25,10 +25,10 @@ def compare_rows(
     for key in compare_cols:
         if not row1:
             if row2.get(key):
-                changes.append(f"{format_header(key)}: **{row2.get(key, '0')}**")
+                changes.append(f"{format_header(key)}: `{row2.get(key, '0')}`")
         elif row1.get(key, "0") != row2.get(key, "0"):
             changes.append(
-                f"{format_header(key)}: **{row1.get(key, '0')}** -> **{row2.get(key, '0')}**"
+                f"{format_header(key)}: `{row1.get(key, '0')}` -> `{row2.get(key, '0')}`"
             )
     return changes
 
