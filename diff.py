@@ -60,7 +60,7 @@ def main(file1: str, file2: str):
     with open(output_file, "w", encoding="utf-8-sig") as f:
         f.write(f"# {version} Balancing Changes\n\n")
         f.write(f"[New attachments](#new-attachments): {len(new)}\n\n")
-        f.write(f"[Changed Attachments](#changed-attachments): {len(changes)}\n\n")
+        f.write(f"[Changed attachments](#changed-attachments): {len(changes)}\n\n")
         f.write(f"## New Attachments\n\n")
         f.write("\n".join(new))
         f.write(f"## Changed Attachments\n\n")
