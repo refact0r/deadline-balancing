@@ -56,7 +56,7 @@ def main(file1: str, file2: str):
                 pretty_name = row2.get("pretty_name") or row2["name"]
                 new.append(f"### {pretty_name}\n\n" + " \\\n".join(row_changes) + "\n")
 
-    output_file = "changelogs/" + version.replace(".", "-")
+    output_file = "changelogs/" + version.replace(".", "-") + ".md"
     with open(output_file, "w", encoding="utf-8-sig") as f:
         f.write(f"# {version} Balancing Changes\n\n")
         f.write(f"New attachments: {len(new)}\n\n")
