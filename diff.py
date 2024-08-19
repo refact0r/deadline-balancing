@@ -2,6 +2,20 @@ import csv
 import sys
 from typing import Dict, List, Tuple
 
+stat_directions = {
+    "ergonomics": True,
+    "weight": False,
+    "horizontal_recoil": False,
+    "vertical_recoil": False,
+    "magazine_capacity": True,
+    "bullet_deviation": False,
+    "bullet_damage": True,
+    "bullet_velocity": True,
+    "buck_bullet_deviation": False,
+    "fire_rate": True,
+    "price": False,
+}
+
 
 def read_csv(file_path: str) -> Tuple[str, Dict[str, Dict[str, str]]]:
     data = {}
@@ -26,10 +40,23 @@ def compare_rows(
         if not row1:
             if row2.get(key):
                 changes.append(f"{format_header(key)}: `{row2.get(key, '0')}`")
-        elif row1.get(key, "0") != row2.get(key, "0"):
-            changes.append(
-                f"{format_header(key)}: `{row1.get(key, '0')}` -> `{row2.get(key, '0')}`"
-            )
+            continue
+
+        old = row1.get(key, "0")
+        new = row2.get(key, "0")
+
+        if old != new:
+            try:
+                color = (
+                    "green"
+                    if (float(new) > float(old)) == stat_directions[key]
+                    else "red"
+                )
+                changes.append(
+                    f'{format_header(key)}: `{old}` -> <code class="{color}">{new}</code>'
+                )
+            except:
+                changes.append(f"{format_header(key)}: `{old}` -> `{new}`")
     return changes
 
 

@@ -24,6 +24,14 @@ body {
 .markdown-body > code {
 	background: hsl(225, 8%, 20%);
 	color: hsl(225, 3%, 95%);
+
+	&.green {
+		color: hsl(120, 100%, 75%);
+	}
+
+	&.red {
+		color: hsl(0, 100%, 75%);
+	}
 }
 
 .markdown-body .highlight {
