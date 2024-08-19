@@ -45,6 +45,11 @@ def compare_rows(
         old = row1.get(key, "0")
         new = row2.get(key, "0")
 
+        if old == "":
+            old = "0"
+        if new == "":
+            new = "0"
+
         if old != new:
             try:
                 color = (
