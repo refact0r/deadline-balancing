@@ -155,6 +155,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,daniel_defense_5inch_picatinny_rail_panel,Daniel Defense 5 inch Picatinny Rail Panel,1.25,0.05,,,,,,,,,500
 ,,daniel_defense_7inch_picatinny_rail_panel,Daniel Defense 7 inch Picatinny Rail Panel,1.75,0.07,,,,,,,,,700
 ,,daniel_defense_rubber_overmolding_vertical_foregrip,Daniel Defense Soft Touch Rubber Overmolding Vertical Foregrip,4,0.09,-3,-4,,,,,,,500
+,,bt_qd_nar_acro_22mm_mount,B&T QD NAR ACRO 22m Mount,0,0.03,,,,,,,,,400
+,,bt_qd_nar_acro_30mm_mount,B&T QD NAR ACRO 30m Mount,-0.5,0.04,,,,,,,,,600
+,,bt_qd_nar_acro_39mm_mount,B&T QD NAR ACRO 39m Mount,-0.5,0.05,,,,,,,,,800
+,,sc_irregulars_omm_micro_mount,SC Irregulars OMM MICRO Mount,-1,0.13,,,,,,,,,2000
+,,sc_irregulars_omm_pic_mount,SC Irregulars OMM PIC Mount,-2,0.08,,,,,,,,,1500
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-16,-7,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-6,-24,,,,,,,1000
@@ -349,6 +354,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 241,,aimpoint_micro_t2_lens_caps,Aimpoint Micro T2 Lens Caps,1,0.03,,,,,,,,,0
 ,compm5_caps,,,,,,,,,,,,,
 ,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.03,,,,,,,,,0
+,acro_footprint,,,,,,,,,,,,,
+,,aimpoint_acro_p2_reflex_sight,Aimpoint ACRO P-2 Reflex,-1,0.07,,,,,,,,,1200
 ,susat_scope_footprint,,,,,,,,,,,,,
 242,,usi_l12a1_susat_combat_optic,"United Scientific Industries L12A1 ""SUSAT"" Combat Optic",-5,0.28,,-3,,,,,,,950
 ,susat_backup_sights,,,,,,,,,,,,,
@@ -382,6 +389,18 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,surefire_z68_clicky_tailcap,Surefire Z68 Clicky Tailcap,3,0.02,,,,,,,,,250
 ,colt_retro_a1,,,,,,,,,,,,,
 ,,colt_retro_a1_4x21_scope,Colt Retro A1 4x21 Scope,-4,0.2,,,,,,,,,750
+,sc_irregulars_omm_front_mount,,,,,,,,,,,,,
+,,sc_irregulars_cap_front,SC Irregulars OMM Front Cap,0,0.01,,,,,,,,,0
+,,sc_irregulars_omm_3_slot_board_front,SC Irregulars OMM 3 Slot Board,-0.5,0.03,,,,,,,,,200
+,,sc_irregulars_omm_4_slot_board_front,SC Irregulars OMM 4 Slot Board,-1,0.04,,,,,,,,,300
+,,sc_irregulars_omm_6_slot_board_front,SC Irregulars OMM 6 Slot Board,-1.5,0.06,,,,,,,,,400
+,,sc_irregulars_omm_8_slot_board_front,SC Irregulars OMM 8 Slot Board,-2,0.08,,,,,,,,,500
+,sc_irregulars_omm_rear_mount,,,,,,,,,,,,,
+,,sc_irregulars_cap_rear,SC Irregulars OMM Rear Cap,0,0.01,,,,,,,,,0
+,,sc_irregulars_omm_3_slot_board_rear,SC Irregulars OMM 3 Slot Board,-0.5,0.03,,,,,,,,,200
+,,sc_irregulars_omm_4_slot_board_rear,SC Irregulars OMM 4 Slot Board,-1,0.04,,,,,,,,,300
+,,sc_irregulars_omm_6_slot_board_rear,SC Irregulars OMM 6 Slot Board,-1.5,0.06,,,,,,,,,400
+,,sc_irregulars_omm_8_slot_board_rear,SC Irregulars OMM 8 Slot Board,-2,0.08,,,,,,,,,500
 ,m4a1_gas_block,,,,,,,,,,,,,
 252,,jp_enterprises_5b_gasblock,JP Enterprises 5B,-0.5,0.13,-1,-2,,,,,,,750
 253,,daniel_defense_mk12_low_profile_gasblock,Daniel Defense MK12 Low Profile,0,0.06,-1,-1,,,,,,,1200
