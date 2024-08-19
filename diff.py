@@ -53,7 +53,7 @@ def compare_rows(
                     else "red"
                 )
                 changes.append(
-                    f'{format_header(key)}: `{old}` -> <code class="{color}">{new}</code>'
+                    f'{format_header(key)}: `{old}` <span class="{color}">-></span> `{new}`'
                 )
             except:
                 changes.append(f"{format_header(key)}: `{old}` -> `{new}`")
