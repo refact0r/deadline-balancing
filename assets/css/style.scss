@@ -19,10 +19,23 @@ body {
 		border-bottom-color: hsl(225, 8%, 20%);
 		border-width: 2px;
 	}
+}
 
-	code {
-		background: hsl(225, 8%, 20%);
-		color: hsl(225, 3%, 95%);
+.markdown-body > code {
+	background: hsl(225, 8%, 20%);
+	color: hsl(225, 3%, 95%);
+}
+
+.markdown-body .highlight {
+	background: none;
+
+	pre {
+		background: #d0cec8;
+		filter: invert(1);
+
+		code {
+			color: black;
+		}
 	}
 }
 
