@@ -53,7 +53,7 @@ def compare_rows(
                     else "red"
                 )
                 changes.append(
-                    f'{format_header(key)}: `{old}` <span class="{color}">-></span> `{new}`'
+                    f'{format_header(key)}: `{old}` -> <code class="{color}">{new}</code>'
                 )
             except:
                 changes.append(f"{format_header(key)}: `{old}` -> `{new}`")
@@ -86,12 +86,12 @@ def main(file1: str, file2: str):
     output_file = "changelogs/" + version.replace(".", "-") + ".md"
     with open(output_file, "w", encoding="utf-8-sig") as f:
         f.write(f"# {version} Balancing Changes\n\n")
-        f.write(f"[New attachments](#new-attachments): {len(new)}\n\n")
         f.write(f"[Changed attachments](#changed-attachments): {len(changes)}\n\n")
-        f.write(f"## New Attachments\n\n")
-        f.write("\n".join(new))
+        f.write(f"[New attachments](#new-attachments): {len(new)}\n\n")
         f.write(f"## Changed Attachments\n\n")
         f.write("\n".join(changes))
+        f.write(f"## New Attachments\n\n")
+        f.write("\n".join(new))
 
     print(f"Output written to {output_file}")
 
