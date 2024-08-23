@@ -4,5 +4,3 @@ steyr_aug_350mm_barrel,Steyr AUG A3 5.56x45 350mm,2,0.54,2,4,,0.1,-0.04,-50,,,60
 steyr_aug_407mm_barrel,Steyr AUG A3 5.56x45 407mm,0,0.63,0,2,,0,0.1,200,,,0,-12.63333333
 steyr_aug_508mm_barrel,Steyr AUG A3 5.56x45 508mm,-3,0.79,-2,-3,,-0.1,0.24,350,,,1000,-12.53333333
 steyr_aug_hbar_620mm_heavy_barrel,Steyr AUG HBAR 5.56x45 620mm Heavy LMG,-12,0.98,-5,-7,,0.2,0.32,600,,,2000,-20.8
-,,,,,,,,,,,,,
-aug_a3_std_bolt_carrier,AUG A3 Std.,0,0.2,,,,,,,,,0,
