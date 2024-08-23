@@ -348,12 +348,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.03,,,,,,,,,200
 238,,aimpoint_micro_t1_sight,Aimpoint Micro T1,-1,0.07,,,,,,,,,1000
 239,,aimpoint_micro_t2_sight,Aimpoint Micro T2,-1,0.07,,,,,,,,,1100
-,,aimpoint_compm5_sight,Aimpoint CompM5,1,0.13,,,,,,,,,1300
+,,aimpoint_compm5_sight,Aimpoint CompM5,-1,0.07,,,,,,,,,1300
 240,,sig_sauer_romeo5_1x20_sight,Sig Sauer Romeo5 1x20 Sight,-0.5,0.06,,,,,,,,,750
 ,aimpoint_t2_caps,,,,,,,,,,,,,
-241,,aimpoint_micro_t2_lens_caps,Aimpoint Micro T2 Lens Caps,1,0.03,,,,,,,,,0
+241,,aimpoint_micro_t2_lens_caps,Aimpoint Micro T2 Lens Caps,1,0.02,,,,,,,,,0
 ,compm5_caps,,,,,,,,,,,,,
-,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.03,,,,,,,,,0
+,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.02,,,,,,,,,0
 ,acro_footprint,,,,,,,,,,,,,
 ,,aimpoint_acro_p2_reflex_sight,Aimpoint ACRO P-2 Reflex,-1,0.07,,,,,,,,,1200
 ,susat_scope_footprint,,,,,,,,,,,,,
@@ -1967,8 +1967,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,romeo3_mount,,,,,,,,,,,,,
 1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-2,0.09,,,,,,,,,900
 ,romeo4t_cap,,,,,,,,,,,,,
-1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.05,,,,,,,,,0
-1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,3,0.05,,,,,,,,,0
+1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.04,,,,,,,,,0
+1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,3,0.04,,,,,,,,,0
 ,sai_extension,,,,,,,,,,,,,
 1186,,syoss_jail_brake,SAI JailBrake 5.56x45,-3,0.16,-3,-5,,0.05,0,0,,,800
 ,saiqd,,,,,,,,,,,,,
