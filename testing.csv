@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Aug 22 20:38:56 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Aug 22 21:02:33 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1645,9 +1645,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3_gasblock_right_mount,,,,,,,,,,,,,
 988,,pup_light_25mm_flashlight_mount,PuP Light 25mm Flashlight,-0.5,0.02,,,,,,,,,750
 ,aug_a3_receiver,,,,,,,,,,,,,
-989,,steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,2,0.35,0,-3,,,,,,,1000
-,,steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,1,0.33,-1,-2,,,,,,,500
-990,,steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,3,0.45,0,-5,,,,,,,0
+989,,steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,2,0.39,0,-3,,,,,,,1000
+,,steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,1,0.37,-1,-2,,,,,,,500
+990,,steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,3,0.49,0,-4,,,,,,,0
 ,aug_a3_side_rail_mount,,,,,,,,,,,,,
 991,,aug_a3_std_side_rail_mount,AUG A3 Side,-1,0.06,,,,,,,,,0
 ,aug_a3_sling_mount,,,,,,,,,,,,,
@@ -1673,7 +1673,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3_charging_handle,,,,,,,,,,,,,
 1003,,aug_a3_std_charging_handle,AUG A3 Std.,1,0.02,,,,,,,,,0
 1004,,manticore_arms_aug_raptor_charging_handle,Manticore Arms AUG Raptor,3,0.06,,,,,,,,,600
-1005,,corvus_defensio_aug_charging_handle,Corvus Defensio AUG Charging Handle,1.5,0.03,,,,,,,,,500
+1005,,corvus_defensio_aug_charging_handle,Corvus Defensio AUG Charging Handle,2,0.03,,,,,,,,,500
 ,aug_a3_foregrip,,,,,,,,,,,,,
 1006,,aug_a3_std_foregrip,AUG A3 Std.,3,0.1,-4,-5,,,,,,,0
 1007,,aug_a3_std_foregrip_folded,AUG A3 Std. Folded,8,0.1,3,-1,,0.3,,,,,0
@@ -1930,8 +1930,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,pjs_cqc_handguard,,,,,,,,,,,,,
 ,,pjs_aug_a3_sa_cqc_handguard,PJS AUG A3 CQC Handguard,6,0.12,-2,-2,,,,,,,800
 ,pjs_cqc_handguard_rails,,,,,,,,,,,,,
-,,pjs_aug_a3_sa_cqc_left_rail,PJS AUG A3 CQC Handguard Left Rail,-2,0.06,0,-2,,,,,,,0
-,,pjs_aug_a3_sa_cqc_right_rail,PJS AUG A3 CQC Handguard Right Rail,-1,0.04,-1,0,,,,,,,0
+,,pjs_aug_a3_sa_cqc_left_rail,PJS AUG A3 CQC Handguard Left Rail,-1,0.05,-2,0,,,,,,,0
+,,pjs_aug_a3_sa_cqc_right_rail,PJS AUG A3 CQC Handguard Right Rail,-0.5,0.03,-1,0,,,,,,,0
 ,manticore_handguard,,,,,,,,,,,,,
 1164,,manticore_arms_aug_cantiliver_forend_handguard,Manticore Arms AUG Forend,2,0.16,0,-5,,,,,,,800
 ,manticore_side_mount,,,,,,,,,,,,,
@@ -2209,7 +2209,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1329,,Glock20,Glock 20,50,0.3,50,70,0,2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
 1330,,HK416A5,HK416A5,26,0.2,56,92,0,0.32,1,1600,,,30000
-1331,,AUG_A3,Steyr AUG A3,30,0.1,55,60,0,0.5,1,1550,,,42000
+1331,,AUG_A3,Steyr AUG A3,42,0,55,60,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
 1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1300,,,65000
 1334,,M4A1,M4A1,15,0,67,90,0,0.46,1,1550,,,0
