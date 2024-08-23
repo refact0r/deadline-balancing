@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Aug 22 22:14:42 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Aug 23 13:31:41 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -419,7 +419,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 265,,dd_mk18_ris_2_9.55_handguard,DD Mk18 RIS II 9.55,8,0.3,-11,-14,,,,,,,1000
 266,,kac_ras_m4a1_handguard,KAC RAS,10,0.23,-6,-13,,0.04,,,,,700
 267,,geissele_smr_mk16_mlok_urg_i_13.5inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 13.5""",8,0.33,-13,-11,,,,,,,1100
-268,,geissele_smr_mk16_mlok_urg_i_15inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 15""",7,0.36,-12,-12,,,,,,,1200
+268,,geissele_smr_mk16_mlok_urg_i_15inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 15""",7,0.36,-14,-12,,,,,,,1200
 269,,geissele_smr_mk16_mlok_urg_i_9.3inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 9.3""",11,0.26,-11,-7,,,,,,,1000
 272,,kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,0,0,0,0,,,,,,,0
 ,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-11,-16,,0.04,,,,,1200
@@ -441,6 +441,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 287,,colt_a2_std_rifle_plastic_handguard,Colt M16A2 Rifle Length Plastic,12,0.29,-11,-17,,0.08,,,,,500
 288,,geissele_smr_mk16_mlok_urg_i_10.5inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 10.5""",10,0.29,-12,-8,,,,,,,1050
 ,,geissele_smr_mk4_federal_mlok_10inch,"Geissele Super Modular Rail Mk4 Federal MLOK 10""",10,0.31,-12,-10,,,,,,,1100
+,,kac_urx_6_mlok_13inch_handguard,"KAC URX 6 MLOK 13""",9,0.33,-10,-15,,,,,,,1500
 289,,kac_urx_4_mlok_8.5inch_handguard,"KAC URX 4 MLOK 8.5""",13,0.24,-7,-9,,,,,,,1100
 290,,kac_urx_4_mlok_13inch_handguard,"KAC URX 4 MLOK 13""",9,0.32,-11,-13,,,,,,,1250
 291,,kac_urx_4_mlok_14.5inch_handguard,"KAC URX 4 MLOK 14.5""",8,0.35,-12,-14,,,,,,,1300
