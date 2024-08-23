@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Aug 22 21:03:33 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Aug 22 22:14:42 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1645,9 +1645,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3_gasblock_right_mount,,,,,,,,,,,,,
 988,,pup_light_25mm_flashlight_mount,PuP Light 25mm Flashlight,-0.5,0.02,,,,,,,,,750
 ,aug_a3_receiver,,,,,,,,,,,,,
-989,,steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,2,0.39,0,-3,,,,,,,1000
-,,steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,1,0.37,-1,-2,,,,,,,500
-990,,steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,3,0.49,0,-4,,,,,,,0
+989,,steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,1,0.39,0,-3,,,,,,,1000
+,,steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,0,0.37,-1,-2,,,,,,,500
+990,,steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,2,0.49,0,-4,,,,,,,0
 ,aug_a3_side_rail_mount,,,,,,,,,,,,,
 991,,aug_a3_std_side_rail_mount,AUG A3 Side,-1,0.06,,,,,,,,,0
 ,aug_a3_sling_mount,,,,,,,,,,,,,

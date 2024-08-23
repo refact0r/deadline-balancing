@@ -7,9 +7,9 @@ corvus_defensio_aug_charging_handle,Corvus Defensio AUG Charging Handle,1.5,0.03
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
 aug_a3_std_bolt_carrier,AUG A3 Std.,0,0.35,,,,,,,,,0,-7,,0,0.2,,,,,,,,,0,-4
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
-steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,2,0.39,0,-3,,,,,,,1000,-4,,2,0.39,0,-3,,,,,,,1000,-4
-steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,1,0.37,-1,-2,,,,,,,500,-4.4,,1,0.37,-1,-2,,,,,,,500,-4.4
-steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,3,0.49,0,-5,,,,,,,0,-3.8,,3,0.49,0,-4,,,,,,,0,-4.4
+steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,2,0.39,0,-3,,,,,,,1000,-4,,1,0.39,0,-3,,,,,,,1000,-5
+steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,1,0.37,-1,-2,,,,,,,500,-4.4,,0,0.37,-1,-2,,,,,,,500,-5.4
+steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,3,0.49,0,-5,,,,,,,0,-3.8,,2,0.49,0,-4,,,,,,,0,-5.4
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
 pjs_aug_a3_sa_cqc_left_rail,PJS AUG A3 CQC Handguard Left Rail,-2,0.06,0,-2,,,,,,,0,-2,,-1,0.05,-2,0,,,,,,,0,-0.4
 pjs_aug_a3_sa_cqc_right_rail,PJS AUG A3 CQC Handguard Right Rail,-1,0.04,-1,0,,,,,,,0,-1,,-0.5,0.03,-1,0,,,,,,,0,-0.3
