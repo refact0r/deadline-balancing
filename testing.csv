@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Aug 22 17:50:05 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Aug 22 18:30:07 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -595,6 +595,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,5,0.22,1,1,,0.6,-0.26,-685,,0.063,1400
 ,,x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-6,0.74,-8,-8,,-0.1,0.16,267,,-0.03,1800
 ,,ballistic_advantage_ar15_modern_series_5.56x45_292mm_govt_c_barrel,"Ballistic Advantage Modern Series Government 11.5"" Carbine Length Gastube 5.56x45",2,0.5,-2,-3,,0.2,-0.1,-178,,,1100
+,,,,,,,,,,,,,,
 ,m4_gasblock_mount,,,,,,,,,,,,,
 358,,aim_sports_mt026_mount,AIM Sports MT026 Tri-Rail Barrel Mount,-3,0.1,,,,,,,,,400
 359,,diemaco_tri_ad_i_mount,Diemaco TRI-AD I Barrel Mount,-1,0.06,,,,,,,,,600
