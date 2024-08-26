@@ -1,16 +1,16 @@
-﻿,,old,,,,,,,,,,,,,game stats,,,,,,irl stats,,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,mv,vel loss,0st,100st,200st,,type,mv,,,,,loss %,energy,,,,,
-,Speer Lawman 124gr TMJ (53651),,0.1,1,1,,-0.05,,10,,,1500,-3.116666667,,1260,50,35,22,7,,total metal jacket,1090,1047,1011,979,951,0.127522936,327,302,281,264,249,0.23853211
-,Remington UMC 115gr FMJ (L9MM3B),0,0.1,,,,,,,,,0,-2,,1260,50,39,25,10,,full metal jacket,1240,1147,1075,1019,973,0.215322581,335,305,280,261,244,0.271641791
-,Piney Mountain 124gr Green Tracer,-1,0.09,,1,,0.1,,,,,750,-3.9,,1250,60,37,24,9,,tracer,1100,,,,,1,350,,,,,1
-,Federal Classic 115gr HI-SHOK JHP (9BP),,0.09,10,10,,0.4,,-150,,,2000,-18.3,,1100,40,50,39,27,,hollow point,1180,1106,1048,1001,961,0.18559322,356,312,280,256,236,0.337078652
-,Federal BallistiClean 100gr RHT Frangible (BC9NT3),,0.07,-5,-10,,-0.4,,-100,,,600,10.26666667,,1150,60,35,24,11,,frangible,1240,1147,1075,1019,973,0.215322581,341,292,257,230,210,0.384164223
-,ARMSCOR USA 147gr Subsonic FMJ (FAC9-5N),2,0.05,-15,-20,,0.2,,-200,,,1000,23.33333333,,1050,50,35,22,7,,subsonic,950,,850,,,1,295,,236,,,1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,new,,,,,,,,,,,,,,vel loss,suppression,pen,,,,,,,,,,,,,,,
-9x19_speer_lawman_124gr_tmj_53651,Speer Lawman 124gr TMJ (53651),0,0.1,-6,-6,,-0.05,0.1,-150,,,1500,7.15,,,50,30%,0.18,,,,,,,,,,,,,,,
-9x19_remington_umc_115gr_fmj_l9mm3b,Remington UMC 115gr FMJ (L9MM3B),1,0.1,-8,-8,,0.1,0.04,0,,,0,10.1,,,70,20%,0.21,,,,,,,,,,,,,,,
-9x19_piney_mountain_124gr_green_tracer,Piney Mountain 124gr Green Tracer,0,0.09,-5,-5,,0.05,0.2,-200,,,750,6.283333333,,,50,30%,0.15,,,,,,,,,,,,,,,
-9x19_federal_classic_115gr_hi_shok_jhp_9bp,Federal Classic 115gr HI-SHOK JHP (9BP),-1,0.09,6,6,,0.4,,-100,,,2000,-13.53333333,,,60,20%,0.05,,,,,,,,,,,,,,,
-9x19_federal_ballisticlean_100gr_rht_frangible_bc9nt3,Federal BallistiClean 100gr RHT Frangible (BC9NT3),2,0.07,-8,-13,,-0.2,,0,,,600,15.8,,,70,20%,0.01,,,,,,,,,,,,,,,
-9x19_armscor_usa_147gr_fmj_fac9_5n,ARMSCOR USA 147gr Subsonic FMJ (FAC9-5N),3,0.12,-15,-20,,0.2,,-300,,,1000,22.6,,,80,10%,0.1,,,,,,,,,,,,,,,
+﻿,,old,,,,,,,,,,,,,game stats,,,,,,,,irl stats,,,,,,,,,,,,
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,mv,vel loss,suppression,pen,0st,100st,200st,,type,mv,,,,,loss %,energy,,,,,
+,Speer Lawman 124gr TMJ (53651),,0.1,1,1,,-0.05,,10,,,1500,-3.116666667,,1260,50,10%,0.09,35,22,7,,total metal jacket,1090,1047,1011,979,951,0.127522936,327,302,281,264,249,0.23853211
+,Remington UMC 115gr FMJ (L9MM3B),0,0.1,,,,,,,,,0,-2,,1260,50,50%,0.2,39,25,10,,full metal jacket,1240,1147,1075,1019,973,0.215322581,335,305,280,261,244,0.271641791
+,Piney Mountain 124gr Green Tracer,-1,0.09,,1,,0.1,,,,,750,-3.9,,1250,60,50%,0.1,37,24,9,,tracer,1100,,,,,1,350,,,,,1
+,Federal Classic 115gr HI-SHOK JHP (9BP),,0.09,10,10,,0.4,,-150,,,2000,-18.3,,1100,40,70%,0.02,50,39,27,,hollow point,1180,1106,1048,1001,961,0.18559322,356,312,280,256,236,0.337078652
+,Federal BallistiClean 100gr RHT Frangible (BC9NT3),,0.07,-5,-10,,-0.4,,-100,,,600,10.26666667,,1150,60,30%,0.11,35,24,11,,frangible,1240,1147,1075,1019,973,0.215322581,341,292,257,230,210,0.384164223
+,ARMSCOR USA 147gr Subsonic FMJ (FAC9-5N),2,0.05,-15,-20,,0.2,,-200,,,1000,23.33333333,,1050,50,10%,0.02,35,22,7,,subsonic,950,,850,,,1,295,,236,,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,new,,,,,,,,,,,,,mv,vel loss,suppression,pen,,100st,,,,,,,,,,,,,,,
+9x19_speer_lawman_124gr_tmj_53651,Speer Lawman 124gr TMJ (53651),0,0.1,-10,-12,,-0.05,0.1,-150,,,1500,13.95,,1100,50,30%,0.18,,24,,,,,,,,,,,,,,,
+9x19_remington_umc_115gr_fmj_l9mm3b,Remington UMC 115gr FMJ (L9MM3B),1,0.1,-7,-9,,0.1,0.04,0,,,0,9.9,,1250,70,20%,0.2,,26,,,,,,,,,,,,,,,
+9x19_piney_mountain_124gr_green_tracer,Piney Mountain 124gr Green Tracer,0,0.09,-4,-6,,0.05,0.2,-150,,,750,6.25,,,50,30%,0.12,,28,,,,,,,,,,,,,,,
+9x19_federal_classic_115gr_hi_shok_jhp_9bp,Federal Classic 115gr HI-SHOK JHP (9BP),-1,0.09,6,6,,0.4,,-100,,,2000,-13.53333333,,1150,60,20%,0.05,,39,,,,,,,,,,,,,,,
+9x19_federal_ballisticlean_100gr_rht_frangible_bc9nt3,Federal BallistiClean 100gr RHT Frangible (BC9NT3),2,0.07,-12,-10,,-0.2,-0.1,0,,,600,16.2,,1250,70,20%,0.02,,,,,,,,,,,,,,,,,
+9x19_armscor_usa_147gr_fmj_fac9_5n,ARMSCOR USA 147gr Subsonic FMJ (FAC9-5N),3,0.12,-15,-20,,0.2,,-300,,,1200,22.6,,950,80,10%,0.08,,22,,,,,,,,,,,,,,,
