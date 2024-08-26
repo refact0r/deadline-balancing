@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Aug 26 14:24:09 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Aug 26 14:55:59 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -402,9 +402,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,sc_irregulars_omm_6_slot_board_rear,SC Irregulars OMM 6 Slot Board,-1.5,0.06,,,,,,,,,400
 ,,sc_irregulars_omm_8_slot_board_rear,SC Irregulars OMM 8 Slot Board,-2,0.08,,,,,,,,,500
 ,m4a1_gas_block,,,,,,,,,,,,,
-252,,jp_enterprises_5b_gasblock,JP Enterprises 5B,-0.5,0.13,-1,-2,,,,,,,750
+252,,jp_enterprises_5b_gasblock,JP Enterprises 5B,-1,0.08,-2,-2,,,,,,,750
 253,,daniel_defense_mk12_low_profile_gasblock,Daniel Defense MK12 Low Profile,0,0.06,-1,-1,,,,,,,1200
-254,,windham_weaponry_railed_ar15_gasblock,Windham Weaponry Rail Gas Block,-0.5,0.09,0,-1,,,,,,,1000
+254,,windham_weaponry_railed_ar15_gasblock,Windham Weaponry Rail Gas Block,0,0.1,0,-1,,,,,,,1000
 255,,colt_m4fs_gasblock,Colt M4 Standard,3,0.11,0,0,,,,,,,0
 ,m4a1_handguard,,,,,,,,,,,,,
 256,,2a_armament_builder_series_gen1_10inch_handguard,"2A Armament Builder Series Gen 1 10""",13,0.25,-8,-7,,,,,,,750
