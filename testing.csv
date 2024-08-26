@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Aug 25 19:12:25 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Aug 25 19:24:32 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1423,11 +1423,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 868,,9x18_underwood_xtreme_penetrator_95gr_sm,9x18mm Underwood Xtreme Penetrator 95gr SM,,0.15,-2,2,,0.1,,50,,,1000
 ,ammo_9x19,,,,,,,,,,,,,
 869,,9x19_remington_umc_115gr_fmj_l9mm3b,Remington UMC 115gr FMJ (L9MM3B),1,0.1,-7,-9,,0.1,0.04,0,,,0
-870,,9x19_federal_ballisticlean_100gr_rht_frangible_bc9nt3,Federal BallistiClean 100gr RHT Frangible (BC9NT3),2,0.07,-12,-10,,-0.2,-0.1,0,,,600
-871,,9x19_federal_classic_115gr_hi_shok_jhp_9bp,Federal Classic 115gr HI-SHOK JHP (9BP),-1,0.09,6,6,,0.4,,-100,,,2000
-872,,9x19_speer_lawman_124gr_tmj_53651,Speer Lawman 124gr TMJ (53651),0,0.1,-10,-12,,-0.05,0.1,-150,,,1500
+870,,9x19_federal_ballisticlean_100gr_rht_frangible_bc9nt3,Federal BallistiClean 100gr RHT Frangible (BC9NT3),2,0.07,-13,-11,,-0.2,-0.04,0,,,600
+871,,9x19_federal_classic_115gr_hi_shok_jhp_9bp,Federal Classic 115gr HI-SHOK JHP (9BP),-1,0.09,7,7,,0.4,,-100,,,2000
+872,,9x19_speer_lawman_124gr_tmj_53651,Speer Lawman 124gr TMJ (53651),0,0.1,-11,-13,,-0.05,0.1,-150,,,1500
 873,,9x19_armscor_usa_147gr_fmj_fac9_5n,ARMSCOR USA 147gr Subsonic FMJ (FAC9-5N),3,0.12,-15,-20,,0.2,,-300,,,1200
-874,,9x19_piney_mountain_124gr_green_tracer,Piney Mountain 124gr Green Tracer,0,0.09,-4,-6,,0.05,0.2,-150,,,750
+874,,9x19_piney_mountain_124gr_green_tracer,Piney Mountain 124gr Green Tracer,0,0.09,-3,-5,,0.05,0.18,-150,,,750
 ,ammo_10mm,,,,,,,,,,,,,
 875,,10mm_sellier&bellot_160gr_fmj,10mm Auto Sellier & Bellot 160gr FMJ,0,0.03,,0,,0,,100,,,0
 876,,10mm_remington_umc_180gr_mc_fmj,10mm Auto Remington UMC 180gr MC FMJ,0,0.04,,0,,0.05,,50,,,1000
