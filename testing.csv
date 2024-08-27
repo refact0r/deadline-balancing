@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Aug 26 16:02:00 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Aug 26 17:02:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -832,12 +832,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 505,,colt_32rd,Colt 9x19 32rnd,0,0.27,,,32,,,,,,500
 506,,duramag_colt_ar9_20r_mag,Duramag Colt AR-9 20Rnd,10,0.2,,-2,20,,,,,,400
 507,,duramag_colt_ar9_10r_mag,Duramag Colt AR-9 10Rnd,20,0.11,,-4,10,,,,,,200
-,,custom_colt_smg_9x19_50r_mag,Custom Colt SMG 9x19 50rnd Magazine,-25,0.42,,,50,0.05,,,,,5000
+,,custom_colt_smg_9x19_50r_mag,Custom Colt SMG 9x19 50rnd Magazine,-25,0.5,4,4,50,0.05,,,,,5000
 ,colt_smg_extension,,,,,,,,,,,,,
 ,,taylor_freelance_colt_smg_10r_mag_extension,Taylor Freelance Colt SMG 10r Mag Extension,-5,0.08,,,10,,,,,,1000
 ,colt_50_more,,,,,,,,,,,,,
-,,custom_colt_smg_9x19_50r_extension,Custom Colt SMG 50rnd Magazine Extension,-35,0.42,,,50,0.05,,,,,5000
-,,custom_colt_smg_mag_coupler,Custom Colt SMG Mag Coupler,-2,0.04,,,,,,,,,0
+,,custom_colt_smg_9x19_50r_extension,Custom Colt SMG 50rnd Magazine Extension,-35,0.5,20,20,50,0.05,,,,,5000
+,,custom_colt_smg_mag_coupler,Custom Colt SMG Mag Coupler,-2,0.1,,,,,,,,,0
 ,magazine_762x25mm_tt33,,,,,,,,,,,,,
 508,,tt33_std_8rnd,TT-33 Std. Single Stack 8R,27,0.09,,,8,,,,,,300
 509,,tt33_extended_16r_mag,TT-33 Custom Welded Single Stack Extended 16R,10,0.18,,,16,,,,,,1000
