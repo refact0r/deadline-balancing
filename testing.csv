@@ -1528,7 +1528,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk416a5_lower_receiver,,,,,,,,,,,,,
 939,,hk416a5_lower_receiver,HK416A5,0,0.4,0,0,,,,,,,0
 ,hk416a5_upper_receiver,,,,,,,,,,,,,
-940,,hk416a5_upper,HK416A5,-3,0.48,0,0,,,,,,,0
+940,,hk416a5_upper,HK416A5,0,0.35,0,0,,,,,,,0
 ,hk_stock_extendable_part,,,,,,,,,,,,,
 941,,hk_g3a3_stock_extendable_part,HK G3A3 Stock Extendable Part,13,0.08,-7,-9,,,,,,,0
 ,hk_g3_button_mag_release,,,,,,,,,,,,,
@@ -2212,7 +2212,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1328,,Glock17,Glock 17,50,0.3,40,70,0,2,1,1250,,,0
 1329,,Glock20,Glock 20,50,0.3,50,70,0,2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
-1330,,HK416A5,HK416A5,26,0.2,56,92,0,0.32,1,1600,,,30000
+1330,,HK416A5,HK416A5,30,0.2,56,92,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,42,0,55,60,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
 1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1300,,,65000
