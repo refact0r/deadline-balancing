@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 01 03:06:31 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 01 03:31:38 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1555,10 +1555,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk416_gas_block,,,,,,,,,,,,,
 931,,hk416_lowprofile_gasblock,HK416 Low Profile Gas Block,-1,0.09,-3,-2,,,,,,,0
 ,hk416_handguard,,,,,,,,,,,,,
-932,,hk_quad_rail_handguard,HK416A5 Quad Rail Handguard,3,0.28,-11,-17,,,,,,,0
-933,,mi_hk416_mlok_14i,"Midwest Industries HK416 14"" MLOK Handguard",5,0.34,-14,-13,,,,,,,1400
-934,,mi_hk416_mlok_9i,"Midwest Industries HK416 9"" MLOK Handguard",8,0.22,-11,-11,,,,,,,900
-935,,hk_extended_quad_rail_handguard,HK416A5 Extended Quad Rail Handguard,2,0.35,-12,-19,,,,,,,750
+932,,hk_quad_rail_handguard,HK416A5 Quad Rail Handguard,8,0.28,-11,-14,,,,,,,0
+933,,mi_hk416_mlok_14i,"Midwest Industries HK416 14"" MLOK Handguard",7,0.34,-13,-15,,,,,,,1400
+934,,mi_hk416_mlok_9i,"Midwest Industries HK416 9"" MLOK Handguard",11,0.25,-10,-10,,,,,,,900
+935,,hk_extended_quad_rail_handguard,HK416A5 Extended Quad Rail Handguard,5,0.36,-12,-18,,,,,,,750
 ,hk416_mag_release,,,,,,,,,,,,,
 936,,hk416_mag_release,HK416 Mag Release,0,0.01,,,,,,,,,0
 ,hk416_trigger,,,,,,,,,,,,,
