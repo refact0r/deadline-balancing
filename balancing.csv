@@ -1984,7 +1984,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,pjs_cqc_handguard,,,,,,,,,,,,,
 ,,pjs_aug_a3_sa_cqc_handguard,PJS AUG A3 CQC Handguard,3,0.14,-2,-2,,,,,,,800
 ,pjs_cqc_handguard_rails,,,,,,,,,,,,,
-,,pjs_aug_a3_sa_cqc_left_rail,PJS AUG A3 CQC Handguard Left Rail,-1,0.06,-2,0,,,,,,,0,0
+,,pjs_aug_a3_sa_cqc_left_rail,PJS AUG A3 CQC Handguard Left Rail,-1,0.06,-2,0,,,,,,,0
 ,,pjs_aug_a3_sa_cqc_right_rail,PJS AUG A3 CQC Handguard Right Rail,-0.5,0.04,-1,0,,,,,,,0
 ,manticore_handguard,,,,,,,,,,,,,
 1164,,manticore_arms_aug_cantiliver_forend_handguard,Manticore Arms AUG Forend,2,0.16,0,-5,,,,,,,800
