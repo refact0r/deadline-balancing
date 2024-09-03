@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 02 23:12:25 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 02 23:20:04 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -718,7 +718,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,fn_scar_l_barrel,,,,,,,,,,,,,
 413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,2,0.47,1,2,,0.2,-0.12,-250,,,1200
 414,,fn_scar_l_355mm_barrel,FN SCAR-L 355mm,0,0.6,0,0,,0,0,-30,,,1000
-415,,fn_scar_l_457mm_barrel,FN SCAR-L 457mm,-2,0.73,-1,-2,,-0.1,0.14,200,,,1500
+415,,fn_scar_l_457mm_barrel,FN SCAR-L 457mm,-5,0.73,-3,-4,,-0.1,0.14,200,,,1500
 ,fn_scar_l_bolt,,,,,,,,,,,,,
 416,,fn_scar_l_bolt_carrier,FN SCAR-L Bolt,2,0,,,,,,,,,0
 ,fn_scar_l_gasblock,,,,,,,,,,,,,
@@ -2273,7 +2273,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1500,,,20000
 1337,,SCAR47,Handl Defense SCAR-47,40,0.35,60,60,0,0.2,0.9,1650,,,60000
 1338,,SCARH,FN SCAR Mk17,16,0.3,75,75,0,0.2,0.9,1650,,,75000
-1339,,SCARL,FN SCAR Mk16,35,0,65,70,0,0.36,1.1,1650,,,40000
+1339,,SCARL,FN SCAR Mk16,30,0,75,75,0,0.36,1.1,1650,,,40000
 1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1500,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
