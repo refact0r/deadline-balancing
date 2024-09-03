@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 02 23:20:04 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 02 23:30:04 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -2265,7 +2265,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1329,,Glock20,Glock 20,50,0.3,50,70,0,2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
 1330,,HK416A5,HK416A5,32,0,56,92,0,0.32,1,1600,,,30000
-1331,,AUG_A3,Steyr AUG A3,42,0,55,60,0,0.5,1,1550,,,42000
+1331,,AUG_A3,Steyr AUG A3,42,0,58,63,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
 1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1300,,,65000
 1334,,M4A1,M4A1,15,0,67,90,0,0.46,1,1550,,,0
