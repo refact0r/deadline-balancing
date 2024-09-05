@@ -1,4 +1,4 @@
-﻿0.23.0,Wed Sep 04 20:45:12 2024,,,,,,,,,,,,,
+﻿0.23.0,Wed Sep 04 20:45:16 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -2285,7 +2285,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,smg,,,,,,,,,,,,,
 1347,,MP5,H&K MP5,15,0.2,55,65,0,1.1,1,1300,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.5,1,1300,,,90000
-1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,0.46,1,1450,,,20000
+1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,70,90,0,1,1,1200,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.3,50,75,0,0.9,1,1300,,,11000
 ,turret,,,,,,,,,,,,,
