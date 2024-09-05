@@ -1,4 +1,4 @@
-﻿0.23.0,Wed Sep 04 20:06:30 2024,,,,,,,,,,,,,
+﻿0.23.0,Wed Sep 04 20:45:12 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1379,7 +1379,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 811,,amp_1ts,AMP 1TS,-0.5,0.04,,,,,,,,,750
 812,,um_tactical_um_3_mount,UM3,-9,0.06,,,,,,,,,800
 813,,amp_1r,AMP 1R,-0.5,0.03,,,,,,,,,750
-814,,wasatch_arms_comp_weight_compensator_10mm,Wasatch Arms Comp Weight 10mm Compensator for Glock 20,-3,0.1,-1,-8,,0.1,0.1,-100,,,1000
+814,,wasatch_arms_comp_weight_compensator_10mm,Wasatch Arms Comp Weight 10mm Compensator for Glock 20,-3,0.11,-5,-7,,0.1,0,-100,,,1000
 ,glock_underbarrel_picatinny,,,,,,,,,,,,,
 815,,rail,Additional attachment,0,0,,,,,,,,,0
 ,glock_barrel,,,,,,,,,,,,,
@@ -1825,21 +1825,21 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,aeroknox_ae01_muzzle_brake,Aeroknox AE/01,-1,0.07,-16,-13,,0.1,0,0,,,600
 ,,strike_industries_jcomp_gen2_5.56x45_muzzle_brake,Strike Industries JCOMP Gen2 5.56x45 Muzzle Brake,-1,0.05,-13,-16,,0.05,0,0,,,500
 ,9x19_muzzle_device,,,,,,,,,,,,,
-1071,,custom4port,CUSTOM4PORT,-2,0.07,0,-10,,0.1,0,10,,,500
-1072,,fd917,FD917,-12,0.27,-6,-12,,-0.3,0.2,300,,,2000
-1073,,mp5_noveske_style_muzzle_brake_th,MP5 Noveske Style Muzzle Brake,-1,0.05,-5,-3,,0.1,0.1,20,,,600
-1074,,alphadog_alpha9_flipped,Alpha Dog Alpha 9 9x19 Flipped,-10,0.2,-1,-5,,-0.5,0.15,150,,,1000
-1075,,alphadog_alpha9,Alpha Dog Alpha 9 9x19 Suppressor,-12,0.2,-1,-5,,-0.5,0.15,150,,,1000
-1076,,vityaz_suppressor,Vityaz 9x19,-8,0.24,-9,-7,,-0.3,0.15,150,,,1200
-1077,,sig_srd9_9x19,Sig SRD 9 9x19mm,-5,0.18,-8,-8,,-0.1,0.1,80,,,1500
-1078,,9x19_rotor43_8chamber_glock_suppressor,Rotor 43 8 Chambered 9x19 Glock,-4,0.18,-7,-9,,-0.1,0.1,50,,,1000
-1079,,9x19_naughty_9,Naughty-9,-2,0.15,-6,-6,,-0.05,0.05,30,,,900
-1080,,wilson_combat_9x19_thread_protector,Wilson Combat 9x19,2,0.005,0,0,,0,0,0,,,100
-1081,,9x19_thread_protector,9x19 Thread Protector,2,0.005,0,0,,0,0,0,,,100
-1082,,silencerco_osprey9_gen1_9x19_suppressor,SilencerCo Osprey 9 Gen 1 9x19 Suppressor,-8,0.23,-2,-9,,0,0.22,150,,,1500
-1083,,silencerco_osprey9_gen1_9x19_suppressor_flipped,SilencerCo Osprey 9 Gen 1 9x19 Suppressor Flipped,-8,0.23,-2,-9,,0,0.22,150,,,1500
-,,vltor_vc9_9x19_compensator,VLTOR VC9 9x19 Compensator,-2,0.06,-8,-10,,0.1,0.1,50,,,1800
-,,ips_9x19_1inch_barrel_extension,IPS 9x19 1in Barrel Extension,-1,0.04,0,0,,0.06,,40,,,500
+1071,,custom4port,CUSTOM4PORT,-2,0.07,-10,-1,,0.1,0,10,,,500
+1072,,fd917,FD917,-9,0.25,-5,-14,,-0.2,0.2,300,,,2000
+1073,,mp5_noveske_style_muzzle_brake_th,MP5 Noveske Style Muzzle Brake,-1,0.06,-9,-5,,0.1,0,20,,,600
+1074,,alphadog_alpha9_flipped,Alpha Dog Alpha 9 9x19 Flipped,-7,0.22,-7,-8,,-0.2,0.15,150,,,1000
+1075,,alphadog_alpha9,Alpha Dog Alpha 9 9x19 Suppressor,-8,0.22,-7,-8,,-0.2,0.15,150,,,1000
+1076,,vityaz_suppressor,Vityaz 9x19,-6,0.23,-10,-10,,-0.25,0.15,150,,,1200
+1077,,sig_srd9_9x19,Sig SRD 9 9x19mm,-5,0.23,-11,-9,,-0.1,0.1,80,,,1500
+1078,,9x19_rotor43_8chamber_glock_suppressor,Rotor 43 8 Chambered 9x19 Glock,-4,0.24,-8,-11,,-0.15,0.1,50,,,1000
+1079,,9x19_naughty_9,Naughty-9,-2,0.18,-8,-8,,-0.05,0.06,30,,,900
+1080,,wilson_combat_9x19_thread_protector,Wilson Combat 9x19,3,0.01,0,0,,0,0,0,,,100
+1081,,9x19_thread_protector,9x19 Thread Protector,3,0.01,0,0,,0,0,0,,,100
+1082,,silencerco_osprey9_gen1_9x19_suppressor,SilencerCo Osprey 9 Gen 1 9x19 Suppressor,-6,0.19,-6,-12,,-0.05,0.2,150,,,1500
+1083,,silencerco_osprey9_gen1_9x19_suppressor_flipped,SilencerCo Osprey 9 Gen 1 9x19 Suppressor Flipped,-6,0.19,-6,-12,,-0.05,0.2,150,,,1500
+,,vltor_vc9_9x19_compensator,VLTOR VC9 9x19 Compensator,-2,0.05,-7,-9,,0.1,0,50,,,1800
+,,ips_9x19_1inch_barrel_extension,IPS 9x19 1in Barrel Extension,-1,0.03,0,0,,0.06,,40,,,500
 ,7.62x39_muzzle_device,,,,,,,,,,,,,
 1084,,akm_compensator_6p1_014,AKM 6P1 0-14,-2,0.07,-8,-13,,0.1,-0.1,-150,,,0
 1085,,izmash_akml_flash_hider,Izhmash AKML System,4,0.1,-3,-5,,0,0.04,60,,,500
