@@ -15,4 +15,7 @@ pjs_aug_a3_sa_cqc_handguard,PJS AUG A3 CQC Handguard,6,0.12,-2,-2,,,,,,,800,,,3,
 pjs_aug_a3_sa_cqc_left_rail,PJS AUG A3 CQC Handguard Left Rail,-2,0.06,0,-2,,,,,,,0,-2,,-1,0.06,-2,0,,,,,,,0,-0.4
 pjs_aug_a3_sa_cqc_right_rail,PJS AUG A3 CQC Handguard Right Rail,-1,0.04,-1,0,,,,,,,0,-1,,-0.5,0.04,-1,0,,,,,,,0,-0.3
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-AUG_A3,Steyr AUG A3,30,0.1,55,60,0,0.5,1,1550,,,42000,-52,,42,0,55,60,0,0.5,1,1550,,,42000,-38
+AUG_A3,Steyr AUG A3,30,0.1,55,60,0,0.5,1,1550,,,42000,-52,,42,0,58,63,0,0.5,1,1550,,,42000,-38
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+steyr_aug_a3_xs_bottom_accessory_rail,Steyr AUG A3 XS Bottom Accessory Rail,-1,0.06,,1,,,,,,,1000,-2.8,,0,0.07,0,0,,,,,,,1000,-1.4
+corvus_defensio_aug_forward_accessory_rail,Corvus Defensio AUG Forward Accessory Rail,-2,0.08,1,-1,,,,,,,1200,-3.8,,-1,0.06,-1,0,,,,,,,1200,-1.4
