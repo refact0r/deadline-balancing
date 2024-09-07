@@ -2,7 +2,7 @@
 name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,
 steyr_aug_a3_m1_receiver,Steyr AUG A3 M1,1,0.39,0,-3,,,,,,,1000,-5,,1,0.39,0,-3,,,,,,,1000,-5,,
 steyr_aug_a3_sa_receiver,Steyr AUG A3 Standard,0,0.37,-1,-2,,,,,,,500,-5.4,,0,0.37,-1,-2,,,,,,,500,-5.4,,
-steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,2,0.49,0,-4,,,,,,,0,-5.4,,2,0.59,0,-4,,,,,,,0,-7.4,,
+steyr_aug_a1_stg77_1_5x_scoped_receiver,Steyr AUG A1 Swarovski Optik 1.5x Scoped,2,0.49,0,-4,,,,,,,0,-5.4,,2,0.6,0,-4,,,,,,,0,-7.6,,
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0,,
 steyr_aug_a3_sa_top_rail,Steyr AUG A3 Standard Rail,-1,0.14,-1,0,,,,,,,400,-3,,1,0.14,-1,0,,,,,,,400,-1,,
 pjs_aug_a3_sa_cqc_top_rail,PJS AUG A3 CQC Top Rail,3,0.15,0,-1,,,,,,,600,0.6,,3,0.15,0,-1,,,,,,,600,0.6,,
@@ -15,8 +15,8 @@ manticore_arms_aug_cantiliver_forend_top_rail,Manticore Arms AUG Forend Top Rail
 manticore_arms_30mm_talon_scope_mount,Manticore Arms 30mm Talon,-2,0.15,-1,,,,,,,,800,-4.2,,-3,0.15,0,-1,,,,,,,800,-5.4,,-3
 corvus_defension_m1_aug_receiver_rail,Corvus Defensio M1 AUG Receiver Rail,-5,0.15,-1,,,,,,,,750,-7.2,,-1,0.14,-1,-1,,,,,,,750,-2.4,,0
 ,,,,,,,,,,,,,0,,,,,,,,,,,,800,0,,2.4
-steyr_aug_a3sf_60mm_3x_scope,Steyr AUG A3SF 60mm 3x,,,,,,,,,,,,0,,1,0.23,0,-1,,,,,,,3000,-3,,-0.6
-steyr_aug_a3sf_60mm_1.5x_scope,Steyr AUG A3SF 60mm 1.5x,,,,,,,,,,,,0,,1,0.23,0,-1,,,,,,,2000,-3,,-0.6
+steyr_aug_a3sf_60mm_3x_scope,Steyr AUG A3SF 60mm 3x,,,,,,,,,,,,0,,2,0.26,0,-1,,,,,,,3000,-2.6,,-0.2
+steyr_aug_a3sf_60mm_1.5x_scope,Steyr AUG A3SF 60mm 1.5x,,,,,,,,,,,,0,,2,0.26,0,-1,,,,,,,2000,-2.6,,-0.2
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0,,
 manticore_arms_aug_cantiliver_forend_handguard,Manticore Arms AUG Forend,2,0.16,0,-5,,,,,,,800,1.8,,2,0.11,0,-4,,,,,,,800,2.2,,
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0,,
