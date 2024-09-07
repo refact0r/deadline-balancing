@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 06 23:17:55 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 06 23:18:47 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -2019,7 +2019,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,z24_scope,,,,,,,,,,,,,
 1182,,hensoldt_z24_fero_4x24,Hensoldt Z24 Fero 4x24mm,-1,0.16,-1,-6,,,,,,,750
 ,romeo3_mount,,,,,,,,,,,,,
-1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-2,0.09,,,,,,,,,900
+1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-2,0.05,,,,,,,,,900
 ,romeo4t_cap,,,,,,,,,,,,,
 1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.04,,,,,,,,,0
 1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,3,0.04,,,,,,,,,0
