@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Sep 10 22:17:43 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Sep 10 22:26:06 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1506,10 +1506,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump_stock_block,,,,,,,,,,,,,
 900,,ump_stock_block,HK UMP Standard,0,0.05,0,0,,,,,,,0
 ,ump_stock,,,,,,,,,,,,,
-901,,hk_ump_polymer_stock,HK UMP Standard Polymer Folding,5,0.2,-5,-10,,,,,,,0
-902,,tommybuilt_ump_tailhook_brace_adapter,Tommy Built UMP Tailhook Brace Adapter,-2,0.15,0,0,,,,,,,800
+901,,hk_ump_polymer_stock,HK UMP Standard Polymer Folding,11,0.2,-5,-9,,,,,,,0
+902,,tommybuilt_ump_tailhook_brace_adapter,Tommy Built UMP Tailhook Brace Adapter,0,0.15,0,0,,,,,,,800
 903,,bt_mp5/ump_folding_stock,B&T MP5 Folding Stock,16,0.21,-5,-3,,,,,,,600
-904,,hogue_ump_buffer_tube_adapter,Hogue UMP Buffer Tube Adapter,-10,0.12,5,5,,,,,,,1000
+904,,hogue_ump_buffer_tube_adapter,Hogue UMP Buffer Tube Adapter,-5,0.1,4,4,,,,,,,1000
 ,ump_rs,,,,,,,,,,,,,
 905,,ump_rear_sight_25m,HK UMP Standard 25m,2,0.01,,,,,,,,,0
 906,,ump_rear_sight_50m,HK UMP Standard 50m,4,0.01,,,,,,,,,100
@@ -1526,7 +1526,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 912,,ump_left_rail,UMP Standard Side Picatinny,-1,0.05,,,,,,,,,0
 913,,ump_right_rail,UMP Standard Side Picatinny,-1,0.05,,,,,,,,,0
 ,ump_handguard_extension,,,,,,,,,,,,,
-914,,haga_defense_usc_extended_handguard,Haga Defense USC,5,0.25,-3,-10,,,,,,,2000
+914,,haga_defense_usc_extended_handguard,Haga Defense USC,3,0.25,-3,-6,,,,,,,2000
 ,ump_fs,,,,,,,,,,,,,
 915,,ump45_std_frontsight,UMP Standard,2,0.01,,,,,,,,,0
 ,ump9_bolt,,,,,,,,,,,,,
@@ -1541,8 +1541,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 921,,hk_mp5k_polymer_handguard,HK MP5 Wide Tropical,15,0.15,-7,-5,,,,,,,1500
 ,ump45_barrel,,,,,,,,,,,,,
 922,,ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.2,0,0,,0,0,0,,,0
-923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-5,-3,,-0.2,0.2,300,,,1000
-924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.1,0,0,-0.15,,600
+923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,300,,,1000
+924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,0,,,600
 ,hk416_barrel,,,,,,,,,,,,,
 925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.5,4,5,,0.2,-0.13,-240,,,1000
 926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.51,4,4,,0.2,-0.12,-220,,,1500
@@ -2056,7 +2056,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,swivel_mount,,,,,,,,,,,,,
 1194,,harris_hbr_base,Harris HBR Bipod Base,-1,0.03,,,,,,,,,500
 ,tailhook_brace,,,,,,,,,,,,,
-1195,,ghw_tailhook_mod1_brace_small,GHW Tailhook MOD 1,11,0.09,-5,-5,,,,,,,400
+1195,,ghw_tailhook_mod1_brace_small,GHW Tailhook MOD 1,11,0.09,-5,-5,,,,,,,
 1196,,ghw_tailhook_mod1_brace_big,GHW Tailhook MOD 1,11,0.09,-5,-5,,,,,,,400
 ,thunderbeast_ultra,,,,,,,,,,,,,
 1197,,tb_5,Thunder Beast Ultra 5,-1,0.09,-14,-13,,-0.05,0.04,50,,,1200
