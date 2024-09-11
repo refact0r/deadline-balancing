@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Sep 10 22:26:06 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Sep 10 22:46:42 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1474,11 +1474,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 877,,10mm_winchester_silvertip_170gr_jhp,10mm Auto Winchester Silvertip 170gr JHP,-1,0.04,,10,,0.1,,-100,,,2000
 878,,10mm_liberty_ammunition_civil_defense_60gr_frag_hplf,10mm Auto Liberty Ammunition Civil Defense 60gr Frag HPLF,-1.5,0.01,30,30,,0.5,,300,,,800
 ,ammo_45acp,,,,,,,,,,,,,
-879,,45acp_blazer_brass_230gr_fmj,.45 ACP Blazer Brass 230gr FMJ,0,0.1,0,0,,0,0.05,80,,,0
-880,,45acp_pmc_230gr_fmj_45a,.45 ACP PMC 230gr FMJ (45A),0,0.1,0,-1,,0.1,0.08,80,,,1500
-881,,45acp_stelth_230gr_tmj_tmc_stl,.45 ACP Stelth 230gr TMJ (TMC-STL),2,0.1,-2,0,,0,-0.11,0,,,1200
-882,,45acp_tulammo_230gr_fmj,.45 ACP Tulammo 230gr FMJ,1,0.1,0,0,,0.1,0.17,100,,,1200
-883,,45acp_ammoinc_230gr_red_tracer_jhp,.45 ACP Ammo Inc. 230gr Red Tracer JHP,-1,0.1,0,-1,,0.1,-0.1,170,,,1000
+879,,45acp_blazer_brass_230gr_fmj,.45 ACP Blazer Brass 230gr FMJ,0,0.1,0,0,,0,0.03,80,,,0
+880,,45acp_pmc_230gr_fmj_45a,.45 ACP PMC 230gr FMJ (45A),0,0.1,0,-1,,0.1,0.06,80,,,1500
+881,,45acp_stelth_230gr_tmj_tmc_stl,.45 ACP Stelth 230gr TMJ (TMC-STL),2,0.1,-2,0,,0,-0.13,0,,,1200
+882,,45acp_tulammo_230gr_fmj,.45 ACP Tulammo 230gr FMJ,1,0.1,0,1,,0.1,0.14,100,,,1200
+883,,45acp_ammoinc_230gr_red_tracer_jhp,.45 ACP Ammo Inc. 230gr Red Tracer JHP,-1,0.1,0,0,,0.1,-0.12,170,,,1000
 ,ammo_5.8x42,,,,,,,,,,,,,
 884,,5.8x42_test,5.8x42_test,0,0.22,1,1,0.1,0.1,,-250,,,0
 ,ammo_762x25,,,,,,,,,,,,,
@@ -1534,7 +1534,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump9_barrel,,,,,,,,,,,,,
 917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.2,0,0,,0,0,-25,,,500
 918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.21,0,0,,0.1,0,-25,,,600
-919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-5,-3,,-0.2,0.1,275,,,1000
+919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-3,-2,,-0.1,0.1,275,,,1000
 ,ump45_bolt,,,,,,,,,,,,,
 920,,ump_45_full_auto_bolt,UMP .45 ACP Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,hk_mp5k_handguard,,,,,,,,,,,,,
