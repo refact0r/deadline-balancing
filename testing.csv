@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Sep 10 22:53:09 2024,,,,,,,,,,,,,
+﻿0.23.0,Wed Sep 11 19:14:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1555,10 +1555,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk416_gas_block,,,,,,,,,,,,,
 931,,hk416_lowprofile_gasblock,HK416 Low Profile Gas Block,-1,0.09,-3,-2,,,,,,,0
 ,hk416_handguard,,,,,,,,,,,,,
-932,,hk_quad_rail_handguard,HK416A5 Quad Rail Handguard,8,0.28,-11,-14,,,,,,,0
-933,,mi_hk416_mlok_14i,"Midwest Industries HK416 14"" MLOK Handguard",7,0.34,-13,-15,,,,,,,1400
-934,,mi_hk416_mlok_9i,"Midwest Industries HK416 9"" MLOK Handguard",11,0.25,-10,-10,,,,,,,900
-935,,hk_extended_quad_rail_handguard,HK416A5 Extended Quad Rail Handguard,5,0.36,-12,-18,,,,,,,750
+932,,hk_quad_rail_handguard,HK416A5 Quad Rail Handguard,8,0.28,-10,-14,,,,,,,0
+933,,mi_hk416_mlok_14i,"Midwest Industries HK416 14"" MLOK Handguard",7,0.34,-12,-15,,,,,,,1400
+934,,mi_hk416_mlok_9i,"Midwest Industries HK416 9"" MLOK Handguard",11,0.25,-9,-10,,,,,,,900
+935,,hk_extended_quad_rail_handguard,HK416A5 Extended Quad Rail Handguard,5,0.36,-11,-18,,,,,,,750
 ,hk416_mag_release,,,,,,,,,,,,,
 936,,hk416_mag_release,HK416 Mag Release,0,0.01,,,,,,,,,0
 ,hk416_trigger,,,,,,,,,,,,,
@@ -2272,7 +2272,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1328,,Glock17,Glock 17,50,0.3,40,70,0,2,1,1250,,,0
 1329,,Glock20,Glock 20,50,0.3,50,70,0,2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
-1330,,HK416A5,HK416A5,32,0,56,92,0,0.32,1,1600,,,30000
+1330,,HK416A5,HK416A5,28,0,56,92,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,37,0,58,63,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
 1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1300,,,65000
