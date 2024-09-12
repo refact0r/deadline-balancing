@@ -1564,7 +1564,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk416_trigger,,,,,,,,,,,,,
 937,,hk416_trigger,HK416 Default Trigger,0,0.04,,,,,,,,,0
 ,hk416_trigger_guard,,,,,,,,,,,,,
-938,,hk416_trigger_guard,HK416 Trigger Guard,0,0.04,,,,,,,,,0
+938,,hk416_trigger_guard,HK416 Trigger Guard,2,0.04,,,,,,,,,0
 ,hk416a5_lower_receiver,,,,,,,,,,,,,
 939,,hk416a5_lower_receiver,HK416A5,0,0.4,0,0,,,,,,,0
 ,hk416a5_upper_receiver,,,,,,,,,,,,,
