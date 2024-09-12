@@ -1,4 +1,4 @@
-﻿0.23.0,Wed Sep 11 19:19:45 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Sep 12 12:36:24 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1676,9 +1676,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 981,,steyr_aug_z_9x19_gasblock,Steyr AUG Z Shortened 9x19,0,0.06,,,,,,,,,600
 ,aug_a3_barrel,,,,,,,,,,,,,
 982,,steyr_aug_407mm_barrel,Steyr AUG A3 5.56x45 407mm,0,0.63,0,0,,0,0.1,150,,,0
-983,,steyr_aug_508mm_barrel,Steyr AUG A3 5.56x45 508mm,-3,0.76,-2,-3,,-0.1,0.24,350,,,1000
-984,,steyr_aug_350mm_barrel,Steyr AUG A3 5.56x45 350mm,2,0.55,1,1,,0.1,-0.04,-50,,,600
-985,,steyr_aug_hbar_620mm_heavy_barrel,Steyr AUG HBAR 5.56x45 620mm Heavy LMG,-10,0.99,-5,-7,,0.2,0.32,600,,,2000
+983,,steyr_aug_508mm_barrel,Steyr AUG A3 5.56x45 508mm,-4,0.76,-3,-4,,-0.15,0.24,350,,,1000
+984,,steyr_aug_350mm_barrel,Steyr AUG A3 5.56x45 350mm,2,0.55,1,0,,0.1,0,-50,,,600
+985,,steyr_aug_hbar_620mm_heavy_barrel,Steyr AUG HBAR 5.56x45 620mm Heavy LMG,-10,0.99,-6,-7,,0.1,0.32,600,,,2000
 ,aug_a3_bolt_carrier,,,,,,,,,,,,,
 986,,aug_a3_std_bolt_carrier,AUG A3 Std.,0,0.2,,,,,,,,,0
 ,aug_a3_gasblock,,,,,,,,,,,,,
