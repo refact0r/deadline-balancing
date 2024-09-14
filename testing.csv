@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 13 16:51:17 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 13 21:12:50 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1740,8 +1740,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3sa_top_rail_mount,,,,,,,,,,,,,
 ,,steyr_aug_a3_sa_top_rail,Steyr AUG A3 Standard Rail,1,0.14,-1,0,,,,,,,400
 ,,pjs_aug_a3_sa_cqc_top_rail,PJS AUG A3 CQC Top Rail,3,0.15,0,-1,,,,,,,600
-,,steyr_aug_a3_sa_xs_top_rail,Steyr AUG A3 Para XS Top Rail,5,0.12,1,2,,,,,,,1000
-,,corvus_defensio_aug_a3_mlok_top_rail,Corvus Defensio AUG A3 MLOK Top Rail,2,0.16,-1,-1,,,,,,,750
+,,steyr_aug_a3_sa_xs_top_rail,Steyr AUG A3 Para XS Top Rail,5,0.13,1,2,,,,,,,1000
+,,corvus_defensio_aug_a3_mlok_top_rail,Corvus Defensio AUG A3 MLOK Top Rail,2,0.17,-1,-2,,,,,,,750
+,,steyr_aug_z_subcompact_swat_keymod_top_rail,Steyr AUG-Z Subcompact SWAT Keymod Top Rail,1,0.16,-3,-1,,,,,,,1200
 ,aug_a3m1_top_rail_mount,,,,,,,,,,,,,
 1016,,steyr_aug_a3_m1_high_sight_mount,Steyr AUG A3 M1 High Top Rail,-2,0.1,-1,0,,,,,,,400
 1017,,manticore_arms_aug_cantiliver_forend_top_rail,Manticore Arms AUG Forend Top Rail,1,0.17,-1,-3,,,,,,,600
@@ -1749,6 +1750,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1019,,corvus_defension_m1_aug_receiver_rail,Corvus Defensio M1 AUG Receiver Rail,-1,0.14,-1,-1,,,,,,,750
 ,,steyr_aug_a3sf_60mm_3x_scope,Steyr AUG A3SF 60mm 3x,2,0.26,0,-1,,,,,,,3000
 ,,steyr_aug_a3sf_60mm_1.5x_scope,Steyr AUG A3SF 60mm 1.5x,2,0.26,0,-1,,,,,,,2000
+,,steyr_aug_a3_m1_extended_factory_rail,Steyr AUG A3 M1 Extended Factory Top Rail,-2,0.13,-1,-2,,,,,,,
 ,aug_a3_trigger,,,,,,,,,,,,,
 1020,,aug_a3_std_trigger,AUG A3 Std.,1,0.06,,,,,,,,,0
 1021,,arid_concepts_aug_improved_trigger,Arid Concepts AUG Improved Trigger,2,0.08,,,,,,,,,600
