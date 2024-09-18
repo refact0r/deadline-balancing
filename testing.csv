@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Sep 17 19:57:05 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Sep 17 20:42:06 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -978,16 +978,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 580,,agr_870_protection_cap,AGR 870,16,0.02,8,8,,,,,,,100
 581,,agr_870_buffer_tube,AGR-870,-1,0.1,-2,-2,,,,,,,500
 ,r870_barrel,,,,,,,,,,,,,
-582,,r870_325mm_sawn_off,Sawn Off Smoothbore 325mm,4,0.21,4,4,,0.1,-0.1,0,-0.3,,1200
-583,,r870_325mm_sawn_off_vent_ribs,Sawn Off 325mm Smoothbore With Vent Ribs,4.5,0.25,4,4,,0.1,-0.1,0,0.2,,1200
-584,,r870_508mm,Remington 508mm Smoothbore,3,0.48,0,0,,0,0,100,0,,1000
-585,,r870_660mm_barrel_vent_ribs,Remington 660mm Smoothbore With Vent Ribs,2,0.56,-1,-1,,-0.1,0.05,200,0.5,,1500
-586,,r870_711mm_barrel_vent_ribs,Remington 711mm Smoothbore With Vent Ribs,1,0.64,-2,-2,,-0.15,0.1,250,-0.15,,1750
-587,,r870_762mm_barrel_vent_ribs,Remington 762mm Smoothbore With Vent Ribs,0.5,0.7,-2.5,-2.5,,-0.2,0.15,300,0,,2000
-588,,r870_864mm_barrel_vent_ribs,Remington 864mm Smoothbore With Vent Ribs,0,0.84,-4,-4,,-0.3,0.2,400,-0.3,,3500
-589,,r870_211mm_sawn_off,Sawn Off Smoothbore 211mm,5,0.16,5,5,,0.2,-0.2,-100,0.2,,1000
-590,,r870_508mm_fixed_sight,Remington 508mm Smoothbore With Fixed Sight,3.5,0.5,0,0,,0,0,100,0,,1100
-591,,carlson_slug_610mm_cantilever,Carlson's Slug 610mm w/ cantilever,1,0.56,-2,-1,,-0.5,0.1,300,0.5,,2500
+582,,r870_325mm_sawn_off,Sawn Off Smoothbore 325mm,4,0.37,4,4,,0.1,-0.1,0,-0.3,,1200
+583,,r870_325mm_sawn_off_vent_ribs,Sawn Off 325mm Smoothbore With Vent Ribs,4.5,0.41,4,4,,0.1,-0.1,0,0.2,,1200
+584,,r870_508mm,Remington 508mm Smoothbore,3,0.64,0,0,,0,0,100,0,,1000
+585,,r870_660mm_barrel_vent_ribs,Remington 660mm Smoothbore With Vent Ribs,2,0.72,-1,-1,,-0.1,0.05,200,0.5,,1500
+586,,r870_711mm_barrel_vent_ribs,Remington 711mm Smoothbore With Vent Ribs,1,0.8,-2,-2,,-0.15,0.1,250,-0.15,,1750
+587,,r870_762mm_barrel_vent_ribs,Remington 762mm Smoothbore With Vent Ribs,0.5,0.86,-2.5,-2.5,,-0.2,0.15,300,0,,2000
+588,,r870_864mm_barrel_vent_ribs,Remington 864mm Smoothbore With Vent Ribs,0,1,-4,-4,,-0.3,0.2,400,-0.3,,3500
+589,,r870_211mm_sawn_off,Sawn Off Smoothbore 211mm,5,0.32,5,5,,0.2,-0.2,-100,0.2,,1000
+590,,r870_508mm_fixed_sight,Remington 508mm Smoothbore With Fixed Sight,3.5,0.66,0,0,,0,0,100,0,,1100
+591,,carlson_slug_610mm_cantilever,Carlson's Slug 610mm w/ cantilever,-1,0.72,-2,-1,,-0.5,0.1,300,0.5,,2500
 ,r870_barrel_front_sight,,,,,,,,,,,,,
 592,,r870_std_front_sight,Remington Standard Barrel,3,0.1,,,,,,,,,0
 ,r870_bolt,,,,,,,,,,,,,
@@ -997,9 +997,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 595,,r870_magpul_moe_handguard,Magpul MOE Rem870 Handguard,8,0.19,-2,-1,,,,,,,750
 596,,fab_defense_pr870_handguard,FAB Defense PR870,6,0.22,-3,-4,,,,,,,600
 ,r870_receiver,,,,,,,,,,,,,
-597,,r870_std_receiver,Standard Remington Model 870,0,0.32,0,0,,,,,,,500
-598,,r870_serbu_shorty_receiver,Remington Serbu Shorty,6,0.3,0,1,-2,,,,,,1000
-,,remington_870_mod_rmp3_receiver,Remington 870 Modified RMP3 Receiver,-3,0.35,-1,,,,,,,,800
+597,,r870_std_receiver,Standard Remington Model 870,0,0.4,0,0,,,,,,,500
+598,,r870_serbu_shorty_receiver,Remington Serbu Shorty,4,0.38,2,2,-2,,,,,,1000
+,,remington_870_mod_rmp3_receiver,Remington 870 Modified RMP3 Receiver,-2,0.43,-1,0,,,,,,,800
 ,r870_shell_carrier,,,,,,,,,,,,,
 599,,r870_shell_carrier,Remington Standard,1,0.03,,,,,,,,,0
 ,r870_shell_extractor,,,,,,,,,,,,,
