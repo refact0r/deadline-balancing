@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 13 21:12:51 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 13 21:12:50 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -148,7 +148,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,zenit_belomo_pk06,Zenit BelOMO PK-06 Kobra,-2,0.08,,,,,,,,,900
 ,,zenit_belomo_prc_red_dot,Zenit BelOMO PRC,-2,0.14,,,,,,,,,1200
 ,,zenit_belomo_picatinny_mount_pkas,Zenit-BelOMO PK-AS,-1,0.06,,,,,,,,,300
-,,zenitco_klesch_2p_lcu,Zenitco Klesch-2P + LCU,-0.5,0.8,,,,,,,,,1000
+,,zenitco_klesch_2p_lcu,Zenitco Klesch-2P + LCU,-0.5,0.08,,,,,,,,,1000
 ,,zenitco_perst_3_classic_gen4_green,"Zenitco Perst-3 ""Classic"" gen 4.0 (GREEN+)",-1,0.07,,,,,,,,,1000
 ,,primary_arms_slx_1x_microprism_acss_g2_scope_alt,,-1,0.08,,,,,,,,,1300
 ,,primary_arms_slx_1.53inch_straight_spacer_alt,,0,0.05,,,,,,,,,100
