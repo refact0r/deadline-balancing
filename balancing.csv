@@ -1,4 +1,4 @@
-﻿0.23.0,Wed Sep 18 16:35:13 2024,,,,,,,,,,,,,
+﻿0.23.0,Wed Sep 18 16:43:47 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1235,8 +1235,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mp133_stock,,,,,,,,,,,,,
 742,,mp133_153_wooden_stock,MP-133/153 Wooden,6,0.25,-4,-3,,,,,,,0
 743,,mp133_153_plastic_stock,MP-133/153 Plastic,4,0.2,-5,-3,,,,,,,600
-744,,delta_tek_plank,Delta-Tek,-2,0.05,-5,-3,,,,,,,600
-745,,mp133_153_plastic_pistol_grip,MP-133/153 Plastic,12,0.07,2,5,,,,,,,1000
+744,,delta_tek_plank,Delta-Tek,-2,0.05,-1,-1,,,,,,,600
+745,,mp133_153_plastic_pistol_grip,MP-133/153 Plastic,6,0.07,0,0,,,,,,,1000
 ,mp133_handguard,,,,,,,,,,,,,
 746,,mp133_beechwood_handguard,MP-133 Beechwood,5,0.19,-4,-6,,,,,,,0
 747,,mp133_plastic_handguard,MP-133 Plastic,3,0.15,-5,-6,,,,,,,800

@@ -22,7 +22,7 @@ hunter_cheekrest_.5_sga,Hunter Cheek Rest .5 for SGA,2,0.05,,,,,,,,,0,1,,2,0.05,
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
 ,Example AR Grip (PMM Scar),6,0.08,-2,-6,,,,,,,600,9.6,,6,0.08,-2,-6,,,,,,,600,9.6
 ,Example Buffer Stock (MOE Carbine),18,0.34,-9,-10,,,,,,,800,24.4,,17,0.19,-9,-8,,,,,,,800,25.2
-,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,0,,,,,,,,,,,,,
 ,Remington SPS SUMMED,4,0.2,-3,-3,0,0,0,0,0,0,750,4.2,0,14,0.22,-12,-12,0,0,0,0,0,0,750,26.4
 ,Shockwave Raptor SUMMED,12,0.06,2,5,0,0,0,0,0,0,1000,6.2,0,15,0.08,6,6,0,0,0,0,0,0,1000,5
 ,Mesa Tactical SUMMED,20,0.56,-11,-17,0,0,0,0,0,0,2400,27.8,0,21,0.39,-9,-12,0,0,0,0,0,0,2400,27.6
@@ -33,3 +33,9 @@ hunter_cheekrest_.5_sga,Hunter Cheek Rest .5 for SGA,2,0.05,,,,,,,,,0,1,,2,0.05,
 ,Magpul MOE SUMMED,11,0.27,-1,0,0,0,0,0,0,0,1200,6.4,0,18,0.27,-10,-10,0,0,0,0,0,0,1200,26.6
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,note: summed just means the relevant parts of one attachment option added together. don't edit the summed stats. edit the actual attachments and use summed stats (especially strength scores) as a guide,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+mp133_153_wooden_stock,MP-133/153 Wooden,6,0.25,-4,-3,,,,,,,0,6,,6,0.25,-4,-3,,,,,,,0,6
+mp133_153_plastic_stock,MP-133/153 Plastic,4,0.2,-5,-3,,,,,,,600,5.8,,4,0.2,-5,-3,,,,,,,600,5.8
+delta_tek_plank,Delta-Tek,-2,0.05,-5,-3,,,,,,,600,2.8,,-2,0.05,-1,-1,,,,,,,600,-1.6
+mp133_153_plastic_pistol_grip,MP-133/153 Plastic,12,0.07,2,5,,,,,,,1000,6,,6,0.07,0,0,,,,,,,1000,4.6
