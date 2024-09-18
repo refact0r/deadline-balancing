@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Sep 17 20:42:13 2024,,,,,,,,,,,,,
+﻿0.23.0,Wed Sep 18 16:35:13 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
@@ -1209,19 +1209,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak_magwell,,,,,,,,,,,,,
 ,,iron_claw_tactical_gen2_ak_magwell_system,Iron Claw Tactical Gen2 AK Magwell System,3,0.08,,-1,,,,,,,1000
 ,mp133_barrel,,,,,,,,,,,,,
-723,,mp_133_510mm_rib_barrel,510mm Rib,0,0.5,0,0,,0,0,50,0,,1000
-724,,mp_133_540mm_barrel,540mm,0,0.53,-1,-1,,-0.02,0.02,100,-0.1,,1100
-725,,mp_133_540mm_rib_barrel,540mm Rib,-1,0.55,-1,-1,,-0.02,0.02,100,-0.1,,1100
-726,,mp_133_610mm_barrel,610mm,-3,0.6,-3,-3,,-0.05,0.05,150,-0.15,,1300
-727,,mp_133_610mm_rib_barrel,610mm Rib,-4,0.62,-3,-3,,-0.05,0.05,150,-0.15,,1300
-728,,mp_133_660mm_barrel,660mm,-5,0.65,-4,-4,,-0.1,0.1,200,-0.2,,1400
-729,,mp_133_660mm_rib_barrel,660mm Rib,-6,0.67,-4,-4,,-0.1,0.1,200,-0.2,,1400
-730,,mp_133_710mm_barrel,710mm,-7,0.7,-6,-6,,-0.15,0.15,250,-0.25,,1500
-731,,mp_133_710mm_rib_barrel,710mm Rib,-8,0.72,-6,-6,,-0.15,0.15,250,-0.25,,1500
-732,,mp_133_750mm_rib_barrel,750mm Rib,-10,0.76,-7,-7,,-0.2,0.2,300,-0.3,,1600
-733,,mp_133_sawn_off_340mm_barrel,Sawn off 340mm,4,0.22,3,3,,0.2,-0.2,-100,0.3,,1200
-734,,mp_133_510mm_barrel,510mm,1,0.48,0,0,,0,0,50,0,,1000
-735,,mp_133_750mm_barrel,750mm,-9,0.74,-7,-7,,-0.2,0.2,300,-0.3,,1600
+723,,mp_133_510mm_rib_barrel,510mm Rib,0,0.66,0,0,,0,0,50,0,,1000
+724,,mp_133_540mm_barrel,540mm,0,0.69,-1,-1,,-0.02,0.02,100,-0.1,,1100
+725,,mp_133_540mm_rib_barrel,540mm Rib,-1,0.71,-1,-1,,-0.02,0.02,100,-0.1,,1100
+726,,mp_133_610mm_barrel,610mm,-3,0.76,-3,-3,,-0.05,0.05,150,-0.15,,1300
+727,,mp_133_610mm_rib_barrel,610mm Rib,-4,0.78,-3,-3,,-0.05,0.05,150,-0.15,,1300
+728,,mp_133_660mm_barrel,660mm,-5,0.81,-4,-4,,-0.1,0.1,200,-0.2,,1400
+729,,mp_133_660mm_rib_barrel,660mm Rib,-6,0.83,-4,-4,,-0.1,0.1,200,-0.2,,1400
+730,,mp_133_710mm_barrel,710mm,-7,0.86,-6,-6,,-0.15,0.15,250,-0.25,,1500
+731,,mp_133_710mm_rib_barrel,710mm Rib,-8,0.88,-6,-6,,-0.15,0.15,250,-0.25,,1500
+732,,mp_133_750mm_rib_barrel,750mm Rib,-10,0.92,-7,-7,,-0.2,0.2,300,-0.3,,1600
+733,,mp_133_sawn_off_340mm_barrel,Sawn off 340mm,4,0.38,3,3,,0.2,-0.2,-100,0.3,,1200
+734,,mp_133_510mm_barrel,510mm,1,0.64,0,0,,0,0,50,0,,1000
+735,,mp_133_750mm_barrel,750mm,-9,0.9,-7,-7,,-0.2,0.2,300,-0.3,,1600
 ,mp133_barrel_rib_mount,,,,,,,,,,,,,
 736,,etmi_019_rib_mount,ETMI-019,-2,0.05,,,,,,,,,500
 ,mp133_bolt,,,,,,,,,,,,,
@@ -1241,7 +1241,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 746,,mp133_beechwood_handguard,MP-133 Beechwood,5,0.19,-4,-6,,,,,,,0
 747,,mp133_plastic_handguard,MP-133 Plastic,3,0.15,-5,-6,,,,,,,800
 ,mp133_receiver,,,,,,,,,,,,,
-748,,mp133_std_receiver,MP-133 Std.,0,0.31,0,0,,,,,,,0
+748,,mp133_std_receiver,MP-133 Std.,0,0.39,0,0,,,,,,,0
 ,norinco_qbz95_lower_receiver,,,,,,,,,,,,,
 749,,norinco_qbz95_lower_receiver,Norinco QBZ-95 Lower,,,,,,,,,,,0
 ,norinco_qbz95_rear_aperture,,,,,,,,,,,,,
