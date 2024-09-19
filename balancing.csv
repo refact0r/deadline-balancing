@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Sep 19 01:14:02 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Sep 19 13:11:07 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -28,19 +28,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-4,0.3,-1,-4,,,,,,,3000
 26,,elcan_specter_os4x_sfov4,ELCAN Specter OS4X Fixed-Magn. SFOV4,-3,0.21,,-2,,,,,,,3000
 27,,elcan_specterdr_1_4x_dfov14_t1,ELCAN SpecterDR 1-4x DFOV14-T1,-3,0.26,,0,,,,,,,5000
-28,,eotech_553_holo_sight,Eotech 553,-4,0.17,,,,,,,,,1700
-,,eotech_552_holo_sight,Eotech 552,-3.5,0.18,,,,,,,,,1300
-,,eotech_512_holo_sight,Eotech 512,-2.5,0.16,,,,,,,,,1100
-29,,eotech_exps3_holo_sight,Eotech EXPS-3,-3.5,0.12,,,,,,,,,1750
-,,eotech_exps2_holo_sight,Eotech EXPS-2,-1.5,0.12,,,,,,,,,1500
+28,,eotech_553_holo_sight,Eotech 553,-2.5,0.2,,,,,,,,,1400
+,,eotech_552_holo_sight,Eotech 552,-2.5,0.18,,,,,,,,,1300
+,,eotech_512_holo_sight,Eotech 512,-1.5,0.18,,,,,,,,,1100
+29,,eotech_exps3_holo_sight,Eotech EXPS-3,-2.5,0.11,,,,,,,,,1700
+,,eotech_exps2_holo_sight,Eotech EXPS-2,-1,0.11,,,,,,,,,1500
 30,,eotech_sts_picatinny_mount,Eotech G23/33 STS,-1,0.03,,,,,,,,,200
-31,,eotech_xps3_holo_sight,Eotech XPS3,-3.5,0.15,,,,,,,,,1800
-,,eotech_xps2_holo_sight,Eotech XPS2,-1.5,0.15,,,,,,,,,1600
-,,eotech_xps2_green_holo_sight,Eotech XPS2 Green Holo Sight,-1.5,0.15,,,,,,,,,2100
-,,eotech_xps2z_zombie_stopper_holo_sight,Eotech XPS2Z Zombie Stopper Holo Sight,-1,0.13,,,,,,,,,4000
-,,eotech_exps2_green_holo_sight,Eotech EXPS2 Green Holo Sight,-1.5,0.12,,,,,,,,,2000
-,,eotech_exps2_mount,Eotech EXPS2 Mount,0,0.03,,,,,,,,,250
-,,eotech_exps3_mount,Eotech EXPS3 Mount,0,0.03,,,,,,,,,250
+31,,eotech_xps3_holo_sight,Eotech XPS3,-2.5,0.15,,,,,,,,,1800
+,,eotech_xps2_holo_sight,Eotech XPS2,-1,0.15,,,,,,,,,1600
+,,eotech_xps2_green_holo_sight,Eotech XPS2 Green Holo Sight,-1,0.15,,,,,,,,,1700
+,,eotech_xps2z_zombie_stopper_holo_sight,Eotech XPS2Z Zombie Stopper Holo Sight,-1,0.15,,,,,,,,,2000
+,,eotech_exps2_green_holo_sight,Eotech EXPS2 Green Holo Sight,-1,0.11,,,,,,,,,1600
+,,eotech_exps2_mount,Eotech EXPS2 Mount,0,0.03,,,,,,,,,300
+,,eotech_exps3_mount,Eotech EXPS3 Mount,0,0.03,,,,,,,,,300
 ,,eotech_exps2_hood,Eotech EXPS 2 Hood,0,0,,,,,,,,,0
 ,,eotech_exps3_hood,Eotech EXPS 3 Hood,0,0,,,,,,,,,0
 ,,eotech_exps2_green_hood,Eotech EXPS2 Green Hood,0,0,,,,,,,,,0
@@ -168,9 +168,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,daniel_defense_5inch_picatinny_rail_panel,Daniel Defense 5 inch Picatinny Rail Panel,1.25,0.05,,,,,,,,,500
 ,,daniel_defense_7inch_picatinny_rail_panel,Daniel Defense 7 inch Picatinny Rail Panel,1.75,0.07,,,,,,,,,700
 ,,daniel_defense_rubber_overmolding_vertical_foregrip,Daniel Defense Soft Touch Rubber Overmolding Vertical Foregrip,4,0.09,-3,-4,,,,,,,500
-,,bt_qd_nar_acro_22mm_mount,B&T QD NAR ACRO 22m Mount,0,0.03,,,,,,,,,400
-,,bt_qd_nar_acro_30mm_mount,B&T QD NAR ACRO 30m Mount,-0.5,0.04,,,,,,,,,600
-,,bt_qd_nar_acro_39mm_mount,B&T QD NAR ACRO 39m Mount,-0.5,0.05,,,,,,,,,800
+,,bt_qd_nar_acro_22mm_mount,B&T QD NAR ACRO 22m Mount,0,0.03,,,,,,,,,500
+,,bt_qd_nar_acro_30mm_mount,B&T QD NAR ACRO 30m Mount,-0.5,0.04,,,,,,,,,550
+,,bt_qd_nar_acro_39mm_mount,B&T QD NAR ACRO 39m Mount,-0.5,0.05,,,,,,,,,600
 ,,sc_irregulars_omm_micro_mount,SC Irregulars OMM MICRO Mount,-1,0.13,,,,,,,,,2000
 ,,sc_irregulars_omm_pic_mount,SC Irregulars OMM PIC Mount,-2,0.08,,,,,,,,,1500
 ,,valday_zt310_picatinny_mount,Valday ZT310 Picatinny Mount,-1,0.04,,,,,,,,,100
@@ -385,7 +385,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,compm5_caps,,,,,,,,,,,,,
 ,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.01,,,,,,,,,0
 ,acro_footprint,,,,,,,,,,,,,
-,,aimpoint_acro_p2_reflex_sight,Aimpoint ACRO P-2 Reflex,-1,0.07,,,,,,,,,1200
+,,aimpoint_acro_p2_reflex_sight,Aimpoint ACRO P-2 Reflex,-1,0.05,,,,,,,,,1200
 ,susat_scope_footprint,,,,,,,,,,,,,
 242,,usi_l12a1_susat_combat_optic,"United Scientific Industries L12A1 ""SUSAT"" Combat Optic",-5,0.28,,-3,,,,,,,950
 ,susat_backup_sights,,,,,,,,,,,,,
