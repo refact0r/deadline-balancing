@@ -1,14 +1,14 @@
-﻿0.23.0,Wed Sep 18 16:56:32 2024,,,,,,,,,,,,,
+﻿0.23.0,Wed Sep 18 22:58:45 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
-1,,primary_arms_slx_1x_microprism_acss_g2_scope,,-1,0.08,,,,,,,,,1300
-2,,primary_arms_slx_1.1inch_mount,,-2,0.03,,,,,,,,,200
-3,,primary_arms_slx_1.53inch_straight_spacer,,0,0.05,,,,,,,,,100
+1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
+2,,primary_arms_slx_1.1inch_mount,"Primary Arms SLx 1.1"" Mount",0,0.03,,,,,,,,,200
+3,,primary_arms_slx_1.53inch_straight_spacer,"Primary Arms SLx 1.53"" Riser",0,0.05,,,,,,,,,100
 4,,25mm_universal_mount,25mm Universal Tactical Mount,0,0.04,,,,,,,,,100
 5,,arms_no5_mount,A.R.M.S. #5 Multibase,-1,0.06,,,,,,,,,400
 6,,a3_angled_foregrip,A3 Angled,0,0.16,-3,-7,,,,,,,900
 7,,abom_cnc_works_picatinny_susat_adapter,Abom's CNC Works Picatinny SUSAT Adapter,0,0.07,0,0,,,,,,,300
-8,,ac32062_mount,AC32062,-1,0.03,,,,,,,,,200
+8,,trijicon_ac32062_mount,Trijicon AC32062 RMR Mount,0,0.05,,,,,,,,,350
 9,,aeroknox_ax15_front_sight_base,Aeroknox AX15 Front Sight Base,0,0.02,,,,,,,,,200
 10,,aeroknox_ax15_rear_sight_base,Aeroknox AX15 Rear Sight Base,0,0.02,,,,,,,,,200
 11,,aim_sports_low_profile_45_degree_sight_base,AIM Sports Low Profile 45 Degree Sight Base,0,0.02,,,,,,,,,100
@@ -71,9 +71,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 55,,l3harris_mipim_an_peq_16b,L3Harris MIPIM AN/PEQ-16B,-1,0.07,,,,,,,,,2000
 56,,larue_qd_lt_101,LaRue QD LT-101,-0.5,0.04,,,,,,,,,1000
 57,,las_tac_2,LAS/TAC 2,-0.5,0.05,,,,,,,,,750
-58,,leupold_deltapoint_pro_ar,Leupold DeltaPoint PRO AR,-1,0.07,,,,,,,,,300
-59,,leupold_deltapoint_pro_cross_slot,Leupold DeltaPoint Pro Cross Slot,-0.5,0.03,,,,,,,,,200
-60,,leupold_deltapoint_pro_ar_dloc,Leupold DeltaPoint PRO DLOC,-1,0.05,,,,,,,,,300
+58,,leupold_deltapoint_pro_ar,Leupold DeltaPoint PRO AR,0,0.07,,,,,,,,,300
+59,,leupold_deltapoint_pro_cross_slot,Leupold DeltaPoint Pro Cross Slot,0,0.02,,,,,,,,,200
+60,,leupold_deltapoint_pro_ar_dloc,Leupold DeltaPoint PRO DLOC,0,0.05,,,,,,,,,250
 61,,magpul_afg_2_grip,Magpul AFG-2,4,0.09,-4,-3,,,,,,,600
 62,,magpul_mbus_gen2_base,Magpul MBUS Gen2,0,0.02,,,,,,,,,200
 63,,magpul_rvg,Magpul RVG,3,0.08,-5,-2,,,,,,,300
@@ -104,13 +104,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 86,,rk_b25_angled_mount,Rk B25 angled,-1,0.03,0,0,,,,,,,500
 87,,rk_foregrip_mount,Rk foregrip,-0.5,0.03,0,0,,,,,,,200
 88,,rk_short_foregrip_mount,Rk short foregrip,-0.5,0.02,0,0,,,,,,,200
-89,,rm33_mount,RM33,0,0.02,,,,,,,,,200
+89,,trijicon_rm33_mount,Trijicon RM33 RMR Mount,0,0.02,,,,,,,,,300
 90,,rtm_pillau_tactical_grip,RTM Pillau Tactical grip,4,0.07,-3,-3,,,,,,,300
 91,,scalarworks_leap01_swo100_1.42_mount,Scalarworks Leap01 SWO 100 1.42 Mount,-1,0.04,,,,,,,,,500
 92,,scalarworks_leap01_swo110_1.57_mount,Scalarworks Leap01 SWO 110 1.57 Mount,-1,0.05,,,,,,,,,600
 93,,scalarworks_leap01_swo120_1.93_mount,Scalarworks Leap01 SWO 120 1.93 Mount,-1,0.06,,,,,,,,,750
 94,,sig_sauer_bravo4_4x30,SIG Sauer BRAVO4 4X30,-5,0.3,,-1,,,,,,,2000
-,,sig_sauer_qd_1.41_cowitness_romeo3_riser,Sig Sauer QD 1.41 co-witness Romeo 3,-1,0.04,,,,,,,,,200
+,,sig_sauer_qd_1.41_cowitness_romeo3_riser,Sig Sauer QD 1.41 co-witness Romeo 3,0,0.04,,,,,,,,,200
 95,,sig_sauer_romeo3_low_rise_mount,Sig Sauer Romeo 3 Low-Rise,0,0.02,,,,,,,,,200
 96,,sig_sauer_romeo_cowitness_qd_mount,Sig Sauer Romeo Cowitness QD Mount,-0.5,0.05,,,,,,,,,400
 97,,sig_sauer_romeo4_mount,Sig Sauer Romeo4,-1,0.04,,,,,,,,,200
@@ -120,12 +120,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 101,,sightmark_lopro_combo,Sightmark Lopro Combo,-0.5,0.06,,,,,,,,,500
 102,,sightmark_lopro_mini_combo,Sightmark Lopro Mini Combo,-0.5,0.05,,,,,,,,,600
 103,,stark_se_5_express_forward_grip,Stark SE-5 Express Forward Grip,2,0.1,-4,-6,,,,,,,400
-104,,swampfox_kingslayer_sight,Swampfox Kingslayer,-2.5,0.09,,,,,,,,,800
+104,,swampfox_picatinny_rmr_footprint_mount,Swampfox Picatinny RMR Mount,0,0.02,,,,,,,,,200
 105,,swampfox_trihawk_3x30_prism_scope,Swampfox Trihawk 3x30 Prism Scope,-3,0.16,,,,,,,,,1000
 106,,tangodown_bgv_mk46k_grip,Tangodown BGV-MK46K,3,0.08,-4,-4,,,,,,,600
 107,,timber_creek_enforcer_foregrip,Timber Creek Enforcer,5,0.05,-2,-2,,,,,,,700
 108,,timber_creek_enforcer_handstop,Timber Creek Enforcer,3,0.1,-3,-5,,,,,,,700
-109,,trijicon_compact_acog_ac12041_mount,Trijicon Compact ACOG AC12041 Mount w/ Q-LOC Technology,-0.5,0.06,,,,,,,,,350
+109,,trijicon_compact_acog_ac12041_mount,Trijicon Compact ACOG AC12041 Mount w/ Q-LOC Technology,0,0.03,,,,,,,,,350
 110,,trijicon_rmr_ac32066_offset,Trijicon RMR AC32066 45degree Offset Mount,-1,0.03,,,,,,,,,200
 111,,trijicon_rx14_mount,Trijicon RX14,-1,0.04,,,,,,,,,200
 112,,trijicon_srs02,Trijicon SRS-02,-2,0.13,,,,,,,,,900
@@ -175,6 +175,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,sc_irregulars_omm_pic_mount,SC Irregulars OMM PIC Mount,-2,0.08,,,,,,,,,1500
 ,,valday_zt310_picatinny_mount,Valday ZT310 Picatinny Mount,-1,0.04,,,,,,,,,100
 ,,arbalet_patriot_k_pu_20mm_picatinny_mount,Arbalet Patriot K-PU 20mm Picatinny Mount,-1,0.08,,,,,,,,,400
+,,trijicon_rm34_ac12036_mount,Trijcon RM34 AC12036 Mount,0,0.04,,,,,,,,,400
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
@@ -230,12 +231,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,rmr_mount,,,,,,,,,,,,,
 148,,zt_ap_cap,ZT AP,5,0.03,,,,,,,,,0
 149,,trijicon_sro,Trijicon SRO ,-2,0.07,,,,,,,,,800
-150,,trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Reflex,-1,0.06,,,,,,,,,900
+150,,trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Reflex,-1,0.04,,,,,,,,,1100
+,,trijicon_rmr_rm05_dual_illuminated_reflex,Trijicon RM05 RMR Dual Illuminated Reflex,-1,0.04,,,,,,,,,1200
+,,trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-1,0.04,,,,,,,,,1000
+,,swampfox_kingslayer_micro_reflex_sight,Swampfox Kingslayer Micro Reflex Sight,-2,0.04,,,,,,,,,800
 ,acog_compact_mount,,,,,,,,,,,,,
-151,,trijicon_compact_acog_3x24_ta50c_red,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.2,,-5,,,,,,,1200
-,,trijicon_compact_acog_3x24_ta50c_red_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.2,,-5,,,,,,,1200
-152,,trijicon_compact_acog_3x24_ta50c_green,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.2,,-5,,,,,,,1500
-,,trijicon_compact_acog_3x24_ta50c_green_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.2,,-5,,,,,,,1500
+151,,trijicon_compact_acog_3x24_ta50c_red,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,-2,,,,,,,1200
+,,trijicon_compact_acog_3x24_ta50c_red_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,-2,,,,,,,1200
+152,,trijicon_compact_acog_3x24_ta50c_green,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,-2,,,,,,,1500
+,,trijicon_compact_acog_3x24_ta50c_green_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,-2,,,,,,,1500
 ,trijicon_retro_reflex_sight,,,,,,,,,,,,,
 153,,trijicon_rx01/06_series_1x24_reflex_sight,Trijicon RX01/06 Series 1x24 Reflex,-3,0.1,,,,,,,,,750
 154,,trijicon_rx01/06_series_1x24_reflex_sight_ch,Trijicon RX01/06 Series 1x24 Reflex,3,0.08,,,,,,,,,750
@@ -359,9 +363,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hera_arms_cqr_gen2_stock,Hera Arms CQR Gen2 Stock,10,0.32,-7,-11,,,,,,,1500
 ,,hera_arms_cqr_gen2_buttpad,Hera Arms CQR Gen2 Buttpad,1,0.05,-1,-1,,,,,,,0
 ,leupold_deltapoint_footprint,,,,,,,,,,,,,
-227,,leupold_deltapoint_reflex_sight,Leupold DeltaPoint Reflex,-2,0.1,,,,,,,,,750
-228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-2.5,0.12,,,,,,,,,1000
-229,,eotech_eflx_mini_red_dot,Eotech EFLX Mini Red Dot,-2,0.11,,,,,,,,,1100
+227,,leupold_deltapoint_reflex_sight,Leupold DeltaPoint Reflex,-1,0.04,,,,,,,,,800
+228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-1,0.06,,,,,,,,,1200
+229,,eotech_eflx_mini_red_dot,Eotech EFLX Mini Red Dot,-1,0.05,,,,,,,,,1100
 ,aim_sport_low_profile_sight,,,,,,,,,,,,,
 230,,aim_sports_front_sight,AIM Sports Low Profile 45 Degree Front Sight,2,0.02,,,,,,,,,100
 231,,aim_sports_rear_sight_folded,AIM Sports Low Profile 45 Degree Folded Rear Sight,1,0.02,,,,,,,,,100
@@ -2034,7 +2038,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,z24_scope,,,,,,,,,,,,,
 1182,,hensoldt_z24_fero_4x24,Hensoldt Z24 Fero 4x24mm,-1,0.16,-1,-6,,,,,,,750
 ,romeo3_mount,,,,,,,,,,,,,
-1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-2,0.05,,,,,,,,,900
+1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-1,0.05,,,,,,,,,900
 ,romeo4t_cap,,,,,,,,,,,,,
 1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.04,,,,,,,,,0
 1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,3,0.04,,,,,,,,,0
