@@ -1,4 +1,4 @@
-﻿0.23.0,Wed Sep 18 22:58:45 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Sep 19 01:14:02 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -13,7 +13,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 10,,aeroknox_ax15_rear_sight_base,Aeroknox AX15 Rear Sight Base,0,0.02,,,,,,,,,200
 11,,aim_sports_low_profile_45_degree_sight_base,AIM Sports Low Profile 45 Degree Sight Base,0,0.02,,,,,,,,,100
 12,,aimpoint_30mm_low_ring,Aimpoint 30mm Low Ring,-0.5,0.02,,,,,,,,,200
-13,,aimpoint_amm_dovetail_11mm_mount,Aimpoint AMM Dovetail Groove 11mm Mount,0,0.03,,,,,,,,,200
+13,,aimpoint_amm_dovetail_11mm_mount,Aimpoint AMM Dovetail Groove 11mm Mount,0,0.02,,,,,,,,,200
 14,,aimpoint_electronic_g2_red_dot,Aimpoint Electronic G2,-2,0.09,,,,,,,,,500
 15,,aimpoint_micro_lrp_qd_mount,Aimpoint Micro LRP QD Mount,0,0.03,,,,,,,,,300
 16,,be_meyers_mawl_c1+,B.E. Meyers MAWL-C1+,-1,0.07,,,,,,,,,3000
@@ -107,16 +107,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 89,,trijicon_rm33_mount,Trijicon RM33 RMR Mount,0,0.02,,,,,,,,,300
 90,,rtm_pillau_tactical_grip,RTM Pillau Tactical grip,4,0.07,-3,-3,,,,,,,300
 91,,scalarworks_leap01_swo100_1.42_mount,Scalarworks Leap01 SWO 100 1.42 Mount,-1,0.04,,,,,,,,,500
-92,,scalarworks_leap01_swo110_1.57_mount,Scalarworks Leap01 SWO 110 1.57 Mount,-1,0.05,,,,,,,,,600
-93,,scalarworks_leap01_swo120_1.93_mount,Scalarworks Leap01 SWO 120 1.93 Mount,-1,0.06,,,,,,,,,750
+92,,scalarworks_leap01_swo110_1.57_mount,Scalarworks Leap01 SWO 110 1.57 Mount,-1,0.05,,,,,,,,,550
+93,,scalarworks_leap01_swo120_1.93_mount,Scalarworks Leap01 SWO 120 1.93 Mount,-1,0.06,,,,,,,,,600
 94,,sig_sauer_bravo4_4x30,SIG Sauer BRAVO4 4X30,-5,0.3,,-1,,,,,,,2000
-,,sig_sauer_qd_1.41_cowitness_romeo3_riser,Sig Sauer QD 1.41 co-witness Romeo 3,0,0.04,,,,,,,,,200
+,,sig_sauer_qd_1.41_cowitness_romeo3_riser,Sig Sauer QD 1.41 co-witness Romeo 3,0,0.04,,,,,,,,,300
 95,,sig_sauer_romeo3_low_rise_mount,Sig Sauer Romeo 3 Low-Rise,0,0.02,,,,,,,,,200
 96,,sig_sauer_romeo_cowitness_qd_mount,Sig Sauer Romeo Cowitness QD Mount,-0.5,0.05,,,,,,,,,400
 97,,sig_sauer_romeo4_mount,Sig Sauer Romeo4,-1,0.04,,,,,,,,,200
 98,,sig_sauer_romeo4_low,Sig Sauer Romeo4 Low,0,0.03,,,,,,,,,200
-99,,sig_sauer_romeo4t_1/3_cowitness_mount,Sig Sauer Romeo4T Lower Hex Bolt 1/3 Co-witness,-1,0.04,,,,,,,,,300
-100,,sig_sauer_romeo5_low_mount,Sig Sauer Romeo5 Low Mount,0,0.03,,,,,,,,,200
+99,,sig_sauer_romeo4t_1/3_cowitness_mount,Sig Sauer Romeo4T Lower Hex Bolt 1/3 Co-witness,-0.5,0.05,,,,,,,,,300
+100,,sig_sauer_romeo5_low_mount,Sig Sauer Romeo5 Low Mount,0,0.02,,,,,,,,,200
 101,,sightmark_lopro_combo,Sightmark Lopro Combo,-0.5,0.06,,,,,,,,,500
 102,,sightmark_lopro_mini_combo,Sightmark Lopro Mini Combo,-0.5,0.05,,,,,,,,,600
 103,,stark_se_5_express_forward_grip,Stark SE-5 Express Forward Grip,2,0.1,-4,-6,,,,,,,400
@@ -135,7 +135,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 116,,true_view_rap4_offset_picatinny_mount_flipped,True View Rap4 Offset Picatinny Mount,-2,0.08,,,,,,,,,500
 117,,um_3_wilson,UM3,-1,0.06,,,,,,,,,300
 118,,unity_fast_lpvo_30mm_mount,Unity FAST LPVO 30mm,-1,0.13,,,,,,,,,750
-119,,unity_fast_micro_mount,Unity Fast Micro,-0.5,0.06,,,,,,,,,500
+119,,unity_fast_micro_mount,Unity Fast Micro,-1,0.07,,,,,,,,,500
 120,,unity_fast_optics_riser,Unity FAST Optics,-1,0.04,,,,,,,,,500
 121,,utg_ms_qd_foregrip,UTG MS QD,4,0.15,-6,-1,,,,,,,500
 ,,utg_super_slim_vertical_foregrip,UTG Super Slim Vertical,5,0.1,-1,-5,,,,,,,300
@@ -372,18 +372,18 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 232,,aim_sports_front_sight_folded,AIM Sports Low Profile 45 Degree Folded Folded Front Sight,1,0.02,,,,,,,,,100
 233,,aim_sports_rear_sight,AIM Sports Low Profile 45 Degree Rear Sight,2,0.02,,,,,,,,,100
 ,aimpoint_micro_footprint,,,,,,,,,,,,,
-234,,sig_sauer_romeo4_sight,Sig Sauer Romeo4,-2,0.08,,,,,,,,,800
-235,,sig_sauer_romeo4t_sight,Sig Sauer Romeo4T,-2,0.07,,,,,,,,,1200
+234,,sig_sauer_romeo4_sight,Sig Sauer Romeo4,-1,0.08,,,,,,,,,1000
+235,,sig_sauer_romeo4t_sight,Sig Sauer Romeo4T,-1,0.08,,,,,,,,,1100
 236,,aimpoint_micro_spacer_high_39mm,Aimpoint Micro Spacer High 39mm,-0.5,0.03,,,,,,,,,200
-237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.03,,,,,,,,,200
-238,,aimpoint_micro_t1_sight,Aimpoint Micro T1,-1,0.07,,,,,,,,,1000
-239,,aimpoint_micro_t2_sight,Aimpoint Micro T2,-1,0.07,,,,,,,,,1100
-,,aimpoint_compm5_sight,Aimpoint CompM5,0,0.1,,,,,,,,,1300
-240,,sig_sauer_romeo5_1x20_sight,Sig Sauer Romeo5 1x20 Sight,-0.5,0.06,,,,,,,,,750
+237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.04,,,,,,,,,200
+238,,aimpoint_micro_t1_sight,Aimpoint Micro T1,-1,0.06,,,,,,,,,1200
+239,,aimpoint_micro_t2_sight,Aimpoint Micro T2,-1,0.06,,,,,,,,,1300
+,,aimpoint_compm5_sight,Aimpoint CompM5,-0.5,0.1,,,,,,,,,1400
+240,,sig_sauer_romeo5_1x20_sight,Sig Sauer Romeo5 1x20 Sight,-1,0.06,,,,,,,,,700
 ,aimpoint_t2_caps,,,,,,,,,,,,,
-241,,aimpoint_micro_t2_lens_caps,Aimpoint Micro T2 Lens Caps,1,0.02,,,,,,,,,0
+241,,aimpoint_micro_t2_lens_caps,Aimpoint Micro T2 Lens Caps,1,0.01,,,,,,,,,0
 ,compm5_caps,,,,,,,,,,,,,
-,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.02,,,,,,,,,0
+,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.01,,,,,,,,,0
 ,acro_footprint,,,,,,,,,,,,,
 ,,aimpoint_acro_p2_reflex_sight,Aimpoint ACRO P-2 Reflex,-1,0.07,,,,,,,,,1200
 ,susat_scope_footprint,,,,,,,,,,,,,
@@ -2040,8 +2040,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,romeo3_mount,,,,,,,,,,,,,
 1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-1,0.05,,,,,,,,,900
 ,romeo4t_cap,,,,,,,,,,,,,
-1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.04,,,,,,,,,0
-1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,3,0.04,,,,,,,,,0
+1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.02,,,,,,,,,0
+1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,2,0.02,,,,,,,,,0
 ,sai_extension,,,,,,,,,,,,,
 1186,,syoss_jail_brake,SAI JailBrake 5.56x45,-3,0.16,-3,-5,,0.05,0,0,,,800
 ,saiqd,,,,,,,,,,,,,
