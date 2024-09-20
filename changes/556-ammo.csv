@@ -1,5 +1,5 @@
 ﻿,,old,,,,,,,,,old damage,,,,,,,,,,irl stats,
-name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,bullet_deviationold,bullet_damageold,bullet_velocityold,fire_rateold,priceold,0st,100st,200st,avg,vel loss,suppression,pen,strength,,,mv,energy
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,bullet_deviation,bullet_damage,bullet_velocity,fire_rate,price,0st,100st,200st,avg,vel loss,suppression,pen,strength,,,mv,energy
 ,5.56x45 Federal American Eagle Training 55gr FMJ (XM193BLX),0,0.1,,,0,,,,0,52,48,42,47.33333333,40,20,0.91,-6.6,,,3165,1658.165
 ,5.56x45 CBC Defense M196 55gr Red Tracer,0,0.1,0,1,0.05,,10,,600,52,48,42,47.33333333,40,30,0.8,-7.8,,,3200,1512
 ,5.56x45 Winchester M855 62gr FMJ Green Tip (VM855),-1,0.13,1,2,-0.1,,50,,1000,58,55,51,54.66666667,50,100,0.63,0.75,,,3060,1748
