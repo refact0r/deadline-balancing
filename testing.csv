@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Sep 19 21:42:09 2024,,,,,,,,,,,,,
+﻿0.23.0,Thu Sep 19 23:14:11 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -231,9 +231,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,rmr_mount,,,,,,,,,,,,,
 148,,zt_ap_cap,ZT AP,5,0.03,,,,,,,,,0
 149,,trijicon_sro,Trijicon SRO ,-2,0.07,,,,,,,,,800
-150,,trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Reflex,-1,0.04,,,,,,,,,1100
-,,trijicon_rmr_rm05_dual_illuminated_reflex,Trijicon RM05 RMR Dual Illuminated Reflex,-1,0.04,,,,,,,,,1200
-,,trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-1,0.04,,,,,,,,,1000
+150,,trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Reflex,-2,0.04,,,,,,,,,1100
+,,trijicon_rmr_rm05_dual_illuminated_reflex,Trijicon RM05 RMR Dual Illuminated Reflex,-2,0.04,,,,,,,,,1200
+,,trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-2,0.04,,,,,,,,,1000
 ,,swampfox_kingslayer_micro_reflex_sight,Swampfox Kingslayer Micro Reflex Sight,-2,0.04,,,,,,,,,800
 ,acog_compact_mount,,,,,,,,,,,,,
 151,,trijicon_compact_acog_3x24_ta50c_red,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1200
@@ -363,9 +363,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hera_arms_cqr_gen2_stock,Hera Arms CQR Gen2 Stock,10,0.32,-7,-11,,,,,,,1500
 ,,hera_arms_cqr_gen2_buttpad,Hera Arms CQR Gen2 Buttpad,1,0.05,-1,-1,,,,,,,0
 ,leupold_deltapoint_footprint,,,,,,,,,,,,,
-227,,leupold_deltapoint_reflex_sight,Leupold DeltaPoint Reflex,-1,0.04,,,,,,,,,800
-228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-1,0.05,,,,,,,,,1200
-229,,eotech_eflx_mini_red_dot,Eotech EFLX Mini Red Dot,-1,0.05,,,,,,,,,1100
+227,,leupold_deltapoint_reflex_sight,Leupold DeltaPoint Reflex,-2,0.04,,,,,,,,,800
+228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-1.5,0.05,,,,,,,,,1200
+229,,eotech_eflx_mini_red_dot,Eotech EFLX Mini Red Dot,-1.5,0.05,,,,,,,,,1100
 ,aim_sport_low_profile_sight,,,,,,,,,,,,,
 230,,aim_sports_front_sight,AIM Sports Low Profile 45 Degree Front Sight,2,0.02,,,,,,,,,100
 231,,aim_sports_rear_sight_folded,AIM Sports Low Profile 45 Degree Folded Rear Sight,1,0.02,,,,,,,,,100
@@ -2038,7 +2038,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,z24_scope,,,,,,,,,,,,,
 1182,,hensoldt_z24_fero_4x24,Hensoldt Z24 Fero 4x24mm,-3,0.16,,,,,,,,,750
 ,romeo3_mount,,,,,,,,,,,,,
-1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-1,0.05,,,,,,,,,900
+1183,,sig_sauer_romeo3,Sig Sauer Romeo3 Sight,-1.5,0.05,,,,,,,,,900
 ,romeo4t_cap,,,,,,,,,,,,,
 1184,,romeo4t_lens_caps,Romeo4T Lens,1,0.02,,,,,,,,,0
 1185,,romeo4t_folded_lens_caps,Romeo4T Folded Lens,2,0.02,,,,,,,,,0
