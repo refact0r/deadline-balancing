@@ -552,12 +552,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 326,,thordsen_frs_15_stock,Thordsen FRS-15,14,0.26,-6,-8,,,,,,,1500
 327,,magpul_moe_ar15_pistol_grip,Magpul MOE AR-15 Pistol Grip,7,0.1,-3,-5,,,,,,,800
 328,,magpul_moe_k2_ar15_pistol_grip,Magpul MOE-K2,7,0.1,-4,-4,,,,,,,800
-329,,magpul_moe_k2_scar_pistol_grip,Magpul MOE-K2 Modified,7,0.1,-4,-4,,,,,,,800
-,,magpul_moe_scar_pistol_grip,Magpul MOE Scar Pistol Grip,7,0.1,-3,-5,,,,,,,800
+329,,magpul_moe_k2_scar_pistol_grip,Magpul MOE-K2 Modified,7,0.11,-4,-4,,,,,,,800
+,,magpul_moe_scar_pistol_grip,Magpul MOE Scar Pistol Grip,7,0.11,-3,-5,,,,,,,800
 ,,hera_arms_cqr_gen2_pistol_grip,Hera Arms CQR Gen 2 Pistol Grip,4,0.14,-1,-2,,,,,,,1200
 ,,aeroknox_ax15_orion_pistol_grip,Aeroknox AX15 Orion Pistol Grip,9,0.09,-2,-1,,,,,,,1000
 ,,bcm_gunfighter_mod3_ar15_pistol_grip,BCM Gunfighter Mod 3 AR-15 Pistol Grip,8,0.09,-3,-3,,,,,,,750
-,,pmm_bcm_gunfighter_mod3_scar_pistol_grip,PMM BCM Gunfighter Mod3 SCAR Pistol Grip,8,0.12,-3,-4,,,,,,,800
+,,pmm_bcm_gunfighter_mod3_scar_pistol_grip,PMM BCM Gunfighter Mod3 SCAR Pistol Grip,8,0.1,-3,-3,,,,,,,800
 ,,daniel_defense_pistol_grip_with_trigger_guard,Daniel Defense Pistol Grip w/ Trigger Guard,10,0.13,-4,-2,,,,,,,900
 ,ar15_trigger,,,,,,,,,,,,,
 330,,colt_m4a1_std_trigger,M4 Standard,2,0.04,0,0,,0,,,,,200
