@@ -1409,7 +1409,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,glock17l_front_sight,Glock 17L Front Sight,1,0.01,,,,,,,,,100
 825,,glock17_gen5_front_sight,Glock standard,1,0.01,,,,,,,,,0
 ,glock_rear_sight,,,,,,,,,,,,,
-826,,trijicon_rm44,RM44,-2,0.03,,,,,,,,,500
+826,,trijicon_rm44_rear_sight_mount,RM44,Trijicon RM44 RMR Rear Sight Mount,0.03,,,,,,,,,500
 827,,truglo_glock_tfx_rs,Truglo TFX,2,0.03,,,,,,,,,500
 828,,glock20_lf_rear_sight,Glock 20 Factory Large Frame,0.5,0.02,,,,,,,,,0
 829,,trijicon_glock_supp_height_rear_sights_wh_sf,Trijicon Suppressor / Optic Height White Outline Std. Frame,-1,0.04,,,,,,,,,300
