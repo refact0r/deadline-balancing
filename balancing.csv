@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 20 17:34:27 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 20 17:48:29 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -17,8 +17,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 14,,aimpoint_electronic_g2_red_dot,Aimpoint Electronic G2,-2,0.17,,,,,,,,,500
 15,,aimpoint_micro_lrp_qd_mount,Aimpoint Micro LRP QD Mount,0,0.03,,,,,,,,,300
 16,,be_meyers_mawl_c1+,B.E. Meyers MAWL-C1+,-1,0.07,,,,,,,,,3000
-17,,badger_ordnance_comm_30mm_mount_body,"Badger Ordnance C.O.M.M. 30mm 1.54"" Height",-1,0.08,,,,,,,,,1000
-18,,badger_ordnance_comm_34mm_mount_body,"Badger Ordnance C.O.M.M. 34mm 1.54"" Height",-1,0.09,,,,,,,,,1000
+17,,badger_ordnance_comm_30mm_mount_body,"Badger Ordnance C.O.M.M. 30mm 1.54"" Height",-0.5,0.06,,,,,,,,,1000
+18,,badger_ordnance_comm_34mm_mount_body,"Badger Ordnance C.O.M.M. 34mm 1.54"" Height",-0.5,0.07,,,,,,,,,1000
 19,,burris_ar_prb_mount,Burris AR PRB Mount,0,0.06,,,,,,,,,400
 20,,burris_ar_pepr_30mm_mount,Burris AR-P.E.P.R.™,-1,0.11,,,,,,,,,800
 21,,cobra_ekp_8_18,Cobra EKP 8 18,-2,0.19,,,,,,,,,800
@@ -397,7 +397,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hensoldt_zf_6x42_scope_eye_cup,,,,,,,,,,,,,
 246,,hensoldt_zf_6x42_eye_cup,Hensoldt ZF 6x42 Eye Cup,4.5,0.05,0,0,,,,,,,0
 ,dual_ring_30mm_sight_mount,,,,,,,,,,,,,
-247,,eotech_vudu_1_6x24,EOTech Vudu 1-6x24,-5,0.28,,-2,,,,,,,4000
+247,,eotech_vudu_1_6x24,EOTech Vudu 1-6x24,-5,0.27,,-2,,,,,,,4000
 ,dual_ring_34mm_sight_mount,,,,,,,,,,,,,
 248,,nightforce_atacr7_35x56_f1,Nightforce ATACR 7-35x56 F1,-7,0.42,,-4,,,,,,,5000
 ,single_ring_30mm_sight_mount,,,,,,,,,,,,,
@@ -2214,19 +2214,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,rem700_bdl_barrel_front_mount,,,,,,,,,,,,,
 1283,,remington_700_bdl_front_sight_mount,Remington 700 BDL Front Sight Mount,0,0.02,,,,,,,,,0
 ,badger_ordnance_comm_arc_mount,,,,,,,,,,,,,
-1284,,badger_ordnance_c1_30mm_12oclock_rmr_mount_for_arc,Badger Ordnance Condition 1 30mm 12 O'Clock RMR Mount for ARC,-1,0.03,,,,,,,,,200
+1284,,badger_ordnance_c1_30mm_12oclock_rmr_mount_for_arc,Badger Ordnance Condition 1 30mm 12 O'Clock RMR Mount for ARC,0,0.02,,,,,,,,,200
 ,badger_ordnance_comm_j_arm,,,,,,,,,,,,,
-1285,,badger_ordnance_comm_j_arm_offset_mount,Badger Ordnance C.O.M.M. J-Arm Offset,1,0.04,,,,,,,,,200
+1285,,badger_ordnance_comm_j_arm_offset_mount,Badger Ordnance C.O.M.M. J-Arm Offset,0,0.01,,,,,,,,,200
 ,badger_ordnance_comm_j_arm_mounts,,,,,,,,,,,,,
-1286,,badger_ordnance_comm_trijicon_rmr_sight_mount,Badger Ordnance C.O.M.M. RMR Sight,-1,0.03,,,,,,,,,300
-1287,,badger_ordnance_comm_aimpoint_t1_sight_mount,Badger Ordnance C.O.M.M. T1/T2 Sight,-1,0.03,,,,,,,,,300
+1286,,badger_ordnance_comm_trijicon_rmr_sight_mount,Badger Ordnance C.O.M.M. RMR Sight,0,0.02,,,,,,,,,300
+1287,,badger_ordnance_comm_aimpoint_t1_sight_mount,Badger Ordnance C.O.M.M. T1/T2 Sight,0,0.02,,,,,,,,,300
 ,badger_ordnance_comm_top_ring_half,,,,,,,,,,,,,
-1288,,badger_ordnance_comm_30mm_ring_half,Badger Ordnance C.O.M.M. 30mm Half Tube Ring,1,0.02,,,,,,,,,0
-1289,,badger_ordnance_comm_34mm_ring_half,Badger Ordnance C.O.M.M. 34mm Half Tube Ring,1,0.02,,,,,,,,,0
+1288,,badger_ordnance_comm_30mm_ring_half,Badger Ordnance C.O.M.M. 30mm Half Tube Ring,0,0.01,,,,,,,,,0
+1289,,badger_ordnance_comm_34mm_ring_half,Badger Ordnance C.O.M.M. 34mm Half Tube Ring,0,0.01,,,,,,,,,0
 1290,,badger_ordnance_c1_34mm_accessory_arc_ring_cap,Badger Ordnance Condition 1 34mm 12 O'Clock T1/T2 Optical Half Tube Plate,0,0.03,,,,,,,,,200
 1291,,badger_ordnance_c1_30mm_accessory_arc_ring_cap,Badger Ordnance Condition 1 30mm 12 O'Clock T1/T2 Optical Half Tube Plate,0,0.03,,,,,,,,,200
-1292,,badger_ordnance_c1_34mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 34mm 12 O'Clock T1/T2 Optical Half Tube Plate,-1,0.05,,,,,,,,,200
-1293,,badger_ordnance_c1_30mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 30mm 12 O'Clock T1/T2 Optical Half Tube Plate,-1,0.05,,,,,,,,,200
+1292,,badger_ordnance_c1_34mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 34mm 12 O'Clock T1/T2 Optical Half Tube Plate,0,0.03,,,,,,,,,200
+1293,,badger_ordnance_c1_30mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 30mm 12 O'Clock T1/T2 Optical Half Tube Plate,0,0.03,,,,,,,,,200
 ,mp5_a3_stock,,,,,,,,,,,,,
 ,,hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,6,0.08,4,4,,,,,,,1500
 ,,hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,8,0.12,-10,-12,,,,,,,0
