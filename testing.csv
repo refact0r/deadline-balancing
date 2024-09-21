@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 20 18:08:43 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 20 18:21:41 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2277,11 +2277,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1323,,TestFlash,TestFlash,,,,,,,,,,,5000
 1324,,TestSmoke,TestSmoke,,,,,,,,,,,2000
 ,pistol,,,,,,,,,,,,,
-1325,,Makarov,Izhevsk PM,62,0,31,31,0,1.7,1,1200,,,2000
-1326,,TT33,Tula TT-33,60,0.3,35,35,0,1.7,1,1400,,,5000
-1327,,EDC_X9,Wilson Combat EDC X9,60,0.3,28,28,0,1.2,1,1500,,,25000
-1328,,Glock17,Glock 17,50,0.3,40,70,0,1.7,1,1250,,,0
-1329,,Glock20,Glock 20,50,0.3,50,70,0,1.7,1,1250,,,10000
+1325,,Makarov,Izhevsk PM,62,0,31,31,0,1.2,1,1200,,,2000
+1326,,TT33,Tula TT-33,60,0.3,35,35,0,1.2,1,1400,,,5000
+1327,,EDC_X9,Wilson Combat EDC X9,60,0.3,28,28,0,0.9,1,1500,,,25000
+1328,,Glock17,Glock 17,50,0.3,40,70,0,1.2,1,1250,,,0
+1329,,Glock20,Glock 20,50,0.3,50,70,0,1.2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
 1330,,HK416A5,HK416A5,28,0,56,92,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,42,0,58,63,0,0.5,1,1550,,,42000
@@ -2302,8 +2302,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
-1347,,MP5,H&K MP5,15,0.2,55,65,0,1.1,1,1300,,,5000
-1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.5,1,900,,,90000
+1347,,MP5,H&K MP5,15,0.2,55,65,0,1,1,1300,,,5000
+1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,70,90,0,1,1,900,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.3,50,75,0,0.9,1,1300,,,11000
