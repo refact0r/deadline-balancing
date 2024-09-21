@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 20 17:17:37 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 20 17:34:27 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -406,8 +406,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 250,,armytek_predator_prov3_xhp35_hi,Armytek Predator Pro v3 XHP35 HI Flashlight,-2,0.16,,,,,,,,,750
 251,,ultrafire_wf501b_flashlight,Ultrafire WF-501B Flashlight,-1,0.12,,,,,,,,,500
 ,arisaka_mount,,,,,,,,,,,,,
-,,arisaka_inline_scout_mlok_mount,Arisaka Inline Scout MLOK Mount,-0.5,0.06,,,,,,,,,250
-,,arisaka_inline_scout_picatinny_mount,Arisaka Inline Scout Picatinny Mount,-1,0.04,,,,,,,,,250
+,,arisaka_inline_scout_mlok_mount,Arisaka Inline Scout MLOK Mount,-0.5,0.03,,,,,,,,,250
+,,arisaka_inline_scout_picatinny_mount,Arisaka Inline Scout Picatinny Mount,-1,0.03,,,,,,,,,250
 ,surefire_300_body,,,,,,,,,,,,,
 ,,arisaka_300_series_light_body,Arisaka 300 Series Light Body,-0.5,0.03,,,,,,,,,500
 ,,arisaka_18650_series_light_body,Arisaka 18650 Series Light Body,-1,0.04,,,,,,,,,750
