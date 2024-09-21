@@ -2312,5 +2312,5 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,placer,,,,,,,,,,,,,
 1353,,PlacingTool,AN/PRC 152 Type A Radio,,0.2,,,,,,,,,100
 ,launcher,,,,,,,,,,,,,
-,,RPG7,RPG7,48,5.8,80,92,0,1,1,220,,,100000
+,,RPG7,RPG7,48,5.8,80,92,0,1,1,220,,,80000
 ,,PSRL,PSRL,52,6,78,95,0,1,1,220,,,120000
