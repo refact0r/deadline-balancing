@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 20 18:21:41 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Sep 21 13:22:47 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2233,8 +2233,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mp5_barrel,,,,,,,,,,,,,
 ,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.15,-10,-14,,0.1,0.1,100,,,0
 ,hk_claw_mount,,,,,,,,,,,,,
-,,mfi_hk_universal_low_profile_scope_mount,MFI HK Universal Low Profile Scope Mount,-2,0.08,,,,,,,,,750
-,,mfi_hk_universal_low_profile_scope_mount_flipped,MFI HK Universal Low Profile Scope Mount Flipped,-2,0.08,,,,,,,,,750
+,,mfi_hk_universal_low_profile_scope_mount,MFI HK Universal Low Profile Scope Mount,-1,0.08,,,,,,,,,750
+,,mfi_hk_universal_low_profile_scope_mount_flipped,MFI HK Universal Low Profile Scope Mount Flipped,-1,0.08,,,,,,,,,750
 ,mp5_drum_sight,,,,,,,,,,,,,
 ,mp5_front_sight,,,,,,,,,,,,,
 ,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,,,,,,,,,,,
