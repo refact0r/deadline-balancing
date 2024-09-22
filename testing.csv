@@ -1601,7 +1601,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,aim_sports_mmh94_mlok_top,Aim Sports MMH94 MLOK Top,1,0.05,,,,,,,,,250
 ,,aim_sports_mmh94_picatinny_top,Aim Sports MMH94 Picatinny Top,0,0.07,-1,0,,,,,,,250
 ,hk_g3_paddle_mag_release,,,,,,,,,,,,,
-951,,hk_g3_paddle_mag_release,HK G3 Paddle,0,0.02,,,,,,,,,0
+951,,hk_g3_paddle_mag_release,HK G3 Paddle,0,0.01,,,,,,,,,0
 ,hk_g3_pistol_grip,,,,,,,,,,,,,
 952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,1,0.08,-1,0,,,,,,,0
 ,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,2,0.1,,1,,,,,,,1000
@@ -1655,7 +1655,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3_rear_sight_assembly_base,,,,,,,,,,,,,
 967,,hk_g3_rear_sight_assembly_base,HK G3 Rear Sight Assembly,0,0.02,,,,,,,,,0
 ,hk_g3_rear_sight,,,,,,,,,,,,,
-968,,hk_g3_rear_drum_sight,HK G3 Drum,1,0.04,,,,,,,,,0
+968,,hk_g3_rear_drum_sight,HK G3 Drum,1,0.02,,,,,,,,,0
 ,hk_10r_mag_bottom_plate,,,,,,,,,,,,,
 970,,hk_g3_us_made_10r_bottom_plate,HK G3/MSG-90 Mag Bottom Plate,0,0.03,,,,,,,,,0
 ,hk_psg1_upper_receiver_sides,,,,,,,,,,,,,
@@ -1673,9 +1673,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,aeroknox_ax_mp5_modified_trigger_housing,Aeroknox AX MP5 Modified Trigger Housing,-3,0.5,,1,,,,,,,1250
 ,,ptr_32_sef_metal_trigger_housing,PTR 32 SEF Metal Trigger Housing,-1,0.55,,,,,,,,,500
 ,hk_psg_trigger,,,,,,,,,,,,,
-,,hk_psg1_trigger,HK PSG-1 Trigger,,,,,,,,,,,500
+,,hk_psg1_trigger,HK PSG-1 Trigger,0,0.05,0,1,,-0.05,,,,,500
 ,hk_psg_trigger_shoe,,,,,,,,,,,,,
-,,hk_psg1_trigger_shoe,HK PSG-1 Trigger Shoe,1,0.05,,,,,,,,,0
+,,hk_psg1_trigger_shoe,HK PSG-1 Trigger Shoe,1,0.03,,,,,,,,,0
 ,hk_psg1_scope,,,,,,,,,,,,,
 979,,hensoldt_zf_6x42_psg1_scope,Hensoldt ZF 6x42 PSG-1 Scope,-5,0.34,,-4,,,,,,,4000
 ,aug_para_9x19_gasblock,,,,,,,,,,,,,
@@ -2255,17 +2255,17 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_hk94_stock_endcap,HP MP5/HK94 Stock Endcap,2,0.1,,,,,,,,,1000
 ,,hk_mp5_endcap_sling_swivel,HK MP5 Endcap Sling Swivel,16,0.04,6,10,,0.3,,,,,250
 ,mp5_upper_receiver,,,,,,,,,,,,,
-,,hk_mp5_std_upper_receiver,HK MP5 Std. Upper Receiver,,0.3,,,,,,,,,
+,,hk_mp5_std_upper_receiver,HK MP5 Std. Upper Receiver,0,0.3,,,,,,,,,
 ,,hk_mp5sd_upper_receiver,HK MP5SD Std. Upper Receiver,-3,0.32,-2,,,,,,,,3500
 ,mp5_front_trunnion,,,,,,,,,,,,,
-,,hk_mp5_std_9x19_front_trunnion,HK MP5 Std. 9x19 Front Trunnion,,,,,,,,,,,
-,,hk_mp5sd_9x19_front_trunnion,HK MP5SD 9x19 Front Trunnion,,,,,,,,,,,
+,,hk_mp5_std_9x19_front_trunnion,HK MP5 Std. 9x19 Front Trunnion,0,0.08,,,,,,,,,0
+,,hk_mp5sd_9x19_front_trunnion,HK MP5SD 9x19 Front Trunnion,0,0.08,,,,,,,,,0
 ,mp5_function,,,,,,,,,,,,,
-,,hk_mp5_std_cocking_support,HK MP5 Std. Cocking Support,,,,,,,,,,,
-,,hk_mp5_std_charging_handle,HK MP5 Std. Charging Handle,,,,,,,,,,,
-,,hk_mp5_std_9x19_bolt_assembly,HK MP5 Std. 9x19 Bolt Assembly,,,,,,,,,,,
-,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,,,,,,,,,,,
-,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,,,,,,,,,,,
+,,hk_mp5_std_cocking_support,HK MP5 Std. Cocking Support,0,0.06,,,,,,,,,0
+,,hk_mp5_std_charging_handle,HK MP5 Std. Charging Handle,0,0.02,,,,,,,,,0
+,,hk_mp5_std_9x19_bolt_assembly,HK MP5 Std. 9x19 Bolt Assembly,0,0.1,,,,,,,,,0
+,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,0,0.02,,,,,,,,,0
+,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,0,0.01,,,,,,,,,0
 ,mp5sd_barrel,,,,,,,,,,,,,
 ,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.12,,,,,,,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
@@ -2302,7 +2302,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
-1347,,MP5,H&K MP5,15,0.2,55,65,0,1,1,1300,,,5000
+1347,,MP5,H&K MP5,15,0,50,60,0,1,1,1300,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
