@@ -16,12 +16,12 @@ vityaz_suppressor,Vityaz 9x19,-6,0.23,-10,-10,,-0.25,0.15,150,,,1200,6.15
 silencerco_osprey9_gen1_9x19_suppressor,SilencerCo Osprey 9 Gen 1 9x19 Suppressor,-6,0.19,-6,-12,,-0.05,0.2,150,,,1500,4.85
 silencerco_osprey9_gen1_9x19_suppressor_flipped,SilencerCo Osprey 9 Gen 1 9x19 Suppressor Flipped,-6,0.19,-6,-12,,-0.05,0.2,150,,,1500,4.85
 fd917,FD917,-9,0.25,-5,-14,,-0.2,0.2,300,,,2000,2
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+rugged_suppressors_obsidian_9_9x19_piston,Rugged Suppressors Obsidian9 9x19 Piston,0,0.03,0,0,,0.05,0,0,,,300,-0.75
+rugged_suppressors_obsidian_9_3lug_piston,Rugged Suppressors Obsidian9 3-Lug Piston,0,0.03,0,0,,0.05,0,0,,,300,-0.75
+,,,,,,,,,,,,,0
+rugged_suppressors_obsidian_9_body,Rugged Suppressors Obsidian9 9x19 Body,-4,0.09,-9,-11,,-0.1,0.08,70,,,1500,9.333333333
+rugged_suppressors_obsidian_9_extension,Rugged Suppressors Obsidian9 9x19 Extension,-3,0.07,-3,-4,,-0.05,0.06,50,,,1000,1.316666667
+rugged_suppressors_obsidian_9_cap,Rugged Suppressors Obsidian9 9x19 Cap,0,0.02,,,,,,,,,0,-0.4
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
