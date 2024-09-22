@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 15:10:37 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 15:10:59 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -183,7 +183,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 125,,magpul_moe_carbine_stock,Magpul MOE Carbine,17,0.19,-9,-8,,,,,,,800
 126,,ar_tr2_stock,AR TR2,16,0.22,-7,-12,,,,,,,800
 127,,vltor_emod_stock,VLTOR EMOD,14,0.26,-11,-11,,,,,,,700
-128,,magpul_prs_gen3_stock,Magpul PRS Gen3 Stock,20,0.35,-5,-3,,,,,,,1500
+128,,magpul_prs_gen3_stock,Magpul PRS Gen3 Stock,20,0.35,-4,-3,,,,,,,1500
 129,,hera_arms_ccs_stock,Hera Arms CCS,15,0.21,-9,-13,,,,,,,600
 130,,ak12_gen1_std_stock,Kalashnikov Concern AK-12 Gen 1,16,0.22,-12,-7,,,,,,,750
 131,,colt_m4ss_stock,Colt M4SS,16,0.2,-8,-6,,,,,,,0
@@ -505,7 +505,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,modtac_mrac_low_profile_mounting_plates,MODTAC M-RAC Low Profile Mounting Plates,3,0.03,,,,,,,,,200
 ,,modtac_mrac_picatinny_rail_mounting_plates,MODTAC M-RAC Picatinny Rail Mounting Plates,1,0.04,,,,,,,,,400
 ,ar15_buffer,,,,,,,,,,,,,
-293,,sb_tactical_vector_brace,SB Tactical Vector Brace,19,0.28,-2,-3,,,,,,,500
+293,,sb_tactical_vector_brace,SB Tactical Vector Brace,18,0.28,-3,-3,,,,,,,500
 294,,doublestar_ace_m4_socom_gen4_stock,Doublestar ACE M4 SOCOM,14,0.32,-9,-9,,,,,,,1000
 295,,hk_416_enhanced_buffer_tube,HK Enhanced Buffer Tube,-1,0.23,,-3,,-0.1,,,,,400
 296,,si_ar_are_t7_buffer_tube,Strike Industries Advanced Receiver Extension T7,-1,0.12,-1,-1,,0,,,,,600
@@ -2057,7 +2057,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,stanag_plate,,,,,,,,,,,,,
 1189,,stanag_bottom_plate,STANAG Straight Mag Bottom Plate,1,0.015,,,,,,,,,0
 ,stocka2,,,,,,,,,,,,,
-1190,,magpul_prs_gen2_stock,Magpul PRS Gen2,23,0.38,-2,-4,,,,,,,1200
+1190,,magpul_prs_gen2_stock,Magpul PRS Gen2,22,0.38,-3,-4,,,,,,,1200
 1191,,hera_hrs_light_stock,Hera HRS Light Fixed,15,0.16,-7,-8,,,,,,,1000
 ,surefire_handguard_light,,,,,,,,,,,,,
 1192,,lm2,SureFire LM2,-0.5,0.1,,,,,,,,,500
