@@ -1,4 +1,4 @@
-﻿0.23.0,Sat Sep 21 13:22:47 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 13:14:04 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1513,10 +1513,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump_stock_block,,,,,,,,,,,,,
 900,,ump_stock_block,HK UMP Standard,0,0.05,0,0,,,,,,,0
 ,ump_stock,,,,,,,,,,,,,
-901,,hk_ump_polymer_stock,HK UMP Standard Polymer Folding,11,0.2,-5,-9,,,,,,,0
-902,,tommybuilt_ump_tailhook_brace_adapter,Tommy Built UMP Tailhook Brace Adapter,0,0.15,0,0,,,,,,,800
-903,,bt_mp5/ump_folding_stock,B&T MP5 Folding Stock,16,0.21,-5,-3,,,,,,,600
-904,,hogue_ump_buffer_tube_adapter,Hogue UMP Buffer Tube Adapter,-5,0.1,4,4,,,,,,,1000
+901,,hk_ump_polymer_stock,HK UMP Standard Polymer Folding,11,0.21,-9,-13,,,,,,,0
+902,,tommybuilt_ump_tailhook_brace_adapter,Tommy Built UMP Tailhook Brace Adapter,0,0.13,0,0,,,,,,,800
+903,,bt_mp5/ump_folding_stock,B&T MP5 Folding Stock,15,0.2,-10,-7,,,,,,,600
+904,,hogue_ump_buffer_tube_adapter,Hogue UMP Buffer Tube Adapter,-3,0.08,2,2,,,,,,,1000
 ,ump_rs,,,,,,,,,,,,,
 905,,ump_rear_sight_25m,HK UMP Standard 25m,2,0.01,,,,,,,,,0
 906,,ump_rear_sight_50m,HK UMP Standard 50m,4,0.01,,,,,,,,,100
@@ -2067,7 +2067,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,swivel_mount,,,,,,,,,,,,,
 1194,,harris_hbr_base,Harris HBR Bipod Base,-1,0.03,,,,,,,,,500
 ,tailhook_brace,,,,,,,,,,,,,
-1195,,ghw_tailhook_mod1_brace_small,GHW Tailhook MOD 1,11,0.09,-5,-5,,,,,,,
+1195,,ghw_tailhook_mod1_brace_small,GHW Tailhook MOD 1,12,0.09,-5,-5,,,,,,,
 1196,,ghw_tailhook_mod1_brace_big,GHW Tailhook MOD 1,11,0.09,-5,-5,,,,,,,400
 ,thunderbeast_ultra,,,,,,,,,,,,,
 1197,,tb_5,Thunder Beast Ultra 5,-1,0.09,-14,-13,,-0.05,0.04,50,,,1200
@@ -2305,7 +2305,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1347,,MP5,H&K MP5,15,0.2,55,65,0,1,1,1300,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,1,1,1450,,,20000
-1350,,UMP45,H&K UMP,45,0.2,70,90,0,1,1,900,,,15000
+1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.3,50,75,0,0.9,1,1300,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
