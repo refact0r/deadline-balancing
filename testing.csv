@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 13:14:04 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 13:47:34 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1390,10 +1390,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,glock_underbarrel_picatinny,,,,,,,,,,,,,
 815,,rail,Additional attachment,0,0,,,,,,,,,0
 ,glock_barrel,,,,,,,,,,,,,
-816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.17,-9,-12,,0,0,0,,,0
-817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.19,-7,-10,,0.05,0,25,,,1200
-,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.22,-11,-13,,-0.1,0.04,100,,,1500
-,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.4,-10,-15,,-0.2,0.1,300,,,3000
+816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.15,-9,-12,,0,0,0,,,0
+817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.15,-7,-10,,0.05,0,25,,,1200
+,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.18,-11,-13,,-0.1,0.04,100,,,1500
+,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.38,-10,-15,,-0.2,0.1,300,,,3000
 ,glock_spring,,,,,,,,,,,,,
 ,,glock17_gen5_spring,Glock 17 Gen5 Spring,0,0.01,,,,,,,,,0
 ,glock_grip,,,,,,,,,,,,,
@@ -2231,7 +2231,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,6,0.08,4,4,,,,,,,1500
 ,,hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,8,0.12,-10,-12,,,,,,,0
 ,mp5_barrel,,,,,,,,,,,,,
-,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.15,-10,-14,,0.1,0.1,100,,,0
+,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.24,-5,-9,,0.1,0.1,100,,,0
 ,hk_claw_mount,,,,,,,,,,,,,
 ,,mfi_hk_universal_low_profile_scope_mount,MFI HK Universal Low Profile Scope Mount,-1,0.08,,,,,,,,,750
 ,,mfi_hk_universal_low_profile_scope_mount_flipped,MFI HK Universal Low Profile Scope Mount Flipped,-1,0.08,,,,,,,,,750
@@ -2267,7 +2267,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,0,0.02,,,,,,,,,0
 ,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,0,0.01,,,,,,,,,0
 ,mp5sd_barrel,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.12,,,,,,,,,1500
+,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.17,-3,-6,,0.15,0.08,80,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
 ,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.2,-16,-20,,-0.05,0.15,-600,,,3500
 ,throwable,,,,,,,,,,,,,
