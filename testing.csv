@@ -1172,7 +1172,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,midwest_industries_alpha_ak_series_6inch_mlok_upper_handguard,"Midwest Industries ALPHA AK Series 6"" MLOK Top Mount",-1,0.1,-2,0,,,,,,,800
 ,,midwest_industries_alpha_ak_series_10inch_mlok_upper_handguard,"Midwest Industries ALPHA AK Series 10"" MLOK Top Mount",-3,0.13,-2,-1,,,,,,,800
 ,ak_grip,,,,,,,,,,,,,
-694,,rk_3,RK-3,7,0.11,-4,-3,,,,,,,1000
+694,,zenitco_rk3_ak_pistol_grip,RK-3,7,0.11,-4,-3,,,,,,,1000
 695,,ak12_gen1_pistol_grip,AK-12 Gen 1,5,0.1,-5,-2,,,,,,,800
 696,,bakelite_6p4_sbv8v,Bakelite 6p4 Sb.8v,3,0.11,-3,-5,,,,,,,300
 697,,ds_ace_ak_ar15_adapter,DoubleStar ACE AK AR-15 Grip adapter,-1,0.03,,,,,,,,,1500
