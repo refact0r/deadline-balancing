@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 13:47:34 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 14:03:29 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1588,7 +1588,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 945,,hk_g3_endplate,HK G3 Endplate,0,0.08,,,,,,,,,0
 946,,hk_g3a3_stock_endplate,HK G3A3 Stock Endplate,0,0.09,,,,,,,,,0
 ,hk_g3_fire_selector,,,,,,,,,,,,,
-947,,hk_g3_fire_selector,HK G3 Fire Selector,0,0.01,,,,,,,,,0
+947,,hk_g3_fire_selector,HK G3 Fire Selector,0,0.02,,,,,,,,,0
 ,hk_g3_front_sight_assembly,,,,,,,,,,,,,
 948,,hk_g3_front_sight_assembly,HK G3 Front Sight,0,0.03,,,,,,,,,0
 ,hk_g3_handguard,,,,,,,,,,,,,
@@ -1603,10 +1603,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3_paddle_mag_release,,,,,,,,,,,,,
 951,,hk_g3_paddle_mag_release,HK G3 Paddle,0,0.01,,,,,,,,,0
 ,hk_g3_pistol_grip,,,,,,,,,,,,,
-952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,1,0.08,-1,0,,,,,,,0
-,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,2,0.1,,1,,,,,,,1000
+952,,hk_g3_plastic_pistol_grip,HK G3 Plastic,4,0.08,-3,-4,,,,,,,0
+,,hk_psg1_wooden_grip,HK PSG-1 Wooden Grip,5,0.1,0,0,,,,,,,1000
 ,hk_psg_grip_palm_rest,,,,,,,,,,,,,
-,,hk_psg1_grip_palm_rest,HK PSG-1 Grip Palm Rest,2,0.08,,,,,,,,,0
+,,hk_psg1_grip_palm_rest,HK PSG-1 Grip Palm Rest,2,0.05,,,,,,,,,0
 ,hk_g3_upper_receiver,,,,,,,,,,,,,
 953,,hk_g3_std_upper_receiver,HK G3 Standard Upper,0,0.6,0,0,,,,,,,0
 954,,hk_psg1_upper_receiver,HK PSG-1 Upper,4,0.85,-2,0,,,,,,,10000
@@ -1668,10 +1668,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 975,,fr_ordnance_mc51_bolt_assembly,FR Ordnance MC51 Bolt,0,0,,,,,,,,,0
 976,,hk_psg1_bolt_assembly,HK PSG-1 Bolt,0,0,,,,,,,,,1500
 ,hk_g3_trigger_housing,,,,,,,,,,,,,
-977,,hk_g3_sef_metal_trigger_housing,HK G3 SEF Metal Trigger,0,0.6,-1,,,,,,,,0
-978,,hk_psg1_metal_trigger_housing,HK PSG-1 Metal Trigger,3,0.6,,1,,,,,,,2000
-,,aeroknox_ax_mp5_modified_trigger_housing,Aeroknox AX MP5 Modified Trigger Housing,-3,0.5,,1,,,,,,,1250
-,,ptr_32_sef_metal_trigger_housing,PTR 32 SEF Metal Trigger Housing,-1,0.55,,,,,,,,,500
+977,,hk_g3_sef_metal_trigger_housing,HK G3 SEF Metal Trigger,0,0.55,0,0,,,,,,,0
+978,,hk_psg1_metal_trigger_housing,HK PSG-1 Metal Trigger,2,0.58,1,1,,,,,,,2000
+,,aeroknox_ax_mp5_modified_trigger_housing,Aeroknox AX MP5 Modified Trigger Housing,-3,0.5,0,0,,,,,,,1250
+,,ptr_32_sef_metal_trigger_housing,PTR 32 SEF Metal Trigger Housing,-1,0.53,-1,0,,,,,,,500
 ,hk_psg_trigger,,,,,,,,,,,,,
 ,,hk_psg1_trigger,HK PSG-1 Trigger,0,0.05,0,1,,-0.05,,,,,500
 ,hk_psg_trigger_shoe,,,,,,,,,,,,,
@@ -2243,10 +2243,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,8,0.25,-5,-8,,,,,,,3500
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500
 ,mp5_lower_receiver,,,,,,,,,,,,,
-,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.4,,,,,,,,,0
-,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-1,0.45,-1,1,,,,,,,1000
-,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.45,2,1,,,,,,,1500
-,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,3,0.47,1,-1,,,,,,,1750
+,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.4,0,0,,,,,,,0
+,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.4,2,4,,,,,,,1000
+,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.43,1,0,,,,,,,1500
+,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,-1,0.41,3,3,,,,,,,1750
 ,mp5_stock,,,,,,,,,,,,,
 ,,hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-9,-11,,,,,,,0
 ,hk_mp5_hk94_choate_stock,,,,,,,,,,,,,
