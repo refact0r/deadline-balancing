@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 15:10:59 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 18:28:26 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2248,8 +2248,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,,,,,,,,,,,
 ,mp5_handguard,,,,,,,,,,,,,
 ,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.2,-9,-7,,,,,,,0
-,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,8,0.25,-5,-8,,,,,,,3500
+,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,10,0.24,-6,-8,,,,,,,2000
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500
+,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.23,-9,-9,,,,,,,1200
+,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.17,-6,-7,,,,,,,1000
 ,mp5_lower_receiver,,,,,,,,,,,,,
 ,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.4,0,0,,,,,,,0
 ,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.4,2,4,,,,,,,1000
@@ -2278,6 +2280,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.17,-3,-6,,0.15,0.08,80,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
 ,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.2,-16,-20,,-0.05,0.15,-600,,,3500
+,surefire_mp5_flashlight,,,,,,,,,,,,,
+,,surefire_lm1_bk_flashlight,,-1,0.03,,,,,,,,,200
+,,surefire_lm1_b_bk_flashlight,,-1,0.04,,,,,,,,,300
+,,surefire_lm2_bk_flashlight,,-1,0.05,,,,,,,,,500
+,,surefire_lm2_b_bk_flashlight,,-1,0.06,,,,,,,,,600
 ,throwable,,,,,,,,,,,,,
 1320,,F1,F1 Grenade,,,,,,,,,,,10000
 1321,,M67,M67 Grenade,,,,,,,,,,,0
@@ -2310,7 +2317,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
-1347,,MP5,H&K MP5,15,0,50,60,0,1,1,1300,,,5000
+1347,,MP5,H&K MP5,20,0,50,60,0,1,1,1300,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
