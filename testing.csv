@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 19:02:53 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 19:18:49 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2254,8 +2254,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.17,-6,-7,,,,,,,1000
 ,mp5_lower_receiver,,,,,,,,,,,,,
 ,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.4,0,0,,,,,,,0
-,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.4,2,4,,,,,,,1000
-,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.43,1,0,,,,,,,1500
+,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.4,2,3,,,,,,,1000
+,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.43,0,0,,,,,,,1500
 ,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,-1,0.41,3,3,,,,,,,1750
 ,mp5_stock,,,,,,,,,,,,,
 ,,hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-10,-12,,,,,,,0
@@ -2317,7 +2317,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
-1347,,MP5,H&K MP5,20,0,50,60,0,1,1,1300,,,5000
+1347,,MP5,H&K MP5,25,0,50,60,0,1,1,1300,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,24,0.3,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
