@@ -933,7 +933,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_straight_30r_9x19_magazine,HK MP5 Straight 30rd 9x19 Magazine,1,0.33,,,30,,,,,,500
 ,,x_products_mp5_50r_9x19_drum,X Products MP5 50rd 9x19 Drum,-12,0.55,,,50,,,,,,3000
 ,mp5_magazine_bottom_plate,,,,,,,,,,,,,
-,,hk_mp5_std_mag_plate,HK MP5 Std. Magazine Plate,,,,,,,,,,,
+,,hk_mp5_std_mag_plate,HK MP5 Std. Magazine Plate,,0.02,,,,,,,,,0
 ,magazine_9x19_pp19,,,,,,,,,,,,,
 548,,9x19_pp19_kp9_drum,KP9 Drum 50R,-4,0.58,,,50,0.5,,,,,3000
 549,,9x19_pp19_std,Standard PP-19-01 30R,-1,0.31,,,30,,,,,,500
