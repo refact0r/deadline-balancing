@@ -652,7 +652,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 369,,fab_defense_upr_16_4_top,FAB Defense UPR 16/4 Picatinny Rail,-3,0.06,,,,,,,,,400
 370,,ncstar_marsv2_top,NcStar MARSV2 Picatinny Rail,-2,0.07,,,,,,,,,300
 ,mk9_upper_receiver,,,,,,,,,,,,,
-371,,cmmg_mk9_upper_receiver,CMMG MK9,0,0.15,0,0,,,,,,,750
+371,,cmmg_mk9_upper_receiver,CMMG MK9,0,0.15,0,0,,,,,,,0
 ,mk9_lower_receiver,,,,,,,,,,,,,
 372,,cmmg_mk9_lower_receiver,CMMG MK9,0,0.25,,,,,,,,,0
 ,mk9_dust_cover,,,,,,,,,,,,,
