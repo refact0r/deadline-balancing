@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 22:20:14 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 22:40:32 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -929,9 +929,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 544,,7.62x54_promag_5r,ProMag AA762R 01 5R,-1,0.15,,,5,,,,,,500
 545,,7.62x54_mosin_5r,Mosin Standard 5R,0,0.2,,,5,,,,,,0
 ,magazine_9x19_mp5,,,,,,,,,,,,,
-546,,hk_mp5_std_curved_30r_9x19_magazine,HK MP5 Std. Curved 30rd 9x19 Magazine,-1,0.28,,,30,,,,,,0
-,,hk_mp5_straight_30r_9x19_magazine,HK MP5 Straight 30rd 9x19 Magazine,1,0.33,,,30,,,,,,500
-,,x_products_mp5_50r_9x19_drum,X Products MP5 50rd 9x19 Drum,-12,0.55,,,50,,,,,,3000
+546,,hk_mp5_std_curved_30r_9x19_magazine,HK MP5 Std. Curved 30rd 9x19 Magazine,0,0.28,,,30,,,,,,0
+,,hk_mp5_straight_30r_9x19_magazine,HK MP5 Straight 30rd 9x19 Magazine,1,0.3,,,30,,,,,,500
+,,x_products_mp5_50r_9x19_drum,X Products MP5 50rd 9x19 Drum,-10,0.55,,,50,,,,,,3000
 ,mp5_magazine_bottom_plate,,,,,,,,,,,,,
 ,,hk_mp5_std_mag_plate,HK MP5 Std. Magazine Plate,,0.02,,,,,,,,,0
 ,magazine_9x19_pp19,,,,,,,,,,,,,
@@ -1806,7 +1806,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,pp19_barrel,,,,,,,,,,,,,
 1051,,pp19_barrel,PP19 Standard,0,0.3,0,0,,0.1,0,100,,,0
 ,pp19_bolt,,,,,,,,,,,,,
-1052,,pp19_bolt,PP19,0,0.08,,0,,,,,,,0
+1052,,pp19_bolt,PP19,0,0.1,,0,,,,,,,0
 ,pp19_dustcover,,,,,,,,,,,,,
 1053,,izhmash_vityaz_cover,Izhmash Vityaz,3,0.21,-3,-1,,,,,,,0
 1054,,izhmash_sn_vityaz_cover,Izhmash Vityaz-Sn,1,0.32,-1,-2,,,,,,,600
@@ -2321,7 +2321,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,25,0,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
-1351,,PP19,Izhmash PP-19 Vityaz,20,0.3,50,75,0,0.9,1,1300,,,11000
+1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1300,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
 ,placer,,,,,,,,,,,,,
