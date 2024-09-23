@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 20:06:41 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 22:20:14 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1113,10 +1113,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-10,,0,0.05,0,,,500
 654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-10,,0,0.05,0,,,750
 ,ak_folding_stock,,,,,,,,,,,,,
-655,,izhmash_pp19_stock,PP19 std.,14,0.13,-14,-20,,,,,,,300
+655,,izhmash_pp19_stock,PP19 std.,14,0.14,-10,-16,,,,,,,300
 656,,zenitco_ak74m/ak100_pt_lock,Zenitco AK74M/AK100 PT Lock,-0.5,0.04,-1,-1,,,,,,,300
-657,,ak12_gen1_buffer_tube,Kalashnikov Concern AK-12 Gen 1,-1.5,0.15,-6,-6,,-0.1,,,,,500
-658,,caa_aksfsa_ak74m/ak100_buffer_tube,CAA AKSFSA AK74M/AK100 Buffer Tube,-1,0.21,-5,-5,,,,,,,1000
+657,,ak12_gen1_buffer_tube,Kalashnikov Concern AK-12 Gen 1,-1.5,0.14,-6,-6,,-0.1,,,,,500
+658,,caa_aksfsa_ak74m/ak100_buffer_tube,CAA AKSFSA AK74M/AK100 Buffer Tube,-1,0.15,-5,-5,,,,,,,1000
 ,,magpul_zhukov_s_hinge_part,Magpul ZHUKOV-S Hinge Part,2,0.04,,,,,,,,,300
 ,ak_lower_receiver,,,,,,,,,,,,,
 659,,ak74n_lower_receiver,AK74N,8,0,,,,,,,,,0
@@ -2321,7 +2321,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,25,0,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
-1351,,PP19,Izhmash PP-19 Vityaz,20,0.30,50,75,0,0.9,1,1300,,,11000
+1351,,PP19,Izhmash PP-19 Vityaz,20,0.3,50,75,0,0.9,1,1300,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
 ,placer,,,,,,,,,,,,,
