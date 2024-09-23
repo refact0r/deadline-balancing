@@ -1722,6 +1722,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1002,,corvus_defensio_aug_case_deflector,Corvus Defensio AUG Case Deflector,2.5,0.08,,,,,,,,,1000
 ,,arid_concepts_aug_low_profile_case_deflector,Arid Concepts AUG Low Profile Case Deflector,1,0.04,,,,,,,,,600
 ,,steyr_aug_case_deflector,Steyr AUG Case Deflector,2,0.07,,,,,,,,,500
+,aug_magwell,,,,,,,,,,,,,
+,,wfortungsten_3d_printed_aug_nato_magwell,WforTungsten's 3D Printed AUG NATO Magwell,2,0.03,,,,,,,,,750
 ,aug_a3_charging_handle,,,,,,,,,,,,,
 1003,,aug_a3_std_charging_handle,AUG A3 Std.,1,0.02,,,,,,,,,0
 1004,,manticore_arms_aug_raptor_charging_handle,Manticore Arms AUG Raptor,3,0.06,,,,,,,,,600
