@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 19:39:36 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 19:54:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -652,13 +652,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 369,,fab_defense_upr_16_4_top,FAB Defense UPR 16/4 Picatinny Rail,-3,0.06,,,,,,,,,400
 370,,ncstar_marsv2_top,NcStar MARSV2 Picatinny Rail,-2,0.07,,,,,,,,,300
 ,mk9_upper_receiver,,,,,,,,,,,,,
-371,,cmmg_mk9_upper_receiver,CMMG MK9,0,0.15,0,0,,,,,,,0
+371,,cmmg_mk9_upper_receiver,CMMG MK9,0,0.14,0,0,,,,,,,0
 ,mk9_lower_receiver,,,,,,,,,,,,,
-372,,cmmg_mk9_lower_receiver,CMMG MK9,0,0.25,,,,,,,,,0
+372,,cmmg_mk9_lower_receiver,CMMG MK9,0,0.24,,,,,,,,,0
 ,mk9_dust_cover,,,,,,,,,,,,,
-373,,cmmg_mk9_dust_cover,CMMG MK9,0,0.03,-3,-2,,,,,,,0
+373,,cmmg_mk9_dust_cover,CMMG MK9,1,0.03,0,0,,,,,,,0
 ,mk9_bolt,,,,,,,,,,,,,
-374,,mk9_bolt,MK9 Bolt,0,0.08,,,,,,,,,0
+374,,mk9_bolt,MK9 Bolt,0,0.07,,,,,,,,,0
 ,mk9_barrel,,,,,,,,,,,,,
 375,,kak_value_line_light_tapered_melonite_ar9_76mm_9x19_barrel,"KAK Value Line Light Tapered Melonite AR9 3"" 9x19",8,0.12,7,7,,0.3,-0.3,-300,,,750
 376,,cmmg_mk9_216mm_9x19_barrel,"CmmG Mk9 8.5"" 9x19",2,0.23,2,2,,0.12,-0.04,-90,,,900
@@ -1804,7 +1804,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1049,,mosin_carbine_stock,Mosin Std. Carbine,3,0.5,0,-3,,,,,,,500
 1050,,mosin_standard_stock,Mosin Std. Sniper,5,0.6,-1,-5,,,,,,,0
 ,pp19_barrel,,,,,,,,,,,,,
-1051,,pp19_barrel,PP19 Standard,,,,,,,,100,,,0
+1051,,pp19_barrel,PP19 Standard,0,0.3,0,0,,0.1,0,100,,,0
 ,pp19_bolt,,,,,,,,,,,,,
 1052,,pp19_bolt,PP19,0,0.01,,0,,,,,,,0
 ,pp19_dustcover,,,,,,,,,,,,,
@@ -2319,9 +2319,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,smg,,,,,,,,,,,,,
 1347,,MP5,H&K MP5,25,0,50,60,0,1,1,1300,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
-1349,,MK9,CmmG MK9 T,24,0,70,85,0,1,1,1450,,,20000
+1349,,MK9,CmmG MK9 T,25,0,70,85,0,1,1,1450,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
-1351,,PP19,Izhmash PP-19 Vityaz,20,0.3,50,75,0,0.9,1,1300,,,11000
+1351,,PP19,Izhmash PP-19 Vityaz,20,0.35,50,75,0,0.9,1,1300,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
 ,placer,,,,,,,,,,,,,
