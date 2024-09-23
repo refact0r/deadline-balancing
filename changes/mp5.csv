@@ -7,14 +7,14 @@ hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,10,0.24,-6,-8,,,,,,,2000,1
 hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500,15.6
 surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.23,-9,-9,,,,,,,1200,16
 midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.17,-6,-7,,,,,,,1000,14.6
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+,,,,,,,,,,,,,0
+hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-10,-12,,,,,,,0,18
+hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,2,0.08,,,,,,,,,1500,0.4
+hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,9,0.12,-9,-8,,,,,,,0,18.6
+hk_mp5_hk94_stock_endcap,HP MP5/HK94 Stock Endcap,2,0.06,,,,,,,,,1000,0.8
+hk_mp5_hk94_choate_stock_base,HK MP5/HK94 Choate Stock Base,0,0.06,,,,,,,,,750,-1.2
+hk_mp5_hk94_choate_stock,HK MP5/HK94 Choate Stock,7,0.12,-8,-13,,,,,,,0,18.8
+hk_mp5_endcap_sling_swivel,HK MP5 Endcap Sling Swivel,10,0.01,10,10,,0.2,,,,,250,-5.2
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,

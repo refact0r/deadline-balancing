@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Sep 22 18:28:26 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Sep 22 19:01:21 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -548,12 +548,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 322,,pmm_scar_modified_grip_hogue,PMM SCAR Modified Hogue Non-Beavertail,6,0.08,-2,-6,,,,,,,600
 323,,mdt_premier_avp_grip,MDT Premier AVP,10,0.08,1,1,,,,,,,700
 324,,hk_battle_pistol_grip,HK Battle,5,0.08,-5,-4,,,,,,,800
-325,,colt_a2_pistol_grip,A2,4,0.08,-3,-3,,,,,,,0
+325,,colt_a2_pistol_grip,A2,6,0.08,-3,-3,,,,,,,0
 326,,thordsen_frs_15_stock,Thordsen FRS-15,14,0.26,-6,-8,,,,,,,1500
 327,,magpul_moe_ar15_pistol_grip,Magpul MOE AR-15 Pistol Grip,7,0.1,-3,-5,,,,,,,800
 328,,magpul_moe_k2_ar15_pistol_grip,Magpul MOE-K2,7,0.1,-4,-4,,,,,,,800
-329,,magpul_moe_k2_scar_pistol_grip,Magpul MOE-K2 Modified,7,0.11,-4,-4,,,,,,,800
-,,magpul_moe_scar_pistol_grip,Magpul MOE Scar Pistol Grip,7,0.11,-3,-5,,,,,,,800
+329,,magpul_moe_k2_scar_pistol_grip,Magpul MOE-K2 Modified,7,0.1,-4,-4,,,,,,,800
+,,magpul_moe_scar_pistol_grip,Magpul MOE Scar Pistol Grip,7,0.1,-3,-5,,,,,,,800
 ,,hera_arms_cqr_gen2_pistol_grip,Hera Arms CQR Gen 2 Pistol Grip,4,0.14,-1,-2,,,,,,,1200
 ,,aeroknox_ax15_orion_pistol_grip,Aeroknox AX15 Orion Pistol Grip,9,0.09,-2,-1,,,,,,,1000
 ,,bcm_gunfighter_mod3_ar15_pistol_grip,BCM Gunfighter Mod 3 AR-15 Pistol Grip,8,0.09,-3,-3,,,,,,,750
@@ -931,7 +931,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,magazine_9x19_mp5,,,,,,,,,,,,,
 546,,hk_mp5_std_curved_30r_9x19_magazine,HK MP5 Std. Curved 30rd 9x19 Magazine,-1,0.28,,,30,,,,,,0
 ,,hk_mp5_straight_30r_9x19_magazine,HK MP5 Straight 30rd 9x19 Magazine,1,0.33,,,30,,,,,,500
-,,x_products_mp5_50r_9x19_drum,X Products MP5 50rd 9x19 Drum,-6,0.51,,,50,,,,,,3000
+,,x_products_mp5_50r_9x19_drum,X Products MP5 50rd 9x19 Drum,-12,0.55,,,50,,,,,,3000
 ,mp5_magazine_bottom_plate,,,,,,,,,,,,,
 ,,hk_mp5_std_mag_plate,HK MP5 Std. Magazine Plate,,,,,,,,,,,
 ,magazine_9x19_pp19,,,,,,,,,,,,,
@@ -2236,8 +2236,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1292,,badger_ordnance_c1_34mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 34mm 12 O'Clock T1/T2 Optical Half Tube Plate,0,0.03,,,,,,,,,200
 1293,,badger_ordnance_c1_30mm_12oclock_t1_optical_half_tube_plate,Badger Ordnance Condition 1 30mm 12 O'Clock T1/T2 Optical Half Tube Plate,0,0.03,,,,,,,,,200
 ,mp5_a3_stock,,,,,,,,,,,,,
-,,hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,6,0.08,4,4,,,,,,,1500
-,,hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,8,0.12,-10,-12,,,,,,,0
+,,hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,2,0.08,,,,,,,,,1500
+,,hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,9,0.12,-9,-8,,,,,,,0
 ,mp5_barrel,,,,,,,,,,,,,
 ,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.24,-5,-9,,0.1,0.1,100,,,0
 ,hk_claw_mount,,,,,,,,,,,,,
@@ -2258,12 +2258,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.43,1,0,,,,,,,1500
 ,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,-1,0.41,3,3,,,,,,,1750
 ,mp5_stock,,,,,,,,,,,,,
-,,hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-9,-11,,,,,,,0
+,,hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-10,-12,,,,,,,0
 ,hk_mp5_hk94_choate_stock,,,,,,,,,,,,,
-,,hk_mp5_hk94_choate_stock_base,HK MP5/HK94 Choate Stock Base,2,0.04,-3,-2,,,,,,,750
-,,hk_mp5_hk94_choate_stock,HK MP5/HK94 Choate Stock,6,0.1,-4,-11,,,,,,,0
-,,hk_mp5_hk94_stock_endcap,HP MP5/HK94 Stock Endcap,2,0.1,,,,,,,,,1000
-,,hk_mp5_endcap_sling_swivel,HK MP5 Endcap Sling Swivel,16,0.04,6,10,,0.3,,,,,250
+,,hk_mp5_hk94_choate_stock_base,HK MP5/HK94 Choate Stock Base,0,0.06,,,,,,,,,750
+,,hk_mp5_hk94_choate_stock,HK MP5/HK94 Choate Stock,7,0.12,-8,-13,,,,,,,0
+,,hk_mp5_hk94_stock_endcap,HP MP5/HK94 Stock Endcap,2,0.06,,,,,,,,,1000
+,,hk_mp5_endcap_sling_swivel,HK MP5 Endcap Sling Swivel,10,0.01,10,10,,0.2,,,,,250
 ,mp5_upper_receiver,,,,,,,,,,,,,
 ,,hk_mp5_std_upper_receiver,HK MP5 Std. Upper Receiver,0,0.3,,,,,,,,,
 ,,hk_mp5sd_upper_receiver,HK MP5SD Std. Upper Receiver,-3,0.32,-2,,,,,,,,3500
