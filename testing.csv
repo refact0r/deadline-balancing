@@ -526,14 +526,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,fightlite_scr_rubber_buttpad,Fightlite SCR Rubber Buttpad,2,0.04,-1,-2,,,,,,,0
 ,ar15_charging_handle,,,,,,,,,,,,,
 306,,battle_arms_rack_charging_handle,Battle arms rack,4.5,0.07,,,,,,,,,600
-307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,3,0.03,,,,,,,,,600
+307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,2.5,0.02,,,,,,,,,600
 308,,diemaco_c7_ambi_charging_handle,Diemaco C7 Ambi,3,0.04,,,,,,,,,400
 309,,hera_arms_straight_pull_charging_handle,Hera Arms straight-pull,5,0.11,,,,,,,,,750
 310,,radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,5,0.08,,,,,,,,,750
-311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,2.5,0.02,,,,,,,,,300
+311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,3,0.03,,,,,,,,,300
 312,,tc_enforcer_charging_handle,Timber Creek Enforcer,3.5,0.05,,,,,,,,,300
 313,,armaspec_victory_charging_handle,Armaspec Victory,4,0.06,,,,,,,,,500
 314,,colt_m4a1_charging_handle,Colt M4 Standard,2,0.03,,,,,,,,,0
+,,noveske_love_ar15_charging_handle,Noveske Love AR15 Charging Handle,4,0.05,,,,,,,,,650
 ,ar15_endplate,,,,,,,,,,,,,
 315,,colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0
 ,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,2,0.06,8,8,,3,,,,,600
@@ -622,16 +623,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 349,,brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-10,0.92,-11,-12,,-0.22,0.26,379,,-0.06,2000
 350,,brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-3,0.69,-6,-6,,-0.05,0.12,100,,,1200
 351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-15,0.89,-12,-12,,-0.3,0.4,550,,-0.06,5000
-352,,colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",3,0.47,-1,-2,,0.25,-0.14,-239,,,1200
-353,,colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",1,0.53,-3,-3,,0.15,-0.06,-117,,,1200
+352,,colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",3,0.47,-2,-1,,0.25,-0.1,-239,,,1200
+353,,colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",1,0.53,-3,-3,,0.15,-0.04,-117,,,1200
 354,,colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",0,0.6,-4,-4,,0.08,0.02,-10,,,0
-355,,colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",4,0.34,0,-1,,0.4,-0.2,-633,,0.03,1300
+355,,colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",4,0.34,0,-1,,0.4,-0.16,-633,,0.03,1300
 356,,colt_m4a1_5.56x45_368mm_socom_c_barrel,"Colt Socom 14.5"" Carbine Length Gastube 5.56x45",-1,0.64,-5,-5,,0.05,0.04,10,,,800
 357,,custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,6,0.12,5,5,,5,-0.4,-700,,0.125,2000
-,,veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,5,0.24,1,1,,0.6,-0.26,-685,,0.063,1400
+,,veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,5,0.24,1,1,,0.6,-0.24,-685,,0.063,1400
 ,,x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-7,0.7,-8,-9,,-0.1,0.16,267,,-0.03,1800
-,,ballistic_advantage_ar15_modern_series_5.56x45_292mm_govt_c_barrel,"Ballistic Advantage Modern Series Government 11.5"" Carbine Length Gastube 5.56x45",2,0.5,-2,-3,,0.2,-0.1,-178,,,1100
-,,kac_ks1_5.56x45_348mm_heavy_dimpled_m_barrel,"KAC KS-1 (L403A1) Heavy Dimpled 13.7"" Mid Length Gastube 5.56x45",1,0.62,-6,-4,,0.1,-0.02,-70,,-0.03,2000
+,,ballistic_advantage_ar15_modern_series_5.56x45_292mm_govt_c_barrel,"Ballistic Advantage Modern Series Government 11.5"" Carbine Length Gastube 5.56x45",2,0.5,-2,-3,,0.2,-0.07,-178,,,1100
+,,kac_ks1_5.56x45_348mm_heavy_dimpled_m_barrel,"KAC KS-1 (L403A1) Heavy Dimpled 13.7"" Mid Length Gastube 5.56x45",1,0.62,-5,-4,,0.1,-0.01,-70,,-0.03,2000
 ,m4_gasblock_mount,,,,,,,,,,,,,
 358,,aim_sports_mt026_mount,AIM Sports MT026 Tri-Rail Barrel Mount,-3,0.1,,,,,,,,,400
 359,,diemaco_tri_ad_i_mount,Diemaco TRI-AD I Barrel Mount,-1,0.06,,,,,,,,,600
@@ -722,7 +723,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 411,,fn_scar_mk20_upper_receiver,FN SCAR Mk20,8,0.85,3,6,,,0.05,50,,,4000
 412,,imperial_arms_cypher_x_standard_scar_h_upper_receiver,Imperial Arms CypherX Standard SCAR-H,3,0.7,0,0,,,,,,,3000
 ,fn_scar_l_barrel,,,,,,,,,,,,,
-413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,2,0.47,1,2,,0.2,-0.12,-250,,,1200
+413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,2,0.47,1,2,,0.2,-0.08,-250,,,1200
 414,,fn_scar_l_355mm_barrel,FN SCAR-L 355mm,0,0.6,0,0,,0,0,-30,,,1000
 415,,fn_scar_l_457mm_barrel,FN SCAR-L 457mm,-5,0.73,-3,-4,,-0.1,0.14,200,,,1500
 ,fn_scar_l_bolt,,,,,,,,,,,,,
@@ -1284,34 +1285,34 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,acp95_mount_side_rails,,,,,,,,,,,,,
 763,,acp95_side_rail,ACP95 Side Rail,-0.5,0.03,0,0,,,,,,,0
 ,tt33_barrel,,,,,,,,,,,,,
-764,,tt33_116mm_barrel,TT33 116mm,0,0.15,-5,-5,,0,0,0,,,0
-765,,tt33_124mm_threaded_barrel,TT33 124mm Threaded,-1,0.18,-2,-4,,0.05,,30,,,2000
+764,,tt33_116mm_barrel,TT33 116mm,0,0.16,-5,-5,,0,0,0,,,0
+765,,tt33_124mm_threaded_barrel,TT33 124mm Threaded,-1,0.19,-2,-4,,0.05,,30,,,2000
 ,tt33_barrel_bushing,,,,,,,,,,,,,
 766,,tt33_barrel_bushing,TT33,0,0,,,,,,,,,0
 767,,tt_pmlaser_dtk_compensator,TT PM-Laser DTK-TT muzzle brake-compensator,-1,0.02,-3,-10,,0,0,-100,,,500
 ,tt33_frame,,,,,,,,,,,,,
-768,,tt33_std_frame,TT33 Standard,0,0,,,,,,,,,0
-769,,tt33_std_frame_with_lanyard_loop,TT33 w/ Lanyard Loop,1,0.04,,,,,,,,,500
+768,,tt33_std_frame,TT33 Standard,0,0.4,,,,,,,,,0
+769,,tt33_std_frame_with_lanyard_loop,TT33 w/ Lanyard Loop,1,0.44,,,,,,,,,500
 ,tt33_grip,,,,,,,,,,,,,
 770,,ksd_ivory_lanyard_grip,KSD Ivory Lanyard,4,0.06,0,1,,,,,,,2000
 771,,razor_arms_g02,Razor Arms G02,6,0.08,3,3,,,,,,,1000
 772,,tt33_std_grip,TT33 Std.,3,0.06,,,,,,,,,0
 ,tt33_hammer,,,,,,,,,,,,,
-773,,tt33_hammer,TT33,0,0.01,,,,,,,,,0
+773,,tt33_hammer,TT33,0,0.03,,,,,,,,,0
 ,tt33_hammer_group,,,,,,,,,,,,,
-774,,tt33_hammer_group,TT33,0,0,,,,,,,,,0
+774,,tt33_hammer_group,TT33,0,0.04,,,,,,,,,0
 ,tt33_mag_bottomplate,,,,,,,,,,,,,
 775,,tt33_std_mag_btmplt,TT-33 Std. Mag,1,0.01,,,,,,,,,0
 776,,bhspringsolutions_tt33_+1r_mag_extension,BHSpringSolutions TT-33 (+1 Round),0,0.03,,,1,,,,,,750
 ,tt33_mag_release,,,,,,,,,,,,,
 777,,tt33_mag_release,TT33,0,0.01,,,,,,,,,0
 ,tt33_slide,,,,,,,,,,,,,
-778,,tt33_postwar_slide,TT33 Post-war 1949,1,0.11,0,0.5,,,,,,,0
-779,,tt33_prewar_slide,TT33 Pre-war 1935,0,0.1,0,0,,,,,,,0
+778,,tt33_postwar_slide,TT33 Post-war 1949,1,0.16,0,0.5,,,,,,,0
+779,,tt33_prewar_slide,TT33 Pre-war 1935,0,0.15,0,0,,,,,,,0
 ,tt33_slide_catch,,,,,,,,,,,,,
-780,,tt33_slide_catch,TT33,0,0,,,,,,,,,0
+780,,tt33_slide_catch,TT33,0,0.01,,,,,,,,,0
 ,tt33_trigger,,,,,,,,,,,,,
-781,,tt33_trigger,TT33,0,0.01,,,,,,,,,0
+781,,tt33_trigger,TT33,0,0.02,,,,,,,,,0
 ,tt33_underbarrel,,,,,,,,,,,,,
 782,,3d_printed_triggerguard_rail_mount,3D Printed Trigger Guard,-1,0.03,,,,,,,,,800
 783,,tt_dlp_tactical_lam_module_tt33,TT DLP Tactical Precision LAM-module,-2,0.08,,,,,,,,,600
@@ -1551,8 +1552,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,300,,,1000
 924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,0,,,600
 ,hk416_barrel,,,,,,,,,,,,,
-925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.5,4,5,,0.2,-0.13,-240,,,1000
-926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.51,4,4,,0.2,-0.12,-220,,,1500
+925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.5,4,5,,0.2,-0.1,-240,,,1000
+926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.51,4,4,,0.2,-0.05,-220,,,1500
 927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,0,0.63,3,2,,0,0.02,0,,,0
 928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-8,0.81,-2,-3,,-0.2,0.24,300,,,2500
 ,hk416_bolt_release,,,,,,,,,,,,,
@@ -1593,13 +1594,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 948,,hk_g3_front_sight_assembly,HK G3 Front Sight,0,0.03,,,,,,,,,0
 ,hk_g3_handguard,,,,,,,,,,,,,
 949,,hk_g3_wide_tropical_handguard,HK G3 Wide Tropical,5,0.26,-15,-15,,,,,,,0
-950,,fab_defense_g3_rs_handguard,FAB Defense G3-RS Railed,-1,0.29,-11,-15,,,,,,,2000
-,,kac_long_ras_g3_modular_rail_handguard,KAC Long RAS G3 Modular Rail Handguard,-4,0.31,-13,-15,,,,,,,2250
+950,,fab_defense_g3_rs_handguard,FAB Defense G3-RS Railed,3,0.29,-13,-15,,,,,,,2000
+,,kac_long_ras_g3_modular_rail_handguard,KAC Long RAS G3 Modular Rail Handguard,1,0.31,-15,-16,,,,,,,2250
 ,,kac_ras_g3_aimpoint_99048_30mm_mount,KAC RAS G3 Aimpoint 30mm Mount,3,0.08,1,,,,,,,,250
-,,aim_sports_extended_g3_mmh94_mlok_handguard,Aim Sports Extended G3 MMH94 MLOK Handguard,3,0.24,-9,-16,,,,,,,2500
+,,aim_sports_extended_g3_mmh94_mlok_handguard,Aim Sports Extended G3 MMH94 MLOK Handguard,4,0.24,-10,-16,,,,,,,2500
 ,aimsports_top,,,,,,,,,,,,,
-,,aim_sports_mmh94_mlok_top,Aim Sports MMH94 MLOK Top,1,0.05,,,,,,,,,250
-,,aim_sports_mmh94_picatinny_top,Aim Sports MMH94 Picatinny Top,0,0.07,-1,0,,,,,,,250
+,,aim_sports_mmh94_mlok_top,Aim Sports MMH94 MLOK Top,1,0.04,,,,,,,,,250
+,,aim_sports_mmh94_picatinny_top,Aim Sports MMH94 Picatinny Top,0,0.06,-1,-1,,,,,,,250
 ,hk_g3_paddle_mag_release,,,,,,,,,,,,,
 951,,hk_g3_paddle_mag_release,HK G3 Paddle,0,0.01,,,,,,,,,0
 ,hk_g3_pistol_grip,,,,,,,,,,,,,
@@ -1857,8 +1858,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,rugged_suppressors_obsidian_9_9x19_piston,Rugged Suppressors Obsidian9 9x19 Piston,0,0.03,0,0,,0.05,0,0,,,300
 ,,rugged_suppressors_obsidian_9_3lug_piston,Rugged Suppressors Obsidian9 3-Lug Piston,0,0.03,0,0,,0.05,0,0,,,300
 ,rugged_suppressors_obsidian_9,,,,,,,,,,,,,
-,,rugged_suppressors_obsidian_9_body,Rugged Suppressors Obsidian9 9x19 Body,-4,0.09,-9,-11,,-0.1,0.08,70,,,1500
-,,rugged_suppressors_obsidian_9_extension,Rugged Suppressors Obsidian9 9x19 Extension,-3,0.07,-3,-4,,-0.05,0.06,50,,,1000
+,,rugged_suppressors_obsidian_9_body,Rugged Suppressors Obsidian9 9x19 Body,-4,0.09,-9,-9,,-0.1,0.1,70,,,1500
+,,rugged_suppressors_obsidian_9_extension,Rugged Suppressors Obsidian9 9x19 Extension,-7,0.07,-12,-11,,-0.15,0.16,120,,,1000
 ,,rugged_suppressors_obsidian_9_cap,Rugged Suppressors Obsidian9 9x19 Cap,0,0.02,,,,,,,,,0
 ,7.62x39_muzzle_device,,,,,,,,,,,,,
 1084,,akm_compensator_6p1_014,AKM 6P1 0-14,-2,0.07,-8,-13,,0.1,-0.1,-150,,,0
@@ -2248,7 +2249,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,,,,,,,,,,,
 ,mp5_handguard,,,,,,,,,,,,,
 ,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.2,-9,-7,,,,,,,0
-,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,10,0.24,-6,-8,,,,,,,2000
+,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.24,-6,-8,,,,,,,2000
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500
 ,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.23,-9,-9,,,,,,,1200
 ,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.17,-6,-7,,,,,,,1000
@@ -2279,7 +2280,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mp5sd_barrel,,,,,,,,,,,,,
 ,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.17,-1,-4,,0.15,0.08,80,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-6,0.26,-12,-16,,-0.1,0.15,-600,,,3500
+,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.26,-12,-16,,-0.1,0.15,-600,,,3500
 ,surefire_mp5_flashlight,,,,,,,,,,,,,
 ,,surefire_lm1_bk_flashlight,,-1,0.03,,,,,,,,,200
 ,,surefire_lm1_b_bk_flashlight,,-1,0.04,,,,,,,,,300
@@ -2293,7 +2294,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1324,,TestSmoke,TestSmoke,,,,,,,,,,,2000
 ,pistol,,,,,,,,,,,,,
 1325,,Makarov,Izhevsk PM,62,0,31,31,0,1.2,1,1200,,,2000
-1326,,TT33,Tula TT-33,60,0.3,35,35,0,1.2,1,1400,,,5000
+1326,,TT33,Tula TT-33,60,0,35,35,0,1.2,1,1400,,,5000
 1327,,EDC_X9,Wilson Combat EDC X9,60,0.3,28,28,0,0.9,1,1500,,,25000
 1328,,Glock17,Glock 17,50,0.3,40,70,0,1.2,1,1250,,,0
 1329,,Glock20,Glock 20,50,0.3,50,70,0,1.2,1,1250,,,10000
