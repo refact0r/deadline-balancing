@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 14:28:28 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 14:36:14 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -526,15 +526,14 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,fightlite_scr_rubber_buttpad,Fightlite SCR Rubber Buttpad,2,0.04,-1,-2,,,,,,,0
 ,ar15_charging_handle,,,,,,,,,,,,,
 306,,battle_arms_rack_charging_handle,Battle arms rack,4.5,0.07,,,,,,,,,600
-307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,2.5,0.02,,,,,,,,,600
+307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,3,0.03,,,,,,,,,600
 308,,diemaco_c7_ambi_charging_handle,Diemaco C7 Ambi,3,0.04,,,,,,,,,400
 309,,hera_arms_straight_pull_charging_handle,Hera Arms straight-pull,5,0.11,,,,,,,,,750
 310,,radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,5,0.08,,,,,,,,,750
-311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,3,0.03,,,,,,,,,300
+311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,2.5,0.02,,,,,,,,,300
 312,,tc_enforcer_charging_handle,Timber Creek Enforcer,3.5,0.05,,,,,,,,,300
 313,,armaspec_victory_charging_handle,Armaspec Victory,4,0.06,,,,,,,,,500
 314,,colt_m4a1_charging_handle,Colt M4 Standard,2,0.03,,,,,,,,,0
-,,noveske_love_ar15_charging_handle,Noveske Love AR15 Charging Handle,4,0.05,,,,,,,,,650
 ,ar15_endplate,,,,,,,,,,,,,
 315,,colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0
 ,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,2,0.06,8,8,,3,,,,,600
@@ -1111,8 +1110,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 652,,zenitco_rp1_ak_charging_handle,RP-1 Zenitco,1,0.02,,,,,,,,,750
 ,,tss_custom_ak_bolt_on_oversize_gen3_charging_handle,TSS Custom AK Bolt On Oversize Gen3 Charging Handle,3,0.05,,,,,,,,,600
 ,ak74n_barrel,,,,,,,,,,,,,
-653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-10,,0,0.05,0,,,500
-654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-10,,0,0.05,0,,,750
+653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-5,-8,,0,0.05,0,,,500
+654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-4,-8,,0,0.05,0,,,750
 ,ak_folding_stock,,,,,,,,,,,,,
 655,,izhmash_pp19_stock,PP19 std.,14,0.14,-10,-16,,,,,,,300
 656,,zenitco_ak74m/ak100_pt_lock,Zenitco AK74M/AK100 PT Lock,-0.5,0.04,-1,-1,,,,,,,300
@@ -1149,8 +1148,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 675,,v762_vrdtl_fh,Vector VR-DTL,0.5,0.1,-12,-13,,0,0.1,70,,,750
 676,,vs_05,VS-05,-0.5,0.08,-9,-11,,0.1,0,25,,,750
 677,,izhmash_ak74_6p20_020_compensator,Izhmash AK74 6P20 0-20,-0.5,0.07,-9,-12,,0.2,0,30,,,500
-678,,ga_24_1/2,Griffin Armaments 24-1/2,-0.5,0.05,-5,-2,,0.1,0,5,,,1000
-679,,i_24_14_ta,Infinite 24mm-1/2mm,-0.5,0.03,-5,-1,,0.1,0,5,,,1000
+678,,ga_24_1/2,Griffin Armaments 24-1/2,-0.5,0.05,-1,-1,,0.1,0,5,,,1000
+679,,i_24_14_ta,Infinite 24mm-1/2mm,-0.5,0.03,-1,0,,0.1,0,5,,,1000
 680,,tsniitochmash_pbs_4_5.45x39_suppressor,TSNIITochMash PBS-4 5.45x39,-6,0.26,-14,-17,,-0.25,0.18,100,,,2000
 681,,hexagon545,Hexagon 5.45,-7,0.28,-15,-17,,-0.2,0.15,60,,,2000
 ,,hexagon_dtkp_ak74_5.45x39_suppressor,Hexagon DTKP 5.45x39,-5,0.24,-12,-14,,-0.1,0.1,40,,,3000
@@ -2312,7 +2311,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1500,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
-1343,,AK74N,Izhmash AK74N,10,1,60,75,0,0.4,1,1500,,,5000
+1343,,AK74N,Izhmash AK74N,10,1,55,70,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,14000
 ,shotgun,,,,,,,,,,,,,
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
