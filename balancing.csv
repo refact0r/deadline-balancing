@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 02:44:19 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 03:18:42 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1857,8 +1857,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,rugged_suppressors_obsidian_9_9x19_piston,Rugged Suppressors Obsidian9 9x19 Piston,0,0.03,0,0,,0.05,0,0,,,300
 ,,rugged_suppressors_obsidian_9_3lug_piston,Rugged Suppressors Obsidian9 3-Lug Piston,0,0.03,0,0,,0.05,0,0,,,300
 ,rugged_suppressors_obsidian_9,,,,,,,,,,,,,
-,,rugged_suppressors_obsidian_9_body,Rugged Suppressors Obsidian9 9x19 Body,-4,0.09,-9,-11,,-0.1,0.08,70,,,1500
-,,rugged_suppressors_obsidian_9_extension,Rugged Suppressors Obsidian9 9x19 Extension,-3,0.07,-3,-4,,-0.05,0.06,50,,,1000
+,,rugged_suppressors_obsidian_9_body,Rugged Suppressors Obsidian9 9x19 Body,-4,0.09,-9,-10,,-0.1,0.1,70,,,1500
+,,rugged_suppressors_obsidian_9_extension,Rugged Suppressors Obsidian9 9x19 Extension,-7,0.07,-12,-12,,-0.15,0.14,120,,,1000
 ,,rugged_suppressors_obsidian_9_cap,Rugged Suppressors Obsidian9 9x19 Cap,0,0.02,,,,,,,,,0
 ,7.62x39_muzzle_device,,,,,,,,,,,,,
 1084,,akm_compensator_6p1_014,AKM 6P1 0-14,-2,0.07,-8,-13,,0.1,-0.1,-150,,,0
