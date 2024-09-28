@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 17:13:55 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 17:29:58 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -526,14 +526,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,fightlite_scr_rubber_buttpad,Fightlite SCR Rubber Buttpad,2,0.04,-1,-2,,,,,,,0
 ,ar15_charging_handle,,,,,,,,,,,,,
 306,,battle_arms_rack_charging_handle,Battle arms rack,4.5,0.07,,,,,,,,,600
-307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,3,0.03,,,,,,,,,600
+307,,bravo_comp_gunfighter_charging_handle,Bravo Company GUNFIGHTER,2.5,0.02,,,,,,,,,600
 308,,diemaco_c7_ambi_charging_handle,Diemaco C7 Ambi,3,0.04,,,,,,,,,400
 309,,hera_arms_straight_pull_charging_handle,Hera Arms straight-pull,5,0.11,,,,,,,,,750
 310,,radian_weapons_raptor_ambi_ar15_charging_handle,Radian Weapons Raptor Ambidextrous,5,0.08,,,,,,,,,750
-311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,2.5,0.02,,,,,,,,,300
+311,,tc_enforcer_small_charging_handle,Timber Creek enforcer small,3,0.03,,,,,,,,,300
 312,,tc_enforcer_charging_handle,Timber Creek Enforcer,3.5,0.05,,,,,,,,,300
 313,,armaspec_victory_charging_handle,Armaspec Victory,4,0.06,,,,,,,,,500
 314,,colt_m4a1_charging_handle,Colt M4 Standard,2,0.03,,,,,,,,,0
+,,noveske_love_ar15_charging_handle,Noveske Love AR15 Charging Handle,4,0.05,,,,,,,,,650
 ,ar15_endplate,,,,,,,,,,,,,
 315,,colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0
 ,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,2,0.06,8,8,,3,,,,,600
@@ -1322,7 +1323,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 786,,legal_arsenal_enhanced_+2r_ext_pm_mag_plate,Legal Arsenal PM Makarov Enhanced (+2 Round),-0.8,0.025,,,2,,,,,,1400
 787,,legal_arsenal_+2r_ext_pm_mag_plate,Legal Arsenal PM Makarov (+2 Round),-1,0.02,,,2,,,,,,1000
 ,makarov_lower_receiver,,,,,,,,,,,,,
-788,,makarov_lower_receiver,Makarov Standard,0,0.6,,,,,,,,,0
+788,,makarov_lower_receiver,Makarov Standard,0,0.44,,,,,,,,,0
 ,makarov_pistol_grip,,,,,,,,,,,,,
 789,,makarov_std_pistol_grip,Makarov standard,2,0.1,-1,-1,,,,,,,0
 790,,fab_defense_pm_g_pistol_grip,FAB Defense PM-G,6,0.12,0,-2,,,,,,,800
