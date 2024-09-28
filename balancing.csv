@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 17:40:42 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 18:14:54 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -507,7 +507,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ar15_buffer,,,,,,,,,,,,,
 293,,sb_tactical_vector_brace,SB Tactical Vector Brace,18,0.28,-3,-3,,,,,,,500
 294,,doublestar_ace_m4_socom_gen4_stock,Doublestar ACE M4 SOCOM,14,0.32,-9,-9,,,,,,,1000
-295,,hk_416_enhanced_buffer_tube,HK Enhanced Buffer Tube,-1,0.23,,-3,,-0.1,,,,,400
+295,,hk_416_enhanced_buffer_tube,HK Enhanced Buffer Tube,-1,0.15,,-3,,-0.1,,,,,400
 296,,si_ar_are_t7_buffer_tube,Strike Industries Advanced Receiver Extension T7,-1,0.12,-1,-1,,0,,,,,600
 297,,colt_buffer_tube,Colt,-2,0.15,-1,-2,,-0.1,,,,,0
 ,ar15_castlenut,,,,,,,,,,,,,
@@ -1111,8 +1111,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 652,,zenitco_rp1_ak_charging_handle,RP-1 Zenitco,1,0.02,,,,,,,,,750
 ,,tss_custom_ak_bolt_on_oversize_gen3_charging_handle,TSS Custom AK Bolt On Oversize Gen3 Charging Handle,3,0.05,,,,,,,,,600
 ,ak74n_barrel,,,,,,,,,,,,,
-653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-10,,0,0.05,0,,,500
-654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-10,,0,0.05,0,,,750
+653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-8,,0,0.05,0,,,500
+654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-8,,0,0.05,0,,,750
 ,ak_folding_stock,,,,,,,,,,,,,
 655,,izhmash_pp19_stock,PP19 std.,14,0.14,-10,-16,,,,,,,300
 656,,zenitco_ak74m/ak100_pt_lock,Zenitco AK74M/AK100 PT Lock,-0.5,0.04,-1,-1,,,,,,,300
@@ -1503,7 +1503,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 893,,hk_33mm_fs_folded,HK 33mm Front Folding Sight - Folded,1,0.02,,,,,,,,,100
 894,,hk_33mm_fs,HK 33mm Front Folding Sight,2,0.02,,,,,,,,,0
 ,hk_bolt,,,,,,,,,,,,,
-895,,hk_bolt,HK416A5 Bolt,1.5,0.05,,,,,,,,,0
+895,,hk_bolt,HK416A5 Bolt,1.5,0.12,,,,,,,,,0
 ,ump_upper_receiver,,,,,,,,,,,,,
 896,,ump45_std_upper_receiver,UMP45 Standard .45 ACP Upper Receiver,0,0.25,0,0,,,,,,,0
 897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,0,0.25,-4,-13,,,,200,,0.25,3000
@@ -1552,16 +1552,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,300,,,1000
 924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,0,,,600
 ,hk416_barrel,,,,,,,,,,,,,
-925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.5,4,5,,0.2,-0.1,-240,,,1000
-926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.51,4,4,,0.2,-0.05,-220,,,1500
-927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,0,0.63,3,2,,0,0.02,0,,,0
-928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-8,0.81,-2,-3,,-0.2,0.24,300,,,2500
+925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,5,,0.2,-0.1,-240,,,1000
+926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.05,-220,,,1500
+927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,0,0.68,3,2,,0,0.02,0,,,0
+928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-8,0.86,-2,-3,,-0.2,0.24,300,,,2500
 ,hk416_bolt_release,,,,,,,,,,,,,
 929,,hk416_bolt_release,HK416 Bolt Release,0,0,,,,,,,,,0
 ,hk416_fire_selector,,,,,,,,,,,,,
-930,,hk416_fire_selector,HK416 Fire Selector,0,0,,,,,,,,,0
+930,,hk416_fire_selector,HK416 Fire Selector,0,0.02,,,,,,,,,0
 ,hk416_gas_block,,,,,,,,,,,,,
-931,,hk416_lowprofile_gasblock,HK416 Low Profile Gas Block,-1,0.09,-3,-2,,,,,,,0
+931,,hk416_lowprofile_gasblock,HK416 Low Profile Gas Block,-1,0.1,-3,-2,,,,,,,0
 ,hk416_handguard,,,,,,,,,,,,,
 932,,hk_quad_rail_handguard,HK416A5 Quad Rail Handguard,8,0.28,-10,-14,,,,,,,0
 933,,mi_hk416_mlok_14i,"Midwest Industries HK416 14"" MLOK Handguard",7,0.34,-12,-15,,,,,,,1400
@@ -1572,11 +1572,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk416_trigger,,,,,,,,,,,,,
 937,,hk416_trigger,HK416 Default Trigger,0,0.04,,,,,,,,,0
 ,hk416_trigger_guard,,,,,,,,,,,,,
-938,,hk416_trigger_guard,HK416 Trigger Guard,2,0.04,,,,,,,,,0
+938,,hk416_trigger_guard,HK416 Trigger Guard,2,0.03,,,,,,,,,0
 ,hk416a5_lower_receiver,,,,,,,,,,,,,
 939,,hk416a5_lower_receiver,HK416A5,0,0.4,0,0,,,,,,,0
 ,hk416a5_upper_receiver,,,,,,,,,,,,,
-940,,hk416a5_upper,HK416A5,0,0.35,0,0,,,,,,,0
+940,,hk416a5_upper,HK416A5,0,0.32,0,0,,,,,,,0
 ,hk_stock_extendable_part,,,,,,,,,,,,,
 941,,hk_g3a3_stock_extendable_part,HK G3A3 Stock Extendable Part,13,0.08,-7,-9,,,,,,,0
 ,hk_g3_button_mag_release,,,,,,,,,,,,,
@@ -2312,7 +2312,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1500,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
-1343,,AK74N,Izhmash AK74N,10,1,60,75,0,0.4,1,1500,,,5000
+1343,,AK74N,Izhmash AK74N,10,1,65,70,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,14000
 ,shotgun,,,,,,,,,,,,,
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
