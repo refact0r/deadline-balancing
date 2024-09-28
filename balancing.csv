@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 19:10:50 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 19:29:59 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1554,10 +1554,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,300,,,1000
 924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,0,,,600
 ,hk416_barrel,,,,,,,,,,,,,
-925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,5,,0.2,-0.1,-240,,,1000
-926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.05,-220,,,1500
-927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,0,0.68,3,2,,0,0.02,0,,,0
-928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-8,0.86,-2,-3,,-0.2,0.24,300,,,2500
+925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,4,,0.2,-0.08,-240,,,1000
+926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.06,-220,,,1500
+927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,-1,0.68,3,2,,0,0.02,0,,,0
+928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-9,0.86,-2,-3,,-0.2,0.24,300,,,2500
 ,hk416_bolt_release,,,,,,,,,,,,,
 929,,hk416_bolt_release,HK416 Bolt Release,0,0,,,,,,,,,0
 ,hk416_fire_selector,,,,,,,,,,,,,
