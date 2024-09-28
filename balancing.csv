@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 14:45:38 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 17:13:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1110,8 +1110,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 652,,zenitco_rp1_ak_charging_handle,RP-1 Zenitco,1,0.02,,,,,,,,,750
 ,,tss_custom_ak_bolt_on_oversize_gen3_charging_handle,TSS Custom AK Bolt On Oversize Gen3 Charging Handle,3,0.05,,,,,,,,,600
 ,ak74n_barrel,,,,,,,,,,,,,
-653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-5,-8,,0,0.05,0,,,500
-654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-4,-8,,0,0.05,0,,,750
+653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-10,,0,0.05,0,,,500
+654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-10,,0,0.05,0,,,750
 ,ak_folding_stock,,,,,,,,,,,,,
 655,,izhmash_pp19_stock,PP19 std.,14,0.14,-10,-16,,,,,,,300
 656,,zenitco_ak74m/ak100_pt_lock,Zenitco AK74M/AK100 PT Lock,-0.5,0.04,-1,-1,,,,,,,300
@@ -2311,7 +2311,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1500,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
-1343,,AK74N,Izhmash AK74N,10,1,55,70,0,0.4,1,1500,,,5000
+1343,,AK74N,Izhmash AK74N,10,1,60,75,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,14000
 ,shotgun,,,,,,,,,,,,,
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
