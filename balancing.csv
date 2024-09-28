@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 18:14:54 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 18:40:54 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1335,17 +1335,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 793,,glock_standard_slide,Glock Standard,0,0.15,-1,-1,,,,,,,0
 794,,hex_slide,Zev Tech Hex Gen3,3,0.1,0,-3,,,,,,,0
 795,,moto_cut_slide,Moto Cut,1,0.12,-3,-2,,,,,,,0
-,,glock17_gen4_slide,Glock 17 Gen4 Slide,4,0.03,-2,-2,,,,,,,600
-,,glock17_gen5_early_slide,Glock 17 Gen5 Slide,2,0.04,-3,-4,,,,,,,0
-,,glock17l_slide,Glock 17L Slide,-4,0.07,-3,-2,,,,,,,1500
-,,glock17_gen5_mos_slide,Glock17 Gen5 MOS Slide,-2,0.04,-3,-4,,,,,,,1500
-,,glock17_gen4_mos_slide,Glock17 Gen4 MOS Slide,0,0.03,-2,-2,,,,,,,1200
+,,glock17_gen4_slide,Glock 17 Gen4 Slide,3,0.9,-2,-2,,,,,,,600
+,,glock17_gen5_early_slide,Glock 17 Gen5 Slide,2,0.08,-3,-4,,,,,,,0
+,,glock17l_slide,Glock 17L Slide,2,0.11,-4,-4,,,,,,,1500
+,,glock17_gen5_mos_slide,Glock17 Gen5 MOS Slide,0,0.07,-3,-4,,,,,,,1500
+,,glock17_gen4_mos_slide,Glock17 Gen4 MOS Slide,1,0.06,-2,-2,,,,,,,1200
 ,glock_mos,,,,,,,,,,,,,
-,,glock17_slide_mos_plate,Glock 17 Slide MOS Plate,-5,0.04,,,,,,,,,0
+,,glock17_slide_mos_plate,Glock 17 Slide MOS Plate,0,0.03,,,,,,,,,0
+,,glock_mos_02_adapter_plate,Glock MOS 02 Adapter Plate,-1,0.03,,,,,,,,,300
+,,glock_mos_04_adapter_plate,Glock MOS 04 Adapter Plate,-1,0.03,,,,,,,,,300
 ,glock_sear,,,,,,,,,,,,,
 796,,glock17_auto_sear,Glock 17 Auto Sear,-3,0.05,5,12,,,,,,,4000
 ,glock_slide_backplate,,,,,,,,,,,,,
-,,glock17_slide_backplate,Glock 17 Slide Backplate,0,0,,,,,,,,,0
+,,glock17_slide_backplate,Glock 17 Slide Backplate,0,0.01,,,,,,,,,0
 ,glock_17r_mag_plate,,,,,,,,,,,,,
 797,,glock17_17r_magazine_bottom_plate,Magazine,1,0.015,,,,,,,,,0
 798,,9x19_kriss_magex2_glock,9x19 KRISS MagEx2 For Glock (+23 Rounds),-2,0.16,,,23,,,,,,1000
@@ -1353,18 +1355,18 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 799,,31_mag_extension_2r_plate,Magazine,1,0.04,,,2,,,,,,0
 ,glock_lower_receiver,,,,,,,,,,,,,
 800,,glock_lower_receiver,Glock Standard,0,0,,,,,,,,,0
-,,glock17_gen4_receiver,Glock 17 Gen4 Receiver,13,0.11,-2,-9,,,,,,,1000
-,,glock17_gen5_receiver,Glock 17 Gen5 Receiver,11,0.09,-3,-9,,,,,,,0
+,,glock17_gen4_receiver,Glock 17 Gen4 Receiver,13,0.3,-2,-9,,,,,,,1000
+,,glock17_gen5_receiver,Glock 17 Gen5 Receiver,11,0.28,-3,-9,,,,,,,0
 ,glock_17_trigger,,,,,,,,,,,,,
-,,glock17_gen5_trigger,Glock 17 Gen5 Trigger,,,,,,,,,,,0
-,,glock17_gen5_trigger_safety,Glock 17 Gen5 Trigger Safety,1,0.03,,,,,,,,,0
+,,glock17_gen5_trigger,Glock 17 Gen5 Trigger,0,0.03,,,,,,,,,0
+,,glock17_gen5_trigger_safety,Glock 17 Gen5 Trigger Safety,1,0.01,,,,,,,,,0
 ,glock_17_ejector,,,,,,,,,,,,,
-,,glock17_gen5_ejector,Glock 17 Gen5 Ejector,0,0,,,,,,,,,0
+,,glock17_gen5_ejector,Glock 17 Gen5 Ejector,0,0.01,,,,,,,,,0
 ,glock_17_slide_release,,,,,,,,,,,,,
-,,glock17_gen5_left_slide_release,Glock 17 Gen5 Left Slide Release,0,0,,,,,,,,,0
-,,glock17_gen5_right_slide_release,Glock 17 Gen4 Right Slide Release,0,0,,,,,,,,,0
+,,glock17_gen5_left_slide_release,Glock 17 Gen5 Left Slide Release,0,0.01,,,,,,,,,0
+,,glock17_gen5_right_slide_release,Glock 17 Gen4 Right Slide Release,0,0.01,,,,,,,,,0
 ,glock_17_mag_release,,,,,,,,,,,,,
-,,glock17_gen5_mag_release,Glock 17 Gen5 Magazine Release,0,0,,,,,,,,,0
+,,glock17_gen5_mag_release,Glock 17 Gen5 Magazine Release,0,0.01,,,,,,,,,0
 ,glock_mag_13r_45acp_plate,,,,,,,,,,,,,
 801,,45acp_kriss_magex2_glock,.45 ACP KRISS MagEx2 For Glock (+17 Rounds),-8,0.2,,,17,,,,,,1000
 802,,glock_13r_plate,Magazine,1,0.015,,,,,,,,,0
@@ -1396,7 +1398,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.18,-11,-13,,-0.1,0.04,100,,,1500
 ,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.38,-10,-15,,-0.2,0.1,300,,,3000
 ,glock_spring,,,,,,,,,,,,,
-,,glock17_gen5_spring,Glock 17 Gen5 Spring,0,0.01,,,,,,,,,0
+,,glock17_gen5_spring,Glock 17 Gen5 Spring,0,0.02,,,,,,,,,0
 ,glock_grip,,,,,,,,,,,,,
 818,,pachmayr_rubber_grip,Pachmayr Rubber,3,0.05,0,0,,,,,,,750
 819,,pachmayr_rubber_grip_for_g20,Pachmayr Rubber,3,0.05,0,0,,,,,,,750
@@ -2296,7 +2298,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1325,,Makarov,Izhevsk PM,62,0,31,31,0,1.2,1,1200,,,2000
 1326,,TT33,Tula TT-33,60,0,35,35,0,1.2,1,1400,,,5000
 1327,,EDC_X9,Wilson Combat EDC X9,60,0.3,28,28,0,0.9,1,1500,,,25000
-1328,,Glock17,Glock 17,50,0.3,40,70,0,1.2,1,1250,,,0
+1328,,Glock17,Glock 17,50,0,40,70,0,1.2,1,1250,,,0
 1329,,Glock20,Glock 20,50,0.3,50,70,0,1.2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
 1330,,HK416A5,HK416A5,28,0,56,92,0,0.32,1,1600,,,30000
