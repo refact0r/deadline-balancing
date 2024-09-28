@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 19:00:41 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 19:06:59 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1286,13 +1286,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 763,,acp95_side_rail,ACP95 Side Rail,-0.5,0.03,0,0,,,,,,,0
 ,tt33_barrel,,,,,,,,,,,,,
 764,,tt33_116mm_barrel,TT33 116mm,0,0.16,-5,-5,,0,0,0,,,0
-765,,tt33_124mm_threaded_barrel,TT33 124mm Threaded,-1,0.19,-2,-4,,0.05,,30,,,2000
+765,,tt33_124mm_threaded_barrel,TT33 124mm Threaded,-1,0.17,-2,-4,,0.05,,30,,,2000
 ,tt33_barrel_bushing,,,,,,,,,,,,,
-766,,tt33_barrel_bushing,TT33,0,0,,,,,,,,,0
-767,,tt_pmlaser_dtk_compensator,TT PM-Laser DTK-TT muzzle brake-compensator,-1,0.02,-3,-10,,0,0,-100,,,500
+766,,tt33_barrel_bushing,TT33,0,0.02,,,,,,,,,0
+767,,tt_pmlaser_dtk_compensator,TT PM-Laser DTK-TT muzzle brake-compensator,-1,0.05,-3,-10,,0,0,-100,,,500
 ,tt33_frame,,,,,,,,,,,,,
-768,,tt33_std_frame,TT33 Standard,0,0.4,,,,,,,,,0
-769,,tt33_std_frame_with_lanyard_loop,TT33 w/ Lanyard Loop,1,0.44,,,,,,,,,500
+768,,tt33_std_frame,TT33 Standard,0,0.3,,,,,,,,,0
+769,,tt33_std_frame_with_lanyard_loop,TT33 w/ Lanyard Loop,1,0.34,,,,,,,,,500
 ,tt33_grip,,,,,,,,,,,,,
 770,,ksd_ivory_lanyard_grip,KSD Ivory Lanyard,4,0.06,0,1,,,,,,,2000
 771,,razor_arms_g02,Razor Arms G02,6,0.08,3,3,,,,,,,1000
@@ -1323,7 +1323,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 786,,legal_arsenal_enhanced_+2r_ext_pm_mag_plate,Legal Arsenal PM Makarov Enhanced (+2 Round),-0.8,0.025,,,2,,,,,,1400
 787,,legal_arsenal_+2r_ext_pm_mag_plate,Legal Arsenal PM Makarov (+2 Round),-1,0.02,,,2,,,,,,1000
 ,makarov_lower_receiver,,,,,,,,,,,,,
-788,,makarov_lower_receiver,Makarov Standard,0,0.44,,,,,,,,,0
+788,,makarov_lower_receiver,Makarov Standard,0,0.34,,,,,,,,,0
 ,makarov_pistol_grip,,,,,,,,,,,,,
 789,,makarov_std_pistol_grip,Makarov standard,2,0.1,-1,-1,,,,,,,0
 790,,fab_defense_pm_g_pistol_grip,FAB Defense PM-G,6,0.12,0,-2,,,,,,,800
