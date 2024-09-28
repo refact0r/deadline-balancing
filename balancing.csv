@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Sep 27 19:06:59 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Sep 27 19:10:50 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1424,13 +1424,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,edc_x9_rear_sight,,,,,,,,,,,,,
 833,,wilson_combat_1911_tab_rear_battlesight,Wilson Combat 1911 TAB,1,0.02,,,,,,,,,0
 ,edc_x9_receiver,,,,,,,,,,,,,
-834,,wilson_combat_edc_x9_light_rail_receiver,Wilson Combat EDC X9 Light Rail,0,0.2,,,,,,,,,0
+834,,wilson_combat_edc_x9_light_rail_receiver,Wilson Combat EDC X9 Light Rail,0,0.25,,,,,,,,,0
 ,edc_x9_slide,,,,,,,,,,,,,
-835,,wilson_combat_edc_x9_slide,Wilson Combat EDC X9,0,0.1,0,0,,,,,,,0
+835,,wilson_combat_edc_x9_slide,Wilson Combat EDC X9,0,0.12,0,0,,,,,,,0
 ,edc_x9_hammer,,,,,,,,,,,,,
 836,,wilson_combat_edc_x9_hammer,EDC X9 Std.,0,0.01,,,,,,,,,0
 ,edc_x9_barrel,,,,,,,,,,,,,
-837,,wilson_combat_edc_x9_102mm_9x19_barrel,Wilson Combat EDC X9 102mm 9x19,0,0.14,-2,-2,,0,0,-70,,,0
+837,,wilson_combat_edc_x9_102mm_9x19_barrel,Wilson Combat EDC X9 102mm 9x19,0,0.15,-2,-2,,0,0,-70,,,0
 838,,wilson_combat_edc_x9_127mm_threaded_9x19_barrel,Wilson Combat EDC X9 127mm Threaded 9x19,-1.5,0.16,0,1,,0.1,0,-40,,,750
 ,edc_x9_bottomplate,,,,,,,,,,,,,
 839,,wilson_combat_edc_x9_mag_bottomplate,Wilson Combat EDC X9 Magazine,0,0.02,,,,,,,,,0
