@@ -1,4 +1,4 @@
-﻿0.23.0,Sat Sep 28 13:12:54 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Sep 28 18:05:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -568,8 +568,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 334,,timney_trigger,Timney drop-in,2.5,0.02,0,-1,,-0.15,,,,0.03,400
 ,,radian_weapons_ar15_flat_vertex_fb_trigger,Radian Weapons AR15 Flat Vertex FB Trigger,3,0.06,-1,-1,,-0.1,,,,0,750
 ,scr_trigger,,,,,,,,,,,,,
-,,fightlite_scr_ar15_trigger,Fightlite SCR AR15 Trigger,2,0.1,-5,-5,,,,,,,250
-,,fightlite_scr_ar15_frt_trigger,Fightlite SCR AR15 FRT Trigger,4,0.1,-3,-3,,0.2,,,,,2250
+,,fightlite_scr_ar15_trigger,Fightlite SCR AR15 Trigger,0,0.06,-2,-2,,,,,,,250
+,,fightlite_scr_ar15_frt_trigger,Fightlite SCR AR15 FRT Trigger,2,0.06,0,0,,0.15,,,,,2250
 ,ar15_trigger_guard,,,,,,,,,,,,,
 335,,magpul_trigger_guard,Magpul OD Trigger Guard,2,0.02,,,,,,,,,200
 336,,ti_enhanced_trigger_guard,TI Enhanced Trigger Guard,2.5,0.05,,,,,,,,,200
@@ -600,7 +600,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,radian_weapons_ar15_talon_ambi_2lever_fire_selector,Radian Weapons AR15 Talon Ambi 2level Fire Selector,1,0.03,,,,,,,,,500
 ,m4a1_lower_receiver,,,,,,,,,,,,,
 342,,colt_m4a1_std_lower_receiver,Colt M4A1,0,0.3,,,,,,,,,0
-,,fightlite_scr_rifle_lower_receiver,Fightlite SCR Rifle Lower Receiver,8,0.23,-6,12,,,,,,,3000
+,,fightlite_scr_rifle_lower_receiver,Fightlite SCR Rifle Lower Receiver,6,0.26,-6,12,,,,,,,3000
 ,,radian_weapons_ax556_adac15_lower_receiver,Radian Weapons AX556 ADAC15 Lower Receiver,6,0.42,-2,-3,,,,,,,4000
 ,,noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,5,0.35,-2,-1,,,,,,,2000
 ,,aeroknox_ax15_lower_receiver,Aeroknox AX // 15 Lower Receiver,3,0.25,-1,0,,,,,,,1500
@@ -1014,8 +1014,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,r870_stock,,,,,,,,,,,,,
 602,,r870_shockwave_raptor_pistol_grip,Shockwave Raptor Rem870,15,0.08,6,6,,,,,,,1000
 603,,r870_sps_polymer_stock,Remington SPS Polymer,14,0.22,-12,-12,,,,,,,750
-604,,r870_mesa_tactical_leo_stock_adapter,Mesa Tactical Rem870 LEO,-2,0.12,2,2,,,,,,,1000
-605,,agr_870_pistol_grip,FAB Defense AGR-870,0,0.08,-3,-3,,,,,,,1000
+604,,r870_mesa_tactical_leo_stock_adapter,Mesa Tactical Rem870 LEO,-2,0.17,2,2,,,,,,,1000
+605,,agr_870_pistol_grip,FAB Defense AGR-870,0,0.11,-3,-3,,,,,,,1000
 606,,magpul_moe_870_sga_polymer_stock,Magpul MOE 870 SGA Polymer,16,0.22,-10,-10,,,,,,,1200
 ,r870_top_mount,,,,,,,,,,,,,
 607,,asm_1_mount,Aimtech ASM-1,-3,0.1,,,,,,,,,1200
