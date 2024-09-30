@@ -95,7 +95,7 @@ def main(file1: str, file2: str):
         f.write(f"[New attachments](#new-attachments): {len(new)}\n\n")
         f.write(f"## Changed Attachments\n\n")
         f.write("\n".join(changes))
-        f.write(f"## New Attachments\n\n")
+        f.write(f"\n## New Attachments\n\n")
         f.write("\n".join(new))
 
     print(f"Output written to {output_file}")
