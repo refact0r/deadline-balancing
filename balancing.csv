@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 30 14:11:30 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 30 14:26:44 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -135,7 +135,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 116,,true_view_rap4_offset_picatinny_mount_flipped,True View Rap4 Offset Picatinny Mount,-2,0.08,,,,,,,,,500
 117,,um_3_wilson,UM3,-1,0.06,,,,,,,,,300
 118,,unity_fast_lpvo_30mm_mount,Unity FAST LPVO 30mm,-1.5,0.1,,,,,,,,,750
-119,,unity_fast_micro_mount,Unity Fast Micro,-0.5,0.06,,,,,,,,,500
+119,,unity_fast_micro_mount,Unity Fast Micro,-1,0.06,,,,,,,,,500
 120,,unity_fast_optics_riser,Unity FAST Optics,-1,0.04,,,,,,,,,500
 121,,utg_ms_qd_foregrip,UTG MS QD,4,0.15,-6,-1,,,,,,,500
 ,,utg_super_slim_vertical_foregrip,UTG Super Slim Vertical,5,0.1,-1,-5,,,,,,,300
@@ -289,14 +289,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 172,,trijicon_acog_ta11d_bac,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1750
 173,,trijicon_ta01nsn,Trijicon Acog TA01NSN,-3,0.22,,-2,,,,,,,1500
 ,carry_handle_mount,,,,,,,,,,,,,
-174,,trijicon_ta01nsn_carry_handle,Trijicon Acog TA01NSN,-5,0.26,,-4,,,,,,,750
-175,,burris_prism_ar332_carry_handle,Burris Tactical Prism AR-332,-7,0.24,,-4,,,,,,,500
+174,,trijicon_ta01nsn_carry_handle,Trijicon Acog TA01NSN,-3,0.22,,-2,,,,,,,1500
+175,,burris_prism_ar332_carry_handle,Burris Tactical Prism AR-332,-3,0.23,,-2,,,,,,,1000
 176,,pri_ar15_std_carry_handle_mount,PRI AR-15 Standard Carry Handle,-4,0.11,,,,,,,,,300
 177,,m16_m4_carryhandle_z_rail,M16/M4 Carry Handle Z-Rail,-4.5,0.13,,,,,,,,,200
 178,,trijicon_rx10_gooseneck_mount,Trijicon RX10 Gooseneck,-1,0.07,,,,,,,,,200
 179,,leupold_mark_4_carry_handle_mount,Leupold Mark 4 Carry Handle Mount,-2,0.06,,,,,,,,,300
-180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-6,0.31,,-10,,,,,,,900
-,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-3,0.15,,,,,,,,,300
+180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1750
+,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
+,,barska_4x20_scope_carry_handle_mount,Barska 4x20 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
 ,magpul_mbus_frontsight_post,,,,,,,,,,,,,
 181,,magpul_mbus_gen2_frontsight_post,Magpul MBUS Gen2 Sight,0,0.005,,,,,,,,,0
 ,magpul_mbus_rearsight_post,,,,,,,,,,,,,
@@ -429,8 +430,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,surefire_tailcap,,,,,,,,,,,,,
 ,,arisaka_momentary_tailcap,Arisaka Momentary Tailcap,2,0.01,,,,,,,,,100
 ,,surefire_z68_clicky_tailcap,Surefire Z68 Clicky Tailcap,3,0.02,,,,,,,,,250
-,colt_retro_a1,,,,,,,,,,,,,
-,,colt_retro_a1_4x21_scope,Colt Retro A1 4x21 Scope,-4,0.2,,,,,,,,,750
+,carry_handle_scope_mount,,,,,,,,,,,,,
+,,colt_retro_a1_4x21_scope,Colt Retro A1 4x21 Scope,-3,0.17,,,,,,,,,750
+,,barska_eletrco_4x20_bdc_scope,Barska Electro 4x20 BDC Turret Scope,-3,0.18,,,,,,,,,1000
 ,sc_irregulars_omm_front_mount,,,,,,,,,,,,,
 ,,sc_irregulars_cap_front,SC Irregulars OMM Front Cap,0,0.01,,,,,,,,,0
 ,,sc_irregulars_omm_3_slot_board_front,SC Irregulars OMM 3 Slot Board,-0.5,0.03,,,,,,,,,200
