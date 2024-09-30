@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 30 14:07:07 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 30 14:11:30 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -88,9 +88,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
 71,,mission_first_folding_grip,Mission First Tactical Folding Grip,3,0.1,-5,-3,,,,,,,400
 72,,monstrum_prism_2x32_scope,Monstrum Tactical Compact Prism Scope 2x32,-2,0.21,,,,,,,,,1000
-73,,mt012h_riser,MT012H,-1,0.06,,,,,,,,,400
-74,,mt012l_riser,MT012L,-1,0.06,,,,,,,,,200
-75,,mt012m_riser,MT012M,-1,0.06,,,,,,,,,300
+73,,aim_sports_mt012h_riser_mount,"Aim Sports MT012H 1""",-1,0.06,,,,,,,,,400
+74,,aim_sports_mt012l_riser_mount,"Aim Sports MT012L 0.5""",-1,0.06,,,,,,,,,200
+75,,aim_sports_mt012m_riser_mount,"Aim Sports MT012M 0.83""",-1,0.06,,,,,,,,,300
 76,,ncstar_blue_lam_module,NcStar Blue LAM Module,-1,0.08,,,,,,,,,750
 77,,ncstar_mark_3_tactical_gen2_3_9x42,NcStar Mark III Tactical Gen 2 3-9x42,-5,0.26,,-2,,,,,,,2000
 78,,ncstar_mpr45_offset_mount,NcStar Mpr45 Offset mount,-1,0.02,,,,,,,,,200
