@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 30 13:57:32 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 30 14:07:07 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1085,7 +1085,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak12_bolt,,,,,,,,,,,,,
 636,,ak12_std_5.45x39_bolt,AK-12 5.45x39,0,0,,,,,,,,,0
 ,ak12_dust_cover,,,,,,,,,,,,,
-637,,ak12_std_dustcover,Kalashnikov Concern AK-12,0,0.35,0,0,,,,,,,0
+637,,ak12_gen2_dustcover,Kalashnikov Concern AK-12 Gen2 Dust Cover,1,0.35,0,0,,,,,,,800
+,,ak12_gen1_dustcover,Kalashnikov Concern AK-12 Gen1,0,0.31,0,0,,,,,,,0
+,ak12_rear_sight,,,,,,,,,,,,,
+,,kalashnikov_concern_ak12_gen1_rear_sight,Kalashnikov Concern AK-12 Gen1 Rear Sight,2,0.05,,,,,,,,,0
 ,ak12_fire_selector,,,,,,,,,,,,,
 638,,ak12_std_fire_selector,AK-12 Std.,0,0,,,,,,,,,0
 ,ak12_gen2_pistol_grip,,,,,,,,,,,,,
