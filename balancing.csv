@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 30 14:26:44 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 30 20:49:36 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -632,21 +632,21 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,ews_bufferless_system_ar15_bcg,EWS Bufferless System AR15 Bolt Carrier Group,4,0.08,4,4,,,,,,,500
 ,,radian_weapons_ar15_enhanced_bcg,Radian Weapons AR15 Enhanced Bolt Carrier Group,2,0.16,0,0,,,,,,,1000
 ,m4a1_5.56x45_barrel,,,,,,,,,,,,,
-347,,brwnls_a1_m4a1_5.56x45_508mm_govt_r_barrel,"Brownells A1 Government 20"" Rifle Length Gastube 5.56x45",-9,0.84,-10,-10,,-0.2,0.26,367,,-0.06,1600
-348,,brwnls_m4a1_5.56x45_406mm_govt_m_barrel,"Brownells Government 16"" Mid Length Gastube 5.56x45",-4,0.68,-7,-7,,0,0.1,140,,-0.03,1100
-349,,brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-10,0.92,-11,-12,,-0.22,0.26,379,,-0.06,2000
-350,,brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-3,0.69,-6,-6,,-0.05,0.12,100,,,1200
-351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-15,0.89,-12,-12,,-0.3,0.4,550,,-0.06,5000
-352,,colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",3,0.47,-2,-1,,0.25,-0.1,-239,,,1200
-353,,colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",1,0.53,-3,-3,,0.15,-0.04,-117,,,1200
-354,,colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",0,0.6,-4,-4,,0.08,0.02,-10,,,0
-355,,colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",4,0.34,-1,0,,0.4,-0.15,-633,,0.03,1300
-356,,colt_m4a1_5.56x45_368mm_socom_c_barrel,"Colt Socom 14.5"" Carbine Length Gastube 5.56x45",-1,0.64,-5,-5,,0.05,0.04,10,,,800
-357,,custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,6,0.12,5,5,,5,-0.4,-700,,0.125,2000
-,,veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,5,0.24,0,1,,0.6,-0.2,-685,,0.063,1400
-,,x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-7,0.7,-8,-9,,-0.1,0.16,267,,-0.03,1800
-,,ballistic_advantage_ar15_modern_series_5.56x45_292mm_govt_c_barrel,"Ballistic Advantage Modern Series Government 11.5"" Carbine Length Gastube 5.56x45",2,0.5,-2,-3,,0.2,-0.07,-178,,,1100
-,,kac_ks1_5.56x45_348mm_heavy_dimpled_m_barrel,"KAC KS-1 (L403A1) Heavy Dimpled 13.7"" Mid Length Gastube 5.56x45",1,0.62,-5,-4,,0.1,-0.01,-70,,-0.03,2000
+347,,brwnls_a1_m4a1_5.56x45_508mm_govt_r_barrel,"Brownells A1 Government 20"" Rifle Length Gastube 5.56x45",-9,0.84,-10,-10,,-0.2,0.26,179,,-0.06,1600
+348,,brwnls_m4a1_5.56x45_406mm_govt_m_barrel,"Brownells Government 16"" Mid Length Gastube 5.56x45",-4,0.68,-7,-7,,0,0.1,108,,-0.03,1100
+349,,brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-10,0.92,-11,-12,,-0.22,0.26,191,,-0.06,2000
+350,,brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-3,0.69,-6,-6,,-0.05,0.12,78,,,1200
+351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-15,0.89,-12,-12,,-0.3,0.4,262,,-0.06,5000
+352,,colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",3,0.47,-2,-1,,0.25,-0.1,-113,,,1200
+353,,colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",1,0.53,-3,-3,,0.15,-0.04,-34,,,1200
+354,,colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",0,0.6,-4,-4,,0.08,0.02,33,,,0
+355,,colt_m4a1_5.56x45_190mm_govt_p_barrel,"Colt Government 7.5"" Pistol Length Gastube 5.56x45",4,0.34,-1,0,,0.4,-0.15,-266,,0.03,1300
+356,,colt_m4a1_5.56x45_368mm_socom_c_barrel,"Colt Socom 14.5"" Carbine Length Gastube 5.56x45",-1,0.64,-5,-5,,0.05,0.04,45,,,800
+357,,custom_2inch_ar15_barrel,Custom 2in AR15 Barrel,6,0.12,5,5,,5,-0.4,-866,,0.125,2000
+,,veriforce_tactical_ar15_127mm_5.56_nitride_barrel_custom_gastube,Vertiforce Tactical AR15 5in 5.56 Nitride Barrel Custom Gastube,5,0.24,0,1,,0.6,-0.2,-450,,0.063,1400
+,,x_caliber_ar_15_.223wylde_457mm_spiral_6groove_m_barrel,"X-Caliber Custom 18"" Spiral 6 Groove Mid Length Gastube .223 Wylde",-7,0.7,-8,-9,,-0.1,0.16,131,,-0.03,1800
+,,ballistic_advantage_ar15_modern_series_5.56x45_292mm_govt_c_barrel,"Ballistic Advantage Modern Series Government 11.5"" Carbine Length Gastube 5.56x45",2,0.5,-2,-3,,0.2,-0.07,-72,,,1100
+,,kac_ks1_5.56x45_348mm_heavy_dimpled_m_barrel,"KAC KS-1 (L403A1) Heavy Dimpled 13.7"" Mid Length Gastube 5.56x45",1,0.62,-5,-4,,0.1,-0.01,37,,-0.03,2000
 ,m4_gasblock_mount,,,,,,,,,,,,,
 358,,aim_sports_mt026_mount,AIM Sports MT026 Tri-Rail Barrel Mount,-3,0.1,,,,,,,,,400
 359,,diemaco_tri_ad_i_mount,Diemaco TRI-AD I Barrel Mount,-1,0.06,,,,,,,,,600
@@ -675,13 +675,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mk9_bolt,,,,,,,,,,,,,
 374,,mk9_bolt,MK9 Bolt,0,0.07,,,,,,,,,0
 ,mk9_barrel,,,,,,,,,,,,,
-375,,kak_value_line_light_tapered_melonite_ar9_76mm_9x19_barrel,"KAK Value Line Light Tapered Melonite AR9 3"" 9x19",8,0.12,7,7,,0.3,-0.3,-300,,,750
-376,,cmmg_mk9_216mm_9x19_barrel,"CmmG Mk9 8.5"" 9x19",2,0.23,2,2,,0.12,-0.04,-90,,,900
-377,,cmmg_mk9_229mm_9x19_barrel,"CmmG Mk9 9"" 9x19",0,0.24,0,0,,0.1,0,-70,,,950
-378,,cmmg_mk9_406mm_9x19_c_barrel,"CmmG Mk9 16"" 9x19 Carbine Length",-6,0.38,-4,-4,,0.05,0.1,200,,,1200
-379,,cmmg_mk9_406mm_9x19_r_barrel,"CmmG Mk9 16"" 9x19 Rifle Length",-7,0.39,-5,-5,,0.05,0.1,200,,,1200
-380,,cmmg_mk9_406mm_9x19_m_barrel,"CmmG Mk9 16"" 9x19 Mid Length",-8,0.4,-6,-6,,0.05,0.1,200,,,1200
-381,,cmmg_mk9_127mm_9x19_barrel,"CmmG Mk9 5"" 9x19",5,0.16,4,4,,0.25,-0.12,-225,,,800
+375,,kak_value_line_light_tapered_melonite_ar9_76mm_9x19_barrel,"KAK Value Line Light Tapered Melonite AR9 3"" 9x19",8,0.12,7,7,,0.3,-0.3,-125,,,750
+376,,cmmg_mk9_216mm_9x19_barrel,"CmmG Mk9 8.5"" 9x19",2,0.23,2,2,,0.12,-0.04,40,,,900
+377,,cmmg_mk9_229mm_9x19_barrel,"CmmG Mk9 9"" 9x19",0,0.24,0,0,,0.1,0,49,,,950
+378,,cmmg_mk9_406mm_9x19_c_barrel,"CmmG Mk9 16"" 9x19 Carbine Length",-6,0.38,-4,-4,,0.05,0.1,140,,,1200
+379,,cmmg_mk9_406mm_9x19_r_barrel,"CmmG Mk9 16"" 9x19 Rifle Length",-7,0.39,-5,-5,,0.05,0.1,140,,,1200
+380,,cmmg_mk9_406mm_9x19_m_barrel,"CmmG Mk9 16"" 9x19 Mid Length",-8,0.4,-6,-6,,0.05,0.1,140,,,1200
+381,,cmmg_mk9_127mm_9x19_barrel,"CmmG Mk9 5"" 9x19",5,0.16,4,4,,0.25,-0.12,-44,,,800
 ,fn_rear_sight,,,,,,,,,,,,,
 382,,fn_scar_rear_sight,FN SCAR Standard,3,0.01,,,,,,,,,100
 383,,fn_scar_rear_sight_folded,FN SCAR Standard Folded,2,0.01,,,,,,,,,100
@@ -716,13 +716,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 400,,fn_scar_fire_selector,FN SCAR-H Standard,0,0,,,,,,,,,0
 401,,kinetic_development_group_talon_ambi_scar_45_90_safety_selector,Kinetic Development Group Talon Ambi SCAR 45/90,1.5,0.02,,,,,,,,,300
 ,fn_scar_h_barrel,,,,,,,,,,,,,
-402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,9,8,,-0.1,0.1,250,,,1500
-403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.05,300,,,2000
-404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0,150,,,1500
-,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",3,0.51,7,7,,0.07,-0.04,100,,,1500
-405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,5,0.49,4,5,,0.2,-0.07,0,,,1000
-406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.12,-110,,,1200
-,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,24,0.3,11,8,,0.45,-0.16,-200,,0.05,1500
+402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,9,8,,-0.1,0.1,308,,,1500
+403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.05,358,,,2000
+404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0,208,,,1500
+,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",3,0.51,7,7,,0.07,-0.04,171,,,1500
+405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,5,0.49,4,5,,0.2,-0.07,70,,,1000
+406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.12,-57,,,1200
+,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,24,0.3,11,8,,0.45,-0.16,-187,,0.05,1500
 ,fn_scar_h_bolt,,,,,,,,,,,,,
 407,,fn_scar_h_bolt_carrier,FN SCAR-H Bolt,0,0,,,,,,,,,0
 ,,imperial_arms_buffered_scar_bolt_carrier,Imperial Arms Buffered Scar BCG,-2,0.15,-2,-3,,,,,,,500
@@ -737,9 +737,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 411,,fn_scar_mk20_upper_receiver,FN SCAR Mk20,8,0.85,3,6,,,0.05,50,,,4000
 412,,imperial_arms_cypher_x_standard_scar_h_upper_receiver,Imperial Arms CypherX Standard SCAR-H,3,0.7,0,0,,,,,,,3000
 ,fn_scar_l_barrel,,,,,,,,,,,,,
-413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,2,0.47,1,2,,0.2,-0.08,-250,,,1200
-414,,fn_scar_l_355mm_barrel,FN SCAR-L 355mm,0,0.6,0,0,,0,0,-30,,,1000
-415,,fn_scar_l_457mm_barrel,FN SCAR-L 457mm,-5,0.73,-3,-4,,-0.1,0.14,200,,,1500
+413,,fn_scar_l_254mm_barrel,FN SCAR-L 254mm,2,0.47,1,2,,0.2,-0.08,-135,,,1200
+414,,fn_scar_l_355mm_barrel,FN SCAR-L 355mm,0,0.6,0,0,,0,0,17,,,1000
+415,,fn_scar_l_457mm_barrel,FN SCAR-L 457mm,-5,0.73,-3,-4,,-0.1,0.14,131,,,1500
 ,fn_scar_l_bolt,,,,,,,,,,,,,
 416,,fn_scar_l_bolt_carrier,FN SCAR-L Bolt,2,0,,,,,,,,,0
 ,fn_scar_l_gasblock,,,,,,,,,,,,,
@@ -774,7 +774,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,fn_scar_stock_shoulder_piece,,,,,,,,,,,,,
 431,,fn_scar_stock_shoulder_piece,FN SCAR,7,0.16,-9,-12,,,,,,,0
 ,scar47_barrel,,,,,,,,,,,,,
-432,,handl_defense_scar47_394mm_barrel,HANDL DEFENSE SCAR 47 394mm,0,0.47,0,0,,0.25,-0.1,-183,,,1000
+432,,handl_defense_scar47_394mm_barrel,HANDL DEFENSE SCAR 47 394mm,0,0.47,0,0,,0.25,-0.1,-417,,,1000
 ,scar47_lower_receiver,,,,,,,,,,,,,
 433,,scar47_lower_receiver,HANDL DEFENSE SCAR 47,0,0.6,,,,,,,,,0
 ,scar47_mag_release,,,,,,,,,,,,,
@@ -807,7 +807,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 449,,kriss_vector_gen2_folding_stock,Kriss Vector Gen2,8,0.19,-5,-7,,,,,,,600
 450,,kriss_vector_non_folding_stock_adapter,Kriss Vector Non-Folding Stock Adapter,-5,0.08,10,20,,,,,,,800
 ,vector_upper_receiver,,,,,,,,,,,,,
-451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.25,0,0,,,,,,,3000
+451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.25,0,0,,,,200,,,3000
 452,,vector_45acp_upper_receiver,Kriss Vector .45ACP,-1,0.27,0,15,,,,,,,3000
 ,vector_trigger,,,,,,,,,,,,,
 453,,vector_std_trigger,Kriss Vector Std.,0,0.02,,,,,,,,,0
@@ -838,11 +838,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,vector_45acp_bolt,,,,,,,,,,,,,
 468,,vector_45acp_bolt,Kriss Vector .45ACP,0,0.04,,,,,,,,,0
 ,vector_9mm_barrel,,,,,,,,,,,,,
-469,,vector_9mm_170mm_barrel,Kriss Vector 9x19 170mm,-1,0.18,-1,-1,,-0.02,0.03,30,-0.1,,750
-470,,vector_9mm_140mm_barrel,Kriss Vector 9x19 140mm,0,0.14,0,0,,0,0,0,0,,800
+469,,vector_9mm_170mm_barrel,Kriss Vector 9x19 170mm,-1,0.18,-1,-1,,-0.02,0.03,2,-0.1,,750
+470,,vector_9mm_140mm_barrel,Kriss Vector 9x19 140mm,0,0.14,0,0,,0,0,-28,0,,800
 ,vector_45acp_barrel,,,,,,,,,,,,,
-471,,vector_45acp_170mm_barrel,Kriss Vector .45ACP 170mm,-1,0.18,-3,-3,,-0.02,0.03,30,-0.1,,750
-472,,vector_45acp_140mm_barrel,Kriss Vector .45ACP 140mm,0,0.14,-1,-1,,0,0,0,0,,800
+471,,vector_45acp_170mm_barrel,Kriss Vector .45ACP 170mm,-1,0.18,-3,-3,,-0.02,0.03,-72,-0.1,,750
+472,,vector_45acp_140mm_barrel,Kriss Vector .45ACP 140mm,0,0.14,-1,-1,,0,0,-99,0,,800
 ,magazine_45acp_vector,,,,,,,,,,,,,
 473,,glock_std_13r_vector_remodel,STD 13R .45 ACP,15,0.14,,,13,,,,,,0
 ,magazine_556x45,,,,,,,,,,,,,
@@ -997,16 +997,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 580,,agr_870_protection_cap,AGR 870,16,0.02,8,8,,,,,,,100
 581,,agr_870_buffer_tube,AGR-870,-1,0.1,-2,-2,,,,,,,500
 ,r870_barrel,,,,,,,,,,,,,
-582,,r870_325mm_sawn_off,Sawn Off Smoothbore 325mm,4,0.37,4,4,,0.1,-0.1,0,-0.3,,1200
-583,,r870_325mm_sawn_off_vent_ribs,Sawn Off 325mm Smoothbore With Vent Ribs,4.5,0.41,4,4,,0.1,-0.1,0,0.2,,1200
-584,,r870_508mm,Remington 508mm Smoothbore,3,0.64,0,0,,0,0,100,0,,1000
-585,,r870_660mm_barrel_vent_ribs,Remington 660mm Smoothbore With Vent Ribs,2,0.72,-1,-1,,-0.1,0.05,200,0.5,,1500
-586,,r870_711mm_barrel_vent_ribs,Remington 711mm Smoothbore With Vent Ribs,1,0.8,-2,-2,,-0.15,0.1,250,-0.15,,1750
-587,,r870_762mm_barrel_vent_ribs,Remington 762mm Smoothbore With Vent Ribs,0.5,0.86,-2.5,-2.5,,-0.2,0.15,300,0,,2000
-588,,r870_864mm_barrel_vent_ribs,Remington 864mm Smoothbore With Vent Ribs,0,1,-4,-4,,-0.3,0.2,400,-0.3,,3500
-589,,r870_211mm_sawn_off,Sawn Off Smoothbore 211mm,5,0.32,5,5,,0.2,-0.2,-100,0.2,,1000
-590,,r870_508mm_fixed_sight,Remington 508mm Smoothbore With Fixed Sight,3.5,0.66,0,0,,0,0,100,0,,1100
-591,,carlson_slug_610mm_cantilever,Carlson's Slug 610mm w/ cantilever,-1,0.72,-2,-1,,-0.5,0.1,300,0.5,,2500
+582,,r870_325mm_sawn_off,Sawn Off Smoothbore 325mm,4,0.37,4,4,,0.1,-0.1,-7,-0.3,,1200
+583,,r870_325mm_sawn_off_vent_ribs,Sawn Off 325mm Smoothbore With Vent Ribs,4.5,0.41,4,4,,0.1,-0.1,-7,0.2,,1200
+584,,r870_508mm,Remington 508mm Smoothbore,3,0.64,0,0,,0,0,168,0,,1000
+585,,r870_660mm_barrel_vent_ribs,Remington 660mm Smoothbore With Vent Ribs,2,0.72,-1,-1,,-0.1,0.05,271,0.5,,1500
+586,,r870_711mm_barrel_vent_ribs,Remington 711mm Smoothbore With Vent Ribs,1,0.8,-2,-2,,-0.15,0.1,300,-0.15,,1750
+587,,r870_762mm_barrel_vent_ribs,Remington 762mm Smoothbore With Vent Ribs,0.5,0.86,-2.5,-2.5,,-0.2,0.15,327,0,,2000
+588,,r870_864mm_barrel_vent_ribs,Remington 864mm Smoothbore With Vent Ribs,0,1,-4,-4,,-0.3,0.2,376,-0.3,,3500
+589,,r870_211mm_sawn_off,Sawn Off Smoothbore 211mm,5,0.32,5,5,,0.2,-0.2,-176,0.2,,1000
+590,,r870_508mm_fixed_sight,Remington 508mm Smoothbore With Fixed Sight,3.5,0.66,0,0,,0,0,168,0,,1100
+591,,carlson_slug_610mm_cantilever,Carlson's Slug 610mm w/ cantilever,-1,0.72,-2,-1,,-0.5,0.1,390,0.5,,2500
 ,r870_barrel_front_sight,,,,,,,,,,,,,
 592,,r870_std_front_sight,Remington Standard Barrel,3,0.1,,,,,,,,,0
 ,r870_bolt,,,,,,,,,,,,,
@@ -1081,9 +1081,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,archient_technologies_elysium_flashlight_module,Archient Technologies Elysium Flashlight Module,-1,0.1,,-1,,,,,,,500
 ,,archient_technologies_elysium_laser_module,Archient Technologies Elysium Laser Module,-3,0.15,-2,-1,,-0.1,,,,,1000
 ,ak12_barrel,,,,,,,,,,,,,
-635,,ak12_std_415mm_barrel,AK-12 415mm 5.45x39,0,0.48,0,0,,0,0,0,,,0
-,,kalashnikov_concern_std_rpk16_559mm_barrel,RPK16 556mm Barrel,-8,0.68,-5,-4,,0.1,0.1,300,,,1000
-,,kalashnikov_concern_ak12k_314mm_barrel,AK12k 314mm Barrel,5,0.36,3,4,,0.15,-0.1,-150,,,1500
+635,,ak12_std_415mm_barrel,AK-12 415mm 5.45x39,0,0.48,0,0,,0,0,43,,,0
+,,kalashnikov_concern_std_rpk16_559mm_barrel,RPK16 556mm Barrel,-8,0.68,-5,-4,,0.1,0.1,185,,,1000
+,,kalashnikov_concern_ak12k_314mm_barrel,AK12k 314mm Barrel,5,0.36,3,4,,0.15,-0.1,-90,,,1500
 ,ak12_bolt,,,,,,,,,,,,,
 636,,ak12_std_5.45x39_bolt,AK-12 5.45x39,0,0,,,,,,,,,0
 ,ak12_dust_cover,,,,,,,,,,,,,
@@ -1115,8 +1115,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak12_upper_handguard,,,,,,,,,,,,,
 645,,ak12_std_upper_handguard,Kalashnikov Concern AK-12 Std.,0,0.06,0,0,,,,,,,250
 ,ak308_barrel,,,,,,,,,,,,,
-646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.15,0,350,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.2,0.05,100,,,1000
+646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.15,0,84,,,500
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.2,0.05,84,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1128,8 +1128,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 652,,zenitco_rp1_ak_charging_handle,RP-1 Zenitco,1,0.02,,,,,,,,,750
 ,,tss_custom_ak_bolt_on_oversize_gen3_charging_handle,TSS Custom AK Bolt On Oversize Gen3 Charging Handle,3,0.05,,,,,,,,,600
 ,ak74n_barrel,,,,,,,,,,,,,
-653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-8,,0,0.05,0,,,500
-654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-8,,0,0.05,0,,,750
+653,,ak74n_standard_barrel,AK74N Standard,-6,0.3,-7,-8,,0,0.05,43,,,500
+654,,ak74n_modified_barrel,AK74N Modified,-7,0.28,-6,-8,,0,0.05,43,,,750
 ,ak_folding_stock,,,,,,,,,,,,,
 655,,izhmash_pp19_stock,PP19 std.,14,0.14,-10,-16,,,,,,,300
 656,,zenitco_ak74m/ak100_pt_lock,Zenitco AK74M/AK100 PT Lock,-0.5,0.04,-1,-1,,,,,,,300
@@ -1143,8 +1143,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 661,,gdr_zvn_64_night_rear_sight_ak74,German Democratic Republic ZVN-64 Rear Night Shooting,2,0.02,,,,,,,,,200
 662,,gdr_zvn_64_night_rear_sight_akm,German Democratic Republic ZVN-64 Rear Night Shooting,2,0.02,,,,,,,,,200
 ,akmn_barrel,,,,,,,,,,,,,
-663,,akmn_barrel,AKMN Standard,-6,0.33,-7,-10,,0,0,0,,,500
-664,,akmn_modified_barrel,AKMN Modified,-7,0.31,-6,-10,,0,0,0,,,750
+663,,akmn_barrel,AKMN Standard,-6,0.33,-7,-10,,0,0,-402,,,500
+664,,akmn_modified_barrel,AKMN Modified,-7,0.31,-6,-10,,0,0,-402,,,750
 ,akmn_bolt,,,,,,,,,,,,,
 665,,akmn_bolt,AKMN,0,0,,0,,,,,,,0
 ,akmn_lower_receiver,,,,,,,,,,,,,
@@ -1166,6 +1166,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 675,,v762_vrdtl_fh,Vector VR-DTL,0.5,0.1,-12,-13,,0,0.1,70,,,750
 676,,vs_05,VS-05,-0.5,0.08,-9,-11,,0.1,0,25,,,750
 677,,izhmash_ak74_6p20_020_compensator,Izhmash AK74 6P20 0-20,-0.5,0.07,-9,-12,,0.2,0,30,,,500
+,,izhmash_aks74u_5.45x39_6p26_020_muzzle_brake,Izhmash AKS74U 6P26 0-20 Muzzle Booster,1,0.08,-8,-13,,0.25,-0.05,30,,0.077,400
 678,,ga_24_1/2,Griffin Armaments 24-1/2,-1,0.05,1,1,,0.1,0,5,,,1000
 679,,i_24_14_ta,Infinite 24mm-1/2mm,-1,0.03,1,2,,0.1,0,5,,,1000
 680,,tsniitochmash_pbs_4_5.45x39_suppressor,TSNIITochMash PBS-4 5.45x39,-6,0.26,-14,-17,,-0.25,0.18,100,,,2000
@@ -1231,19 +1232,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak_magwell,,,,,,,,,,,,,
 ,,iron_claw_tactical_gen2_ak_magwell_system,Iron Claw Tactical Gen2 AK Magwell System,3,0.08,,-1,,,,,,,1000
 ,mp133_barrel,,,,,,,,,,,,,
-723,,mp_133_510mm_rib_barrel,510mm Rib,0,0.66,0,0,,0,0,50,0,,1000
-724,,mp_133_540mm_barrel,540mm,0,0.69,-1,-1,,-0.02,0.02,100,-0.1,,1100
-725,,mp_133_540mm_rib_barrel,540mm Rib,-1,0.71,-1,-1,,-0.02,0.02,100,-0.1,,1100
-726,,mp_133_610mm_barrel,610mm,-3,0.76,-3,-3,,-0.05,0.05,150,-0.15,,1300
-727,,mp_133_610mm_rib_barrel,610mm Rib,-4,0.78,-3,-3,,-0.05,0.05,150,-0.15,,1300
-728,,mp_133_660mm_barrel,660mm,-5,0.81,-4,-4,,-0.1,0.1,200,-0.2,,1400
-729,,mp_133_660mm_rib_barrel,660mm Rib,-6,0.83,-4,-4,,-0.1,0.1,200,-0.2,,1400
-730,,mp_133_710mm_barrel,710mm,-7,0.86,-6,-6,,-0.15,0.15,250,-0.25,,1500
-731,,mp_133_710mm_rib_barrel,710mm Rib,-8,0.88,-6,-6,,-0.15,0.15,250,-0.25,,1500
-732,,mp_133_750mm_rib_barrel,750mm Rib,-10,0.92,-7,-7,,-0.2,0.2,300,-0.3,,1600
-733,,mp_133_sawn_off_340mm_barrel,Sawn off 340mm,4,0.38,3,3,,0.2,-0.2,-100,0.3,,1200
-734,,mp_133_510mm_barrel,510mm,1,0.64,0,0,,0,0,50,0,,1000
-735,,mp_133_750mm_barrel,750mm,-9,0.9,-7,-7,,-0.2,0.2,300,-0.3,,1600
+723,,mp_133_510mm_rib_barrel,510mm Rib,0,0.66,0,0,,0,0,170,0,,1000
+724,,mp_133_540mm_barrel,540mm,0,0.69,-1,-1,,-0.02,0.02,192,-0.1,,1100
+725,,mp_133_540mm_rib_barrel,540mm Rib,-1,0.71,-1,-1,,-0.02,0.02,192,-0.1,,1100
+726,,mp_133_610mm_barrel,610mm,-3,0.76,-3,-3,,-0.05,0.05,240,-0.15,,1300
+727,,mp_133_610mm_rib_barrel,610mm Rib,-4,0.78,-3,-3,,-0.05,0.05,240,-0.15,,1300
+728,,mp_133_660mm_barrel,660mm,-5,0.81,-4,-4,,-0.1,0.1,271,-0.2,,1400
+729,,mp_133_660mm_rib_barrel,660mm Rib,-6,0.83,-4,-4,,-0.1,0.1,271,-0.2,,1400
+730,,mp_133_710mm_barrel,710mm,-7,0.86,-6,-6,,-0.15,0.15,299,-0.25,,1500
+731,,mp_133_710mm_rib_barrel,710mm Rib,-8,0.88,-6,-6,,-0.15,0.15,299,-0.25,,1500
+732,,mp_133_750mm_rib_barrel,750mm Rib,-10,0.92,-7,-7,,-0.2,0.2,321,-0.3,,1600
+733,,mp_133_sawn_off_340mm_barrel,Sawn off 340mm,4,0.38,3,3,,0.2,-0.2,11,0.3,,1200
+734,,mp_133_510mm_barrel,510mm,1,0.64,0,0,,0,0,170,0,,1000
+735,,mp_133_750mm_barrel,750mm,-9,0.9,-7,-7,,-0.2,0.2,321,-0.3,,1600
 ,mp133_barrel_rib_mount,,,,,,,,,,,,,
 736,,etmi_019_rib_mount,ETMI-019,-2,0.05,,,,,,,,,500
 ,mp133_bolt,,,,,,,,,,,,,
@@ -1410,10 +1411,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,glock_underbarrel_picatinny,,,,,,,,,,,,,
 815,,rail,Additional attachment,0,0,,,,,,,,,0
 ,glock_barrel,,,,,,,,,,,,,
-816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.15,-9,-12,,0,0,0,,,0
-817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.16,-7,-10,,0.05,0,25,,,1200
-,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.18,-11,-13,,-0.1,0.04,100,,,1500
-,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.38,-10,-15,,-0.2,0.1,300,,,3000
+816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.15,-9,-12,,0,0,-61,,,0
+817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.16,-7,-10,,0.05,0,-57,,,1200
+,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.18,-11,-13,,-0.1,0.04,-14,,,1500
+,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.38,-10,-15,,-0.2,0.1,140,,,3000
 ,glock_spring,,,,,,,,,,,,,
 ,,glock17_gen5_spring,Glock 17 Gen5 Spring,0,0.02,,,,,,,,,0
 ,glock_grip,,,,,,,,,,,,,
@@ -1447,8 +1448,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,edc_x9_hammer,,,,,,,,,,,,,
 836,,wilson_combat_edc_x9_hammer,EDC X9 Std.,0,0.01,,,,,,,,,0
 ,edc_x9_barrel,,,,,,,,,,,,,
-837,,wilson_combat_edc_x9_102mm_9x19_barrel,Wilson Combat EDC X9 102mm 9x19,0,0.15,-2,-2,,0,0,-70,,,0
-838,,wilson_combat_edc_x9_127mm_threaded_9x19_barrel,Wilson Combat EDC X9 127mm Threaded 9x19,-1.5,0.16,0,1,,0.1,0,-40,,,750
+837,,wilson_combat_edc_x9_102mm_9x19_barrel,Wilson Combat EDC X9 102mm 9x19,0,0.15,-2,-2,,0,0,-78,,,0
+838,,wilson_combat_edc_x9_127mm_threaded_9x19_barrel,Wilson Combat EDC X9 127mm Threaded 9x19,-1.5,0.16,0,1,,0.1,0,-44,,,750
 ,edc_x9_bottomplate,,,,,,,,,,,,,
 839,,wilson_combat_edc_x9_mag_bottomplate,Wilson Combat EDC X9 Magazine,0,0.02,,,,,,,,,0
 ,edc_x9_grip,,,,,,,,,,,,,
@@ -1472,9 +1473,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 853,,7.62x54r_ppu_150gr_sp_pp76254s,7.62x54R PPU 150gr SP (PP76254S),0,0.1,1,1,,0.1,,100,,,2000
 854,,7.62x54r_tulammo_t_46_149gr_green_tracer_7t2,7.62x54R Tulammo T-46 149gr Green Tracer (7T2),1,0.13,3,3,,0.2,,200,,,1000
 ,ammo_762x39,,,,,,,,,,,,,
-855,,7.62x39_tulammo_122gr_fmj_ul076201,7.62x39 Tulammo Steel Case 122gr FMJ (UL076201),0,0.01,,1,,0.25,,-400,,,0
-856,,7.62x39_tulammo_154gr_sp,7.62x39 Tulammo Steel Case 154gr SP,-2,0.04,,3,,0.35,,-450,,,2000
-857,,7.62x39_tulammo_144gr_tracer_t_45,7.62x39 Tulammo Steel Case 144gr Tracer (T-45),-3,0.03,,4,,0.3,,-390,,,1000
+855,,7.62x39_tulammo_122gr_fmj_ul076201,7.62x39 Tulammo Steel Case 122gr FMJ (UL076201),0,0.01,,1,,0.25,,0,,,0
+856,,7.62x39_tulammo_154gr_sp,7.62x39 Tulammo Steel Case 154gr SP,-2,0.04,,3,,0.35,,-50,,,2000
+857,,7.62x39_tulammo_144gr_tracer_t_45,7.62x39 Tulammo Steel Case 144gr Tracer (T-45),-3,0.03,,4,,0.3,,10,,,1000
 ,ammo_5.45x39,,,,,,,,,,,,,
 858,,5.45x39_hornady_black_60gr_v_max,5.45x39 Hornady BLACK 60gr V-MAX (TA545390),1,0.08,1,3,,-0.2,,100,,,2000
 859,,5.45x39_tulammo_60gr_fmj_ta545390,5.45x39 TulAmmo 60gr FMJ (TA545390),0,0.1,,,,,,,,,0
@@ -1559,22 +1560,22 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump9_bolt,,,,,,,,,,,,,
 916,,ump_9_full_auto_bolt,UMP 9x19 Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,ump9_barrel,,,,,,,,,,,,,
-917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.2,0,0,,0,0,-25,,,500
-918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.21,0,0,,0.1,0,-25,,,600
-919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-3,-2,,-0.1,0.1,275,,,1000
+917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.2,0,0,,0,0,40,,,500
+918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.21,0,0,,0.1,0,40,,,600
+919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-3,-2,,-0.1,0.1,145,,,1000
 ,ump45_bolt,,,,,,,,,,,,,
 920,,ump_45_full_auto_bolt,UMP .45 ACP Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,hk_mp5k_handguard,,,,,,,,,,,,,
 921,,hk_mp5k_polymer_handguard,HK MP5 Wide Tropical,15,0.15,-7,-5,,,,,,,1500
 ,ump45_barrel,,,,,,,,,,,,,
-922,,ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.2,0,0,,0,0,0,,,0
-923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,300,,,1000
-924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,0,,,600
+922,,ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.2,0,0,,0,0,-38,,,0
+923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,54,,,1000
+924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,-38,,,600
 ,hk416_barrel,,,,,,,,,,,,,
-925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,4,,0.2,-0.08,-240,,,1000
-926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.06,-220,,,1500
-927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,-1,0.68,3,2,,0,0.02,0,,,0
-928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-9,0.86,-2,-3,,-0.2,0.24,300,,,2500
+925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,4,,0.2,-0.08,-109,,,1000
+926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.06,-92,,,1500
+927,,hk416_368mm_barrel,14.5 Inch 5.56 HK416,-1,0.68,3,2,,0,0.02,33,,,0
+928,,hk416_508mm_barrel,20 Inch 5.56 HK416,-9,0.86,-2,-3,,-0.2,0.24,179,,,2500
 ,hk416_bolt_release,,,,,,,,,,,,,
 929,,hk416_bolt_release,HK416 Bolt Release,0,0,,,,,,,,,0
 ,hk416_fire_selector,,,,,,,,,,,,,
@@ -1656,17 +1657,18 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_g3/mp5_trigger,,,,,,,,,,,,,
 959,,hk_g3_std_trigger,HK G3 Standard,0,0.04,,,,,,,,,0
 ,hk_g3_barrel,,,,,,,,,,,,,
-960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,2,0.5,2,4,,0,0,180,,,0
-961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-6,0.6,-2,-3,,-0.2,0.15,260,,,800
-962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,8,0.35,7,9,,0.3,-0.04,-100,,,3500
-963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,14,0.24,11,13,,0.4,-0.14,-200,,,1500
-,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,16,0.22,12,8,,0.5,-0.15,-220,,,2500
-964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-4,0.7,-2,0,,-0.4,0.25,630,,,4500
+960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,2,0.5,2,4,,0,0,70,,,0
+961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-6,0.6,-2,-3,,-0.2,0.15,143,,,800
+,,hk_msg90a1_threaded_600mm_barrel,HK MSG90A1 Threaded 600mm Barrel,-4,0.67,0,3,,-0.3,0.2,410,,,4800
+962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,8,0.35,7,9,,0.3,-0.04,-331,,,3500
+963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,14,0.24,11,13,,0.4,-0.14,-561,,,1500
+,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,16,0.22,12,8,,0.5,-0.15,-652,,,2500
+964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-4,0.7,-2,0,,-0.4,0.25,509,,,4500
 ,ptr_32_barrel,,,,,,,,,,,,,
-,,ptr_32_7.62x39_457mm_barrel,PTR 32 7.62x39 18in Barrel,-3,0.6,-8,-11,,-0.15,0.35,67,,,3000
-,,ptr_32_7.62x39_457mm_5-8x24_barrel,PTR 32 7.62x39 18in 5/8 Threaded Barrel,-4,0.6,-7,-10,,-0.15,0.35,67,,,3250
-,,ptr_32_7.62x39_406mm_barrel,PTR 32 7.62x39 16in Barrel,-1,0.5,-5,-8,,-0.05,0.3,-17,,,2000
-,,ptr_32_7.62x39_406mm_5-8x24_barrel,PTR 32 7.62x39 16in 5/8 Threaded Barrel,-2,0.5,-4,-7,,-0.05,0.3,-17,,,2250
+,,ptr_32_7.62x39_457mm_barrel,PTR 32 7.62x39 18in Barrel,-3,0.6,-8,-11,,-0.15,0.35,-375,,,3000
+,,ptr_32_7.62x39_457mm_5-8x24_barrel,PTR 32 7.62x39 18in 5/8 Threaded Barrel,-4,0.6,-7,-10,,-0.15,0.35,-375,,,3250
+,,ptr_32_7.62x39_406mm_barrel,PTR 32 7.62x39 16in Barrel,-1,0.5,-5,-8,,-0.05,0.3,-409,,,2000
+,,ptr_32_7.62x39_406mm_5-8x24_barrel,PTR 32 7.62x39 16in 5/8 Threaded Barrel,-2,0.5,-4,-7,,-0.05,0.3,-409,,,2250
 ,mc51sd_suppressor,,,,,,,,,,,,,
 ,,fr_ordnance_mc51sd_suppressor,FR Ordinance MC51SD Suppressor,-7,0.25,-7,-6,,-0.3,0.2,90,,,5000
 ,hk_g3_rear_sight_assembly_top,,,,,,,,,,,,,
@@ -1702,11 +1704,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 980,,steyr_aug_para_9x19_gasblock,Steyr AUG Para 9x19,0,0.1,,,,,,,,,0
 981,,steyr_aug_z_9x19_gasblock,Steyr AUG Z Shortened 9x19,0,0.06,,,,,,,,,600
 ,aug_a3_barrel,,,,,,,,,,,,,
-982,,steyr_aug_407mm_barrel,Steyr AUG A3 5.56x45 407mm,0,0.63,0,0,,0,0.1,150,,,0
-983,,steyr_aug_508mm_barrel,Steyr AUG A3 5.56x45 508mm,-4,0.76,-3,-4,,-0.15,0.24,350,,,1000
-984,,steyr_aug_350mm_barrel,Steyr AUG A3 5.56x45 350mm,2,0.55,1,0,,0.1,0,-50,,,600
-985,,steyr_aug_hbar_620mm_heavy_barrel,Steyr AUG HBAR 5.56x45 620mm Heavy LMG,-10,0.99,-6,-7,,0.1,0.32,600,,,2000
-,,steyr_aug_457mm_barrel,Steyr AUG A3 5.56x45 457mm,-2,0.69,-2,-2,,-0.08,0.16,275,,,750
+982,,steyr_aug_407mm_barrel,Steyr AUG A3 5.56x45 407mm,0,0.63,0,0,,0,0.1,79,,,0
+983,,steyr_aug_508mm_barrel,Steyr AUG A3 5.56x45 508mm,-4,0.76,-3,-4,,-0.15,0.24,179,,,1000
+984,,steyr_aug_350mm_barrel,Steyr AUG A3 5.56x45 350mm,2,0.55,1,0,,0.1,0,10,,,600
+985,,steyr_aug_hbar_620mm_heavy_barrel,Steyr AUG HBAR 5.56x45 620mm Heavy LMG,-10,0.99,-6,-7,,0.1,0.32,269,,,2000
+,,steyr_aug_457mm_barrel,Steyr AUG A3 5.56x45 457mm,-2,0.69,-2,-2,,-0.08,0.16,131,,,750
 ,aug_a3_bolt_carrier,,,,,,,,,,,,,
 986,,aug_a3_std_bolt_carrier,AUG A3 Std.,0,0.2,,,,,,,,,0
 ,aug_a3_gasblock,,,,,,,,,,,,,
@@ -1724,8 +1726,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3_stock_buttpad,,,,,,,,,,,,,
 993,,aug_a3_stock_buttpad,AUG A3 Factory Stock,1,0.06,,,,,,,,,0
 ,aug_para_9x19_barrel,,,,,,,,,,,,,
-994,,steyr_aug_para_9x19_420mm_barrel,Steyr AUG Para 9x19 420mm,3,0.6,-13,-15,,0.05,0,200,,,2000
-995,,steyr_aug_para_9x19_325mm_threaded_barrel,Steyr AUG Para 9x19 325mm Threaded,6,0.4,-10,-8,,0.15,-0.05,50,,,3000
+994,,steyr_aug_para_9x19_420mm_barrel,Steyr AUG Para 9x19 420mm,3,0.6,-13,-15,,0.05,0,145,,,2000
+995,,steyr_aug_para_9x19_325mm_threaded_barrel,Steyr AUG Para 9x19 325mm Threaded,6,0.4,-10,-8,,0.15,-0.05,105,,,3000
 ,aug_para_9x19_bolt_carrier,,,,,,,,,,,,,
 996,,steyr_aug_para_9x19_std_bolt_carrier,AUG Para 9x19 Std.,0,0.2,-2,-6,,,,,,,0
 ,aug_a1_receiver_top_sights,,,,,,,,,,,,,
@@ -1757,7 +1759,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1010,,aug_a3_std_mag_release,AUG A3 Std.,0,0.01,,,,,,,,,0
 1011,,corvus_defensio_aug_enhanced_release_button,Corvus Defensio AUG Enhanced Mag Release Button,1,0.03,,,,,,,,,400
 ,aug_a3_stock,,,,,,,,,,,,,
-1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,15,0.21,-6,-7,,0.2,0.05,-100,,,2000
+1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,15,0.21,-6,-7,,0.2,0.05,-300,,,2000
 1013,,fbt_aug_carbon_fiber_stock,Fine Ballistic Tools AUG Carbon Fiber Stock,20,0.3,-8,-7,,,,,,,4000
 1014,,steyr_aug_a3_nato_stock,AUG A3 NATO,13,0.21,-6,-9,,,,,,,1000
 1015,,steyr_aug_a3_austrian_stock,AUG A3 Austrian,15,0.21,-8,-7,,,,,,,0
@@ -1784,10 +1786,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1022,,steyr_aug_a3_std_safety,Steyr AUG A3 Standard Safety,0,0.02,0,0,,,,,,,0
 1023,,arid_concepts_aug_improved_safety,Arid Concepts AUG Improved Safety,0.5,0.03,0,0,,,,,,,300
 ,mosin_barrel,,,,,,,,,,,,,
-1024,,mosin_730mm_barrel,Mosin 730mm,-5,0.8,-2,-10,,-0.2,0.1,300,,,0
-1025,,mosin_sawn_off_200mm_barrel,Mosin Sawn Off 200mm,25,0.3,5,10,,0.8,-0.3,-600,,,1200
-1026,,mosin_sawn_off_220mm_barrel,Mosin Sawn Off 220mm w/ front sight,22,0.32,4,9,,0.7,-0.3,-580,,,1200
-1027,,mosin_514mm_barrel,Mosin Regular 514mm,7,0.6,0,-2,,0.15,0,-150,,,1000
+1024,,mosin_730mm_barrel,Mosin 730mm,-5,0.8,-2,-10,,-0.2,0.1,348,,,0
+1025,,mosin_sawn_off_200mm_barrel,Mosin Sawn Off 200mm,25,0.3,5,10,,0.8,-0.3,-128,,,1200
+1026,,mosin_sawn_off_220mm_barrel,Mosin Sawn Off 220mm w/ front sight,22,0.32,4,9,,0.7,-0.3,-93,,,1200
+1027,,mosin_514mm_barrel,Mosin Regular 514mm,7,0.6,0,-2,,0.15,0,219,,,1000
 ,mosin_barrel_end,,,,,,,,,,,,,
 1028,,mosin_bramit_7.62x54r_suppressor,Mosin Bramit 7.62x54R Suppressor,-5,0.2,-5,-5,,-1,0.08,150,,,2000
 ,mosin_bolt,,,,,,,,,,,,,
@@ -1824,7 +1826,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1049,,mosin_carbine_stock,Mosin Std. Carbine,3,0.5,0,-3,,,,,,,500
 1050,,mosin_standard_stock,Mosin Std. Sniper,5,0.6,-1,-5,,,,,,,0
 ,pp19_barrel,,,,,,,,,,,,,
-1051,,pp19_barrel,PP19 Standard,0,0.3,0,0,,0.1,0,100,,,0
+1051,,pp19_barrel,PP19 Standard,0,0.3,0,0,,0.1,0,55,,,0
 ,pp19_bolt,,,,,,,,,,,,,
 1052,,pp19_bolt,PP19,0,0.1,,0,,,,,,,0
 ,pp19_dustcover,,,,,,,,,,,,,
@@ -1965,12 +1967,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1131,,dsa_sa58_para_fold_assembly,DSA SA-58 Para Fold Assembly,0,0.08,0,0,,,,,,,500
 1132,,dsa_sa58_polymer_humpback_stock,DSA Humpback Polymer Fixed,3,0.24,0,-20,,,,,,,0
 ,sa58_barrel,,,,,,,,,,,,,
-1133,,dsa_sa58_305mm_barrel,"DSA SA-58 12""",12,0.38,8,12,,0.2,-0.05,-280,,,750
-1134,,dsa_sa58_330mm_barrel,"DSA SA-58 13""",6,0.42,6,10,,0.15,0.05,-250,,,500
-1135,,dsa_sa58_406mm_barrel,"DSA SA-58 16""",-6,0.55,1,3,,0.1,0.08,-130,,,0
-1136,,dsa_sa58_457mm_barrel,"DSA SA-58 18""",-14,0.65,-3,-6,,-0.05,0.15,-20,,,750
-1137,,dsa_sa58_533mm_barrel,"DSA SA-58 21""",-20,0.8,-5,-8,,-0.1,0.18,100,,,1000
-1138,,dsa_sa58_406mm_fluted_barrel,"DSA SA-58 16"" Fluted",0,0.52,3,7,,0.1,0.08,-155,,,400
+1133,,dsa_sa58_305mm_barrel,"DSA SA-58 12""",12,0.38,8,12,,0.2,-0.05,-131,,,750
+1134,,dsa_sa58_330mm_barrel,"DSA SA-58 13""",6,0.42,6,10,,0.15,0.05,-81,,,500
+1135,,dsa_sa58_406mm_barrel,"DSA SA-58 16""",-6,0.55,1,3,,0.1,0.08,71,,,0
+1136,,dsa_sa58_457mm_barrel,"DSA SA-58 18""",-14,0.65,-3,-6,,-0.05,0.15,143,,,750
+1137,,dsa_sa58_533mm_barrel,"DSA SA-58 21""",-20,0.8,-5,-8,,-0.1,0.18,238,,,1000
+1138,,dsa_sa58_406mm_fluted_barrel,"DSA SA-58 16"" Fluted",0,0.52,3,7,,0.1,0.08,46,,,400
 ,z_rail_mount,,,,,,,,,,,,,
 1139,,z_rail_side_mount2,Z-Rail Side,-1,0.04,,,,,,,,,0
 1140,,z_rail_side_mount1,Z-Rail Side,-1,0.04,,,,,,,,,0
@@ -2210,12 +2212,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1265,,weaver_extended_rail,Weaver Extended Multi-Slot,-0.5,0.05,,,,,,,,,500
 1266,,mdt_r700_long_rail,MDT R700 Long,-3,0.1,,,,,,,,,750
 ,r700_barrel,,,,,,,,,,,,,
-1267,,r700_609mm_threaded_barrel,609mm R700 Threaded .308,-2,0.7,-1,-2,,-0.1,0.1,310,,,1200
-1268,,r700_508mm_threaded_barrel,508mm Heavy Threaded .308,-1,0.6,-1,-1,,0.1,-0.05,150,,,750
-1269,,r700_508mm_heavy_barrel,508mm Heavy .308,0,0.61,0,-1,,0,0,150,,,500
-1270,,r700_420mm_threaded_barrel,420mm R700 Threaded .308,1,0.51,1,0,,0.25,-0.1,0,,,1000
-1271,,r700_660mm_barrel,660mm R700 .308,-3,0.76,-2,-3,,-0.2,0.2,400,,,1500
-1272,,remington_700_bdl_559mm_barrel,"Remington 700 BDL 22"" Barrel",-2,0.66,0,-2,,-0.1,0,230,,,0
+1267,,r700_609mm_threaded_barrel,609mm R700 Threaded .308,-2,0.7,-1,-2,,-0.1,0.1,319,,,1200
+1268,,r700_508mm_threaded_barrel,508mm Heavy Threaded .308,-1,0.6,-1,-1,,0.1,-0.05,208,,,750
+1269,,r700_508mm_heavy_barrel,508mm Heavy .308,0,0.61,0,-1,,0,0,208,,,500
+1270,,r700_420mm_threaded_barrel,420mm R700 Threaded .308,1,0.51,1,0,,0.25,-0.1,91,,,1000
+1271,,r700_660mm_barrel,660mm R700 .308,-3,0.76,-2,-3,,-0.2,0.2,369,,,1500
+1272,,remington_700_bdl_559mm_barrel,"Remington 700 BDL 22"" Barrel",-2,0.66,0,-2,,-0.1,0,266,,,0
 ,r700_bolt_handle,,,,,,,,,,,,,
 1273,,r700_std_bolt_handle,Remington Std.,0,0.1,,,,,,,,,0
 ,r700_mdt_tac21,,,,,,,,,,,,,
@@ -2259,7 +2261,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,2,0.08,,,,,,,,,1500
 ,,hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,9,0.12,-9,-8,,,,,,,0
 ,mp5_barrel,,,,,,,,,,,,,
-,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.24,-3,-7,,0.1,0.1,100,,,0
+,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.24,-3,-7,,0.1,0.1,47,,,0
 ,hk_claw_mount,,,,,,,,,,,,,
 ,,mfi_hk_universal_low_profile_scope_mount,MFI HK Universal Low Profile Scope Mount,-1,0.08,,,,,,,,,750
 ,,mfi_hk_universal_low_profile_scope_mount_flipped,MFI HK Universal Low Profile Scope Mount Flipped,-1,0.08,,,,,,,,,750
@@ -2297,9 +2299,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,0,0.02,,,,,,,,,0
 ,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,0,0.01,,,,,,,,,0
 ,mp5sd_barrel,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.17,-1,-4,,0.15,0.08,80,,,1500
+,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.17,-1,-4,,0.15,0.08,-22,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.26,-12,-16,,-0.1,0.15,-600,,,3500
+,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.26,-12,-16,,-0.1,0.15,-950,,,3500
 ,surefire_mp5_flashlight,,,,,,,,,,,,,
 ,,surefire_lm1_bk_flashlight,,-1,0.03,,,,,,,,,200
 ,,surefire_lm1_b_bk_flashlight,,-1,0.04,,,,,,,,,300
@@ -2314,34 +2316,34 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,pistol,,,,,,,,,,,,,
 1325,,Makarov,Izhevsk PM,62,0,31,31,0,1.2,1,1200,,,2000
 1326,,TT33,Tula TT-33,60,0,35,35,0,1.2,1,1400,,,5000
-1327,,EDC_X9,Wilson Combat EDC X9,60,0,28,28,0,0.9,1,1500,,,25000
-1328,,Glock17,Glock 17,50,0,40,70,0,1.2,1,1250,,,0
+1327,,EDC_X9,Wilson Combat EDC X9,60,0,28,28,0,0.9,1,1400,,,25000
+1328,,Glock17,Glock 17,50,0,40,70,0,1.2,1,1300,,,0
 1329,,Glock20,Glock 20,50,0.3,50,70,0,1.2,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
 1330,,HK416A5,HK416A5,28,0,56,92,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,42,0,58,63,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
-1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1300,,,65000
+1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1600,,,65000
 1334,,M4A1,M4A1,15,0,67,90,0,0.46,1,1550,,,0
 1335,,QBZ95,Norinco QBZ-95,45,2.3,50,50,0,0.5,1,1550,,,25000
-1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1500,,,20000
-1337,,SCAR47,Handl Defense SCAR-47,40,0.35,60,60,0,0.2,0.9,1650,,,60000
+1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1550,,,20000
+1337,,SCAR47,Handl Defense SCAR-47,40,0.35,60,60,0,0.2,0.9,1200,,,60000
 1338,,SCARH,FN SCAR Mk17,16,0.3,75,75,0,0.2,0.9,1650,,,75000
 1339,,SCARL,FN SCAR Mk16,30,0,75,75,0,0.36,1.1,1650,,,40000
-1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1500,,,30000
-1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,1900,,,42000
-1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1500,,,15000
+1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1700,,,30000
+1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,2150,,,42000
+1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1150,,,15000
 1343,,AK74N,Izhmash AK74N,10,1,65,70,0,0.4,1,1500,,,5000
-1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,2000,,,14000
+1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,1200,,,14000
 ,shotgun,,,,,,,,,,,,,
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
-1347,,MP5,H&K MP5,25,0,45,55,0,1,1,1300,,,5000
+1347,,MP5,H&K MP5,25,0,45,55,0,1,1,1250,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
-1349,,MK9,CmmG MK9 T,25,0,70,85,0,1,1,1450,,,20000
+1349,,MK9,CmmG MK9 T,25,0,70,85,0,1,1,1200,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
-1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1300,,,11000
+1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1200,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
 ,placer,,,,,,,,,,,,,
