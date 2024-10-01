@@ -60,3 +60,7 @@ rear,troy_rear_battlesight_folded,Troy Rear Battlesight Folded,2,0.01,,,,,,,,,20
 ,daniel_defense_rock_lock_a1.5_fixed_rear_sight,Daniel Defense Rock & Lock A1.5 Rear Fixed Ironsight,3,0.03,,,,,,,,,700,
 ,daniel_defense_fixed_sight_front_post,Daniel Defense Fixed Front Sight Post,0,0.005,,,,,,,,,0,
 ,daniel_defense_fixed_sight_rear_aperture,Daniel Defense Fixed Rear Sight Aperture,0,0.005,,,,,,,,,0,
+,arms_#40_rear_sight_base,Arms #40 Rear Sight Base,0,0.02,,,,,,,,,250,
+,arms_#40_rear_sight,Arms #40 Rear Sight,3,0.02,,,,,,,,,250,
+,arms_#40_rear_sight_folded,Arms #40 Rear Sight Folded,2,0.02,,,,,,,,,250,
+,arms_#40_rear_sight_aperture,Arms #40 Rear Sight Aperture,0,0.005,,,,,,,,,0,
