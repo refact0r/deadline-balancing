@@ -1,4 +1,4 @@
-﻿0.23.0,Sat Sep 28 18:05:00 2024,,,,,,,,,,,,,
+﻿0.23.0,Mon Sep 30 14:26:44 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -84,13 +84,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 66,,magpul_xtm_enhanced_panel_1,Magpul XTM Enhanced Modular Panel Piece,0.5,0.02,,,,,,,,,50
 67,,magpul_xtm_enhanced_short_handstop_1,Magpul XTM Enhanced Short Handstop Piece,0.5,0.02,0,0,,,,,,,50
 68,,xtm_full_handstop,Magpul XTM Full Handstop,4,0.14,-1.5,-3,,,,,,,500
-69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.04,,,,,,,,,200
+69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.03,,,,,,,,,200
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
 71,,mission_first_folding_grip,Mission First Tactical Folding Grip,3,0.1,-5,-3,,,,,,,400
 72,,monstrum_prism_2x32_scope,Monstrum Tactical Compact Prism Scope 2x32,-2,0.21,,,,,,,,,1000
-73,,mt012h_riser,MT012H,-1,0.06,,,,,,,,,400
-74,,mt012l_riser,MT012L,-1,0.06,,,,,,,,,200
-75,,mt012m_riser,MT012M,-1,0.06,,,,,,,,,300
+73,,aim_sports_mt012h_riser_mount,"Aim Sports MT012H 1""",-1,0.06,,,,,,,,,400
+74,,aim_sports_mt012l_riser_mount,"Aim Sports MT012L 0.5""",-1,0.06,,,,,,,,,200
+75,,aim_sports_mt012m_riser_mount,"Aim Sports MT012M 0.83""",-1,0.06,,,,,,,,,300
 76,,ncstar_blue_lam_module,NcStar Blue LAM Module,-1,0.08,,,,,,,,,750
 77,,ncstar_mark_3_tactical_gen2_3_9x42,NcStar Mark III Tactical Gen 2 3-9x42,-5,0.26,,-2,,,,,,,2000
 78,,ncstar_mpr45_offset_mount,NcStar Mpr45 Offset mount,-1,0.02,,,,,,,,,200
@@ -176,6 +176,18 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,valday_zt310_picatinny_mount,Valday ZT310 Picatinny Mount,-1,0.04,,,,,,,,,100
 ,,arbalet_patriot_k_pu_20mm_picatinny_mount,Arbalet Patriot K-PU 20mm Picatinny Mount,0,0.06,,,,,,,,,400
 ,,trijicon_rm34_ac12036_mount,Trijcon RM34 AC12036 Mount,0,0.04,,,,,,,,,400
+,,troy_battlesight_round_aperture,Troy Battlesight Round Rear Aperture,0,0.005,,,,,,,,,0
+,,troy_battlesight_round_aperture_for_folded,Troy Battlesight Round Rear Aperture,0,0.005,,,,,,,,,0
+,,troy_battlesight_std_front_post,Troy Battlesight Std. Front Post,0,0.005,,,,,,,,,0
+,,troy_front_hk_battlesight,Troy Front Battlesight,3,0.01,,,,,,,,,200
+,,troy_front_hk_battlesight_folded,Troy Front Battlesight Folded,2,0.01,,,,,,,,,200
+,,troy_rear_battlesight,Troy Rear Battlesight,3,0.01,,,,,,,,,200
+,,troy_rear_battlesight_folded,Troy Rear Battlesight Folded,2,0.01,,,,,,,,,200
+,,troy_battlesight_picatinny_base,Troy Battlesight Base,0,0.02,,,,,,,,,200
+,,daniel_defense_rock_lock_rail_mounted_fixed_front_sight,Daniel Defense Rock & Lock Rail Mounted Front Fixed Ironsight,3,0.02,,,,,,,,,700
+,,daniel_defense_rock_lock_a1.5_fixed_rear_sight,Daniel Defense Rock & Lock A1.5 Rear Fixed Ironsight,3,0.03,,,,,,,,,700
+,,daniel_defense_fixed_sight_front_post,Daniel Defense Fixed Front Sight Post,0,0.005,,,,,,,,,0
+,,daniel_defense_fixed_sight_rear_aperture,Daniel Defense Fixed Rear Sight Aperture,0,0.005,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
@@ -263,10 +275,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 166,,magpul_mbus_gen2_front_top,Magpul MBUS Gen2 FS,3,0.01,,,,,,,,,100
 167,,magpul_mbus_gen2_front_top_folded,Magpul MBUS Gen2 FS Folded,2,0.01,,,,,,,,,100
 ,aeroknox_iron_sight,,,,,,,,,,,,,
-,,aeroknox_ax15_front_sight,Aeroknox AX15 Front Sight,3,0.01,,,,,,,,,0
-,,aeroknox_ax15_front_sight_folded,Aeroknox AX15 Front Sight Folded,2,0.01,,,,,,,,,0
-,,aeroknox_ax15_rear_sight,Aeroknox AX15 Rear Sight ,3,0.01,,,,,,,,,0
-,,aeroknox_ax15_rear_sight_folded,Aeroknox AX15 Rear Sight Folded,2,0.01,,,,,,,,,0
+,,aeroknox_ax15_front_sight,Aeroknox AX15 Front Sight,3,0.01,,,,,,,,,200
+,,aeroknox_ax15_front_sight_folded,Aeroknox AX15 Front Sight Folded,2,0.01,,,,,,,,,200
+,,aeroknox_ax15_rear_sight,Aeroknox AX15 Rear Sight ,3,0.01,,,,,,,,,200
+,,aeroknox_ax15_rear_sight_folded,Aeroknox AX15 Rear Sight Folded,2,0.01,,,,,,,,,200
 ,matech_rear_aperture,,,,,,,,,,,,,
 168,,matech_usgi_rear_buis_aperture_folded,MaTech USGI Rear BUIS Folded,2,0.01,,,,,,,,,100
 169,,matech_usgi_rear_buis_aperture,MaTech USGI Rear BUIS,3,0.01,,,,,,,,,100
@@ -277,22 +289,23 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 172,,trijicon_acog_ta11d_bac,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1750
 173,,trijicon_ta01nsn,Trijicon Acog TA01NSN,-3,0.22,,-2,,,,,,,1500
 ,carry_handle_mount,,,,,,,,,,,,,
-174,,trijicon_ta01nsn_carry_handle,Trijicon Acog TA01NSN,-5,0.26,,-4,,,,,,,750
-175,,burris_prism_ar332_carry_handle,Burris Tactical Prism AR-332,-7,0.24,,-4,,,,,,,500
+174,,trijicon_ta01nsn_carry_handle,Trijicon Acog TA01NSN,-3,0.22,,-2,,,,,,,1500
+175,,burris_prism_ar332_carry_handle,Burris Tactical Prism AR-332,-3,0.23,,-2,,,,,,,1000
 176,,pri_ar15_std_carry_handle_mount,PRI AR-15 Standard Carry Handle,-4,0.11,,,,,,,,,300
 177,,m16_m4_carryhandle_z_rail,M16/M4 Carry Handle Z-Rail,-4.5,0.13,,,,,,,,,200
 178,,trijicon_rx10_gooseneck_mount,Trijicon RX10 Gooseneck,-1,0.07,,,,,,,,,200
 179,,leupold_mark_4_carry_handle_mount,Leupold Mark 4 Carry Handle Mount,-2,0.06,,,,,,,,,300
-180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-6,0.31,,-10,,,,,,,900
-,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-3,0.15,,,,,,,,,300
+180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1750
+,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
+,,barska_4x20_scope_carry_handle_mount,Barska 4x20 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
 ,magpul_mbus_frontsight_post,,,,,,,,,,,,,
-181,,magpul_mbus_gen2_frontsight_post,Magpul MBUS Gen2 Sight,0,0.01,,,,,,,,,50
+181,,magpul_mbus_gen2_frontsight_post,Magpul MBUS Gen2 Sight,0,0.005,,,,,,,,,0
 ,magpul_mbus_rearsight_post,,,,,,,,,,,,,
-182,,magpul_rearsight_post200m,Magpul MBUS Gen2 200m,0,0.01,,,,,,,,,50
-183,,magpul_rearsight_post600m,Magpul MBUS Gen2 600m,0,0.01,,,,,,,,,0
+182,,magpul_rearsight_post200m,Magpul MBUS Gen2 200m,0,0.005,,,,,,,,,0
+183,,magpul_rearsight_post600m,Magpul MBUS Gen2 600m,0,0.005,,,,,,,,,0
 ,scalarworks_apertures,,,,,,,,,,,,,
-,,scalarworks_peak01_front_post,Scalarworks Peak01 Front Aperture,3,0.01,,,,,,,,,0
-,,scalarworks_peak01_rear_aperture,Scalarworks Peak01 Rear Aperture,3,0.01,,,,,,,,,0
+,,scalarworks_peak01_front_post,Scalarworks Peak01 Front Aperture,3,0.005,,,,,,,,,0
+,,scalarworks_peak01_rear_aperture,Scalarworks Peak01 Rear Aperture,3,0.005,,,,,,,,,0
 ,stanag_30r_bottom_plate,,,,,,,,,,,,,
 184,,stanag_30r_plate,STANAG 30R Mag Bottom Plate,1,0.015,,,,,,,,,0
 ,mlok,,,,,,,,,,,,,
@@ -417,8 +430,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,surefire_tailcap,,,,,,,,,,,,,
 ,,arisaka_momentary_tailcap,Arisaka Momentary Tailcap,2,0.01,,,,,,,,,100
 ,,surefire_z68_clicky_tailcap,Surefire Z68 Clicky Tailcap,3,0.02,,,,,,,,,250
-,colt_retro_a1,,,,,,,,,,,,,
-,,colt_retro_a1_4x21_scope,Colt Retro A1 4x21 Scope,-4,0.2,,,,,,,,,750
+,carry_handle_scope_mount,,,,,,,,,,,,,
+,,colt_retro_a1_4x21_scope,Colt Retro A1 4x21 Scope,-3,0.17,,,,,,,,,750
+,,barska_eletrco_4x20_bdc_scope,Barska Electro 4x20 BDC Turret Scope,-3,0.18,,,,,,,,,1000
 ,sc_irregulars_omm_front_mount,,,,,,,,,,,,,
 ,,sc_irregulars_cap_front,SC Irregulars OMM Front Cap,0,0.01,,,,,,,,,0
 ,,sc_irregulars_omm_3_slot_board_front,SC Irregulars OMM 3 Slot Board,-0.5,0.03,,,,,,,,,200
@@ -672,8 +686,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 382,,fn_scar_rear_sight,FN SCAR Standard,3,0.01,,,,,,,,,100
 383,,fn_scar_rear_sight_folded,FN SCAR Standard Folded,2,0.01,,,,,,,,,100
 ,fn_scar_rear_sight_apertures,,,,,,,,,,,,,
-384,,fn_scar_rear_sight_600m_aperture,FN Scar 600m Aperture,0,0.005,,,,,,,,,50
-385,,fn_scar_rear_sight_200m_aperture,FN Scar 200m Aperture,0,0.005,,,,,,,,,50
+384,,fn_scar_rear_sight_600m_aperture,FN Scar 600m Aperture,0,0.005,,,,,,,,,0
+385,,fn_scar_rear_sight_200m_aperture,FN Scar 200m Aperture,0,0.005,,,,,,,,,0
 ,fn_scar_h_gasblock,,,,,,,,,,,,,
 386,,fn_scar_mk20_gas_block,FN SCAR Mk20,4,0.16,1,3,,-0.05,,200,,,1000
 387,,fn_scar_h_gasblock,FN SCAR-H Standard,0,0.12,0,0,,,,,,,500
@@ -1073,7 +1087,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ak12_bolt,,,,,,,,,,,,,
 636,,ak12_std_5.45x39_bolt,AK-12 5.45x39,0,0,,,,,,,,,0
 ,ak12_dust_cover,,,,,,,,,,,,,
-637,,ak12_std_dustcover,Kalashnikov Concern AK-12,0,0.35,0,0,,,,,,,0
+637,,ak12_gen2_dustcover,Kalashnikov Concern AK-12 Gen2 Dust Cover,1,0.35,0,0,,,,,,,800
+,,ak12_gen1_dustcover,Kalashnikov Concern AK-12 Gen1,0,0.31,0,0,,,,,,,0
+,ak12_rear_sight,,,,,,,,,,,,,
+,,kalashnikov_concern_ak12_gen1_rear_sight,Kalashnikov Concern AK-12 Gen1 Rear Sight,2,0.05,,,,,,,,,0
 ,ak12_fire_selector,,,,,,,,,,,,,
 638,,ak12_std_fire_selector,AK-12 Std.,0,0,,,,,,,,,0
 ,ak12_gen2_pistol_grip,,,,,,,,,,,,,
@@ -1337,7 +1354,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 795,,moto_cut_slide,Moto Cut,1,0.12,-3,-2,,,,,,,0
 ,,glock17_gen4_slide,Glock 17 Gen4 Slide,3,0.08,-2,-2,,,,,,,600
 ,,glock17_gen5_early_slide,Glock 17 Gen5 Slide,2,0.07,-3,-4,,,,,,,0
-,,glock17l_slide,Glock 17L Slide,2,0.10,-4,-4,,,,,,,1500
+,,glock17l_slide,Glock 17L Slide,2,0.1,-4,-4,,,,,,,1500
 ,,glock17_gen5_mos_slide,Glock17 Gen5 MOS Slide,0,0.06,-3,-4,,,,,,,1500
 ,,glock17_gen4_mos_slide,Glock17 Gen4 MOS Slide,1,0.05,-2,-2,,,,,,,1200
 ,glock_mos,,,,,,,,,,,,,
@@ -1356,7 +1373,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,glock_lower_receiver,,,,,,,,,,,,,
 800,,glock_lower_receiver,Glock Standard,0,0,,,,,,,,,0
 ,,glock17_gen4_receiver,Glock 17 Gen4 Receiver,13,0.22,-2,-9,,,,,,,1000
-,,glock17_gen5_receiver,Glock 17 Gen5 Receiver,11,0.20,-3,-9,,,,,,,0
+,,glock17_gen5_receiver,Glock 17 Gen5 Receiver,11,0.2,-3,-9,,,,,,,0
 ,glock_17_trigger,,,,,,,,,,,,,
 ,,glock17_gen5_trigger,Glock 17 Gen5 Trigger,0,0.03,,,,,,,,,0
 ,,glock17_gen5_trigger_safety,Glock 17 Gen5 Trigger Safety,1,0.01,,,,,,,,,0
@@ -1972,8 +1989,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,amrs_picatinny,,,,,,,,,,,,,
 1148,,picatinny_section,Air for mounting picatinny attachments,0,0,,,,,,,,,0
 ,colt_sight,,,,,,,,,,,,,
-1149,,colt_rear_ironsight_200m,Colt 200m,0,0.01,,,,,,,,,0
-1150,,colt_rear_ironsight_600m,Colt 600m,0,0.01,,,,,,,,,0
+1149,,colt_rear_ironsight_200m,Colt 200m,0,0.005,,,,,,,,,0
+1150,,colt_rear_ironsight_600m,Colt 600m,0,0.005,,,,,,,,,0
 ,ddw,,,,,,,,,,,,,
 1151,,ddw_qd,Daniel Defence Wave QD,-6,0.25,-17,-20,,-0.1,0.16,90,,,1200
 ,doublestar_ace_recoil_pad,,,,,,,,,,,,,
