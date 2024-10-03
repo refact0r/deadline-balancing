@@ -1,4 +1,4 @@
-﻿0.23.0,Mon Sep 30 20:49:36 2024,,,,,,,,,,,,,
+﻿0.23.0,Tue Oct 01 13:04:49 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -188,6 +188,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,daniel_defense_rock_lock_a1.5_fixed_rear_sight,Daniel Defense Rock & Lock A1.5 Rear Fixed Ironsight,3,0.03,,,,,,,,,700
 ,,daniel_defense_fixed_sight_front_post,Daniel Defense Fixed Front Sight Post,0,0.005,,,,,,,,,0
 ,,daniel_defense_fixed_sight_rear_aperture,Daniel Defense Fixed Rear Sight Aperture,0,0.005,,,,,,,,,0
+,,arms_#40_rear_sight_base,Arms #40 Rear Sight Base,0,0.02,,,,,,,,,250
+,,arms_#40_rear_sight,Arms #40 Rear Sight,3,0.02,,,,,,,,,250
+,,arms_#40_rear_sight_folded,Arms #40 Rear Sight Folded,2,0.02,,,,,,,,,250
+,,arms_#40_rear_sight_aperture,Arms #40 Rear Sight Aperture,0,0.005,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
