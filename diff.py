@@ -17,15 +17,17 @@ stat_directions = {
 }
 
 
-def read_csv(file_path: str) -> Tuple[str, Dict[str, Dict[str, str]]]:
+def read_csv(file_path: str) -> Tuple[str, int, Dict[str, Dict[str, str]]]:
     data = {}
     with open(file_path, "r", newline="", encoding="utf-8-sig") as f:
         version = f.readline().split(",")[0]
+        size = 0
         reader = csv.DictReader(f)
         for row in reader:
             if row["name"]:
                 data[row["name"]] = row
-    return version, data
+                size += 1
+    return version, size, data
 
 
 def format_header(header: str) -> str:
@@ -66,8 +68,8 @@ def compare_rows(
 
 
 def main(file1: str, file2: str):
-    _, data1 = read_csv(file1)
-    version, data2 = read_csv(file2)
+    _, size, data1 = read_csv(file1)
+    version, _, data2 = read_csv(file2)
 
     compare_cols = list(next(iter(data1.values())).keys())[4:]
 
@@ -93,6 +95,7 @@ def main(file1: str, file2: str):
         f.write(f"# {version} Balancing Changes\n\n")
         f.write(f"[Changed attachments](#changed-attachments): {len(changes)}\n\n")
         f.write(f"[New attachments](#new-attachments): {len(new)}\n\n")
+        f.write(f"Total attachments: {size}\n\n")
         f.write(f"## Changed Attachments\n\n")
         f.write("\n".join(changes))
         f.write(f"\n## New Attachments\n\n")
