@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Oct 04 22:44:02 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Oct 04 22:53:39 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -398,7 +398,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 234,,sig_sauer_romeo4_sight,Sig Sauer Romeo4,-1,0.08,,,,,,,,,1000
 235,,sig_sauer_romeo4t_sight,Sig Sauer Romeo4T,-1,0.08,,,,,,,,,1100
 236,,aimpoint_micro_spacer_high_39mm,Aimpoint Micro Spacer High 39mm,-0.5,0.03,,,,,,,,,200
-237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.04,,,,,,,,,200
+237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.02,,,,,,,,,200
 238,,aimpoint_micro_t1_sight,Aimpoint Micro T1,-1,0.06,,,,,,,,,1200
 239,,aimpoint_micro_t2_sight,Aimpoint Micro T2,-1,0.06,,,,,,,,,1300
 ,,aimpoint_compm5_sight,Aimpoint CompM5,-0.5,0.1,,,,,,,,,1400

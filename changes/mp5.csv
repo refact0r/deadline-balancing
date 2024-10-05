@@ -2,11 +2,11 @@
 name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
-hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.2,-9,-7,,,,,,,0,15.4
-hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,10,0.24,-6,-8,,,,,,,2000,14.8
-hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500,15.6
-surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.23,-9,-9,,,,,,,1200,16
-midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.17,-6,-7,,,,,,,1000,14.6
+hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.18,-9,-7,,,,,,,0,15.8
+hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.22,-6,-8,,,,,,,2000,16.2
+hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.16,-7,-6,,,,,,,1500,16
+surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.21,-9,-9,,,,,,,1200,16.4
+midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.15,-6,-7,,,,,,,1000,15
 ,,,,,,,,,,,,,0
 hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-10,-12,,,,,,,0,18
 hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,2,0.08,,,,,,,,,1500,0.4
