@@ -1,4 +1,4 @@
-﻿0.23.0,Sat Oct 05 00:00:02 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Oct 05 00:15:32 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -820,7 +820,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.33,0,0,,,,200,,,3000
 452,,vector_45acp_upper_receiver,Kriss Vector .45ACP,-1,0.35,0,15,,,,,,,3000
 ,vector_trigger,,,,,,,,,,,,,
-453,,vector_std_trigger,Kriss Vector Std.,0,0.02,,,,,,,,,0
+453,,vector_std_trigger,Kriss Vector Std.,0,0.03,,,,,,,,,0
 ,vector_right_rail,,,,,,,,,,,,,
 454,,vector_right_rail,Kriss Vector Std.,-1,0.04,,,,,,,,,0
 ,vector_magazine_eject,,,,,,,,,,,,,
@@ -830,15 +830,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,vector_left_rail,,,,,,,,,,,,,
 457,,vector_left_rail,Kriss Vector Std.,-1,0.04,,,,,,,,,0
 ,vector_handguard_mount,,,,,,,,,,,,,
-458,,vector_mk5_side_rail,Vector Mk5 Side Rail,-1,0.04,0,-1,,,,,,,0
+458,,vector_mk5_side_rail,Vector Mk5 Side Rail,-1,0.03,0,-1,,,,,,,0
 459,,mlok_spot,Mlok Attach Point,0,0,,,,,,,,,0
 ,vector_handguard,,,,,,,,,,,,,
 460,,vector_mk1_modular_rail,Kriss Vector Mk1 Modular,2,0.15,0,-1,,,,,,,1000
-461,,vector_mk5_mlok_rail,Vector Mk5 M-Lok ModularRail,1,0.18,0,-2,,,,,,,2000
-462,,vector_round_shroud_mk1_11inch_modular,"Vector Mk.1 Round Shroud 11"" Modular",5,0.25,-2,-7,,,,,,,2000
+461,,vector_mk5_mlok_rail,Vector Mk5 M-Lok ModularRail,2,0.18,0,-2,,,,,,,2000
+462,,vector_round_shroud_mk1_11inch_modular,"Vector Mk.1 Round Shroud 11"" Modular",5,0.25,-2,-6,,,,,,,2000
 463,,vector_round_shroud_mk1_9inch_modular,"Vector Mk.1 Round Shroud 9"" Modular",3,0.2,-1,-5,,,,,,,1500
 ,vector_charging_handle,,,,,,,,,,,,,
-464,,vector_charging_handle,Kriss Vector Std.,1,0.02,,,,,,,,,0
+464,,vector_charging_handle,Kriss Vector Std.,1,0.03,,,,,,,,,0
 ,vector_bottom_rail,,,,,,,,,,,,,
 465,,vector_bottom_rail,Kriss Vector Std.,-1,0.05,,,,,,,,,0
 ,vector_bolt_release,,,,,,,,,,,,,

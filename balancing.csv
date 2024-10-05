@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Oct 04 21:55:48 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Oct 05 00:15:32 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -398,7 +398,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 234,,sig_sauer_romeo4_sight,Sig Sauer Romeo4,-1,0.08,,,,,,,,,1000
 235,,sig_sauer_romeo4t_sight,Sig Sauer Romeo4T,-1,0.08,,,,,,,,,1100
 236,,aimpoint_micro_spacer_high_39mm,Aimpoint Micro Spacer High 39mm,-0.5,0.03,,,,,,,,,200
-237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.04,,,,,,,,,200
+237,,aimpoint_micro_spacer_low_30mm,Aimpoint Micro Spacer Low 30mm,-0.5,0.02,,,,,,,,,200
 238,,aimpoint_micro_t1_sight,Aimpoint Micro T1,-1,0.06,,,,,,,,,1200
 239,,aimpoint_micro_t2_sight,Aimpoint Micro T2,-1,0.06,,,,,,,,,1300
 ,,aimpoint_compm5_sight,Aimpoint CompM5,-0.5,0.1,,,,,,,,,1400
@@ -685,13 +685,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mk9_bolt,,,,,,,,,,,,,
 374,,mk9_bolt,MK9 Bolt,0,0.07,,,,,,,,,0
 ,mk9_barrel,,,,,,,,,,,,,
-375,,kak_value_line_light_tapered_melonite_ar9_76mm_9x19_barrel,"KAK Value Line Light Tapered Melonite AR9 3"" 9x19",8,0.12,7,7,,0.3,-0.3,-125,,,750
-376,,cmmg_mk9_216mm_9x19_barrel,"CmmG Mk9 8.5"" 9x19",2,0.23,2,2,,0.12,-0.04,40,,,900
-377,,cmmg_mk9_229mm_9x19_barrel,"CmmG Mk9 9"" 9x19",0,0.24,0,0,,0.1,0,49,,,950
-378,,cmmg_mk9_406mm_9x19_c_barrel,"CmmG Mk9 16"" 9x19 Carbine Length",-6,0.38,-4,-4,,0.05,0.1,140,,,1200
-379,,cmmg_mk9_406mm_9x19_r_barrel,"CmmG Mk9 16"" 9x19 Rifle Length",-7,0.39,-5,-5,,0.05,0.1,140,,,1200
-380,,cmmg_mk9_406mm_9x19_m_barrel,"CmmG Mk9 16"" 9x19 Mid Length",-8,0.4,-6,-6,,0.05,0.1,140,,,1200
-381,,cmmg_mk9_127mm_9x19_barrel,"CmmG Mk9 5"" 9x19",5,0.16,4,4,,0.25,-0.12,-44,,,800
+375,,kak_value_line_light_tapered_melonite_ar9_76mm_9x19_barrel,"KAK Value Line Light Tapered Melonite AR9 3"" 9x19",9,0.13,8,8,,0.3,-0.3,-300,,,750
+376,,cmmg_mk9_216mm_9x19_barrel,"CmmG Mk9 8.5"" 9x19",3,0.26,3,2,,0.12,-0.04,-90,,,900
+377,,cmmg_mk9_229mm_9x19_barrel,"CmmG Mk9 9"" 9x19",2,0.27,2,2,,0.1,0,-70,,,950
+378,,cmmg_mk9_406mm_9x19_c_barrel,"CmmG Mk9 16"" 9x19 Carbine Length",-3,0.43,-2,-2,,0.05,0.1,200,,,1200
+379,,cmmg_mk9_406mm_9x19_r_barrel,"CmmG Mk9 16"" 9x19 Rifle Length",-4,0.44,-3,-3,,0.05,0.1,200,,,1200
+380,,cmmg_mk9_406mm_9x19_m_barrel,"CmmG Mk9 16"" 9x19 Mid Length",-5,0.45,-4,-4,,0.05,0.1,200,,,1200
+381,,cmmg_mk9_127mm_9x19_barrel,"CmmG Mk9 5"" 9x19",7,0.18,6,6,,0.25,-0.12,-225,,,800
 ,fn_rear_sight,,,,,,,,,,,,,
 382,,fn_scar_rear_sight,FN SCAR Standard,3,0.01,,,,,,,,,100
 383,,fn_scar_rear_sight_folded,FN SCAR Standard Folded,2,0.01,,,,,,,,,100
@@ -814,31 +814,31 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,pmm_scar_17_magwell_type2,PMM Scar 17 Magwell Type 2,2.5,0.1,-1,,,,,,,,700
 ,,pmm_scar_16_magwell,PMM Scar 16 Magwell,2.5,0.1,-1,,,,,,,,700
 ,vector_folding_stock,,,,,,,,,,,,,
-449,,kriss_vector_gen2_folding_stock,Kriss Vector Gen2,8,0.19,-5,-7,,,,,,,600
+449,,kriss_vector_gen2_folding_stock,Kriss Vector Gen2,8,0.21,-5,-7,,,,,,,600
 450,,kriss_vector_non_folding_stock_adapter,Kriss Vector Non-Folding Stock Adapter,-5,0.08,10,20,,,,,,,800
 ,vector_upper_receiver,,,,,,,,,,,,,
-451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.25,0,0,,,,200,,,3000
-452,,vector_45acp_upper_receiver,Kriss Vector .45ACP,-1,0.27,0,15,,,,,,,3000
+451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.33,0,0,,,,200,,,3000
+452,,vector_45acp_upper_receiver,Kriss Vector .45ACP,-1,0.35,0,15,,,,,,,3000
 ,vector_trigger,,,,,,,,,,,,,
-453,,vector_std_trigger,Kriss Vector Std.,0,0.02,,,,,,,,,0
+453,,vector_std_trigger,Kriss Vector Std.,0,0.03,,,,,,,,,0
 ,vector_right_rail,,,,,,,,,,,,,
 454,,vector_right_rail,Kriss Vector Std.,-1,0.04,,,,,,,,,0
 ,vector_magazine_eject,,,,,,,,,,,,,
 455,,vector_std_mag_eject,Kriss Vector Std.,0,0.01,,,,,,,,,0
 ,vector_lower_receiver,,,,,,,,,,,,,
-456,,vector_lower_receiver,Kriss Vector Gen2,0,0,,,,,,,,,0
+456,,vector_lower_receiver,Kriss Vector Gen2,0,0.42,,,,,,,,,0
 ,vector_left_rail,,,,,,,,,,,,,
 457,,vector_left_rail,Kriss Vector Std.,-1,0.04,,,,,,,,,0
 ,vector_handguard_mount,,,,,,,,,,,,,
-458,,vector_mk5_side_rail,Vector Mk5 Side Rail,-1,0.04,0,-1,,,,,,,0
+458,,vector_mk5_side_rail,Vector Mk5 Side Rail,-1,0.03,0,-1,,,,,,,0
 459,,mlok_spot,Mlok Attach Point,0,0,,,,,,,,,0
 ,vector_handguard,,,,,,,,,,,,,
 460,,vector_mk1_modular_rail,Kriss Vector Mk1 Modular,2,0.15,0,-1,,,,,,,1000
-461,,vector_mk5_mlok_rail,Vector Mk5 M-Lok ModularRail,1,0.18,0,-2,,,,,,,2000
-462,,vector_round_shroud_mk1_11inch_modular,"Vector Mk.1 Round Shroud 11"" Modular",5,0.25,-2,-7,,,,,,,2000
+461,,vector_mk5_mlok_rail,Vector Mk5 M-Lok ModularRail,2,0.18,0,-2,,,,,,,2000
+462,,vector_round_shroud_mk1_11inch_modular,"Vector Mk.1 Round Shroud 11"" Modular",5,0.25,-2,-6,,,,,,,2000
 463,,vector_round_shroud_mk1_9inch_modular,"Vector Mk.1 Round Shroud 9"" Modular",3,0.2,-1,-5,,,,,,,1500
 ,vector_charging_handle,,,,,,,,,,,,,
-464,,vector_charging_handle,Kriss Vector Std.,1,0.02,,,,,,,,,0
+464,,vector_charging_handle,Kriss Vector Std.,1,0.03,,,,,,,,,0
 ,vector_bottom_rail,,,,,,,,,,,,,
 465,,vector_bottom_rail,Kriss Vector Std.,-1,0.05,,,,,,,,,0
 ,vector_bolt_release,,,,,,,,,,,,,
@@ -851,10 +851,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 469,,vector_9mm_170mm_barrel,Kriss Vector 9x19 170mm,-1,0.18,-1,-1,,-0.02,0.03,2,-0.1,,750
 470,,vector_9mm_140mm_barrel,Kriss Vector 9x19 140mm,0,0.14,0,0,,0,0,-28,0,,800
 ,vector_45acp_barrel,,,,,,,,,,,,,
-471,,vector_45acp_170mm_barrel,Kriss Vector .45ACP 170mm,-1,0.18,-3,-3,,-0.02,0.03,-72,-0.1,,750
-472,,vector_45acp_140mm_barrel,Kriss Vector .45ACP 140mm,0,0.14,-1,-1,,0,0,-99,0,,800
+471,,vector_45acp_170mm_barrel,Kriss Vector .45ACP 170mm,-1,0.23,-3,-3,,-0.02,0.03,-72,-0.1,,750
+472,,vector_45acp_140mm_barrel,Kriss Vector .45ACP 140mm,0,0.2,-1,-1,,0,0,-99,0,,800
 ,magazine_45acp_vector,,,,,,,,,,,,,
-473,,glock_std_13r_vector_remodel,STD 13R .45 ACP,15,0.14,,,13,,,,,,0
+473,,glock_std_13r_vector_remodel,STD 13R .45 ACP,15,0.15,,,13,,,,,,0
 ,magazine_556x45,,,,,,,,,,,,,
 474,,5.56x45_magpul_pmag_60r,Magpul PMAG D60 60R Drum,-10,0.9,,,60,0.1,,,,,4000
 475,,5.56x45_x15m_drum_50r,X-15M Drum,-7,0.61,,,50,,,,,,3000
@@ -897,10 +897,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,magazine_10mm_glock20,,,,,,,,,,,,,
 504,,glock20_10mm_15r,Glock Standard 15R 10mm,-10,0.18,,,15,,,,,,500
 ,magazine_9x19_ar9,,,,,,,,,,,,,
-505,,colt_32rd,Colt 9x19 32rnd,0,0.27,,,32,,,,,,500
-506,,duramag_colt_ar9_20r_mag,Duramag Colt AR-9 20Rnd,10,0.2,,-2,20,,,,,,400
-507,,duramag_colt_ar9_10r_mag,Duramag Colt AR-9 10Rnd,20,0.11,,-4,10,,,,,,200
-,,custom_colt_smg_9x19_50r_mag,Custom Colt SMG 9x19 50rnd Magazine,-25,0.5,4,4,50,0.05,,,,,5000
+505,,colt_32rd,Colt 9x19 32rnd,0,0.3,,,32,,,,,,500
+506,,duramag_colt_ar9_20r_mag,Duramag Colt AR-9 20Rnd,7,0.19,,-2,20,,,,,,400
+507,,duramag_colt_ar9_10r_mag,Duramag Colt AR-9 10Rnd,14,0.1,,-4,10,,,,,,200
+,,custom_colt_smg_9x19_50r_mag,Custom Colt SMG 9x19 50rnd Magazine,-20,0.5,4,4,50,0.05,,,,,5000
 ,colt_smg_extension,,,,,,,,,,,,,
 ,,taylor_freelance_colt_smg_10r_mag_extension,Taylor Freelance Colt SMG 10r Mag Extension,-5,0.08,,,10,,,,,,1000
 ,colt_50_more,,,,,,,,,,,,,
@@ -968,9 +968,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,magazine_5.8x42mm_qbz95,,,,,,,,,,,,,
 552,,magazine_5.8x42mm_qbz95,Norinco QBZ-95 5.8x42mm 30R,,,,,30,,,,,,500
 ,magazine_9x19_aug_para,,,,,,,,,,,,,
-553,,steyr_aug_para_mp88_9x19_25r_mag,Steyr AUG MP88 9x19 25R,20,0.21,,,25,,,,,,500
-,,steyr_mpi_69_81_9x19_32r_mag,Steyr MPI69/81 9x19 32R,12,0.27,,,32,,,,,,750
-554,,roch_custom_steyr_aug_9x19_40r_mag,Roch Custom Steyr AUG Para 9x19 40R,5,0.35,,,40,,,,,,1000
+553,,steyr_aug_para_mp88_9x19_25r_mag,Steyr AUG MP88 9x19 25R,20,0.23,,,25,,,,,,500
+,,steyr_mpi_69_81_9x19_32r_mag,Steyr MPI69/81 9x19 32R,15,0.3,,,32,,,,,,750
+554,,roch_custom_steyr_aug_9x19_40r_mag,Roch Custom Steyr AUG Para 9x19 40R,9,0.38,,,40,,,,,,1000
 ,magazine_7.62x51_fn_fal,,,,,,,,,,,,,
 555,,dsa_sa58_fal_metric_magazine_10r,DSA FAL SA-58 U.S. Made Metric 10R,9,0.21,,,10,,,,,,500
 556,,dsa_sa58_fal_metric_magazine_20r,DSA FAL SA-58 U.S. Made Metric 20R,-2,0.31,,,20,,,,,,1000
@@ -1421,10 +1421,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,glock_underbarrel_picatinny,,,,,,,,,,,,,
 815,,rail,Additional attachment,0,0,,,,,,,,,0
 ,glock_barrel,,,,,,,,,,,,,
-816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.15,-9,-12,,0,0,-61,,,0
-817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.16,-7,-10,,0.05,0,-57,,,1200
-,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.18,-11,-13,,-0.1,0.04,-14,,,1500
-,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.38,-10,-15,,-0.2,0.1,140,,,3000
+816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.16,-9,-12,,0,0,0,,,0
+817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.16,-7,-10,,0.05,0,25,,,1200
+,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.2,-11,-13,,-0.1,0.04,100,,,1500
+,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.43,-10,-15,,-0.2,0.1,300,,,3000
 ,glock_spring,,,,,,,,,,,,,
 ,,glock17_gen5_spring,Glock 17 Gen5 Spring,0,0.02,,,,,,,,,0
 ,glock_grip,,,,,,,,,,,,,
@@ -1570,17 +1570,17 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump9_bolt,,,,,,,,,,,,,
 916,,ump_9_full_auto_bolt,UMP 9x19 Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,ump9_barrel,,,,,,,,,,,,,
-917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.2,0,0,,0,0,40,,,500
-918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.21,0,0,,0.1,0,40,,,600
-919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.36,-3,-2,,-0.1,0.1,145,,,1000
+917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.24,0,0,,0,0,-25,,,500
+918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.24,0,0,,0.1,0,-25,,,600
+919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.44,-3,-2,,-0.1,0.1,275,,,1000
 ,ump45_bolt,,,,,,,,,,,,,
 920,,ump_45_full_auto_bolt,UMP .45 ACP Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,hk_mp5k_handguard,,,,,,,,,,,,,
 921,,hk_mp5k_polymer_handguard,HK MP5 Wide Tropical,15,0.15,-7,-5,,,,,,,1500
 ,ump45_barrel,,,,,,,,,,,,,
-922,,ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.2,0,0,,0,0,-38,,,0
-923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.38,-4,-2,,-0.1,0.1,54,,,1000
-924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.21,0,0,,0.05,0,-38,,,600
+922,,ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.26,0,0,,0,0,0,,,0
+923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.47,-3,-2,,-0.1,0.1,300,,,1000
+924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.26,1,1,,0.05,0,0,,,600
 ,hk416_barrel,,,,,,,,,,,,,
 925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,4,,0.2,-0.08,-109,,,1000
 926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.06,-92,,,1500
@@ -1736,10 +1736,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3_stock_buttpad,,,,,,,,,,,,,
 993,,aug_a3_stock_buttpad,AUG A3 Factory Stock,1,0.06,,,,,,,,,0
 ,aug_para_9x19_barrel,,,,,,,,,,,,,
-994,,steyr_aug_para_9x19_420mm_barrel,Steyr AUG Para 9x19 420mm,3,0.6,-13,-15,,0.05,0,145,,,2000
-995,,steyr_aug_para_9x19_325mm_threaded_barrel,Steyr AUG Para 9x19 325mm Threaded,6,0.4,-10,-8,,0.15,-0.05,105,,,3000
+994,,steyr_aug_para_9x19_420mm_barrel,Steyr AUG Para 9x19 420mm,3,0.46,-12,-14,,0.05,0,145,,,2000
+995,,steyr_aug_para_9x19_325mm_threaded_barrel,Steyr AUG Para 9x19 325mm Threaded,4,0.37,-9,-8,,0.15,-0.05,105,,,3000
 ,aug_para_9x19_bolt_carrier,,,,,,,,,,,,,
-996,,steyr_aug_para_9x19_std_bolt_carrier,AUG Para 9x19 Std.,0,0.2,-2,-6,,,,,,,0
+996,,steyr_aug_para_9x19_std_bolt_carrier,AUG Para 9x19 Std.,0,0.2,,,,,,,,,0
 ,aug_a1_receiver_top_sights,,,,,,,,,,,,,
 997,,aug_a1_receiver_top_backup_sights,Backup Sights,0,0,,,,,,,,,0
 ,steyr_aug_threaded,,,,,,,,,,,,,
@@ -1769,7 +1769,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1010,,aug_a3_std_mag_release,AUG A3 Std.,0,0.01,,,,,,,,,0
 1011,,corvus_defensio_aug_enhanced_release_button,Corvus Defensio AUG Enhanced Mag Release Button,1,0.03,,,,,,,,,400
 ,aug_a3_stock,,,,,,,,,,,,,
-1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,15,0.21,-6,-7,,0.2,0.05,-300,,,2000
+1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-12,-13,,0.2,0.05,-300,,,2000
 1013,,fbt_aug_carbon_fiber_stock,Fine Ballistic Tools AUG Carbon Fiber Stock,20,0.3,-8,-7,,,,,,,4000
 1014,,steyr_aug_a3_nato_stock,AUG A3 NATO,13,0.21,-6,-9,,,,,,,1000
 1015,,steyr_aug_a3_austrian_stock,AUG A3 Austrian,15,0.21,-8,-7,,,,,,,0
@@ -1836,7 +1836,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1049,,mosin_carbine_stock,Mosin Std. Carbine,3,0.5,0,-3,,,,,,,500
 1050,,mosin_standard_stock,Mosin Std. Sniper,5,0.6,-1,-5,,,,,,,0
 ,pp19_barrel,,,,,,,,,,,,,
-1051,,pp19_barrel,PP19 Standard,0,0.3,0,0,,0.1,0,55,,,0
+1051,,pp19_barrel,PP19 Standard,0,0.27,0,0,,0.1,0,100,,,0
 ,pp19_bolt,,,,,,,,,,,,,
 1052,,pp19_bolt,PP19,0,0.1,,0,,,,,,,0
 ,pp19_dustcover,,,,,,,,,,,,,
@@ -2271,24 +2271,24 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5a3_early_gen_stock_endplate,HK MP5A3 Early Generation Stock Endplate,2,0.08,,,,,,,,,1500
 ,,hk_mp5a3_early_gen_collapsible_stock,HK MP5A3 Early Generation Collapsible Stock,9,0.12,-9,-8,,,,,,,0
 ,mp5_barrel,,,,,,,,,,,,,
-,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.24,-3,-7,,0.1,0.1,47,,,0
+,,hk_mp5_9x19_225mm_barrel,HK MP5 9x19 225mm Barrel,0,0.26,-3,-7,,0.1,0.1,100,,,0
 ,hk_claw_mount,,,,,,,,,,,,,
 ,,mfi_hk_universal_low_profile_scope_mount,MFI HK Universal Low Profile Scope Mount,-1,0.08,,,,,,,,,750
 ,,mfi_hk_universal_low_profile_scope_mount_flipped,MFI HK Universal Low Profile Scope Mount Flipped,-1,0.08,,,,,,,,,750
 ,mp5_drum_sight,,,,,,,,,,,,,
 ,mp5_front_sight,,,,,,,,,,,,,
-,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,,,,,,,,,,,
+,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,0,0.03,,,,,,,,,
 ,mp5_handguard,,,,,,,,,,,,,
-,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.2,-9,-7,,,,,,,0
-,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.24,-6,-8,,,,,,,2000
-,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.18,-7,-6,,,,,,,1500
-,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.23,-9,-9,,,,,,,1200
-,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.17,-6,-7,,,,,,,1000
+,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.18,-9,-7,,,,,,,0
+,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.22,-6,-8,,,,,,,2000
+,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.16,-7,-6,,,,,,,1500
+,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.21,-9,-9,,,,,,,1200
+,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.15,-6,-7,,,,,,,1000
 ,mp5_lower_receiver,,,,,,,,,,,,,
-,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.38,0,0,,,,,,,0
-,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.36,3,3,,,,,,,1000
-,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.4,0,0,,,,,,,1500
-,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,-1,0.38,2,4,,,,,,,1750
+,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.34,0,0,,,,,,,0
+,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.32,3,3,,,,,,,1000
+,,hk_mp5_sef_polymer_contoured_trigger_housing,HK MP5 SEF Polymer Contoured Trigger Housing,2,0.26,0,0,,,,,,,1500
+,,hk_mp5_hk94_sef_metal_trigger_housing,HK MP5/HK94 SEF Metal Trigger Housing,-1,0.34,2,4,,,,,,,1750
 ,mp5_stock,,,,,,,,,,,,,
 ,,hk_mp5a2_plastic_fixed_stock,HK MP5A2 Plastic Fixed Stock,8,0.26,-10,-12,,,,,,,0
 ,hk_mp5_hk94_choate_stock,,,,,,,,,,,,,
@@ -2300,23 +2300,23 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_upper_receiver,HK MP5 Std. Upper Receiver,0,0.3,,,,,,,,,
 ,,hk_mp5sd_upper_receiver,HK MP5SD Std. Upper Receiver,-3,0.32,-2,,,,,,,,3500
 ,mp5_front_trunnion,,,,,,,,,,,,,
-,,hk_mp5_std_9x19_front_trunnion,HK MP5 Std. 9x19 Front Trunnion,0,0.08,,,,,,,,,0
-,,hk_mp5sd_9x19_front_trunnion,HK MP5SD 9x19 Front Trunnion,0,0.08,,,,,,,,,0
+,,hk_mp5_std_9x19_front_trunnion,HK MP5 Std. 9x19 Front Trunnion,0,0.07,,,,,,,,,0
+,,hk_mp5sd_9x19_front_trunnion,HK MP5SD 9x19 Front Trunnion,0,0.07,,,,,,,,,0
 ,mp5_function,,,,,,,,,,,,,
-,,hk_mp5_std_cocking_support,HK MP5 Std. Cocking Support,0,0.06,,,,,,,,,0
+,,hk_mp5_std_cocking_support,HK MP5 Std. Cocking Support,0,0.05,,,,,,,,,0
 ,,hk_mp5_std_charging_handle,HK MP5 Std. Charging Handle,0,0.02,,,,,,,,,0
-,,hk_mp5_std_9x19_bolt_assembly,HK MP5 Std. 9x19 Bolt Assembly,0,0.08,,,,,,,,,0
+,,hk_mp5_std_9x19_bolt_assembly,HK MP5 Std. 9x19 Bolt Assembly,0,0.07,,,,,,,,,0
 ,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,0,0.02,,,,,,,,,0
 ,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,0,0.01,,,,,,,,,0
 ,mp5sd_barrel,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.17,-1,-4,,0.15,0.08,-22,,,1500
+,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.19,-1,-4,,0.15,0.08,80,,,1500
 ,mp5sd_suppressor,,,,,,,,,,,,,
 ,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.26,-12,-16,,-0.1,0.15,-950,,,3500
 ,surefire_mp5_flashlight,,,,,,,,,,,,,
-,,surefire_lm1_bk_flashlight,,-1,0.03,,,,,,,,,200
-,,surefire_lm1_b_bk_flashlight,,-1,0.04,,,,,,,,,300
-,,surefire_lm2_bk_flashlight,,-1,0.05,,,,,,,,,500
-,,surefire_lm2_b_bk_flashlight,,-1,0.06,,,,,,,,,600
+,,surefire_lm1_bk_flashlight,Surefire LM1-BK Visible Light Flashlight,-1,0.03,,,,,,,,,200
+,,surefire_lm1_b_bk_flashlight,Surefire LM1-B-BK Visible Light Flashlight,-1,0.04,,,,,,,,,300
+,,surefire_lm2_bk_flashlight,Surefire LM2-BK Visible Light Flashlight,-1,0.05,,,,,,,,,500
+,,surefire_lm2_b_bk_flashlight,Surefire LM2-B-BK Visible Light Flashlight,-1,0.06,,,,,,,,,600
 ,throwable,,,,,,,,,,,,,
 1320,,F1,F1 Grenade,,,,,,,,,,,10000
 1321,,M67,M67 Grenade,,,,,,,,,,,0
@@ -2349,9 +2349,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
-1347,,MP5,H&K MP5,25,0,45,55,0,1,1,1250,,,5000
-1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
-1349,,MK9,CmmG MK9 T,25,0,70,85,0,1,1,1200,,,20000
+1347,,MP5,H&K MP5,30,0,45,55,0,1,1,1250,,,5000
+1348,,Vector,TDI Kriss Vector Gen II,30,0,60,40,0,1.2,1,900,,,90000
+1349,,MK9,CmmG MK9 T,25,0,65,80,0,1,1,1200,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1200,,,11000
 ,turret,,,,,,,,,,,,,
