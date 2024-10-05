@@ -1177,8 +1177,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 676,,vs_05,VS-05,-0.5,0.08,-9,-11,,0.1,0,25,,,750
 677,,izhmash_ak74_6p20_020_compensator,Izhmash AK74 6P20 0-20,-0.5,0.07,-9,-12,,0.2,0,30,,,500
 ,,izhmash_aks74u_5.45x39_6p26_020_muzzle_brake,Izhmash AKS74U 6P26 0-20 Muzzle Booster,1,0.08,-8,-13,,0.25,-0.05,30,,0.077,400
-678,,ga_24_1/2,Griffin Armaments 24-1/2,-1,0.05,1,1,,0.1,0,5,,,1000
-679,,i_24_14_ta,Infinite 24mm-1/2mm,-1,0.03,1,2,,0.1,0,5,,,1000
+678,,ga_24_1/2,Griffin Armaments 24-1/2,-1,0.05,2,2,,0.1,0,5,,,1000
+679,,i_24_14_ta,Infinite 24mm-1/2mm,-1,0.03,2,3,,0.1,0,5,,,1000
 680,,tsniitochmash_pbs_4_5.45x39_suppressor,TSNIITochMash PBS-4 5.45x39,-6,0.26,-14,-17,,-0.25,0.18,100,,,2000
 681,,hexagon545,Hexagon 5.45,-7,0.28,-15,-17,,-0.2,0.15,60,,,2000
 ,,hexagon_dtkp_ak74_5.45x39_suppressor,Hexagon DTKP 5.45x39,-5,0.24,-12,-14,,-0.1,0.1,40,,,3000
@@ -1201,14 +1201,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,midwest_industries_alpha_ak_series_6inch_mlok_upper_handguard,"Midwest Industries ALPHA AK Series 6"" MLOK Top Mount",-1,0.1,-2,0,,,,,,,800
 ,,midwest_industries_alpha_ak_series_10inch_mlok_upper_handguard,"Midwest Industries ALPHA AK Series 10"" MLOK Top Mount",-3,0.13,-2,-1,,,,,,,800
 ,ak_grip,,,,,,,,,,,,,
-694,,zenitco_rk3_ak_pistol_grip,RK-3,7,0.11,-4,-3,,,,,,,1000
-695,,ak12_gen1_pistol_grip,AK-12 Gen 1,5,0.1,-5,-2,,,,,,,800
-696,,bakelite_6p4_sbv8v,Bakelite 6p4 Sb.8v,3,0.11,-3,-5,,,,,,,300
+694,,zenitco_rk3_ak_pistol_grip,RK-3,7,0.11,-3,-5,,,,,,,1000
+695,,ak12_gen1_pistol_grip,AK-12 Gen 1,5,0.1,-5,-3,,,,,,,800
+696,,bakelite_6p4_sbv8v,Bakelite 6p4 Sb.8v,4,0.11,-4,-4,,,,,,,300
 697,,ds_ace_ak_ar15_adapter,DoubleStar ACE AK AR-15 Grip adapter,-1,0.03,,,,,,,,,1500
-698,,izhmash_polymer_6p1_sb8_pistol_grip,Izhmash Polymer 6P1 Sb.8,4,0.06,-4,-4,,,,,,,400
-699,,mg47,KGB MG-47,5,0.04,-2,-3,,,,,,,750
-700,,pp19_grip,PP19-01,5,0.07,-2,-4,,,,,,,300
-701,,us_palm_ak_pistol_grip,US Palm AK,6,0.08,-2,-3,,,,,,,900
+698,,izhmash_polymer_6p1_sb8_pistol_grip,Izhmash Polymer 6P1 Sb.8,4,0.07,-4,-4,,,,,,,400
+699,,mg47,KGB MG-47,5,0.05,-3,-3,,,,,,,750
+700,,pp19_grip,PP19-01,5,0.08,-3,-5,,,,,,,300
+701,,us_palm_ak_pistol_grip,US Palm AK,6,0.08,-2,-6,,,,,,,900
+,,magpul_moe_k2_ak_pistol_grip,Magpul MOE-K2 AK,7,0.11,-4,-3,,,,,,,800
 ,ak_handguard,,,,,,,,,,,,,
 702,,caf_wasr_10_63_wooden_bottom_handguard,Wooden CAF WASR 10-63 Bottom Handguard,14,0.2,-9,-9,,,,,,,300
 703,,tdiarms_ak_akm_l_lower_handguard,TDI Arms AKM-L Handguard,10,0.11,-3,-4,,,,,,,1000
@@ -1766,8 +1767,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1008,,steyr_aug_a3_xs_bottom_accessory_rail,Steyr AUG A3 XS Bottom Accessory Rail,0,0.07,0,0,,,,,,,1000
 1009,,corvus_defensio_aug_forward_accessory_rail,Corvus Defensio AUG Forward Accessory Rail,-1,0.06,-1,0,,,,,,,1200
 ,aug_a3_mag_release,,,,,,,,,,,,,
-1010,,aug_a3_std_mag_release,AUG A3 Std.,0,0.01,,,,,,,,,0
+1010,,aug_a3_std_mag_release,AUG A3 Std.,0,0.02,,,,,,,,,0
 1011,,corvus_defensio_aug_enhanced_release_button,Corvus Defensio AUG Enhanced Mag Release Button,1,0.03,,,,,,,,,400
+,,arid_concepts_aug_improved_mag_release,Arid Concepts AUG Improved Mag Release,1,0.03,,,,,,,,,600
+,,arid_concepts_aug_mag_release_std_paddle,Arid Concepts Standard Paddle,0.5,0.01,,,,,,,,,0
+,,arid_concepts_aug_mag_release_large_paddle,Arid Concepts Large Paddle,0.5,0.01,,,,,,,,,100
 ,aug_a3_stock,,,,,,,,,,,,,
 1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-12,-13,,0.2,0.05,-300,,,2000
 1013,,fbt_aug_carbon_fiber_stock,Fine Ballistic Tools AUG Carbon Fiber Stock,20,0.3,-8,-7,,,,,,,4000
