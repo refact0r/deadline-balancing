@@ -1,4 +1,4 @@
-﻿0.23.0,Tue Oct 01 13:04:49 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Oct 04 21:55:48 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -22,7 +22,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 19,,burris_ar_prb_mount,Burris AR PRB Mount,0,0.06,,,,,,,,,400
 20,,burris_ar_pepr_30mm_mount,Burris AR-P.E.P.R.™,-1,0.11,,,,,,,,,800
 21,,cobra_ekp_8_18,Cobra EKP 8 18,-2,0.19,,,,,,,,,800
-22,,colt_ca2r,Colt CA2R,3,0.09,,,,,,,,,400
+22,,colt_ca2r,Colt CA2R,3,0.07,,,,,,,,,400
 23,,colt_m4a1_carry_handle,Colt M4A1 Carry Handle,4,0.14,,,,,,,,,0
 24,,hera_arms_cqr_gen1_foregrip,CQR FG,-2,0.23,-6,-8,,,,,,,1000
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-3,0.33,,-3,,,,,,,3000
@@ -188,10 +188,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,daniel_defense_rock_lock_a1.5_fixed_rear_sight,Daniel Defense Rock & Lock A1.5 Rear Fixed Ironsight,3,0.03,,,,,,,,,700
 ,,daniel_defense_fixed_sight_front_post,Daniel Defense Fixed Front Sight Post,0,0.005,,,,,,,,,0
 ,,daniel_defense_fixed_sight_rear_aperture,Daniel Defense Fixed Rear Sight Aperture,0,0.005,,,,,,,,,0
-,,arms_#40_rear_sight_base,Arms #40 Rear Sight Base,0,0.02,,,,,,,,,250
-,,arms_#40_rear_sight,Arms #40 Rear Sight,3,0.02,,,,,,,,,250
-,,arms_#40_rear_sight_folded,Arms #40 Rear Sight Folded,2,0.02,,,,,,,,,250
-,,arms_#40_rear_sight_aperture,Arms #40 Rear Sight Aperture,0,0.005,,,,,,,,,0
+,,arms_#40_rear_sight_base,A.R.M.S. #40 Rear Sight Base,0,0.02,,,,,,,,,250
+,,arms_#40_rear_sight,A.R.M.S. #40 Rear Sight,3,0.02,,,,,,,,,250
+,,arms_#40_rear_sight_folded,A.R.M.S. #40 Rear Sight Folded,2,0.02,,,,,,,,,250
+,,arms_#40_rear_sight_aperture,A.R.M.S. #40 Rear Sight Aperture,0,0.005,,,,,,,,,0
+,,dpms_mangonel_front_sight,DPMS Mangonel Front Sight,3,0.01,,,,,,,,,200
+,,dpms_mangonel_rear_sight,DPMS Mangonel Rear Sight,3,0.01,,,,,,,,,200
+,,dpms_mangonel_rear_sight_folded,DPMS Mangonel Rear Sight Folded,2,0.01,,,,,,,,,200
+,,dpms_mangonel_front_sight_folded,DPMS Mangonel Front Sight Folded,2,0.01,,,,,,,,,200
+,,dpms_mangonel_rear_sight_base,DPMS Mangonel Rear Sight Base,0,0.04,,,,,,,,,200
+,,dpms_mangonel_front_sight_base,DPMS Mangonel Front Sight Base,0,0.04,,,,,,,,,200
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
