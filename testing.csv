@@ -814,11 +814,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,pmm_scar_17_magwell_type2,PMM Scar 17 Magwell Type 2,2.5,0.1,-1,,,,,,,,700
 ,,pmm_scar_16_magwell,PMM Scar 16 Magwell,2.5,0.1,-1,,,,,,,,700
 ,vector_folding_stock,,,,,,,,,,,,,
-449,,kriss_vector_gen2_folding_stock,Kriss Vector Gen2,8,0.19,-5,-7,,,,,,,600
+449,,kriss_vector_gen2_folding_stock,Kriss Vector Gen2,8,0.21,-5,-7,,,,,,,600
 450,,kriss_vector_non_folding_stock_adapter,Kriss Vector Non-Folding Stock Adapter,-5,0.08,10,20,,,,,,,800
 ,vector_upper_receiver,,,,,,,,,,,,,
-451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.3,0,0,,,,200,,,3000
-452,,vector_45acp_upper_receiver,Kriss Vector .45ACP,-1,0.32,0,15,,,,,,,3000
+451,,vector_9mm_upper_receiver,Kriss Vector 9mm,0,0.33,0,0,,,,200,,,3000
+452,,vector_45acp_upper_receiver,Kriss Vector .45ACP,-1,0.35,0,15,,,,,,,3000
 ,vector_trigger,,,,,,,,,,,,,
 453,,vector_std_trigger,Kriss Vector Std.,0,0.02,,,,,,,,,0
 ,vector_right_rail,,,,,,,,,,,,,
@@ -826,7 +826,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,vector_magazine_eject,,,,,,,,,,,,,
 455,,vector_std_mag_eject,Kriss Vector Std.,0,0.01,,,,,,,,,0
 ,vector_lower_receiver,,,,,,,,,,,,,
-456,,vector_lower_receiver,Kriss Vector Gen2,0,0.4,,,,,,,,,0
+456,,vector_lower_receiver,Kriss Vector Gen2,0,0.42,,,,,,,,,0
 ,vector_left_rail,,,,,,,,,,,,,
 457,,vector_left_rail,Kriss Vector Std.,-1,0.04,,,,,,,,,0
 ,vector_handguard_mount,,,,,,,,,,,,,
@@ -854,7 +854,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 471,,vector_45acp_170mm_barrel,Kriss Vector .45ACP 170mm,-1,0.23,-3,-3,,-0.02,0.03,-72,-0.1,,750
 472,,vector_45acp_140mm_barrel,Kriss Vector .45ACP 140mm,0,0.2,-1,-1,,0,0,-99,0,,800
 ,magazine_45acp_vector,,,,,,,,,,,,,
-473,,glock_std_13r_vector_remodel,STD 13R .45 ACP,15,0.14,,,13,,,,,,0
+473,,glock_std_13r_vector_remodel,STD 13R .45 ACP,15,0.15,,,13,,,,,,0
 ,magazine_556x45,,,,,,,,,,,,,
 474,,5.56x45_magpul_pmag_60r,Magpul PMAG D60 60R Drum,-10,0.9,,,60,0.1,,,,,4000
 475,,5.56x45_x15m_drum_50r,X-15M Drum,-7,0.61,,,50,,,,,,3000
@@ -2350,7 +2350,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
 ,smg,,,,,,,,,,,,,
 1347,,MP5,H&K MP5,30,0,45,55,0,1,1,1250,,,5000
-1348,,Vector,TDI Kriss Vector Gen II,30,0.7,60,40,0,1.2,1,900,,,90000
+1348,,Vector,TDI Kriss Vector Gen II,30,0,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,25,0,65,80,0,1,1,1200,,,20000
 1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1200,,,11000
