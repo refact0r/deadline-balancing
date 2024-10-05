@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Oct 04 23:06:50 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Oct 04 23:17:18 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -969,8 +969,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 552,,magazine_5.8x42mm_qbz95,Norinco QBZ-95 5.8x42mm 30R,,,,,30,,,,,,500
 ,magazine_9x19_aug_para,,,,,,,,,,,,,
 553,,steyr_aug_para_mp88_9x19_25r_mag,Steyr AUG MP88 9x19 25R,20,0.23,,,25,,,,,,500
-,,steyr_mpi_69_81_9x19_32r_mag,Steyr MPI69/81 9x19 32R,12,0.3,,,32,,,,,,750
-554,,roch_custom_steyr_aug_9x19_40r_mag,Roch Custom Steyr AUG Para 9x19 40R,5,0.38,,,40,,,,,,1000
+,,steyr_mpi_69_81_9x19_32r_mag,Steyr MPI69/81 9x19 32R,15,0.3,,,32,,,,,,750
+554,,roch_custom_steyr_aug_9x19_40r_mag,Roch Custom Steyr AUG Para 9x19 40R,9,0.38,,,40,,,,,,1000
 ,magazine_7.62x51_fn_fal,,,,,,,,,,,,,
 555,,dsa_sa58_fal_metric_magazine_10r,DSA FAL SA-58 U.S. Made Metric 10R,9,0.21,,,10,,,,,,500
 556,,dsa_sa58_fal_metric_magazine_20r,DSA FAL SA-58 U.S. Made Metric 20R,-2,0.31,,,20,,,,,,1000
@@ -1737,7 +1737,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 993,,aug_a3_stock_buttpad,AUG A3 Factory Stock,1,0.06,,,,,,,,,0
 ,aug_para_9x19_barrel,,,,,,,,,,,,,
 994,,steyr_aug_para_9x19_420mm_barrel,Steyr AUG Para 9x19 420mm,3,0.46,-12,-14,,0.05,0,145,,,2000
-995,,steyr_aug_para_9x19_325mm_threaded_barrel,Steyr AUG Para 9x19 325mm Threaded,4,0.37,-10,-9,,0.15,-0.05,105,,,3000
+995,,steyr_aug_para_9x19_325mm_threaded_barrel,Steyr AUG Para 9x19 325mm Threaded,4,0.37,-9,-8,,0.15,-0.05,105,,,3000
 ,aug_para_9x19_bolt_carrier,,,,,,,,,,,,,
 996,,steyr_aug_para_9x19_std_bolt_carrier,AUG Para 9x19 Std.,0,0.2,,,,,,,,,0
 ,aug_a1_receiver_top_sights,,,,,,,,,,,,,
@@ -1769,7 +1769,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1010,,aug_a3_std_mag_release,AUG A3 Std.,0,0.01,,,,,,,,,0
 1011,,corvus_defensio_aug_enhanced_release_button,Corvus Defensio AUG Enhanced Mag Release Button,1,0.03,,,,,,,,,400
 ,aug_a3_stock,,,,,,,,,,,,,
-1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-13,-14,,0.2,0.05,-300,,,2000
+1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-12,-13,,0.2,0.05,-300,,,2000
 1013,,fbt_aug_carbon_fiber_stock,Fine Ballistic Tools AUG Carbon Fiber Stock,20,0.3,-8,-7,,,,,,,4000
 1014,,steyr_aug_a3_nato_stock,AUG A3 NATO,13,0.21,-6,-9,,,,,,,1000
 1015,,steyr_aug_a3_austrian_stock,AUG A3 Austrian,15,0.21,-8,-7,,,,,,,0
