@@ -1,4 +1,4 @@
-﻿0.23.0,Sat Oct 06 00:15:32 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Oct 10 00:15:32 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -917,9 +917,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,17,0.15,,,15,,,,,,500
 514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,18,0.1,,,10,,,,,,300
 ,magazine_9x19,,,,,,,,,,,,,
-515,,glock17_9x19_stick_31r_magazine,Glock 9x19 31R Stick,-1,0.29,,,29,,,,,,1000
+515,,glock17_9x19_stick_31r_magazine,Glock 9x19 31R Stick,-3,0.29,,,29,,,,,,1000
 516,,glock17_gen5_9x19_17r_magazine,Glock 9x19 17R,0,0.15,,,17,,,,,,500
-517,,sgm_tactical_glock_9x19_50r_drum_magazine,SGMT 9x19 50R Drum,-4,0.55,,,50,,,,,,3000
+517,,sgm_tactical_glock_9x19_50r_drum_magazine,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
 ,magazine_9x19_ump9,,,,,,,,,,,,,
 518,,ump9_9x19_30r_mag,UMP9 9x19 30R,4,0.25,,,30,,,,,,500
 ,magazine_12g_r870,,,,,,,,,,,,,
@@ -1379,7 +1379,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,glock17_slide_backplate,Glock 17 Slide Backplate,0,0.01,,,,,,,,,0
 ,glock_17r_mag_plate,,,,,,,,,,,,,
 797,,glock17_17r_magazine_bottom_plate,Magazine,1,0.02,,,,,,,,,0
-798,,9x19_kriss_magex2_glock,9x19 KRISS MagEx2 For Glock (+23 Rounds),-2,0.16,,,23,,,,,,1000
+798,,9x19_kriss_magex2_glock,9x19 KRISS MagEx2 For Glock (+23 Rounds),-3,0.21,,,23,,,,,,1000
 ,glock_31r_mag_plate,,,,,,,,,,,,,
 799,,31_mag_extension_2r_plate,Magazine,1,0.04,,,2,,,,,,0
 ,glock_lower_receiver,,,,,,,,,,,,,
@@ -1432,7 +1432,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 818,,pachmayr_rubber_grip,Pachmayr Rubber,3,0.05,0,0,,,,,,,750
 819,,pachmayr_rubber_grip_for_g20,Pachmayr Rubber,3,0.05,0,0,,,,,,,750
 ,glock_stock,,,,,,,,,,,,,
-820,,glr_17,GLR-17,-5,0.07,-2,-8,,,,,,,1500
+820,,glr_17,GLR-17,-5,0.15,-2,-8,,,,,,,1500
 821,,tsa_g,TSA G,-15,0.14,7,7,,,,,,,2000
 ,glock_front_sight,,,,,,,,,,,,,
 822,,truglo_glock_tfx_fs,Truglo TFX,2,0.03,,,,,,,,,500
