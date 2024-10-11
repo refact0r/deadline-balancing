@@ -1,4 +1,4 @@
-﻿0.23.0,Thu Oct 10 21:34:04 2024,,,,,,,,,,,,,
+﻿0.23.0,Fri Oct 11 11:57:35 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -217,14 +217,14 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,daniel_defense_collapsible_milspec_buttstock,Daniel Defense Collapsible Milspec Stock,16,0.18,-8,-10,,,,,,,900
 ,,daniel_defense_concave_buttpad,Daniel Defense Concave Buttpad,1,0.02,-1,-1,,,,,,,0
 ,ak_fixed_stock,,,,,,,,,,,,,
-136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.16,-7,-16,,,,,,,500
+136,,fab_defense_uas_akn_p,FAB Defense UAS AKN P,10,0.14,-7,-16,,,,,,,500
 137,,izhmash_ak74_polymer_6p20_sb7,Polymer 6P20 Sb.7 Polymer,17,0.12,-7,-10,,,,,,,600
 138,,izhmash_ak74_wood_6p20_sb5,Wooden 6P20 Sb.5 Wooden,16,0.2,-8,-12,,,,,,,0
 139,,zenitco_akm_ak74_pt_lock,Zenitco AKM/AK74 PT Lock,-1,0.02,-1,-1,,,,,,,400
 140,,me_adapter,ME Adapter,-6,0.1,3,2,,,,,,,400
 141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,-5,0.22,2,3,,,,,,,750
 142,,crh_customs_fixed_ak_triangle_stock,CRH Customs Fixed AK Triangle,19,0.1,-6,-5,,,,,,,750
-,,custom_3d_printed_fixed_acr_stock_adapter,Custom 3d Printed Fixed ACR Stock Adaptor,2,0.11,-3,-3,,,,,,,1400
+,,custom_3d_printed_fixed_acr_stock_adapter,Custom 3d Printed Fixed ACR Stock Adaptor,2,0.12,-3,-3,,,,,,,1400
 ,ak_stock_pad,,,,,,,,,,,,,
 ,,utg_ak_rb_k7btp01_combat_rubber_stock_buttpad_ak74,UTG AK RB K7BTP01 Combat Rubber Buttpad AK74,3,0.12,,-1,,,,,,,600
 ,,utg_ak_rb_k7btp01_combat_rubber_stock_buttpad_pp19,UTG AK RB K7BTP01 Combat Rubber Buttpad PP19,3,0.1,,-1,,,,,,,600
@@ -250,6 +250,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,rs_regulate_akmp_deltapoint_mount,RS Regulate AKMP Deltapoint Mount,-1,0.05,,,,,,,,,300
 ,1p78_scope_mount,,,,,,,,,,,,,
 147,,npz_1p78_1_2.8x_kashtan_scope,NPZ 1P78-1 2.8X Kashtan,-3,0.19,,-1,,,,,,,1200
+,,npz_picatinny_bracket_mount_427,NPZ Picatinny Bracket Mount 427,-1,0.04,,,,,,,,,300
 ,rmr_mount,,,,,,,,,,,,,
 148,,zt_ap_cap,ZT AP,5,0.03,,,,,,,,,0
 149,,trijicon_sro,Trijicon SRO ,-2,0.07,,,,,,,,,800
@@ -308,6 +309,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1750
 ,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
 ,,barska_4x20_scope_carry_handle_mount,Barska 4x20 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
+,,insight_technology_an_paq_4a_carry_handle_mount,Insight Technology AN/PAQ-4A Carry Handle Mount,1,0.08,,,,,,,,,200
+,insight_tech_anpaq4a,,,,,,,,,,,,,
+,,insight_technology_an_paq_4a_ir_laser,Insight Technology AN/PAQ-4A IR Laser,4,0.08,-1,-1,,,,,,,1000
 ,magpul_mbus_frontsight_post,,,,,,,,,,,,,
 181,,magpul_mbus_gen2_frontsight_post,Magpul MBUS Gen2 Sight,0,0.005,,,,,,,,,0
 ,magpul_mbus_rearsight_post,,,,,,,,,,,,,
@@ -367,6 +371,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,3,0.04,,,,,,,,,200
 219,,magpul_pmag_ak74/akm_bottom_plate,Magpul PMAG AK74/AKM,1,0.02,,,,,,,,,0
 ,,aeroknox_plus_5_pmag_mag_extension,Aeroknox Plus 5 PMAG Magazine Extension,-2,0.06,,,5,,,,,,400
+,izhmash_ak74_bottomplate,,,,,,,,,,,,,
+,,izhmash_ak74_mag_bottomplate,Izhmash AK74 Mag Bottom Plate,0,0,,,,,,,,,
+,,legal_arsenal_5_rnd_545_223_ak_mag_extension,Legal Arsenal 5rd 5.45/.223 AK Magazine Extension,-2,0.06,,,5,,,,,,750
 ,akm_steel_bottom_plate,,,,,,,,,,,,,
 ,,izhmash_akm_steel_magazine_bottom_plate,Izhmash AKM Steel Magazine Bottom Plate,,,,,,,,,,,0
 ,g33_magnifier_riser,,,,,,,,,,,,,
@@ -894,6 +901,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 501,,sgm_tactical_saiga308_10r_mag,SGM Tactical Saiga .308 10R,45,0.22,,,10,,,,,,500
 502,,sgm_tactical_saiga308_3r_mag,SGM Tactical Saiga .308 3R,60,0.08,,,3,,,,,,100
 503,,sgm_tactical_saiga308_5r_mag,SGM Tactical Saiga .308 5R,55,0.12,,,5,,,,,,300
+,,promag_saiga308_sai_a5_polymer_mag_24r,ProMag Saiga .308 SAI-A5 Polymer 24rd Magazine,23,0.43,,,24,,,,,,900
 ,magazine_10mm_glock20,,,,,,,,,,,,,
 504,,glock20_10mm_15r,Glock Standard 15R 10mm,-10,0.18,,,15,,,,,,500
 ,magazine_9x19_ar9,,,,,,,,,,,,,
@@ -1068,6 +1076,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 623,,priceli_narod_okp_7_dovetail,Priceli Narod OKP-7,-1,0.16,0,0,,,,,,,1200
 624,,zenitco_b_13_klassika_dovetail_mount,"Zenitco B-13 ""Klassika""",-3,0.14,0,0,,,,,,,750
 625,,npz_1p78_1_dovetail_mount,NPZ 1P78-1 Dovetail,-1,0.09,0,0,,,,,,,600
+,,npz_1p78_kashtan_s3_1_dovetail_mount,NPZ 1P78 Kashtan S3-1 Dovetail Mount,1,0.11,,1,,,,,,,700
 626,,rs_regulate_ak_303m_full_length_lower_mount,RS Regulate AK-303M Full Length Lower,-2,0.1,0,0,,,,,,,750
 ,,rs_regulate_ak_301m_front_biased_lower_mount,RS Regulate AK-301M Front Biased Lower Mount,-1,0.07,,,,,,,,,700
 627,,npz_pk1_1p63_obzor,NPZ PK-1 1X (1P63) Obzor,-3,0.22,-2,-1,,,,,,,1500
@@ -1124,9 +1133,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 644,,ak12_gen1_lower_receiver,Kalashnikov Concern AK-12 Gen 1,-2,0.4,-3,1,,-0.1,,,,,500
 ,ak12_upper_handguard,,,,,,,,,,,,,
 645,,ak12_std_upper_handguard,Kalashnikov Concern AK-12 Std.,0,0.06,0,0,,,,,,,250
+,,kalashnikov_concern_ak12_std_handguard_side_rail,Kalashnikov Concern AK-12 Std. Handguard Side Rail,-0.5,0.02,,,,,,,,,300
 ,ak308_barrel,,,,,,,,,,,,,
-646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.15,0,84,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.2,0.05,84,,,1000
+646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.25,0,350,,,500
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.3,0.05,100,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1164,6 +1174,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,izhmash_ak74_fire_selector,Izhmash AK74 Fire Selector,0.5,0.05,,,,,,,,,0
 ,,izhmash_akm_fire_selector,Izhmash AKM Fire Selector,0.5,0.05,,,,,,,,,0
 ,,retro_arms_cnc_ak_model_a_fire_selector,Retro Arms CNC AK MODEL A Fire Selector,1,0.03,,,,,,,,,750
+,,legal_arsenal_ak_enhanced_safety_fire_selector,Legal Arsenal AK Enhanced Safety Fire Selector,2,0.06,,,,,,,,,900
 ,ak_barrel_end,,,,,,,,,,,,,
 667,,dt_dpmn_fh,Delta-Tek DPMN,3,0.11,-9,-13,,0.05,0.05,35,,,750
 668,,dt_dtkai_mb,Delta-Tek DTK AK IPSC,-2,0.08,-18,-10,,0.2,-0.05,10,,,750
@@ -1484,9 +1495,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 853,,7.62x54r_ppu_150gr_sp_pp76254s,7.62x54R PPU 150gr SP (PP76254S),0,0.1,1,1,,0.1,,100,,,2000
 854,,7.62x54r_tulammo_t_46_149gr_green_tracer_7t2,7.62x54R Tulammo T-46 149gr Green Tracer (7T2),1,0.13,3,3,,0.2,,200,,,1000
 ,ammo_762x39,,,,,,,,,,,,,
-855,,7.62x39_tulammo_122gr_fmj_ul076201,7.62x39 Tulammo Steel Case 122gr FMJ (UL076201),0,0.01,,1,,0.25,,0,,,0
-856,,7.62x39_tulammo_154gr_sp,7.62x39 Tulammo Steel Case 154gr SP,-2,0.04,,3,,0.35,,-50,,,2000
-857,,7.62x39_tulammo_144gr_tracer_t_45,7.62x39 Tulammo Steel Case 144gr Tracer (T-45),-3,0.03,,4,,0.3,,10,,,1000
+855,,7.62x39_tulammo_122gr_fmj_ul076201,7.62x39 Tulammo Steel Case 122gr FMJ (UL076201),0,0.01,1,2,,0.35,,-400,,,0
+856,,7.62x39_tulammo_154gr_sp,7.62x39 Tulammo Steel Case 154gr SP,-2,0.04,3,3,,0.45,,-450,,,2000
+857,,7.62x39_tulammo_144gr_tracer_t_45,7.62x39 Tulammo Steel Case 144gr Tracer (T-45),-3,0.03,2,4,,0.4,,-390,,,1000
 ,ammo_5.45x39,,,,,,,,,,,,,
 858,,5.45x39_hornady_black_60gr_v_max,5.45x39 Hornady BLACK 60gr V-MAX (TA545390),1,0.08,1,3,,-0.2,,100,,,2000
 859,,5.45x39_tulammo_60gr_fmj_ta545390,5.45x39 TulAmmo 60gr FMJ (TA545390),0,0.1,,,,,,,,,0
@@ -1778,7 +1789,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1014,,steyr_aug_a3_nato_stock,AUG A3 NATO,13,0.21,-6,-9,,,,,,,1000
 1015,,steyr_aug_a3_austrian_stock,AUG A3 Austrian,15,0.21,-8,-7,,,,,,,0
 ,talon_aug_grip_wrap,,,,,,,,,,,,,
-,,talon_aug_pistol_grip_wrap,TALON AUG Pistol Grip Wrap,2,0.02,,,,,,,,,500
+,,talon_aug_pistol_grip_wrap,TALON AUG Pistol Grip Wrap,1.5,0.03,,,,,,,,,500
+,,talon_aug_foregrip_wrap,TALON AUG Foregrip Wrap,1,0.02,,,,,,,,,500
 ,aug_a3sa_top_rail_mount,,,,,,,,,,,,,
 ,,steyr_aug_a3_sa_top_rail,Steyr AUG A3 Standard Rail,1,0.14,-1,0,,,,,,,400
 ,,pjs_aug_a3_sa_cqc_top_rail,PJS AUG A3 CQC Top Rail,3,0.15,0,-1,,,,,,,600
@@ -1786,7 +1798,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,corvus_defensio_aug_a3_mlok_top_rail,Corvus Defensio AUG A3 MLOK Top Rail,2,0.17,-1,-2,,,,,,,750
 ,,steyr_aug_z_subcompact_swat_keymod_top_rail,Steyr AUG-Z Subcompact SWAT Keymod Top Rail,1,0.16,-3,-1,,,,,,,1200
 ,aug_a3m1_top_rail_mount,,,,,,,,,,,,,
-1016,,steyr_aug_a3_m1_high_sight_mount,Steyr AUG A3 M1 High Top Rail,-2,0.1,-1,0,,,,,,,400
+1016,,steyr_aug_a3_m1_high_sight_mount,Steyr AUG A3M1 High Top Rail,-1,0.1,-1,0,,,,,,,400
+,,steyr_aug_a3_m1_extended_factory_rail,Steyr AUG A3M1 Extended Factory Rail,-2,0.13,-1,-2,,,,,,,800
 1017,,manticore_arms_aug_cantiliver_forend_top_rail,Manticore Arms AUG Forend Top Rail,1,0.17,-1,-3,,,,,,,600
 1018,,manticore_arms_30mm_talon_scope_mount,Manticore Arms 30mm Talon,-3,0.15,0,-1,,,,,,,800
 1019,,corvus_defension_m1_aug_receiver_rail,Corvus Defensio M1 AUG Receiver Rail,-1,0.14,-1,-1,,,,,,,750
@@ -1796,6 +1809,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,aug_a3_trigger,,,,,,,,,,,,,
 1020,,aug_a3_std_trigger,AUG A3 Std.,1,0.06,,,,,,,,,0
 1021,,arid_concepts_aug_improved_trigger,Arid Concepts AUG Improved Trigger,2,0.08,,,,,,,,,600
+,,b3nd3rze3_mechanical_advantage_aug_a3_trigger,B3nd3rze3 Mechanical Advantage AUG A3 Trigger,3,0.1,1,0,,,,,,,800
 ,aug_safety,,,,,,,,,,,,,
 1022,,steyr_aug_a3_std_safety,Steyr AUG A3 Standard Safety,0,0.02,0,0,,,,,,,0
 1023,,arid_concepts_aug_improved_safety,Arid Concepts AUG Improved Safety,0.5,0.03,0,0,,,,,,,300
@@ -1897,12 +1911,14 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,rugged_suppressors_obsidian_9_extension,Rugged Suppressors Obsidian9 9x19 Extension,-3,0.07,-3,-2,,-0.05,0.06,50,,,1000
 ,,rugged_suppressors_obsidian_9_cap,Rugged Suppressors Obsidian9 9x19 Cap,0,0.02,,,,,,,,,0
 ,7.62x39_muzzle_device,,,,,,,,,,,,,
-1084,,akm_compensator_6p1_014,AKM 6P1 0-14,-2,0.07,-8,-13,,0.1,-0.1,-150,,,0
-1085,,izmash_akml_flash_hider,Izhmash AKML System,4,0.1,-3,-5,,0,0.04,60,,,500
-1086,,tsniitochmash_pbs_1_7.62x39_suppressor,TSNIITochMash PBS-1 7.62x39,-7,0.32,-10,-13,,0,0.06,120,,,1200
+1084,,akm_compensator_6p1_014,AKM 6P1 0-14,-2,0.07,-8,-15,,0.1,-0.1,-150,,,0
+1085,,izmash_akml_flash_hider,Izhmash AKML System,4,0.1,-3,-5,,0.05,0.04,60,,,500
+1086,,tsniitochmash_pbs_1_7.62x39_suppressor,TSNIITochMash PBS-1 7.62x39,-5,0.28,-10,-13,,-0.05,0.04,120,,,1200
 ,,cnc_warrior_m14x1lh_to_5_8x24rh_muzzle_thread_adapter,CNC Warrior M14x1lh to 5/8x24rh Muzzle Thread Adaptor,-2,0.12,2,3,,0.15,-0.06,-30,,,1500
-,,lantac_dgnak47b_7.62x39_muzzle_brake,Lantac DGNAK47B 7.62x39 Muzzle Brake,-3,0.1,-13,-11,,0.2,-0.08,-30,,,900
-,,strike_industries_jcomp_gen2_7.62x39_muzzle_brake,Strike Industries JCOMP Gen2 7.62x39 Muzzle Brake,-3,0.08,-7,-11,,0.1,-0.1,-50,,,500
+,,lantac_dgnak47b_7.62x39_muzzle_brake,Lantac DGNAK47B 7.62x39 Muzzle Brake,-3,0.1,-13,-11,,0.25,-0.08,-30,,,900
+,,strike_industries_jcomp_gen2_7.62x39_muzzle_brake,Strike Industries JCOMP Gen2 7.62x39 Muzzle Brake,-1,0.08,-7,-11,,0.1,-0.1,-50,,,500
+,,slr_rifleworks_sr47_single_port_muzzle_brake,SLR Rifleworks SR47 Single Port Muzzle Brake,-2,0.11,-7,-14,,0.15,-0.06,-30,,,600
+,,slr_rifleworks_sr47_dual_port_muzzle_brake,SLR Rifleworks SR47 Dual Port Muzzle Brake,-4,0.14,-10,-17,,0.25,-0.08,-70,,,800
 ,ak12_5.45x39_muzzle_device,,,,,,,,,,,,,
 1087,,ak12_std_muzzle_device,Kalashnikov Concern AK-12 Std.,-0.5,0.05,-13,-10,,,,10,,,0
 1088,,kalashnikov_concern_6ch60_ak12_suppressor,Kalashnikov Concern 6Ch60 AK-12,-8,0.32,-12,-15,,-0.2,0.15,200,,,1000
@@ -2337,7 +2353,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1330,,HK416A5,HK416A5,28,0,56,90,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,42,0,58,63,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
-1333,,AK308,Kalashnikov Concern AK-308,10,1.2,85,100,0,0.76,0.7,1600,,,65000
+1333,,AK308,Kalashnikov Concern AK-308,10,1.2,95,115,0,0.76,0.7,1300,,,65000
 1334,,M4A1,M4A1,15,0,64,87,0,0.46,1,1550,,,0
 1335,,QBZ95,Norinco QBZ-95,45,2.3,50,50,0,0.5,1,1550,,,25000
 1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1550,,,20000
