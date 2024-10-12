@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Oct 11 18:13:26 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Oct 12 10:28:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2381,4 +2381,4 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1353,,PlacingTool,AN/PRC 152 Type A Radio,,0.2,,,,,,,,,100
 ,launcher,,,,,,,,,,,,,
 ,,RPG7,RPG7,48,5,80,92,0,1,1,220,,,80000
-,,PSRL,PSRL,52,5.1,78,95,0,1,1,220,,,120000
+,,PSRL,PSRL,52,4.4,78,95,0,1,1,220,,,120000
