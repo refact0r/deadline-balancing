@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Oct 13 11:35:18 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Oct 13 11:44:53 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2347,8 +2347,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,surefire_lm2_bk_flashlight,Surefire LM2-BK Visible Light Flashlight,-1,0.05,,,,,,,,,500
 ,,surefire_lm2_b_bk_flashlight,Surefire LM2-B-BK Visible Light Flashlight,-1,0.06,,,,,,,,,600
 ,rpg7_warhead,,,,,,,,,,,,,
-,,npo_bazalt_pg_7vl_heat_warhead,NPO Bazalt PG-7VL Heat Warhead,0,1.3,,,,,0,0,,,
-,,npo_bazalt_og_7v_frag_warhead,NPO Bazalt OG-7V Frag Warhead,0,1,,,,,0.3,-200,,,20000
+,,npo_bazalt_pg_7vl_heat_warhead,NPO Bazalt PG-7VL Heat Warhead,0,1.2,,,,,,,,,
+,,npo_bazalt_og_7v_frag_warhead,NPO Bazalt OG-7V Frag Warhead,0,1,,,,0.3,,,,,20000
 ,throwable,,,,,,,,,,,,,
 1320,,F1,F1 Grenade,,,,,,,,,,,10000
 1321,,M67,M67 Grenade,,,,,,,,,,,0
