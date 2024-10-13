@@ -1,4 +1,4 @@
-﻿0.23.0,Sat Oct 12 10:28:00 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Oct 13 11:01:34 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -6,7 +6,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 3,,primary_arms_slx_1.53inch_straight_spacer,"Primary Arms SLx 1.53"" Riser",0,0.05,,,,,,,,,100
 4,,25mm_universal_mount,25mm Universal Tactical Mount,0,0.04,,,,,,,,,100
 5,,arms_no5_mount,A.R.M.S. #5 Multibase,0,0.06,,,,,,,,,400
-6,,a3_angled_foregrip,A3 Angled,0,0.16,-3,-7,,,,,,,900
+6,,a3_angled_foregrip,A3 Angled,-1,0.16,-2,-7,,,,,,,900
 7,,abom_cnc_works_picatinny_susat_adapter,Abom's CNC Works Picatinny SUSAT Adapter,0,0.06,,,,,,,,,300
 8,,trijicon_ac32062_mount,Trijicon AC32062 RMR Mount,0,0.05,,,,,,,,,350
 9,,aeroknox_ax15_front_sight_base,Aeroknox AX15 Front Sight Base,0,0.02,,,,,,,,,200
@@ -24,7 +24,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 21,,cobra_ekp_8_18,Cobra EKP 8 18,-2,0.19,,,,,,,,,800
 22,,colt_ca2r,Colt CA2R,3,0.07,,,,,,,,,400
 23,,colt_m4a1_carry_handle,Colt M4A1 Carry Handle,4,0.14,,,,,,,,,0
-24,,hera_arms_cqr_gen1_foregrip,CQR FG,-2,0.23,-6,-8,,,,,,,1000
+24,,hera_arms_cqr_gen1_foregrip,CQR FG,-3,0.23,-6,-8,,,,,,,1000
+,,hera_arms_cqr_gen2_foregrip,Hera Arms CQR Gen2 Foregrip,-2,0.23,-4,-9,,,,,,,
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-3,0.33,,-3,,,,,,,3000
 26,,elcan_specter_os4x_sfov4,ELCAN Specter OS4X Fixed-Magn. SFOV4,-3,0.24,,-2,,,,,,,3000
 27,,elcan_specterdr_1_4x_dfov14_t1,ELCAN SpecterDR 1-4x DFOV14-T1,-3,0.28,,-1,,,,,,,5000
@@ -154,8 +155,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,primary_arms_slx_1.53inch_straight_spacer_alt,,0,0.05,,,,,,,,,100
 ,,gbrs_group_lerna_picatinny_eotech_mount,GBRS Group Lerna Picatinny Eotech Mount,-1,0.07,,,,,,,,,900
 ,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,0,0.1,0,0,,,,,,,700
-,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,0,0.06,-5,-3,,,,,,,0
-,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-3,0.06,-6,-5,,,,,,,0
+,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,-1,0.06,-4,-4,,,,,,,0
+,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-4,0.06,-6,-6,,,,,,,0
 ,,strike_industries_cobra_tactical_foregrip,Strike Industries Cobra Tactical Foregrip,5,0.06,-4,0,,,,,,,500
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,0,0.03,,,,,,,,,750
 ,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,0,0.03,,,,,,,,,750
@@ -926,8 +927,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,18,0.1,,,10,,,,,,300
 ,magazine_9x19,,,,,,,,,,,,,
 515,,glock17_9x19_stick_31r_magazine,Glock 9x19 31R Stick,-3,0.29,,,29,,,,,,1000
+,,9x19_glock_stick_31r,Glock 9x19 31R Stick,-3,0.29,,,29,,,,,,1000
 516,,glock17_gen5_9x19_17r_magazine,Glock 9x19 17R,0,0.15,,,17,,,,,,500
 517,,sgm_tactical_glock_9x19_50r_drum_magazine,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
+,,9x19_sgmt_50r_drum,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
 ,magazine_9x19_ump9,,,,,,,,,,,,,
 518,,ump9_9x19_30r_mag,UMP9 9x19 30R,4,0.25,,,30,,,,,,500
 ,magazine_12g_r870,,,,,,,,,,,,,
@@ -1797,15 +1800,20 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,steyr_aug_a3_sa_xs_top_rail,Steyr AUG A3 Para XS Top Rail,5,0.13,1,2,,,,,,,1000
 ,,corvus_defensio_aug_a3_mlok_top_rail,Corvus Defensio AUG A3 MLOK Top Rail,2,0.17,-1,-2,,,,,,,750
 ,,steyr_aug_z_subcompact_swat_keymod_top_rail,Steyr AUG-Z Subcompact SWAT Keymod Top Rail,1,0.16,-3,-1,,,,,,,1200
+,steyr_aug_z_rail_irons,,,,,,,,,,,,,
+,,steyr_aug_z_rail_front_sight,Steyr AUG-Z Rail Front Sight,3,0.03,,,,,,,,,0
+,,steyr_aug_z_rail_front_sight_folded,Steyr AUG-Z Rail Front Sight Folded,2,0.03,,,,,,,,,0
+,,steyr_aug_z_rail_rear_sight,Steyr AUG-Z Rail Rear Sight ,3,0.03,,,,,,,,,0
+,,steyr_aug_z_rail_rear_sight_folded,Steyr AUG-Z Rail Rear Sight Folded,2,0.03,,,,,,,,,0
 ,aug_a3m1_top_rail_mount,,,,,,,,,,,,,
-1016,,steyr_aug_a3_m1_high_sight_mount,Steyr AUG A3M1 High Top Rail,-1,0.1,-1,0,,,,,,,400
-,,steyr_aug_a3_m1_extended_factory_rail,Steyr AUG A3M1 Extended Factory Rail,-2,0.13,-1,-2,,,,,,,800
+1016,,steyr_aug_a3_m1_high_sight_mount,Steyr AUG A3 M1 High Top Rail,-1,0.1,-1,0,,,,,,,400
+,,steyr_aug_a3_m1_extended_factory_rail,Steyr AUG A3 M1 Extended Factory Top Rail,-2,0.13,-1,-2,,,,,,,800
 1017,,manticore_arms_aug_cantiliver_forend_top_rail,Manticore Arms AUG Forend Top Rail,1,0.17,-1,-3,,,,,,,600
 1018,,manticore_arms_30mm_talon_scope_mount,Manticore Arms 30mm Talon,-3,0.15,0,-1,,,,,,,800
 1019,,corvus_defension_m1_aug_receiver_rail,Corvus Defensio M1 AUG Receiver Rail,-1,0.14,-1,-1,,,,,,,750
 ,,steyr_aug_a3sf_60mm_3x_scope,Steyr AUG A3SF 60mm 3x,2,0.26,0,-1,,,,,,,3000
 ,,steyr_aug_a3sf_60mm_1.5x_scope,Steyr AUG A3SF 60mm 1.5x,2,0.26,0,-1,,,,,,,2000
-,,steyr_aug_a3_m1_extended_factory_rail,Steyr AUG A3 M1 Extended Factory Top Rail,-2,0.13,-1,-2,,,,,,,
+,,steyr_aug_a3_m1_extended_factory_rail,Steyr AUG A3 M1 Extended Factory Top Rail,-2,0.13,-1,-2,,,,,,,800
 ,aug_a3_trigger,,,,,,,,,,,,,
 1020,,aug_a3_std_trigger,AUG A3 Std.,1,0.06,,,,,,,,,0
 1021,,arid_concepts_aug_improved_trigger,Arid Concepts AUG Improved Trigger,2,0.08,,,,,,,,,600
