@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Oct 13 14:00:13 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Oct 13 14:08:40 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -264,6 +264,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,trijicon_compact_acog_3x24_ta50c_red_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1200
 152,,trijicon_compact_acog_3x24_ta50c_green,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1500
 ,,trijicon_compact_acog_3x24_ta50c_green_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1500
+,,trijicon_rm34_rmr_adapter,Trijicon RM34 RMR Adapter,0,0.02,,,,,,,,,200
 ,trijicon_retro_reflex_sight,,,,,,,,,,,,,
 153,,trijicon_rx01/06_series_1x24_reflex_sight,Trijicon RX01/06 Series 1x24 Reflex,-2,0.08,,,,,,,,,900
 154,,trijicon_rx01/06_series_1x24_reflex_sight_ch,Trijicon RX01/06 Series 1x24 Reflex,-2,0.08,,,,,,,,,900
@@ -2364,9 +2365,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,npo_bazalt_rpg_7_rear_sight_zeroing_rail,NPO Bazalt RPG-7 Rear Sight Zeroing Rail,1,0.03,,,,,,,,,0
 ,,npo_bazalt_rpg_7_rear_sight_zeroing_rail_folded,NPO Bazalt RPG-7 Rear Sight Zeroing Rail Folded,1,0.03,,,,,,,,,0
 ,psrl,,,,,,,,,,,,,
-,,airtronic_psrl_2_tube,AirTronic USA PSRL-2 Tube,,2.6,,,,,,,,,0
-,,airtronic_psrl_2_tube_shoulder_padding,AirTronic USA PSRL-2 Tube Shoulder Padding,,0.36,,,,,,,,,0
-,,airtronic_psrl_2_trigger_housing,AirTronic USA PSRL-2 Trigger Housing,,0.28,,,,,,,,,0
+,,airtronic_psrl_2_tube,AirTronic USA PSRL-2 Tube,,2.5,,,,,,,,,0
+,,airtronic_psrl_2_tube_shoulder_padding,AirTronic USA PSRL-2 Tube Shoulder Padding,,0.35,,,,,,,,,0
+,,airtronic_psrl_2_trigger_housing,AirTronic USA PSRL-2 Trigger Housing,,0.27,,,,,,,,,0
 ,,airtronic_psrl_2_hammer,AirTronic USA PSRL-2 Hammer,,0.04,,,,,,,,,0
 ,,airtronic_psrl_2_safety,AirTronic USA PSRL-2 Safety,,0.02,,,,,,,,,0
 ,,airtronic_psrl_2_trigger,AirTronic USA PSRL-2 Trigger,,0.04,,,,,,,,,0
