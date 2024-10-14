@@ -1,4 +1,4 @@
-﻿0.23.0,Sun Oct 13 14:08:40 2024,,,,,,,,,,,,,
+﻿0.23.0,Sun Oct 13 22:19:42 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1381,13 +1381,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 795,,moto_cut_slide,Moto Cut,1,0.12,-3,-2,,,,,,,0
 ,,glock17_gen4_slide,Glock 17 Gen4 Slide,3,0.08,-2,-2,,,,,,,600
 ,,glock17_gen5_early_slide,Glock 17 Gen5 Slide,2,0.07,-3,-4,,,,,,,0
-,,glock17l_slide,Glock 17L Slide,2,0.1,-4,-4,,,,,,,1500
-,,glock17_gen5_mos_slide,Glock17 Gen5 MOS Slide,0,0.06,-3,-4,,,,,,,1500
-,,glock17_gen4_mos_slide,Glock17 Gen4 MOS Slide,1,0.05,-2,-2,,,,,,,1200
+,,glock17l_slide,Glock 17L Slide,2,0.1,-4,-5,,,,,,,1500
+,,glock17_gen5_mos_slide,Glock17 Gen5 MOS Slide,1,0.06,-3,-4,,,,,,,1500
+,,glock17_gen4_mos_slide,Glock17 Gen4 MOS Slide,2,0.05,-2,-2,,,,,,,1200
 ,glock_mos,,,,,,,,,,,,,
 ,,glock17_slide_mos_plate,Glock 17 Slide MOS Plate,0,0.03,,,,,,,,,0
-,,glock_mos_02_adapter_plate,Glock MOS 02 Adapter Plate,-1,0.03,,,,,,,,,300
-,,glock_mos_04_adapter_plate,Glock MOS 04 Adapter Plate,-1,0.03,,,,,,,,,300
+,,glock_mos_02_adapter_plate,Glock MOS 02 Adapter Plate,0,0.02,,,,,,,,,300
+,,glock_mos_04_adapter_plate,Glock MOS 04 Adapter Plate,0,0.02,,,,,,,,,300
 ,glock_sear,,,,,,,,,,,,,
 796,,glock17_auto_sear,Glock 17 Auto Sear,-3,0.05,5,12,,,,,,,4000
 ,glock_slide_backplate,,,,,,,,,,,,,
@@ -1439,7 +1439,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,glock_barrel,,,,,,,,,,,,,
 816,,glock17_gen5_marksman_114mm_9x19_barrel,114mm,2,0.16,-9,-12,,0,0,0,,,0
 817,,sai_match_threaded_9x19_barrel,SAI Match Threaded G17 9x19,0,0.16,-7,-10,,0.05,0,25,,,1200
-,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-2,0.2,-11,-13,,-0.1,0.04,100,,,1500
+,,glock17l_ported_153mm_9x19_barrel,Glock 17L Ported 153mm 9x19 Barrel,-1,0.2,-13,-13,,-0.1,0.04,100,,,1500
 ,,igb_austria_match_grade_polygonal_406mm_9x19_barrel,IGB Austria Match Grade Polygonal 406mm 9x19 Barrel,-25,0.43,-10,-15,,-0.2,0.1,300,,,3000
 ,glock_spring,,,,,,,,,,,,,
 ,,glock17_gen5_spring,Glock 17 Gen5 Spring,0,0.02,,,,,,,,,0
@@ -1456,7 +1456,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,glock17l_front_sight,Glock 17L Front Sight,1,0.01,,,,,,,,,100
 825,,glock17_gen5_front_sight,Glock standard,1,0.01,,,,,,,,,0
 ,glock_rear_sight,,,,,,,,,,,,,
-826,,trijicon_rm44_rear_sight_mount,RM44,Trijicon RM44 RMR Rear Sight Mount,0.03,,,,,,,,,500
+826,,trijicon_rm44_rear_sight_mount,Trijicon RM44 RMR Rear Sight Mount,-1,0.03,,,,,,,,,500
 827,,truglo_glock_tfx_rs,Truglo TFX,2,0.03,,,,,,,,,500
 828,,glock20_lf_rear_sight,Glock 20 Factory Large Frame,0.5,0.02,,,,,,,,,0
 829,,trijicon_glock_supp_height_rear_sights_wh_sf,Trijicon Suppressor / Optic Height White Outline Std. Frame,-1,0.04,,,,,,,,,300
