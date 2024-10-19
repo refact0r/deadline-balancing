@@ -1,4 +1,4 @@
-﻿0.23.0,Fri Oct 18 17:43:25 2024,,,,,,,,,,,,,
+﻿0.23.0,Sat Oct 19 11:34:37 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -637,7 +637,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,radian_weapons_ax556_adac15_lower_receiver,Radian Weapons AX556 ADAC15 Lower Receiver,6,0.42,-2,-3,,,,,,,4000
 ,,noveske_n4_gen3_ar15_lower_receiver,Noveske N4 Gen3 AR15 Lower Receiver,5,0.35,-2,-1,,,,,,,2000
 ,,aeroknox_ax15_lower_receiver,Aeroknox AX // 15 Lower Receiver,3,0.25,-1,0,,,,,,,1500
-,,daniel_defense_m4_carbine_lower_receiver,Daniel Defense M4 Carbine Lower Receiver,4,0.33,,,,,,,,,1000
+,,daniel_defense_m4_carbine_lower_receiver,Daniel Defense M4 Carbine Lower Receiver,3,0.33,,,,,,,,,1000
 ,m4a1_mag_release,,,,,,,,,,,,,
 343,,m4a1_std_mag_release,Colt M4A1,0,0.01,,,,,,,,,0
 ,,radian_weapons_adac15_mag_release,Radian Weapons ADAC15 Mag Rlease,1,0.02,,,,,,,,,200
