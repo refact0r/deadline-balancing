@@ -11,7 +11,7 @@ bcm_gunfighter_mod3_mlok_foregrip,BCM Gunfighter Mod 3 MLOK Foregrip,5,0.07,-3,-
 bcm_gunfighter_mod3_mlok_foregrip_flipped,BCM Gunfighter Mod 3 MLOK Foregrip Flipped,5,0.07,-3,-2,,,,,,,300,7.2,,,,,
 bcm_gunfighter_mod3_mlok_shortened_foregrip,BCM Gunfighter Mod 3 MLOK Shortened Foregrip,6,0.05,-2,-1,,,,,,,300,7.2,,,,,
 bcm_gunfighter_mod3_mlok_shortened_foregrip_flipped,BCM Gunfighter Mod 3 MLOK Shortened Foregrip Flipped,6,0.05,-2,-1,,,,,,,300,7.2,,,,,
-magpul_mlok_afg_grip,Magpul MLOK AFG,4,0.05,-2,-4,,,,,,,500,7,,,,,
+magpul_mlok_afg_grip,Magpul MLOK AFG,4,0.05,-3,-3,,,,,,,500,7.2,,,,,
 ,,,,,,,,,,,,,0,,,,,
 grip_pod_gps_02_body,Grip Pod Systems GPS-02,0,0.15,0,0,,,,,,,1100,-3,,,,,
 grip_pod_gps_02_legs_col,GPS-02 Collapsed,-1,0.09,-4,-5,,,,,,,0,3.4,,,,,
