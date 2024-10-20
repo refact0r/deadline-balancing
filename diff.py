@@ -68,8 +68,8 @@ def compare_rows(
 
 
 def main(file1: str, file2: str):
-    _, size, data1 = read_csv(file1)
-    version, _, data2 = read_csv(file2)
+    _, _, data1 = read_csv(file1)
+    version, size, data2 = read_csv(file2)
 
     compare_cols = list(next(iter(data1.values())).keys())[4:]
 
