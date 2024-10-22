@@ -28,7 +28,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hera_arms_cqr_gen2_foregrip,Hera Arms CQR Gen2 Foregrip,6,0.23,-3,0,,,,,,,
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-3,0.33,,-3,,,,,,,3000
 26,,elcan_specter_os4x_sfov4,ELCAN Specter OS4X Fixed-Magn. SFOV4,-3,0.24,,-2,,,,,,,3000
-27,,elcan_specterdr_1_4x_dfov14_t1,ELCAN SpecterDR 1-4x DFOV14-T1,-3,0.28,,-1,,,,,,,5000
+27,,elcan_specterdr_1_4x_dfov14_t1,ELCAN SpecterDR 1-4x DFOV14-T1,-3,0.28,,-1,,,,,,,4000
 28,,eotech_553_holo_sight,Eotech 553,-2,0.18,,,,,,,,,1400
 ,,eotech_552_holo_sight,Eotech 552,-2,0.17,,,,,,,,,1300
 ,,eotech_512_holo_sight,Eotech 512,-1,0.17,,,,,,,,,1100
@@ -160,7 +160,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,strike_industries_cobra_tactical_foregrip,Strike Industries Cobra Tactical Foregrip,5,0.06,-4,0,,,,,,,500
 ,,scalarworks_peak01_fixed_front_ironsight,Scalarworks Peak01 Fixed Front Irons,0,0.03,,,,,,,,,750
 ,,scalarworks_peak01_fixed_rear_ironsight,Scalarworks Peak01 Fixed Rear Irons,0,0.03,,,,,,,,,750
-,,armasight_orion_3x_gen1_plus_nv_scope,Armasight Orion 3x Gen1+ Night Vision Scope,-8,0.26,,,,,,,,,1000
+,,armasight_orion_3x_gen1_plus_nv_scope,Armasight Orion 3x Gen1+ Night Vision Scope,-8,0.36,,-3,,,,,,,3000
 ,,bcm_gunfighter_mod3_picatinny_foregrip,BCM Gunfighter Mod 3 Picatinny Foregrip,5,0.07,-3,-2,,,,,,,300
 ,,bcm_gunfighter_mod3_picatinny_foregrip_flipped,BCM Gunfighter Mod 3 Picatinny Foregrip Flipped,5,0.07,-3,-2,,,,,,,300
 ,,bcm_gunfighter_mod3_picatinny_shortened_foregrip,BCM Gunfighter Mod 3 Picatinny Shortened Foregrip,6,0.05,-2,-1,,,,,,,300
@@ -1092,7 +1092,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,sag_bit_rail,SAG Bit Low Profile Dovetail Mount,,,,,,,,,,,0
 ,,zeiss_zfk_4x25_scope,Zeiss ZFK 4x25 Scope,-4,0.2,0,0,,,,,,,1300
 ,,belomo_pk_a_1x20_dovetail_scope,Belomo PKA Dovetail Optic,-3,0.15,,,,,,,,,1000
-,,npz_nspu_m_3.5x_1pn58,NPZ NSPU-M 3.5x 1PN58 Night Vision Optic,-6,0.38,,,,,,,,,750
+,,npz_nspu_m_3.5x_1pn58,NPZ NSPU-M 3.5x 1PN58 Night Vision Optic,-7,0.38,,,,,,,,,2500
 ,ak_gas_tube,,,,,,,,,,,,,
 632,,akmn_gas_tube,AKMN,-1,0.08,0,0,,,,,,,0
 633,,ultimak_m1_b_gastube,UltiMAK M1-B gas tube,0,0.09,0,-1,,,,,,,800
@@ -2386,8 +2386,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,airtronic_psrl_front_ironsight_folded,AirTronic USA PSRL Front Ironsight Folded,1,0.02,,,,,,,,,0
 ,,airtronic_psrl_plastic_foregrip,AirTronic USA PSRL Plastic Foregrip,3,0.1,-2,-2,,,,,,,800
 ,throwable,,,,,,,,,,,,,
-1320,,F1,F1 Grenade,,,,,,,,,,,10000
-1321,,M67,M67 Grenade,,,,,,,,,,,0
+1320,,F1,F1 Grenade,,0.2,,,,,,,,,10000
+1321,,M67,M67 Grenade,,0.2,,,,,,,,,0
 1322,,ExplosiveRadio,AN/PRC 152 Type A Radio,,,,,,,,,,,100
 1323,,TestFlash,TestFlash,,,,,,,,,,,5000
 1324,,TestSmoke,TestSmoke,,,,,,,,,,,2000
