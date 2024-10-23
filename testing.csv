@@ -1,4 +1,4 @@
-﻿0.23.2,Mon Oct 21 20:45:47 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Oct 23 00:31:03 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -447,8 +447,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,modlite_plhv2_light_head,Modlite PLHV2 Light Head,-1,0.03,,,,,,,,,500
 ,,surefire_km1_e_ir_scout_light_head,Surefire KM1-E IR Scout Light Head,0,0.02,,,,,,,,,250
 ,surefire_tailcap,,,,,,,,,,,,,
-,,arisaka_momentary_tailcap,Arisaka Momentary Tailcap,2,0.01,,,,,,,,,100
-,,surefire_z68_clicky_tailcap,Surefire Z68 Clicky Tailcap,3,0.02,,,,,,,,,250
+,,arisaka_momentary_tailcap,Arisaka Momentary Tailcap,1,0.01,,,,,,,,,100
+,,surefire_z68_clicky_tailcap,Surefire Z68 Clicky Tailcap,1.5,0.02,,,,,,,,,250
 ,carry_handle_scope_mount,,,,,,,,,,,,,
 ,,colt_retro_a1_4x21_scope,Colt Retro A1 4x21 Scope,-3,0.17,,,,,,,,,750
 ,,barska_eletrco_4x20_bdc_scope,Barska Electro 4x20 BDC Turret Scope,-3,0.18,,,,,,,,,1000
