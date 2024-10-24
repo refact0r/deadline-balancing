@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Oct 23 23:56:21 2024,,,,,,,,,,,,,
+﻿0.23.2,Thu Oct 24 01:23:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -927,8 +927,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,17,0.15,,,15,,,,,,500
 514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,18,0.1,,,10,,,,,,300
 ,magazine_9x19,,,,,,,,,,,,,
-515,,glock17_9x19_stick_31r_magazine,Glock 9x19 31R Stick,-3,0.29,,,29,,,,,,1000
-,,9x19_glock_stick_31r,Glock 9x19 31R Stick,-3,0.29,,,29,,,,,,1000
+515,,glock17_9x19_stick_31r_magazine,Glock 9x19 31R Stick,-3,0.29,,,31,,,,,,1000
+,,9x19_glock_stick_31r,Glock 9x19 31R Stick,-3,0.29,,,31,,,,,,1000
 516,,glock17_gen5_9x19_17r_magazine,Glock 9x19 17R,0,0.15,,,17,,,,,,500
 517,,sgm_tactical_glock_9x19_50r_drum_magazine,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
 ,,9x19_sgmt_50r_drum,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
