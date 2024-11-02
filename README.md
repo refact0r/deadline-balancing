@@ -5,6 +5,7 @@ attachment stats for deadline. game link: <https://www.roblox.com/games/38378410
 ## changelogs
 
 - [0.23.0](changelogs/0-23-0.md)
+- [0.23.1](changelogs/0-23-1.md)
 
 ## guide
 
