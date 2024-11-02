@@ -2,7 +2,7 @@
 name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,irl weight,weight formula,irl price
 swampfox_picatinny_rmr_footprint_mount,Swampfox Picatinny RMR Mount,0,0.02,,,,,,,,,200,-0.4,,,0.02,
 trijicon_rm33_mount,Trijicon RM33 RMR Mount,0,0.02,,,,,,,,,300,-0.4,,,0.02,
-trijicon_ac32062_mount,Trijicon AC32062 RMR Mount,0,0.05,,,,,,,,,350,-1,,,0.02,
+trijicon_ac32062_mount,Trijicon AC32062 RMR Mount,-0.5,0.05,,,,,,,,,350,-1.5,,,0.02,
 trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Reflex,-2,0.04,,,,,,,,,1100,-2.8,,1.2,0.0356,479.99
 trijicon_rmr_rm05_dual_illuminated_reflex,Trijicon RM05 RMR Dual Illuminated Reflex,-2,0.04,,,,,,,,,1200,-2.8,,1.2,0.0356,499.39
 trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-2,0.04,,,,,,,,,1000,-2.8,,1.2,0.0356,448.52
