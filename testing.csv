@@ -1,4 +1,4 @@
-﻿0.23.2,Tue Nov 05 12:58:49 2024,,,,,,,,,,,,,
+﻿0.23.2,Tue Nov 05 13:06:00 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1967,9 +1967,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1105,,silencerco_osprey45_gen1_45acp_suppressor,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor,-7,0.29,-2,-9,,-0.05,0.2,200,,,1500
 1106,,silencerco_osprey45_gen1_45acp_suppressor_flipped,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor Flipped,-7,0.29,-2,-9,,-0.05,0.2,200,,,1500
 ,5.8x42_muzzle_device,,,,,,,,,,,,,
-,,norinco_qbz95_factory_type1_bird_cage_flash_hider,Norinco QBZ Factory Type 1 Bird Cage Flash Hider,-1,0.08,-3,-2,,-0.05,,30,,,300
-,,norinco_qbz95_factory_type2_bird_cage_flash_hider,Norinco QBZ Factory Type 2 Bird Cage Flash Hider,2,0.1,-1,-3,,0,0.04,60,,,300
-,,norinco_qbz95_5.8x42mm_suppressor,Norinco QBZ95 5.8x42mm Suppressor,-5,0.18,-4,-6,,-0.05,0.12,100,,,1500
+,,norinco_qbz95_factory_type1_bird_cage_flash_hider,Norinco QBZ Factory Type 1 Bird Cage Flash Hider,-1,0.08,-3,-2,,0,0,45,,,300
+,,norinco_qbz95_factory_type2_bird_cage_flash_hider,Norinco QBZ Factory Type 2 Bird Cage Flash Hider,0,0.1,-2,-2,,0,0,45,,,300
+,,norinco_qbz95_5.8x42mm_suppressor,Norinco QBZ95 5.8x42mm Suppressor,-5,0.2,-4,-6,,-0.05,0.12,100,,,2000
 ,sa58_upper_receiver,,,,,,,,,,,,,
 1107,,sa58_type1_upper_receiver,DSA SA-58 Type 1,-10,0.38,0,0,,,,,,,500
 1108,,sa58_type1_upper_receiver_with_carry_handle,DSA SA-58 Type 1 (w/ Carry Handle Mount),-11,0.4,-2,-2,,,,,,,0
