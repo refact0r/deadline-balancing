@@ -3,6 +3,8 @@ name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_ca
 hera_arms_cqr_gen2_stock,Hera Arms CQR Gen2 Stock,10,0.32,-7,-11,,,,,,,1500,15.8,,19,,129,
 hera_arms_cqr_gen2_buttpad,Hera Arms CQR Gen2 Buttpad,1,0.05,-1,-1,,,,,,,0,1.4,,,,,
 colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0,-0.2,,,,,
+colt_607_car15_buffer_tube,Colt 607 CAR-15 Buffer Tube,-2,0.13,-1,-1,,,,,,,500,-3.2,,,,,
+colt_607_car15_stock,Colt 607 CAR-15 Stock,16,0.23,-8,-14,,,,,,,500,26.2,,,,,
 ,,,,,,,,,,,,,0,,,,,
 troy_m7a1,Troy M7A1,-2,0.12,0,0,,,,,,,1000,-4.4,,14,,479.99,
 ti_stock,Troy M7A1 Extendable Buttpad,21,0.15,-5,-7,,,,,,,800,26.2,,,,,
@@ -50,9 +52,10 @@ magpul_moe_sl_k_carbine_stock,Magpul MOE SL-K Carbine,18,0.17,-7,-8,,,,,,,800,25
 magpul_moe_sl_k_carbine_stock_buttpad,Magpul MOE SL-K Carbine Buttpad,1,0.02,-1,-1,,,,,,,0,2,,,,,
 daniel_defense_collapsible_milspec_buttstock,Daniel Defense Collapsible Milspec Stock,16,0.18,-8,-10,,,,,,,900,24.8,,8,,82,
 daniel_defense_concave_buttpad,Daniel Defense Concave Buttpad,1,0.02,-1,-1,,,,,,,0,2,,,,,
-,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,0,,,,,
 ,CURRENT (SUMMED),,,,,,,,,,,,0,,,,,
 ,Hera Arms CQR Gen2,11,0.37,-8,-12,0,0,0,0,0,0,1500,17.2,,19,0.525,129,887
+,Colt 607 CAR-15 Stock,14,0.36,-9,-15,0,0,0,0,0,0,1000,23,,,,,
 ,Troy M7A1,19,0.28,-5,-7,0,0,0,0,0,0,1800,21.6,,14,0.35,479.99,1939.97
 ,UTG A2 fixed stock,10,0.42,-12,-17,0,0,0,0,0,0,700,21.4,,25,0.515,79.97,739.91
 ,MDT Skeleton V5,23,0.4,-1,-1,0,0,0,0,0,0,1300,16.4,,32,0.62,399.95,1699.85

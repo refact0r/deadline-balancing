@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 06 20:32:00 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 06 20:45:05 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -573,6 +573,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 315,,colt_m4a1_receiver_endplate,Colt M4A1 Receiver Endplate,0,0.01,,,,,,,,,0
 ,,thorsden_frs15_gen3_ar15_endplate,Thorsden FRS15 Gen3 AR15 Endplate,2,0.06,8,8,,3,,,,,600
 ,,aeroknox_ax15_endplate,Aeroknox AX // 15 Endplate,0,0.01,,,,,,,,,0
+,,colt_607_car15_buffer_tube,Colt 607 CAR-15 Buffer Tube,-2,0.13,-1,-1,,,,,,,500
+,,colt_607_car15_stock,Colt 607 CAR-15 Stock,16,0.23,-8,-14,,,,,,,500
 ,ar15_pistol_grip,,,,,,,,,,,,,
 316,,timber_creek_enforcer_pistol_grip,Timber Creek Enforcer,4,0.07,-1,-7,,,,,,,900
 317,,td_skeletonized_pistol_grip,TD Skeletonized,3,0.04,-3,-5,,,,,,,700
