@@ -3,6 +3,7 @@ name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_ca
 colt_m4_std_carbine_plastic_handguard,Colt M4 Standard Carbine Length Plastic,14,0.2,-10,-10,,0.05,,,,,0,23.75
 colt_a2_std_rifle_plastic_handguard,Colt M16A2 Rifle Length Plastic,12,0.29,-11,-16,,0.08,,,,,500,24.2
 usgi_m16a1_triangle_handguard,USGI M16A1 Triangle Handguard,13,0.27,-10,-15,,0.07,,,,,600,24.25
+colt_607_car15_triangle_7inch_handguard,"Colt 607 CAR-15 Triangle 7"" Handguard",16,0.19,-8,-10,,0.05,,,,,550,24.35
 lvoa_c_handguard,LVOA-C,11,0.32,-10,-18,,,,,,,900,23.4
 lvoa_s_handguard,LVOA-S,9,0.36,-12,-20,,,,,,,950,23.4
 mk10_rl_handguard,MK10RL,13,0.34,-12,-12,,,,,,,1000,23

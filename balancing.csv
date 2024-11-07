@@ -1,4 +1,4 @@
-﻿0.23.2,Fri Nov 01 21:08:10 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 06 20:22:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -518,6 +518,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,midwest_industries_supp_series_sp12m_mlok_handguard,"Midwest Industries Supp Series SP12M 12.625""",9,0.34,-9,-17,,,,,,,1450
 ,,midwest_industries_supp_series_sp15m_mlok_handguard,"Midwest Industries Supp Series SP15M 15""",7,0.38,-11,-18,,,,,,,1500
 ,,midwest_industries_supp_series_sp18m_mlok_handguard,"Midwest Industries Supp Series SP18M 18""",5,0.42,-12,-20,,,,,,,1600
+,,colt_607_car15_triangle_7inch_handguard,"Colt 607 CAR-15 Triangle 7"" Handguard",16,0.19,-8,-10,,0.05,,,,,550
 ,modtac_mounting_coupler,,,,,,,,,,,,,
 ,,modtac_mrac_gen2_mounting_coupler,MODTAC M-RAC Gen2 Mounting Coupler,-2,0.04,,,,,,,,,300
 ,,modtac_mrac_gen3_mounting_coupler,MODTAC M-RAC Gen3 Mounting Coupler,-1,0.05,,,,,,,,,500
