@@ -1,4 +1,4 @@
-﻿0.23.2,Thu Nov 07 13:49:20 2024,,,,,,,,,,,,,
+﻿0.23.2,Fri Nov 08 14:02:39 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -928,7 +928,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 509,,tt33_extended_16r_mag,TT-33 Custom Welded Single Stack Extended 16R,10,0.18,,,16,,,,,,1000
 ,magazine_9x18,,,,,,,,,,,,,
 510,,9x18_makarov_pm/ppsh_drum_84r,STD 84R,-5,0.68,,,84,1,,,,,2000
-511,,9x18_makarov_8r,Izhevsk PM Std. 8R,0,0.1,,,8,,,,,,300
+511,,izhevsk_pm_9x18_8r_magazine,Izhevsk PM 9x18 8R Magazine,0,0.09,,,8,,,,,,0
 ,magazine_9x19_edc_x9,,,,,,,,,,,,,
 512,,wilson_combat_edc_x9_18r_magazine,EDC X9 Std. 18r,15,0.19,,,18,,,,,,1000
 513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,17,0.15,,,15,,,,,,500
@@ -1370,18 +1370,30 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,tt33_upper_rail_adapter,,,,,,,,,,,,,
 784,,tt_c_optic_rail,TT-C Optic,-0.5,0.04,,,,,,,,,1000
 ,pm_makarov_mag_bottomplate,,,,,,,,,,,,,
-785,,pm_mag_bottom_plate,PM Makarov Std. Mag,0,0.01,,,,,,,,,0
+785,,izhevsk_pm_mag_bottomplate,Izhevsk PM Magazine Bottom Plate,0,0.01,,,,,,,,,0
 786,,legal_arsenal_enhanced_+2r_ext_pm_mag_plate,Legal Arsenal PM Makarov Enhanced (+2 Round),-0.8,0.025,,,2,,,,,,1400
 787,,legal_arsenal_+2r_ext_pm_mag_plate,Legal Arsenal PM Makarov (+2 Round),-1,0.02,,,2,,,,,,1000
 ,makarov_lower_receiver,,,,,,,,,,,,,
-788,,makarov_lower_receiver,Makarov Standard,0,0.34,,,,,,,,,0
+788,,izhevsk_pm_9x18_std_frame,Izhevsk PM 9x18 Standard Frame,0,0.2,,,,,,,,,0
 ,makarov_pistol_grip,,,,,,,,,,,,,
-789,,makarov_std_pistol_grip,Makarov standard,2,0.1,-1,-1,,,,,,,0
-790,,fab_defense_pm_g_pistol_grip,FAB Defense PM-G,6,0.12,0,-2,,,,,,,800
+789,,izhevsk_pm_bakelite_grip,Izhevsk PM Bakelite Grip,2,0.06,-1,-1,,,,,,,0
+790,,fab_defense_pm_g_pistol_grip,FAB Defense PM-G,6,0.08,0,-2,,,,,,,800
 ,makarov_slide,,,,,,,,,,,,,
-791,,makarov_slide,Makarov Standard,0,0.1,,,,,,,,,0
+791,,izhevsk_pm_9x18_std_slide,Izhevsk PM 9x18 Standard Slide,0,0.1,,,,,,,,,0
 ,makarov_barrel,,,,,,,,,,,,,
-792,,makarov_std_barrel,Izhevsk PM(t) 9x18 Makarov,0,0.08,0,0,,0,0,0,,,0
+792,,izhevsk_pm_9x18_94mm_barrel,Izhevsk PM 9x18 94mm Barrel,0,0.15,0,0,,0,0,0,,,0
+,makarov_parts,,,,,,,,,,,,,
+,,izhevsk_pm_mag_release_spring,Izhevsk PM Standard Magazine Release Spring,,0.01,,,,,,,,,0
+,,izhevsk_pm_std_hammer,Izhevsk PM Standard Hammer,,0.01,,,,,,,,,0
+,,izhevsk_pm_spring_retainer,Izhevsk PM Standard Spring Retainer,,0.01,,,,,,,,,0
+,,izhevsk_pm_trigger_connect,Izhevsk PM Trigger Connect,,0.01,,,,,,,,,0
+,,izhevsk_pm_std_slide_stop,Izhevsk PM Standard Slide Stop,,0.01,,,,,,,,,0
+,,izhevsk_pm_std_9x18_ejector,Izhesvk PM Standard 9x18 Ejector,,0.01,,,,,,,,,0
+,,izhevsk_pm_std_safety,Izhesvk PM Standard Safety,,0.01,,,,,,,,,0
+,,izhevsk_pm_9x18_firing_pin,Izhevsk PM 9x18 Firing Pin,,0.01,,,,,,,,,0
+,,izhevsk_pm_trigger_guard,Izhevsk PM Trigger Guard,,0.01,,,,,,,,,0
+,,izhevsk_pm_std_trigger,Izhevsk PM Standard Trigger,,0.01,,,,,,,,,0
+,,izhevsk_pm_std_rear_sight,Izhevsk PM Standard Rear Sight,1,0.01,,,,,,,,,0
 ,glock_slide,,,,,,,,,,,,,
 793,,glock_standard_slide,Glock Standard,0,0.15,-1,-1,,,,,,,0
 794,,hex_slide,Zev Tech Hex Gen3,3,0.1,0,-3,,,,,,,0
