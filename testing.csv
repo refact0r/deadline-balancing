@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 06 21:32:21 2024,,,,,,,,,,,,,
+﻿0.23.2,Fri Nov 08 15:35:36 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1520,11 +1520,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 862,,5.45x39_barnaul_bt_55gr_hpspc,5.45x39 Barnaul 55gr HP SPC,-3,0.12,3,5,,0.15,,-250,,,1500
 863,,5.45x39_tulammo_53gr_fmj_7n6,5.45x39 TulAmmo 53gr FMJ (7N6),2,0.14,-2,-2,,0.05,,100,,,850
 ,ammo_9x18,,,,,,,,,,,,,
-864,,9x18_mesko_93gr_fmj_mesko9mak_1,9x18mm Mesko 93gr FMJ,0,0.1,,,,,,,,,0
-865,,9x18_underwood_115gr_fn_uw721,9x18mm Underwood 115gr FN (UW721),1,0.08,,,,,,,,,500
-866,,9x18_hornady_xtp_95gr_jhpfb,9x18mm Hornady XTP (extreme terminal performance) 95gr JHPFB,-3,0.11,5,3,,0.4,,-100,,,1000
-867,,9x18_nca_novosibirsk_ppt_gzh_56gr_red_tracer_75_t_181,9x18mm NCA Novosibirsk PPT gzh 56gr Red Tracer (75-t-181),,0.1,-1,1,,0.1,,20,,,750
-868,,9x18_underwood_xtreme_penetrator_95gr_sm,9x18mm Underwood Xtreme Penetrator 95gr SM,,0.15,-2,2,,0.1,,50,,,1000
+864,,9x18_mesko_93gr_fmj_mesko9mak_1,9x18mm Mesko 93gr FMJ,0,0.02,,,,,,,,,0
+865,,9x18_underwood_115gr_fn_uw721,9x18mm Underwood 115gr FN (UW721),1,0,,,,,,,,,500
+866,,9x18_hornady_xtp_95gr_jhpfb,9x18mm Hornady XTP (extreme terminal performance) 95gr JHPFB,-3,0.03,5,3,,0.4,,-100,,,1000
+867,,9x18_nca_novosibirsk_ppt_gzh_56gr_red_tracer_75_t_181,9x18mm NCA Novosibirsk PPT gzh 56gr Red Tracer (75-t-181),,0.02,-1,1,,0.1,,20,,,750
+868,,9x18_underwood_xtreme_penetrator_95gr_sm,9x18mm Underwood Xtreme Penetrator 95gr SM,,0.05,-2,2,,0.1,,50,,,1000
 ,ammo_9x19,,,,,,,,,,,,,
 869,,9x19_remington_umc_115gr_fmj_l9mm3b,Remington UMC 115gr FMJ (L9MM3B),1,0.08,-5,-5,,0.1,0.04,0,,,0
 870,,9x19_federal_ballisticlean_100gr_rht_frangible_bc9nt3,Federal BallistiClean 100gr RHT Frangible (BC9NT3),2,0.06,-11,-8,,-0.2,-0.04,0,,,600
