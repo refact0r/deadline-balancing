@@ -1,4 +1,4 @@
-﻿0.23.2,Fri Nov 08 16:22:27 2024,,,,,,,,,,,,,
+﻿0.23.2,Sat Nov 09 13:51:09 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1923,7 +1923,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,kac_qdc_3prong_flash_5.56x45_eliminator,Kac QDC 3prong Flash Eliminator 5.56,2,0.04,-12,-12,,0.05,0,0,,,600
 ,,aeroknox_ae01_muzzle_brake,Aeroknox AE/01,-1,0.07,-16,-13,,0.1,0,0,,,600
 ,,strike_industries_jcomp_gen2_5.56x45_muzzle_brake,Strike Industries JCOMP Gen2 5.56x45 Muzzle Brake,-1,0.05,-13,-16,,0.05,0,0,,,500
-,,colt_607_car15_3.5inch_flash_moderator,Colt 607 CAR-15 3.5" Flash Moderator,2,0.09,-11,-12,,0.1,0,0,,,500
+,,colt_607_car15_3.5inch_flash_moderator,"Colt 607 CAR-15 3.5"" Flash Moderator",2,0.09,-11,-12,,0.1,0,0,,,500
 ,9x19_muzzle_device,,,,,,,,,,,,,
 1071,,custom4port,CUSTOM4PORT,-2,0.07,-10,-1,,0.1,0,10,,,500
 1072,,fd917,FD917,-9,0.25,-5,-14,,-0.2,0.2,300,,,2000
@@ -1955,6 +1955,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,strike_industries_jcomp_gen2_7.62x39_muzzle_brake,Strike Industries JCOMP Gen2 7.62x39 Muzzle Brake,-1,0.06,-7,-11,,0.1,-0.1,-50,,,500
 ,,slr_rifleworks_sr47_single_port_muzzle_brake,SLR Rifleworks SR47 Single Port Muzzle Brake,-2,0.11,-7,-14,,0.15,-0.06,-30,,,600
 ,,slr_rifleworks_sr47_dual_port_muzzle_brake,SLR Rifleworks SR47 Dual Port Muzzle Brake,-4,0.14,-10,-17,,0.25,-0.08,-70,,,800
+,,jmac_laf_14_1lh_muzzle_brake,JMAC Customs LAF 14-1LH Muzzle Brake,-5,0.15,-15,-10,,0.15,-0.04,-30,,,1000
 ,ak12_5.45x39_muzzle_device,,,,,,,,,,,,,
 1087,,ak12_std_muzzle_device,Kalashnikov Concern AK-12 Std.,-0.5,0.05,-13,-10,,,,10,,,0
 1088,,kalashnikov_concern_6ch60_ak12_suppressor,Kalashnikov Concern 6Ch60 AK-12,-8,0.32,-12,-15,,-0.2,0.15,200,,,1000
