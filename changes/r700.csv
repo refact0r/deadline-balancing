@@ -1,5 +1,5 @@
 ﻿,,old,,,,,,,,,,,=C3-D3*20-E3*0.8-F3*0.6-H3*5+I3*10+J3/200,=C3-D3*20-H3*5+I3*10+J3/200,,new,,,,,,,,,,,,,
-name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,strength_norecoil,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,strength_norecoil,
+name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,barrel_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,strength_norecoil,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,strength_norecoil,
 r700_hogue_overmolded,Hogue R700 Overmolded Ghillie,20,0.65,0,-7,,0,,,,,0,11.2,7,,34,0.65,-2,-5,,0,,,,,0,25.6,21,
 magpul_hunter700_short_action,Magpul Hunter 700 Short Action,15,0.7,-5,-6,,-0.1,,,,,1000,9.1,1.5,,38,0.7,-4,-5,,0,,,,,1000,30.2,24,
 mdt_lss_gen2_carbine_chassis,MDT LSS-XL Gen II Carbine,10,0.6,-1,-4,,0.3,,,,,3000,-0.3,-3.5,,18,0.6,-2,-4,,-0.1,,,,,3000,10.5,6.5,

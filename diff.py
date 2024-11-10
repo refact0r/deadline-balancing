@@ -8,7 +8,7 @@ stat_directions = {
     "horizontal_recoil": False,
     "vertical_recoil": False,
     "magazine_capacity": True,
-    "bullet_deviation": False,
+    "barrel_deviation": False,
     "bullet_damage": True,
     "bullet_velocity": True,
     "buck_bullet_deviation": False,

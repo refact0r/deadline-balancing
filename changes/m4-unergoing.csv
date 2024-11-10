@@ -1,5 +1,5 @@
 ﻿,,old,,,,,,,,,,,,,new,,,,,,,,,,,
-name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,barrel_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
 radian_weapons_ar15_talon_ambi_2lever_fire_selector,Radian Weapons AR15 Talon Ambi 2level Fire Selector,3,0.03,,,,,,,,,500,2.4,,1,0.03,,,,,,,,,500,0.4
 radian_weapons_ar15_extended_bolt_catch,Radian Weapons AR15 Extended Bolt Catch,2,0.03,,,,,,,,,300,1.4,,1,0.03,,,,,,,,,300,0.4
 radian_weapons_adac15_mag_release,Radian Weapons ADAC15 Mag Rlease,1,0.02,,,,,,,,,200,0.6,,1,0.02,,,,,,,,,200,0.6

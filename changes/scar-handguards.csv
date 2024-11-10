@@ -1,5 +1,5 @@
 ﻿,,old,,,,,,,,,,,-4,,new,,,,,,,,,,,
-name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,barrel_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
 fn_scar_mk20_upper_receiver,FN SCAR Mk20,11,0.85,3,6,,,0.05,50,,,4000,-11.25,,8,0.85,3,6,,,0.05,50,,,4000,-14.25
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
 fn_scar_mk20_bottom_rail_mount,FN Scar Mk20,-1,0.15,,,,,,,,,400,-4,,4,0.2,,,,,,,,,400,0

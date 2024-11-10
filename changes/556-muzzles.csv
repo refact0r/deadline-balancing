@@ -1,5 +1,5 @@
 ﻿,,OLD,,,,,,,,,,NEW,,,,,,,,,,,,,
-name,short name (from the original sheet),erg.,wgt,hr,vr,dev,dmg,vel,$,ss,,ergonomics,weight,horizontal_recoil,vertical_recoil,bullet_deviation,bullet_damage,bullet_velocity,price,ss,,irl weight (oz),converted weight,irl price ($),converted price
+name,short name (from the original sheet),erg.,wgt,hr,vr,dev,dmg,vel,$,ss,,ergonomics,weight,horizontal_recoil,vertical_recoil,barrel_deviation,bullet_damage,bullet_velocity,price,ss,,irl weight (oz),converted weight,irl price ($),converted price
 troy_claymore556,Troy Claymore,-3,0.09,-7,-4,0.1,0.05,40,750,3.08,,2,0.07,-10,-15,0.05,0,0,500,17.35,,4.8,0.072,59,459
 tb_mount_223_mb,Thunder Beast,-1,0.02,-1,-1,0.1,0,5,400,-0.48,,0,0.05,-14,-12,0.1,0,0,400,16.90,,3.8,0.057,137,537
 tb_5,Ultra 5,-5,0.19,-5,-5,-0.1,0.05,90,900,-0.75,,-1,0.09,-14,-13,-0.05,0.04,50,1200,17.02,,6,0.09,945,1345

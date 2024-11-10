@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,base,length,mod,,,irl price
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,base,length,mod,,,irl price
 ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.25,0,0,,0,0,-38,,,0,-5.126666667,,0.06,8,,0.26,,
 ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.26,1,1,,0.05,0,-38,,,600,-7.976666667,,0.06,8,,0.26,,
 ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.47,-3,-2,,-0.1,0.1,54,,,1000,-8.12,,0.06,16.5,,0.47,,

@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,irl weight,weight formula,irl price,
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,irl weight,weight formula,irl price,
 swampfox_picatinny_rmr_footprint_mount,Swampfox Picatinny RMR Mount,0,0.02,,,,,,,,,200,-0.4,,,0.02,,
 trijicon_rm33_mount,Trijicon RM33 RMR Mount,0,0.02,,,,,,,,,300,-0.4,,,0.02,,
 trijicon_ac32062_mount,Trijicon AC32062 RMR Mount,-0.5,0.05,,,,,,,,,350,-1.5,,,0.02,,

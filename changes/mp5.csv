@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.18,-9,-7,,,,,,,0,15.8

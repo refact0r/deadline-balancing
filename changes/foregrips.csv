@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,irl price,price formula,irl weight,weight formula
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,irl price,price formula,irl weight,weight formula
 aeroknox_ax_mlok_grip,Aeroknox AX MLOK Handstop,6,0.04,-1,-2,,,,,,,600,7.2,,,,,
 dd_enhanced_mvg,DD Enhanced MVG,4,0.07,-1,-6,,,,,,,400,7,,,,,
 magpul_mvg,Magpul MVG,4,0.05,-4,-1,,,,,,,300,6.8,,,,,

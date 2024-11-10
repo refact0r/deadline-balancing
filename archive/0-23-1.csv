@@ -1,5 +1,5 @@
 ﻿0.23.1,Mon Oct 21 20:45:47 2024,,,,,,,,,,,,,
-id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
+id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
 2,,primary_arms_slx_1.1inch_mount,"Primary Arms SLx 1.1"" Mount",0,0.03,,,,,,,,,200

@@ -1,5 +1,5 @@
 ﻿basically adding +4 +4 recoil to every handguard to account for the muzzle device buff,,OLD,,,,,,,,,,,,NEW,,,,,,,,,,
-name,pretty_name,ergonomics_old,weight_old,horizontal_recoil_old,vertical_recoil_old,magazine_capacity_old,bullet_deviation_old,bullet_damage_old,bullet_velocity_old,buck_bullet_deviation_old,fire_rate_old,price_old,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
+name,pretty_name,ergonomics_old,weight_old,horizontal_recoil_old,vertical_recoil_old,magazine_capacity_old,barrel_deviation_old,bullet_damage_old,bullet_velocity_old,buck_bullet_deviation_old,fire_rate_old,price_old,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 2a_armament_builder_series_gen1_10inch_handguard,"2A Armament Builder Series Gen 1 10""",13,0.25,-12,-11,,,,,,,750,,13,0.25,-8,-7,,,,,,,750
 2a_armament_builder_series_gen1_12inch_handguard,"2A Armament Builder Series Gen 1 12""",11,0.28,-14,-12,,,,,,,800,,11,0.28,-10,-8,,,,,,,800
 2a_armament_builder_series_gen1_15inch_handguard,"2A Armament Builder Series Gen 1 15""",9,0.33,-16,-14,,,,,,,900,,9,0.33,-12,-10,,,,,,,900
