@@ -1,4 +1,4 @@
-﻿0.23.2,Sat Nov 09 18:04:10 2024,,,,,,,,,,,,,
+﻿0.23.2,Sat Nov 09 20:53:32 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2443,8 +2443,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1343,,AK74N,Izhmash AK74N,10,1,65,70,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,1200,,,14000
 ,shotgun,,,,,,,,,,,,,
-1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
-1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
+1345,,Remington870,Remington 870 Express,20,0.9,90,90,1,0.8,1,1000,5,,20000
+1346,,MP133,Baikal MP-133,30,0.9,60,70,1,0.6,1,1000,3,,9000
 ,smg,,,,,,,,,,,,,
 1347,,MP5,H&K MP5,30,0,45,55,0,1,1,1250,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0,60,40,0,1.2,1,900,,,90000
