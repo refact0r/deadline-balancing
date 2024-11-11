@@ -1,4 +1,4 @@
-﻿0.23.2,Sat Nov 09 20:53:32 2024,,,,,,,,,,,,,
+﻿0.23.2,Mon Nov 11 13:10:22 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -967,6 +967,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 536,,5.45x39_magpul_pmag_ak74_30r,Magpul PMAG 5.45x39 30R,-1,0.37,,,30,,,,,,1200
 537,,5.45x39_6l23,6L23,-3,0.36,,,30,,,,,,600
 538,,5.45x39_izhmash_ak12_magazine_30r,Izhmash AK-12 Windowed Polymer 30R,1,0.4,,,30,,,,,,1200
+,,banan_magazine,Banana Magazine,0,0.39,,,30,,,,,,5000
 ,magazine_7.62x51_remington700,,,,,,,,,,,,,
 539,,wyatts_5r,Wyatt's Outdoor .308 5R,-1,0.14,,,5,,,,,,300
 540,,magpul_pmag_ac_5r,Magpul PMAG AC .308 5R,-2,0.13,,,5,,,,,,500
