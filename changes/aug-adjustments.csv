@@ -1,5 +1,5 @@
 ﻿,,old,,,,,,,,,,,,,new,,,,,,,,,,,
-name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,barrel_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,barrel_deviationold,bullet_damageold,bullet_velocityold,buck_barrel_deviationold,fire_rateold,priceold,strength,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength
 corvus_defensio_aug_case_deflector,Corvus Defensio AUG Case Deflector,3,0.06,,,,,,,,,1000,1.8,,2.5,0.08,,,,,,,,,1000,2.4
 talon_aug_pistol_grip_wrap,TALON AUG Pistol Grip Wrap,2,0.03,,,,,,,,,500,1.4,,2,0.02,,,,,,,,,500,1.6
 ,,,,,,,,,,,,,0,,,,,,,,,,,,,0
