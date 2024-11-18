@@ -1,5 +1,5 @@
 ﻿,,OLD,,,,,,,,,,NEW,,,,,,,,
-name,pretty_name,ergo,wght,hori,vert,mag,dev,dmg,vel,$,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,price
+name,pretty_name,ergo,wght,hori,vert,mag,dev,dmg,vel,$,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,price
 wilson_combat_edc_x9_18r_magazine,EDC X9 Std. 18r,21,0.19,,,18,,,,1000,,15,0.19,,,18,,,,1000
 wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,20,0.15,,,15,,,,500,,16,0.15,,,15,,,,500
 wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,19,0.1,,,10,,,,300,,17,0.1,,,10,,,,300

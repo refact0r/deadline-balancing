@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength
 wilson_combat_9x19_thread_protector,Wilson Combat 9x19,3,0.01,0,0,,0,0,0,,,100,2.8
 9x19_thread_protector,9x19 Thread Protector,3,0.01,0,0,,0,0,0,,,100,2.8
 ips_9x19_1inch_barrel_extension,IPS 9x19 1in Barrel Extension,-1,0.03,0,0,,0.06,,40,,,500,-1.646666667

@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength
 hk_g3_sef_metal_trigger_housing,HK G3 SEF Metal Trigger,0,0.55,0,0,,,,,,,0,-11
 hk_psg1_metal_trigger_housing,HK PSG-1 Metal Trigger,2,0.58,1,1,,,,,,,2000,-11
 ptr_32_sef_metal_trigger_housing,PTR 32 SEF Metal Trigger Housing,-1,0.53,-1,0,,,,,,,500,-10.8

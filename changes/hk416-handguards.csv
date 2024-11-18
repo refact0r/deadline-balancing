@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength
 hk_quad_rail_handguard,HK416A5 Quad Rail Handguard,8,0.28,-10,-14,,,,,,,0,18.8
 hk_extended_quad_rail_handguard,HK416A5 Extended Quad Rail Handguard,5,0.36,-11,-18,,,,,,,750,17.4
 mi_hk416_mlok_9i,"Midwest Industries HK416 9"" MLOK Handguard",11,0.25,-9,-10,,,,,,,900,19.2

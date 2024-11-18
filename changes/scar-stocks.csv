@@ -1,5 +1,5 @@
 ﻿,,old,,,,,,,,,,,,,new,,,,,,,,,,,
-name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,bullet_deviationold,bullet_damageold,bullet_velocityold,buck_bullet_deviationold,fire_rateold,priceold,,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,
+name,pretty_name,ergonomicsold,weightold,horizontal_recoilold,vertical_recoilold,magazine_capacityold,barrel_deviationold,bullet_damageold,bullet_velocityold,buck_barrel_deviationold,fire_rateold,priceold,,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,
 fn_scar_stock_connector,FN SCAR,0,0.04,0,0,,,,,,,0,-0.8,,0,0.07,0,0,,,,,,,0,-1.4
 fn_scar_ssr_stock_assembly,FN SCAR SSR,21,0.2,-1,1,,,,,,,600,17.2,,21,0.48,-2,-2,,,,,,,600,14.2
 kinetic_development_group_sas_acr_stock_scar_adapter,Kinetic Development Group SAS Adaptive ACR Stock Connector,-0.5,0.03,0,0,,,,,,,300,-1.1,,-1,0.07,0,0,,,,,,,300,-2.4

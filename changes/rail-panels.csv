@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength
 kac_2rib_railpanel,KAC 2 Rib,0.25,0.01,,,,,,,,,100,0.05
 kac_4rib_railpanel,KAC 4 Rib,0.5,0.02,,,,,,,,,200,0.1
 kac_5rib_railpanel,KAC 5 Rib,0.75,0.03,,,,,,,,,300,0.15

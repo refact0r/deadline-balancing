@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength,,
 colt_m4a1_std_lower_receiver,Colt M4A1,0,0.3,,,,,,,,,0,-6,,
 daniel_defense_m4_carbine_lower_receiver,Daniel Defense M4 Carbine Lower Receiver,4,0.33,,,,,,,,,1000,-2.6,,
 ,Colt M4A1,2,0.32,0,0,,,,,,,,-4.4,,

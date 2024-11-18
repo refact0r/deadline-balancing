@@ -88,7 +88,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.03,,,,,,,,,200
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
 71,,mission_first_folding_grip,Mission First Tactical Folding Grip,3,0.1,-5,-3,,,,,,,400
-72,,monstrum_prism_2x32_scope,Monstrum Tactical Compact Prism Scope 2x32,-2,0.21,,,,,,,,,1000
+72,,monstrum_tactical_s232p_2x32_prism_scope,Monstrum Tactical Compact Prism Scope 2x32,-2,0.21,,,,,,,,,1000
 73,,aim_sports_mt012h_riser_mount,"Aim Sports MT012H 1""",-1,0.06,,,,,,,,,400
 74,,aim_sports_mt012l_riser_mount,"Aim Sports MT012L 0.5""",-1,0.06,,,,,,,,,200
 75,,aim_sports_mt012m_riser_mount,"Aim Sports MT012M 0.83""",-1,0.06,,,,,,,,,300
@@ -199,6 +199,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,dpms_mangonel_front_sight_folded,DPMS Mangonel Front Sight Folded,2,0.01,,,,,,,,,0
 ,,dpms_mangonel_rear_sight_base,DPMS Mangonel Rear Sight Base,0,0.04,,,,,,,,,400
 ,,dpms_mangonel_front_sight_base,DPMS Mangonel Front Sight Base,0,0.04,,,,,,,,,400
+,,cosmic_tactical_saturn_scope_mount,Cosmic Tactical SATURN Scope Mount,,0.04,,,,,,,,,100
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
@@ -260,10 +261,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-2,0.04,,,,,,,,,1000
 ,,swampfox_kingslayer_micro_reflex_sight,Swampfox Kingslayer Micro Reflex Sight,-2,0.04,,,,,,,,,800
 ,acog_compact_mount,,,,,,,,,,,,,
-151,,trijicon_compact_acog_3x24_ta50c_red,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1200
-,,trijicon_compact_acog_3x24_ta50c_red_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1200
-152,,trijicon_compact_acog_3x24_ta50c_green,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1500
-,,trijicon_compact_acog_3x24_ta50c_green_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.12,,,,,,,,,1500
+151,,trijicon_compact_acog_3x24_ta50c_red,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.1,,,,,,,,,1200
+,,trijicon_compact_acog_3x24_ta50c_red_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.1,,,,,,,,,1200
+152,,trijicon_compact_acog_3x24_ta50c_green,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.1,,,,,,,,,1500
+,,trijicon_compact_acog_3x24_ta50c_green_alt,Trijicon Compact ACOG 3x24 TA50-C Red Reticle Version,-3,0.1,,,,,,,,,1500
 ,,trijicon_rm34_rmr_adapter,Trijicon RM34 RMR Adapter,0,0.02,,,,,,,,,200
 ,trijicon_retro_reflex_sight,,,,,,,,,,,,,
 153,,trijicon_rx01/06_series_1x24_reflex_sight,Trijicon RX01/06 Series 1x24 Reflex,-2,0.08,,,,,,,,,900
@@ -298,24 +299,27 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,theoretical_barrel,,,,,,,,,,,,,
 170,,theoretical_barrel,Technically a barrel,,,,,,,,,,,0
 ,thumbscrew_flattop_mount,,,,,,,,,,,,,
-171,,burris_prism_ar332,Burris Tactical Prism AR-332,-3,0.23,,-2,,,,,,,1000
-172,,trijicon_acog_ta11d_bac,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1900
-173,,trijicon_acog_ta01_4x_scope,Trijicon ACOG TA01 4x Scope,-3,0.22,,-1,,,,,,,1500
-,,trijicon_acog_ta31_comspec_4x_scope,Trijicon ACOG TA31 Comspec 4x Scope,-3,0.17,,,,0.05,,,,,1600
-,,trijicon_acog_ta31_milspec_4x_scope,Trijicon ACOG TA31 Milspec 4x Scope,-3,0.17,,,,,,,,,1800
+171,,burris_prism_ar332,Burris Tactical Prism AR-332,-3,0.18,,-1,,,,,,,1000
+172,,trijicon_acog_ta11d_bac,Trijicon Acog TA11D BAC,-3,0.2,,-2,,,,,,,1900
+173,,trijicon_acog_ta01_4x_scope,Trijicon ACOG TA01 4x Scope,-3,0.16,,-1,,,,,,,1500
+,,trijicon_acog_ta31_comspec_4x_scope,Trijicon ACOG TA31 Comspec 4x Scope,-3,0.16,,-1,,,,,,,1800
+,,trijicon_acog_ta31_milspec_4x_scope,Trijicon ACOG TA31 Milspec 4x Scope,-3,0.16,,-1,,,,,,,1600
 ,carry_handle_mount,,,,,,,,,,,,,
-174,,trijicon_acog_ta01_4x_scope_carry_handle,Trijicon ACOG TA01 4x Scope,-3,0.22,,-1,,,,,,,1500
-,,trijicon_acog_ta31_comspec_4x_scope_carry_handle,Trijicon ACOG TA31 Comspec 4x Scope,-3,0.17,,,,0.05,,,,,1600
-,,trijicon_acog_ta31_milspec_4x_scope_carry_handle,Trijicon ACOG TA31 Milspec 4x Scope,-3,0.17,,,,,,,,,1800
-175,,burris_prism_ar332_carry_handle,Burris Tactical Prism AR-332,-3,0.23,,-2,,,,,,,1000
+174,,trijicon_acog_ta01_4x_scope_carry_handle,Trijicon ACOG TA01 4x Scope,-3,0.16,,-1,,,,,,,1500
+,,trijicon_acog_ta31_comspec_4x_scope_carry_handle,Trijicon ACOG TA31 Comspec 4x Scope,-3,0.16,,-1,,,,,,,1800
+,,trijicon_acog_ta31_milspec_4x_scope_carry_handle,Trijicon ACOG TA31 Milspec 4x Scope,-3,0.16,,-1,,,,,,,1600
+175,,burris_prism_ar332_carry_handle,Burris Tactical Prism AR-332,-3,0.18,,-1,,,,,,,1000
 176,,pri_ar15_std_carry_handle_mount,PRI AR-15 Standard Carry Handle,-4,0.11,,,,,,,,,300
 177,,m16_m4_carryhandle_z_rail,M16/M4 Carry Handle Z-Rail,-4.5,0.13,,,,,,,,,200
 178,,trijicon_rx10_gooseneck_mount,Trijicon RX10 Gooseneck,-1,0.07,,,,,,,,,200
 179,,leupold_mark_4_carry_handle_mount,Leupold Mark 4 Carry Handle Mount,-2,0.06,,,,,,,,,300
-180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-3,0.24,,-2,,,,,,,1900
+180,,trijicon_acog_ta11d_bac_carry_handle,Trijicon Acog TA11D BAC,-3,0.2,,-2,,,,,,,1900
 ,,colt_retro_a1_scope_carry_handle_mount,Colt Retro A1 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
 ,,barska_4x20_scope_carry_handle_mount,Barska 4x20 Scope Carry Handle Mount,-2,0.05,,,,,,,,,300
 ,,insight_technology_an_paq_4a_carry_handle_mount,Insight Technology AN/PAQ-4A Carry Handle Mount,1,0.08,,,,,,,,,200
+,cosmic_tactical_saturn_mount,,,,,,,,,,,,,
+,,cosmic_tactical_saturn_4x_red_scope,Cosmic Tactical SATURN 4x Red Fiber Scope,-3,0.2,,-1,,,,,,,1000
+,,cosmic_tactical_saturn_4x_green_scope,Cosmic Tactical SATURN 4x Green Fiber Scope,-3,0.2,,-1,,,,,,,1200
 ,insight_tech_anpaq4a,,,,,,,,,,,,,
 ,,insight_technology_an_paq_4a_ir_laser,Insight Technology AN/PAQ-4A IR Laser,4,0.08,-1,-1,,,,,,,1000
 ,magpul_mbus_frontsight_post,,,,,,,,,,,,,
@@ -963,6 +967,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 536,,5.45x39_magpul_pmag_ak74_30r,Magpul PMAG 5.45x39 30R,-1,0.37,,,30,,,,,,1200
 537,,5.45x39_6l23,6L23,-3,0.36,,,30,,,,,,600
 538,,5.45x39_izhmash_ak12_magazine_30r,Izhmash AK-12 Windowed Polymer 30R,1,0.4,,,30,,,,,,1200
+,,banan_magazine,Banana Magazine,0,0.39,,,30,,,,,,5000
 ,magazine_7.62x51_remington700,,,,,,,,,,,,,
 539,,wyatts_5r,Wyatt's Outdoor .308 5R,-1,0.14,,,5,,,,,,300
 540,,magpul_pmag_ac_5r,Magpul PMAG AC .308 5R,-2,0.13,,,5,,,,,,500
@@ -1409,6 +1414,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,glock_mos_02_adapter_plate,Glock MOS 02 Adapter Plate,0,0.02,,,,,,,,,300
 ,,glock_mos_04_adapter_plate,Glock MOS 04 Adapter Plate,0,0.02,,,,,,,,,300
 ,,zevtech_glock_slide_cover,Zevtech Glock Slide Cover,0,0.02,,,,,,,,,0
+,,aimpoint_acro_glock_mos_adapter_plate,Aimpoint ACRO Glock MOS Adapter Plate,0,0.02,,,,,,,,,500
 ,glock_sear,,,,,,,,,,,,,
 796,,glock17_auto_sear,Glock 17 Auto Sear,-3,0.05,5,12,,,,,,,4000
 ,glock_slide_backplate,,,,,,,,,,,,,
@@ -1532,11 +1538,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 862,,5.45x39_barnaul_bt_55gr_hpspc,5.45x39 Barnaul 55gr HP SPC,-3,0.12,3,5,,0.15,,-250,,,1500
 863,,5.45x39_tulammo_53gr_fmj_7n6,5.45x39 TulAmmo 53gr FMJ (7N6),2,0.14,-2,-2,,0.05,,100,,,850
 ,ammo_9x18,,,,,,,,,,,,,
-864,,9x18_mesko_93gr_fmj_mesko9mak_1,9x18mm Mesko 93gr FMJ,0,0.1,,,,,,,,,0
-865,,9x18_underwood_115gr_fn_uw721,9x18mm Underwood 115gr FN (UW721),1,0.08,,,,,,,,,500
-866,,9x18_hornady_xtp_95gr_jhpfb,9x18mm Hornady XTP (extreme terminal performance) 95gr JHPFB,-3,0.11,5,3,,0.4,,-100,,,1000
-867,,9x18_nca_novosibirsk_ppt_gzh_56gr_red_tracer_75_t_181,9x18mm NCA Novosibirsk PPT gzh 56gr Red Tracer (75-t-181),,0.1,-1,1,,0.1,,20,,,750
-868,,9x18_underwood_xtreme_penetrator_95gr_sm,9x18mm Underwood Xtreme Penetrator 95gr SM,,0.15,-2,2,,0.1,,50,,,1000
+864,,9x18_mesko_93gr_fmj_mesko9mak_1,9x18mm Mesko 93gr FMJ,0,0.02,,,,,,,,,0
+865,,9x18_underwood_115gr_fn_uw721,9x18mm Underwood 115gr FN (UW721),1,0,,,,,,,,,500
+866,,9x18_hornady_xtp_95gr_jhpfb,9x18mm Hornady XTP (extreme terminal performance) 95gr JHPFB,-3,0.03,5,3,,0.4,,-100,,,1000
+867,,9x18_nca_novosibirsk_ppt_gzh_56gr_red_tracer_75_t_181,9x18mm NCA Novosibirsk PPT gzh 56gr Red Tracer (75-t-181),,0.02,-1,1,,0.1,,20,,,750
+868,,9x18_underwood_xtreme_penetrator_95gr_sm,9x18mm Underwood Xtreme Penetrator 95gr SM,,0.05,-2,2,,0.1,,50,,,1000
 ,ammo_9x19,,,,,,,,,,,,,
 869,,9x19_remington_umc_115gr_fmj_l9mm3b,Remington UMC 115gr FMJ (L9MM3B),1,0.08,-5,-5,,0.1,0.04,0,,,0
 870,,9x19_federal_ballisticlean_100gr_rht_frangible_bc9nt3,Federal BallistiClean 100gr RHT Frangible (BC9NT3),2,0.06,-11,-8,,-0.2,-0.04,0,,,600
@@ -1919,7 +1925,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,kac_qdc_3prong_flash_5.56x45_eliminator,Kac QDC 3prong Flash Eliminator 5.56,2,0.04,-12,-12,,0.05,0,0,,,600
 ,,aeroknox_ae01_muzzle_brake,Aeroknox AE/01,-1,0.07,-16,-13,,0.1,0,0,,,600
 ,,strike_industries_jcomp_gen2_5.56x45_muzzle_brake,Strike Industries JCOMP Gen2 5.56x45 Muzzle Brake,-1,0.05,-13,-16,,0.05,0,0,,,500
-,,colt_607_car15_3.5inch_flash_moderator,,2,0.09,-11,-12,,0.1,0,0,,,500
+,,colt_607_car15_3.5inch_flash_moderator,"Colt 607 CAR-15 3.5"" Flash Moderator",2,0.09,-11,-12,,0.1,0,0,,,500
 ,9x19_muzzle_device,,,,,,,,,,,,,
 1071,,custom4port,CUSTOM4PORT,-2,0.07,-10,-1,,0.1,0,10,,,500
 1072,,fd917,FD917,-9,0.25,-5,-14,,-0.2,0.2,300,,,2000
@@ -1951,6 +1957,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,strike_industries_jcomp_gen2_7.62x39_muzzle_brake,Strike Industries JCOMP Gen2 7.62x39 Muzzle Brake,-1,0.06,-7,-11,,0.1,-0.1,-50,,,500
 ,,slr_rifleworks_sr47_single_port_muzzle_brake,SLR Rifleworks SR47 Single Port Muzzle Brake,-2,0.11,-7,-14,,0.15,-0.06,-30,,,600
 ,,slr_rifleworks_sr47_dual_port_muzzle_brake,SLR Rifleworks SR47 Dual Port Muzzle Brake,-4,0.14,-10,-17,,0.25,-0.08,-70,,,800
+,,jmac_laf_14_1lh_muzzle_brake,JMAC Customs LAF 14-1LH Muzzle Brake,-5,0.15,-15,-10,,0.15,-0.04,-30,,,1000
 ,ak12_5.45x39_muzzle_device,,,,,,,,,,,,,
 1087,,ak12_std_muzzle_device,Kalashnikov Concern AK-12 Std.,-0.5,0.05,-13,-10,,,,10,,,0
 1088,,kalashnikov_concern_6ch60_ak12_suppressor,Kalashnikov Concern 6Ch60 AK-12,-8,0.32,-12,-15,,-0.2,0.15,200,,,1000
@@ -2415,7 +2422,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1323,,TestFlash,TestFlash,,,,,,,,,,,5000
 1324,,TestSmoke,TestSmoke,,,,,,,,,,,2000
 ,pistol,,,,,,,,,,,,,
-1325,,Makarov,Izhevsk PM,62,0,31,31,0,1.2,1,1200,,,2000
+1325,,Makarov,Izhevsk PM,60,0,25,25,0,1.2,1,1200,,,2000
 1326,,TT33,Tula TT-33,45,0,40,40,0,1.2,0.98,1400,,,5000
 1327,,EDC_X9,Wilson Combat EDC X9,60,0,28,28,0,0.9,1,1400,,,25000
 1328,,Glock17,Glock 17,50,0,40,70,0,1.2,1,1300,,,0
@@ -2430,15 +2437,15 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1550,,,20000
 1337,,SCAR47,Handl Defense SCAR-47,40,0.35,60,60,0,0.2,0.9,1350,,,60000
 1338,,SCARH,FN SCAR Mk17,16,0.3,75,75,0,0.2,0.9,1650,,,75000
-1339,,SCARL,FN SCAR Mk16,40,0,65,70,0,0.36,1.1,1650,,,40000
+1339,,SCARL,FN SCAR Mk16,45,0,65,70,0,0.36,1.1,1650,,,40000
 1340,,G3,H&K G3,44,0.5,70,100,0,0.41,0.75,1700,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,2150,,,42000
 1342,,AKMN,Izhmash AKMN,9,1.2,85,105,0,0.66,1,1300,,,15000
 1343,,AK74N,Izhmash AK74N,10,1,65,70,0,0.4,1,1500,,,5000
 1344,,MosinNagant,Mosin Nagant M91/30 PU,35,1,80,92,0,0.2,1,1200,,,14000
 ,shotgun,,,,,,,,,,,,,
-1345,,Remington870,Remington 870 Express,18,0.9,99,99,1,0.8,1,1000,5,,20000
-1346,,MP133,Baikal MP-133,28,0.9,50,70,1,0.6,1,1000,4,,9000
+1345,,Remington870,Remington 870 Express,20,0.9,90,90,1,0.8,1,1000,5,,20000
+1346,,MP133,Baikal MP-133,30,0.9,60,70,1,0.6,1,1000,3,,9000
 ,smg,,,,,,,,,,,,,
 1347,,MP5,H&K MP5,30,0,45,55,0,1,1,1250,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0,60,40,0,1.2,1,900,,,90000

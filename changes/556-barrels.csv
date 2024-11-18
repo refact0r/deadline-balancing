@@ -1,5 +1,5 @@
 ﻿,,new,,,,,,,,,,,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength,,base,length,mod,,,irl price,,,
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength,,base,length,mod,,,irl price,,,
 cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-15,0.89,-12,-12,,-0.3,0.4,262,,-0.06,5000,-9.626666667,,0.18,24,-0.08,0.89,,349.95,2099.7,,
 brwnls_a1_m4a1_5.56x45_508mm_govt_r_barrel,"Brownells A1 Government 20"" Rifle Length Gastube 5.56x45",-9,0.84,-10,-10,,-0.2,0.26,179,,-0.06,1600,-7.603333333,,0.18,20,,0.84,,344.99,2069.94,,0.80952381
 brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-10,0.92,-11,-12,,-0.22,0.26,191,,-0.06,2000,-8.063333333,,0.18,20,0.08,0.92,,349.99,2099.94,,

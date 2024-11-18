@@ -1,5 +1,5 @@
 ,,old,,,,,,,,,,,,new,,,,,,,,,,
-name,pretty_name,ergonomics_old,weight_old,horizontal_recoil_old,vertical_recoil_old,magazine_capacity_old,bullet_deviation_old,bullet_damage_old,bullet_velocity_old,buck_bullet_deviation_old,fire_rate_old,price_old,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
+name,pretty_name,ergonomics_old,weight_old,horizontal_recoil_old,vertical_recoil_old,magazine_capacity_old,barrel_deviation_old,bullet_damage_old,bullet_velocity_old,buck_barrel_deviation_old,fire_rate_old,price_old,,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 arms_#40_rear_sight,A.R.M.S. #40 Rear Sight,3,0.02,,,,,,,,,250,,3,0.02,,,,,,,,,0
 arms_#40_rear_sight_folded,A.R.M.S. #40 Rear Sight Folded,2,0.02,,,,,,,,,250,,2,0.02,,,,,,,,,0
 kac_front_sight_folded,KAC Front Sight Folded,2,0.01,,,,,,,,,100,,2,0.01,,,,,,,,,0

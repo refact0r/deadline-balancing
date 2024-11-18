@@ -1,4 +1,4 @@
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,bullet_deviation,bullet_velocity,bullet_damage,price
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,barrel_deviation,bullet_velocity,bullet_damage,price
 mosin_730mm_barrel,Mosin 730mm,-5,0.8,-2,-10,-0.2,300,0.1,0
 mosin_standard_stock,Mosin Std. Sniper,5,0.6,-1,-5,,,,0
 mosin_514mm_barrel,Mosin Regular 514mm,7,0.6,0,-2,0.15,-150,0,1000
