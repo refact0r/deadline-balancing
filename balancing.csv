@@ -1,4 +1,4 @@
-﻿0.23.2,Fri Nov 08 14:02:39 2024,,,,,,,,,,,,,
+﻿0.23.2,Mon Nov 18 12:34:12 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1312,7 +1312,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,norinco_qbz95_carry_handle,,,,,,,,,,,,,
 754,,norinco_qbz95_carry_handle,Norinco QBZ-95,10,0.17,-1,-3,,,,,,,0
 755,,li_jiahao_acp95_top_rail_for_qbz,Li Jiahao designed ACP95 Top Rail for QBZ-95,8,0.24,-4,0,,,,,,,1000
-,,shenzhen_defender_qbz95_long_bow_picatinny_carry_handle,Shenzhen Defender QBZ95 Long Bow Picatinny Carry Handle,9,0.2,-2,-3,,,,,,,2000
+,,shenzhen_defender_qbz95_long_bow_picatinny_carry_handle,Shenzhen Defender QBZ95 Long Bow Picatinny Carry Handle,10,0.2,-2,-1,,,,,,,2000
 ,,shenzhen_defender_qbz95_long_bow_mlok_carry_handle,Shenzhen Defender QBZ95 Long Bow MLOK Carry Handle,11,0.19,-2,,,,,,,,2000
 ,qbz_carryhandle_optic,,,,,,,,,,,,,
 ,,norinco_qbz95_yma95_3x_scope,Norinco QBZ95 YMA95 3x Scope,-4,0.12,,,,,,,,,800
