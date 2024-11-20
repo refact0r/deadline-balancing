@@ -1,4 +1,4 @@
-﻿0.23.2,Tue Nov 19 00:02:48 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 20 15:30:29 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -615,8 +615,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,fightlite_scr_ar15_trigger,Fightlite SCR AR15 Trigger,0,0.06,-2,-2,,,,,,,250
 ,,fightlite_scr_ar15_frt_trigger,Fightlite SCR AR15 FRT Trigger,2,0.06,0,0,,0.15,,,,,2250
 ,ar15_trigger_guard,,,,,,,,,,,,,
-335,,magpul_trigger_guard,Magpul OD Trigger Guard,2,0.02,,,,,,,,,200
-336,,ti_enhanced_trigger_guard,TI Enhanced Trigger Guard,2.5,0.05,,,,,,,,,200
+335,,magpul_enhanced_ar15_mag1186_polymer_trigger_guard,Magpul OD Trigger Guard,2,0.02,,,,,,,,,200
+336,,troy_enhanced_ar15_trigger_guard,TI Enhanced Trigger Guard,2.5,0.04,,,,,,,,,200
 337,,colt_m4a1_trigger_guard,Colt M4 standard Trigger Guard,2,0.02,,,,,,,,,0
 ,,strike_industries_polyflex_ar15_trigger_guard,Strike Industries Polyflex AR15 Trigger Guard,3,0.08,,,,,,,,,400
 ,m4a1_upper_receiver,,,,,,,,,,,,,
