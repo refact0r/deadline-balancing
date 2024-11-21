@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 20 18:42:13 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 20 21:01:34 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -916,7 +916,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 503,,sgm_tactical_saiga308_5r_mag,SGM Tactical Saiga .308 5R,55,0.12,,,5,,,,,,300
 ,,promag_saiga308_sai_a5_polymer_mag_24r,ProMag Saiga .308 SAI-A5 Polymer 24rd Magazine,23,0.43,,,24,,,,,,900
 ,magazine_10mm_glock20,,,,,,,,,,,,,
-504,,glock20_10mm_15r,Glock Standard 15R 10mm,-10,0.18,,,15,,,,,,500
+504,,glock20_10mm_15r,Glock Standard 15R 10mm,0,0.18,,,15,,,,,,500
 ,magazine_9x19_ar9,,,,,,,,,,,,,
 505,,colt_32rd,Colt 9x19 32rnd,0,0.3,,,32,,,,,,500
 506,,duramag_colt_ar9_20r_mag,Duramag Colt AR-9 20Rnd,7,0.19,,-2,20,,,,,,400
@@ -934,9 +934,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 510,,9x18_makarov_pm/ppsh_drum_84r,STD 84R,-5,0.68,,,84,1,,,,,2000
 511,,izhevsk_pm_9x18_8r_magazine,Izhevsk PM 9x18 8R Magazine,0,0.09,,,8,,,,,,0
 ,magazine_9x19_edc_x9,,,,,,,,,,,,,
-512,,wilson_combat_edc_x9_18r_magazine,EDC X9 Std. 18r,15,0.19,,,18,,,,,,1000
-513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,17,0.15,,,15,,,,,,500
-514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,18,0.1,,,10,,,,,,300
+512,,wilson_combat_edc_x9_18r_magazine,EDC X9 Std. 18r,-5,0.19,,,18,,,,,,1000
+513,,wilson_combat_edc_x9_15r_magazine,EDC X9 Std. 15r,-3,0.15,,,15,,,,,,500
+514,,wilson_combat_edc_x9_10r_magazine,EDC X9 Std. 10r,0,0.1,,,10,,,,,,300
 ,magazine_9x19,,,,,,,,,,,,,
 515,,glock17_9x19_stick_31r_magazine,Glock 9x19 31R Stick,-3,0.29,,,31,,,,,,1000
 ,,9x19_glock_stick_31r,Glock 9x19 31R Stick,-3,0.29,,,31,,,,,,1000
@@ -2424,7 +2424,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,pistol,,,,,,,,,,,,,
 1325,,Makarov,Izhevsk PM,60,0,25,25,0,1.2,1,1200,,,2000
 1326,,TT33,Tula TT-33,45,0,40,40,0,1.2,0.98,1400,,,5000
-1327,,EDC_X9,Wilson Combat EDC X9,60,0,28,28,0,0.9,1,1400,,,25000
+1327,,EDC_X9,Wilson Combat EDC X9,80,0,28,28,0,0.9,1,1400,,,25000
 1328,,Glock17,Glock 17,50,0,40,70,0,1.2,1,1300,,,0
 1329,,Glock20,Glock 20,50,0.4,40,65,0,1.1,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
