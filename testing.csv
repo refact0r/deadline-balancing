@@ -1,4 +1,4 @@
-﻿0.23.2,Thu Nov 21 15:34:06 2024,,,,,,,,,,,,,
+﻿0.23.2,Thu Nov 21 15:51:54 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -201,6 +201,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,dpms_mangonel_rear_sight_base,DPMS Mangonel Rear Sight Base,0,0.04,,,,,,,,,400
 ,,dpms_mangonel_front_sight_base,DPMS Mangonel Front Sight Base,0,0.04,,,,,,,,,400
 ,,cosmic_tactical_saturn_scope_mount,Cosmic Tactical SATURN Scope Mount,,0.04,,,,,,,,,100
+,,ncstar_vism_gen2_carry_handle,NcStar VISM Gen2 Carry Handle,1,0.13,,,,,,,,,1000
+,,ncstar_vism_micro_green_dot_red_laser_vdgrlb,NcStar VISM Micro Green Dot w/ Red Laser VDGRLB,-3,0.06,,,,,,,,,700
+,,ncstar_vism_carry_handle_front_sight,NcStar VISM Carry Handle Front Sight,2,0.01,,,,,,,,,0
+,,ncstar_vism_carry_handle_front_sight_folded,NcStar VISM Carry Handle Front Sight Folded,1,0.01,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
