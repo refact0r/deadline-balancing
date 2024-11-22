@@ -1,4 +1,4 @@
-﻿0.23.2,Thu Nov 21 15:51:54 2024,,,,,,,,,,,,,
+﻿0.23.2,Thu Nov 21 16:00:42 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -428,6 +428,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 240,,sig_sauer_romeo5_1x20_sight,Sig Sauer Romeo5 1x20 Sight,-1,0.06,,,,,,,,,700
 ,aimpoint_t2_caps,,,,,,,,,,,,,
 241,,aimpoint_micro_t2_lens_caps,Aimpoint Micro T2 Lens Caps,1,0.01,,,,,,,,,0
+,aimpoint_t2_wrap,,,,,,,,,,,,,
+,,aimpoint_t2_condura_fabric_wrap,Aimpoint Micro T-2 / H-2 Condura Fabric Wrap,0,0.005,,,,,,,,,1000
 ,compm5_caps,,,,,,,,,,,,,
 ,,aimpoint_compm5_lens_caps,Aimpoint CompM5 Lens Caps,1,0.01,,,,,,,,,0
 ,acro_footprint,,,,,,,,,,,,,
