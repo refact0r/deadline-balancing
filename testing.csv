@@ -1,4 +1,4 @@
-﻿0.23.2,Thu Nov 21 16:20:21 2024,,,,,,,,,,,,,
+﻿0.23.2,Thu Nov 21 16:26:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -29,23 +29,23 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 25,,elcan_c79a2,ELCAN C79A2 3.4x,-3,0.33,,-3,,,,,,,3000
 26,,elcan_specter_os4x_sfov4,ELCAN Specter OS4X Fixed-Magn. SFOV4,-3,0.24,,-2,,,,,,,3000
 27,,elcan_specterdr_1_4x_dfov14_t1,ELCAN SpecterDR 1-4x DFOV14-T1,-3,0.28,,-1,,,,,,,4000
-28,,eotech_553_holo_sight,Eotech 553,-2,0.18,,,,,,,,,1400
-,,eotech_552_holo_sight,Eotech 552,-2,0.17,,,,,,,,,1300
-,,eotech_512_holo_sight,Eotech 512,-1,0.17,,,,,,,,,1100
-29,,eotech_exps3_holo_sight,Eotech EXPS-3,-2,0.12,,,,,,,,,1700
-,,eotech_exps2_holo_sight,Eotech EXPS-2,-1,0.12,,,,,,,,,1500
-30,,eotech_sts_picatinny_mount,Eotech G23/33 STS,-1,0.03,,,,,,,,,200
-31,,eotech_xps3_holo_sight,Eotech XPS3,-2,0.14,,,,,,,,,1800
-,,eotech_xps2_holo_sight,Eotech XPS2,-1,0.14,,,,,,,,,1600
-,,eotech_xps2_green_holo_sight,Eotech XPS2 Green Holo Sight,-1,0.14,,,,,,,,,1700
-,,eotech_xps2z_zombie_stopper_holo_sight,Eotech XPS2Z Zombie Stopper Holo Sight,-1,0.14,,,,,,,,,2000
-,,eotech_exps2_green_holo_sight,Eotech EXPS2 Green Holo Sight,-1,0.12,,,,,,,,,1600
-,,eotech_exps2_mount,Eotech EXPS2 Mount,0,0.03,,,,,,,,,300
-,,eotech_exps3_mount,Eotech EXPS3 Mount,0,0.03,,,,,,,,,300
-,,eotech_exps2_hood,Eotech EXPS 2 Hood,0,0,,,,,,,,,0
-,,eotech_exps3_hood,Eotech EXPS 3 Hood,0,0,,,,,,,,,0
-,,eotech_exps2_green_hood,Eotech EXPS2 Green Hood,0,0,,,,,,,,,0
-,,eotech_553_hood,Eotech 553 Hood,0,0,,,,,,,,,0
+28,,eotech_553_holo_sight,EOTECH 553,-2,0.18,,,,,,,,,1400
+,,eotech_552_holo_sight,EOTECH 552,-2,0.17,,,,,,,,,1300
+,,eotech_512_holo_sight,EOTECH 512,-1,0.17,,,,,,,,,1100
+29,,eotech_exps3_holo_sight,EOTECH EXPS-3,-2,0.12,,,,,,,,,1700
+,,eotech_exps2_holo_sight,EOTECH EXPS-2,-1,0.12,,,,,,,,,1500
+30,,eotech_sts_picatinny_mount,EOTECH G23/33 STS,-1,0.03,,,,,,,,,200
+31,,eotech_xps3_holo_sight,EOTECH XPS3,-2,0.14,,,,,,,,,1800
+,,eotech_xps2_holo_sight,EOTECH XPS2,-1,0.14,,,,,,,,,1600
+,,eotech_xps2_green_holo_sight,EOTECH XPS2 Green Holo Sight,-1,0.14,,,,,,,,,1700
+,,eotech_xps2z_zombie_stopper_holo_sight,EOTECH XPS2Z Zombie Stopper Holo Sight,-1,0.14,,,,,,,,,2000
+,,eotech_exps2_green_holo_sight,EOTECH EXPS2 Green Holo Sight,-1,0.12,,,,,,,,,1600
+,,eotech_exps2_mount,EOTECH EXPS2 Mount,0,0.03,,,,,,,,,300
+,,eotech_exps3_mount,EOTECH EXPS3 Mount,0,0.03,,,,,,,,,300
+,,eotech_exps2_hood,EOTECH EXPS 2 Hood,0,0,,,,,,,,,0
+,,eotech_exps3_hood,EOTECH EXPS 3 Hood,0,0,,,,,,,,,0
+,,eotech_exps2_green_hood,EOTECH EXPS2 Green Hood,0,0,,,,,,,,,0
+,,eotech_553_hood,EOTECH 553 Hood,0,0,,,,,,,,,0
 32,,fab_defense_tactical_lightweight_vertical_grip,FAB Defense Lightweight Vertical,5,0.11,-4,-1,,,,,,,400
 33,,firefield_mg_kemper_xl_reflex_sight,Firefield MG Kemper XL Reflex,-7,0.19,,,,0.25,,,,,2000
 34,,fn_scar_rear_sight_base,FN Scar Rear Sight Base,0,0.02,,,,,,,,,200
@@ -154,7 +154,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,zenitco_perst_3_classic_gen4_green,"Zenitco Perst-3 ""Classic"" gen 4.0 (GREEN+)",-1,0.07,,,,,,,,,1000
 ,,primary_arms_slx_1x_microprism_acss_g2_scope_alt,,-1,0.08,,,,,,,,,1300
 ,,primary_arms_slx_1.53inch_straight_spacer_alt,,0,0.05,,,,,,,,,100
-,,gbrs_group_lerna_picatinny_eotech_mount,GBRS Group Lerna Picatinny Eotech Mount,-1,0.07,,,,,,,,,900
+,,gbrs_group_lerna_picatinny_eotech_mount,GBRS Group Lerna Picatinny EOTECH Mount,-1,0.07,,,,,,,,,900
 ,,strike_industries_ar_picatinny_bipod_foregrip,Strike Industries AR Picatinny Bipod Foregrip,0,0.1,0,0,,,,,,,700
 ,,strike_industries_bipod_foregrip_collapsed_legs,Strike Industries Bipod Foregrip Collapsed,-1,0.06,-3,-4,,,,,,,0
 ,,strike_industries_bipod_foregrip_extended_legs,Strike Industries Bipod Foregrip Extended,-3,0.06,-5,-6,,,,,,,0
@@ -205,6 +205,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,ncstar_vism_micro_green_dot_red_laser_vdgrlb,NcStar VISM Micro Green Dot w/ Red Laser VDGRLB,-3,0.06,,,,,,,,,700
 ,,ncstar_vism_carry_handle_front_sight,NcStar VISM Carry Handle Front Sight,2,0.01,,,,,,,,,0
 ,,ncstar_vism_carry_handle_front_sight_folded,NcStar VISM Carry Handle Front Sight Folded,1,0.01,,,,,,,,,0
+,,eotech_ogl_tactical_laser_module,EOTECH OGL Tactical Laser Module,-2,0.06,,,,,,,,,2500
+,,eotech_ogl_access_point_cap,EOTECH OGL Access Point Cap,1,0.01,,,,,,,,,0
+,,eotech_ogl_lens_caps,EOTECH OGL Lens Caps,1,0.01,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
@@ -412,7 +415,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,leupold_deltapoint_footprint,,,,,,,,,,,,,
 227,,leupold_deltapoint_reflex_sight,Leupold DeltaPoint Reflex,-2,0.04,,,,,,,,,800
 228,,leupold_deltapoint_pro_sight,Leupold DeltaPoint Pro,-1.5,0.05,,,,,,,,,1200
-229,,eotech_eflx_mini_red_dot,Eotech EFLX Mini Red Dot,-1.5,0.05,,,,,,,,,1100
+229,,eotech_eflx_mini_red_dot,EOTECH EFLX Mini Red Dot,-1.5,0.05,,,,,,,,,1100
 ,aim_sport_low_profile_sight,,,,,,,,,,,,,
 230,,aim_sports_front_sight,AIM Sports Low Profile 45 Degree Front Sight,2,0.02,,,,,,,,,0
 231,,aim_sports_rear_sight_folded,AIM Sports Low Profile 45 Degree Folded Rear Sight,1,0.02,,,,,,,,,0
