@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 20 21:01:34 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 27 11:49:25 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1856,7 +1856,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1026,,mosin_sawn_off_220mm_barrel,Mosin Sawn Off 220mm w/ front sight,22,0.32,4,9,,0.7,-0.27,-93,,,1200
 1027,,mosin_514mm_barrel,Mosin Regular 514mm,7,0.6,0,-2,,0.15,0,219,,,1000
 ,mosin_barrel_end,,,,,,,,,,,,,
-1028,,mosin_bramit_7.62x54r_suppressor,Mosin Bramit 7.62x54R Suppressor,-5,0.2,-5,-5,,-1,0.08,150,,,2000
+1028,,mosin_bramit_7.62x54r_suppressor,Mosin Bramit 7.62x54R Suppressor,-5,0.2,-5,-5,,-0.1,0.08,150,,,2000
 ,mosin_bolt,,,,,,,,,,,,,
 1029,,mosin_default_bolt,Mosin Default,2,0.14,,,,,,,,,0
 1030,,infantry_bolt,Infantry,0,0.13,,,,,,,,,0
