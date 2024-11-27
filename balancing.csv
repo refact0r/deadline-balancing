@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 27 11:49:25 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 27 11:52:58 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1438,7 +1438,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,zevtech_g17_slide_backplate,Zevtech Glock 17 Blackplate,0,0.01,,,,,,,,,100
 ,glock_17r_mag_plate,,,,,,,,,,,,,
 797,,glock17_17r_magazine_bottom_plate,Magazine,1,0.02,,,,,,,,,0
-798,,9x19_kriss_magex2_glock,9x19 KRISS MagEx2 For Glock (+23 Rounds),-3,0.21,,,23,,,,,,1000
+798,,9x19_kriss_magex2_glock,9x19 KRISS MagEx2 For Glock (+23 Rounds),-8,0.21,,,23,,,,,,1000
 ,glock_31r_mag_plate,,,,,,,,,,,,,
 799,,31_mag_extension_2r_plate,Magazine,1,0.04,,,2,,,,,,0
 ,glock_lower_receiver,,,,,,,,,,,,,
