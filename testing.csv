@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 27 11:52:58 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 27 12:35:01 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2364,7 +2364,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_front_sight_assembly,HK MP5 Std. Front Sight Assembly,0,0.03,,,,,,,,,
 ,mp5_handguard,,,,,,,,,,,,,
 ,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.18,-9,-7,,,,,,,0
-,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.22,-6,-8,,,,,,,2000
+,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.22,-6,-8,,,,,,,1000
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.16,-7,-6,,,,,,,1500
 ,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.21,-9,-9,,,,,,,1200
 ,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.15,-6,-7,,,,,,,1000
@@ -2382,7 +2382,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_endcap_sling_swivel,HK MP5 Endcap Sling Swivel,10,0.01,10,10,,0.2,,,,,250
 ,mp5_upper_receiver,,,,,,,,,,,,,
 ,,hk_mp5_std_upper_receiver,HK MP5 Std. Upper Receiver,0,0.3,,,,,,,,,
-,,hk_mp5sd_upper_receiver,HK MP5SD Std. Upper Receiver,-3,0.32,-2,,,,,,,,3500
+,,hk_mp5sd_upper_receiver,HK MP5SD Std. Upper Receiver,-3,0.32,-2,,,,,,,,2000
 ,mp5_front_trunnion,,,,,,,,,,,,,
 ,,hk_mp5_std_9x19_front_trunnion,HK MP5 Std. 9x19 Front Trunnion,0,0.07,,,,,,,,,0
 ,,hk_mp5sd_9x19_front_trunnion,HK MP5SD 9x19 Front Trunnion,0,0.07,,,,,,,,,0
@@ -2393,9 +2393,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_std_fire_selector,HK MP5 Std. Fire Selector,0,0.02,,,,,,,,,0
 ,,hk_mp5_std_mag_release,HK MP5 Std. Mag Release,0,0.01,,,,,,,,,0
 ,mp5sd_barrel,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.19,-1,-4,,0.15,0.08,80,,,1500
+,,hk_mp5sd_9x19_146mm_barrel,HK MP5SD 9x19 146mm Barrel,2,0.19,-1,-4,,0.15,0.08,80,,,1000
 ,mp5sd_suppressor,,,,,,,,,,,,,
-,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.26,-12,-16,,-0.1,0.15,-950,,,3500
+,,hk_mp5sd_9x19_suppressor,HK MP5SD 9x19 Suppressor,-5,0.26,-12,-16,,-0.1,0.15,-950,,,3000
 ,surefire_mp5_flashlight,,,,,,,,,,,,,
 ,,surefire_lm1_bk_flashlight,Surefire LM1-BK Visible Light Flashlight,-1,0.03,,,,,,,,,200
 ,,surefire_lm1_b_bk_flashlight,Surefire LM1-B-BK Visible Light Flashlight,-1,0.04,,,,,,,,,300
