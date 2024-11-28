@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 27 18:43:57 2024,,,,,,,,,,,,,
+﻿0.23.2,Wed Nov 27 22:48:38 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1602,8 +1602,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_bolt,,,,,,,,,,,,,
 895,,hk_bolt,HK416A5 Bolt,1.5,0.12,,,,,,,,,0
 ,ump_upper_receiver,,,,,,,,,,,,,
-896,,ump45_std_upper_receiver,UMP45 Standard .45 ACP Upper Receiver,0,0.26,0,0,,,,,,,0
-897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,6,0.2,-10,-18,,,,200,,0.25,3500
+896,,ump45_std_upper_receiver,UMP45 Standard .45 ACP Upper Receiver,0,0.25,0,0,,,,,,,0
+897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,0,0.25,-4,-13,,,,200,,0.25,3000
 ,ump_trigger,,,,,,,,,,,,,
 898,,ump_std_trigger,UMP Standard,0,0.02,,,,,,,,,0
 ,ump_top_rail,,,,,,,,,,,,,
@@ -1637,17 +1637,17 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,ump9_bolt,,,,,,,,,,,,,
 916,,ump_9_full_auto_bolt,UMP 9x19 Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,ump9_barrel,,,,,,,,,,,,,
-917,,ump9_std_200mm_barrel,"UMP 9x19 8""",0,0.22,0,0,,0,0,-25,,,0
-918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded",-1,0.22,0,0,,0.1,0,-25,,,500
-919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5""",-5,0.54,-2,-4,,-0.1,0.2,275,,,1500
+917,,ump9_std_200mm_barrel,"UMP 9x19 8"" ",0,0.24,0,0,,0,0,-25,,,500
+918,,ump9_std_203mm_barrel,"UMP 9x19 8"" Threaded ",-1,0.24,0,0,,0.1,0,-25,,,600
+919,,hk_usc_419mm_9x19_barrel,"HK USC 9x19 16.5"" ",-4,0.44,-3,-2,,-0.1,0.1,275,,,1000
 ,ump45_bolt,,,,,,,,,,,,,
 920,,ump_45_full_auto_bolt,UMP .45 ACP Full Auto,0,0.1,0,0,,0,0,0,,,0
 ,hk_mp5k_handguard,,,,,,,,,,,,,
 921,,hk_mp5k_polymer_handguard,HK MP5 Wide Tropical,15,0.15,-7,-5,,,,,,,1500
 ,ump45_barrel,,,,,,,,,,,,,
-922,,ump45_std_200mm_barrel,"UMP .45ACP 8""",0,0.25,0,0,,0,0,-38,,,0
-923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5""",-5,0.58,-3,-2,,-0.1,0.2,54,,,1000
-924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8""",-1,0.26,1,1,,0.05,0,-38,,,600
+922,,ump45_std_200mm_barrel,"UMP .45ACP 8"" ",0,0.25,0,0,,0,0,-38,,,0
+923,,ump45_std_420mm_barrel,"UMP .45ACP Threaded 16.5"" ",-4,0.47,-3,-2,,-0.1,0.1,54,,,1000
+924,,ump45_std_203mm_barrel,"UMP .45ACP Threaded 8"" ",-1,0.26,1,1,,0.05,0,-38,,,600
 ,hk416_barrel,,,,,,,,,,,,,
 925,,hk416_269mm_barrel,10.6 Inch 5.56 HK416,2,0.55,4,4,,0.2,-0.08,-109,,,1000
 926,,hk416_279mm_barrel,11 Inch 5.56 HK416,2,0.56,4,4,,0.2,-0.06,-92,,,1500
@@ -1839,7 +1839,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,arid_concepts_aug_mag_release_std_paddle,Arid Concepts Standard Paddle,0.5,0.01,,,,,,,,,0
 ,,arid_concepts_aug_mag_release_large_paddle,Arid Concepts Large Paddle,0.5,0.01,,,,,,,,,100
 ,aug_a3_stock,,,,,,,,,,,,,
-1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-12,-13,,0.2,0.5,-300,,,2000
+1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-12,-13,,0.2,0.05,-300,,,2000
 1013,,fbt_aug_carbon_fiber_stock,Fine Ballistic Tools AUG Carbon Fiber Stock,20,0.3,-8,-7,,,,,,,4000
 1014,,steyr_aug_a3_nato_stock,AUG A3 NATO,13,0.21,-6,-9,,,,,,,1000
 1015,,steyr_aug_a3_austrian_stock,AUG A3 Austrian,15,0.21,-8,-7,,,,,,,0
@@ -2450,7 +2450,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1326,,TT33,Tula TT-33,45,0,40,40,0,1.2,0.98,1400,,,5000
 1327,,EDC_X9,Wilson Combat EDC X9,80,0,28,28,0,0.9,1,1400,,,25000
 1328,,Glock17,Glock 17,50,0,40,70,0,1.2,1,1300,,,0
-1329,,Glock20,Glock 20,50,0.4,40,65,0,1.1,1,1250,,,10000
+1329,,Glock20,Glock 20,60,0.4,40,70,0,1.1,1,1250,,,10000
 ,rifle,,,,,,,,,,,,,
 1330,,HK416A5,HK416A5,28,0,56,90,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,42,0,58,63,0,0.5,1,1550,,,42000
@@ -2474,7 +2474,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1347,,MP5,H&K MP5,30,0,45,55,0,1,1,1250,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,30,0,60,75,0,1,1,1200,,,20000
-1350,,UMP45,H&K UMP,48,0.2,80,95,0,1,1,900,,,15000
+1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1200,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
