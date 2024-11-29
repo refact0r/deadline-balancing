@@ -1,4 +1,4 @@
-﻿0.23.2,Wed Nov 27 22:48:38 2024,,,,,,,,,,,,,
+﻿0.23.2,Fri Nov 29 13:51:03 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -264,7 +264,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,npz_picatinny_bracket_mount_427,NPZ Picatinny Bracket Mount 427,-1,0.04,,,,,,,,,300
 ,rmr_mount,,,,,,,,,,,,,
 148,,zt_ap_cap,ZT AP,5,0.03,,,,,,,,,0
-149,,trijicon_sro,Trijicon SRO ,-2,0.07,,,,,,,,,800
+149,,trijicon_sro_reflex_sight,Trijicon SRO Reflex Sight,-2,0.04,,,,,,,,,800
 150,,trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Reflex,-2,0.04,,,,,,,,,1100
 ,,trijicon_rmr_rm05_dual_illuminated_reflex,Trijicon RM05 RMR Dual Illuminated Reflex,-2,0.04,,,,,,,,,1200
 ,,trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-2,0.04,,,,,,,,,1000

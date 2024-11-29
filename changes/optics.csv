@@ -7,6 +7,7 @@ trijicon_rmr_rm06_type2_adj_led_reflex,Trijicon RM06 RMR Type2 Adjustable LED Re
 trijicon_rmr_rm05_dual_illuminated_reflex,Trijicon RM05 RMR Dual Illuminated Reflex,-2,0.04,,,,,,,,,1200,-2.8,,1.2,0.0356,499.39,
 trijicon_rmr_rm01_type2_auto_led_reflex,Trijicon RM01 RMR Type2 Auto LED Reflex,-2,0.04,,,,,,,,,1000,-2.8,,1.2,0.0356,448.52,
 swampfox_kingslayer_micro_reflex_sight,Swampfox Kingslayer Micro Reflex Sight,-2,0.04,,,,,,,,,800,-2.8,,1,0.033,160,
+trijicon_sro_reflex_sight,Trijicon SRO Reflex Sight,-2,0.04,,,,,,,,,800,-2.8,,1.6,0.0408,,
 ,,,,,,,,,,,,,0,,,0.02,,
 leupold_deltapoint_pro_cross_slot,Leupold DeltaPoint Pro Cross Slot,0,0.02,,,,,,,,,200,-0.4,,,0.02,,
 leupold_deltapoint_pro_ar_dloc,Leupold DeltaPoint PRO DLOC,0,0.05,,,,,,,,,250,-1,,,0.02,,
