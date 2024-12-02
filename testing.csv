@@ -1,4 +1,4 @@
-﻿0.23.2,Mon Dec 02 12:57:46 2024,,,,,,,,,,,,,
+﻿0.23.2,Mon Dec 02 13:04:23 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2371,6 +2371,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mp5_handguard,,,,,,,,,,,,,
 ,,hk_mp5_wide_tropical_handguard,HK MP5 Wide Tropical,8,0.18,-9,-7,,,,,,,0
 ,,hk_mp5sd_polymer_handguard,HK MP5SD Polymer Handguard,11,0.22,-6,-8,,,,,,,1000
+,,bt_bt21343_3x_nar_mp5sd_handguard,B&T BT-21343 3x NAR MP5SD Handguard,7,0.35,-5,-7,,,,,,,1200
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.16,-7,-6,,,,,,,1500
 ,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.21,-9,-9,,,,,,,1200
 ,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.15,-6,-7,,,,,,,1000
