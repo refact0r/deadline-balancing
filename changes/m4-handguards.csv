@@ -1,22 +1,25 @@
 ﻿,,new,,,,,,,,,,,
-name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price,strength
+name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,bullet_deviation,bullet_damage,bullet_velocity,buck_bullet_deviation,fire_rate,price,strength
 colt_m4_std_carbine_plastic_handguard,Colt M4 Standard Carbine Length Plastic,14,0.2,-10,-10,,0.05,,,,,0,23.75
 colt_a2_std_rifle_plastic_handguard,Colt M16A2 Rifle Length Plastic,12,0.29,-11,-16,,0.08,,,,,500,24.2
 usgi_m16a1_triangle_handguard,USGI M16A1 Triangle Handguard,13,0.27,-10,-15,,0.07,,,,,600,24.25
 colt_607_car15_triangle_7inch_handguard,"Colt 607 CAR-15 Triangle 7"" Handguard",16,0.19,-8,-10,,0.05,,,,,550,24.35
-lvoa_c_handguard,LVOA-C,11,0.32,-10,-18,,,,,,,900,23.4
-lvoa_s_handguard,LVOA-S,9,0.36,-12,-20,,,,,,,950,23.4
+warsport_lvoa_s_13.5inch_handguard,"Warsport LVOA-S 13.5"" Handguard",9,0.32,-9,-14,,,,,,,900,18.2
+warsport_lvoa_c_16.25inch_handguard,"Warsport LVOA-C 16.25"" Handguard",7,0.36,-11,-16,,,,,,,950,18.2
 mk10_rl_handguard,MK10RL,13,0.34,-12,-12,,,,,,,1000,23
 dd_mk18_ris_2_9.55_handguard,DD Mk18 RIS II 9.55,8,0.3,-11,-14,,,,,,,1000,19.2
 dd_mk18_fsp_ris_2_9.55_handguard,DD MK18 FSP RIS II 9.55,8,0.28,-11,-13,,,,,,,1000,19
 dd_m4a1_ris_2_12.25_handguard,DD M4A1 RIS II 12.25,6,0.35,-13,-16,,,,,,,1100,19
 dd_m4a1_fsp_ris_2_12.25_handguard,DD M4A1 FSP RIS II 12.25,6,0.33,-13,-15,,,,,,,1100,18.8
 kac_ras_m4a1_handguard,KAC RAS,10,0.23,-6,-13,,0.04,,,,,700,17.8
-kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,0,0,0,0,,,,,,,0,0
-kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-11,-16,,0.04,,,,,1200,19.4
-kac_mre_ras_free_float_12inch,"KAC MRE RAS Free Float 12"" ",7,0.31,-10,-16,,,,,,,950,18.4
-kac_ras_free_float_12inch,"KAC RAS Free Float 12"" ",7,0.33,-10,-17,,,,,,,900,18.6
-kac_ras_free_float_5inch,"KAC RAS Free Float 5"" ",11,0.21,-5,-12,,,,,,,750,18
+kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,,,,,,,,,,,0,0
+kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-13,-13,,0.04,,,,,1200,19.2
+kac_mre_free_float_ras_rifle_12inch_handguard,"KAC MRE RAS Free Float 12"" ",7,0.27,-11,-14,,,,,,,1400,18.8
+kac_mre_standard_front_filler_tube,KAC MRE Standard Front Filler Tube,1,0.06,,,,,,,,,0,-0.2
+kac_mre_railed_front_filler_tube,KAC MRE Railed Front Filler Tube,1,0.1,,-1,,,,,,,500,-0.4
+kac_free_float_ras_rifle_12inch_handguard,"KAC Free Float RAS Rifle 12"" ",7,0.33,-10,-17,,,,,,,900,18.6
+kac_free_float_ras_medium_long_10.375inch_handguard,"KAC Free Float RAS Medium Long 10.375""",9,0.28,-8,-15,,,,,,,1200,18.8
+kac_free_float_ras_carbine_7inch_handguard,"KAC Free Float RAS Carbine 7"" ",11,0.21,-5,-12,,,,,,,750,18
 veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",14,0.13,-2,-5,,,,,,,700,16
 magpul_moe_sl_carbine_handguard,Moe SL Carbine Length,14,0.21,-4,-8,,,,,,,500,17.8
 magpul_moe_sl_mid_handguard,MOE SL Mid Length,12,0.25,-6,-10,,,,,,,550,17.8
@@ -60,3 +63,8 @@ fab_defense_upr_16_4_bottom,FAB Defense UPR 16/4 Picatinny Rail,-3,0.06,2,2,,,,,
 ncstar_marsv2_bottom,NcStar MARSV2 Picatinny Rail,-2,0.07,1,5,,,,,,,300,-7.2
 fab_defense_upr_16_4_top,FAB Defense UPR 16/4 Picatinny Rail,-3,0.06,,,,,,,,,400,-4.2
 ncstar_marsv2_top,NcStar MARSV2 Picatinny Rail,-2,0.07,,,,,,,,,300,-3.4
+,,,,,,,,,,,,,0
+warsport_handguard_long_accessory_rail_bottom,Warsport Long Accessory Rail,-2,0.07,,,,,,,,,700,-3.4
+warsport_handguard_long_accessory_rail_side,Warsport Long Accessory Rail,-2,0.07,,,,,,,,,700,-3.4
+warsport_handguard_short_accessory_rail_bottom,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300,-1.8
+warsport_handguard_short_accessory_rail_side,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300,-1.8

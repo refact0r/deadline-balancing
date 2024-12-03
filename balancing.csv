@@ -1,4 +1,4 @@
-﻿0.23.3,Mon Dec 02 22:59:54 2024,,,,,,,,,,,,,
+﻿0.23.3,Mon Dec 02 23:21:02 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -509,13 +509,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 267,,geissele_smr_mk16_mlok_urg_i_13.5inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 13.5""",8,0.33,-13,-12,,,,,,,1100
 268,,geissele_smr_mk16_mlok_urg_i_15inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 15""",7,0.36,-15,-12,,,,,,,1200
 269,,geissele_smr_mk16_mlok_urg_i_9.3inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 9.3""",11,0.26,-11,-8,,,,,,,1000
-272,,kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,0,0,0,0,,,,,,,0
-,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-11,-16,,0.04,,,,,1200
-273,,kac_mre_ras_free_float_12inch,"KAC MRE RAS Free Float 12"" ",7,0.31,-10,-16,,,,,,,950
-274,,kac_ras_free_float_12inch,"KAC RAS Free Float 12"" ",7,0.33,-10,-17,,,,,,,900
-275,,kac_ras_free_float_5inch,"KAC RAS Free Float 5"" ",11,0.21,-5,-12,,,,,,,750
-276,,krytac_warsport_lvoa_s_13.5inch_handguard,LVOA-C,11,0.32,-10,-18,,,,,,,900
-277,,krytac_warsport_lvoa_c_16.25inch_handguard,LVOA-S,9,0.36,-12,-20,,,,,,,950
+272,,kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,,,,,,,,,,,0
+,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-13,-13,,0.04,,,,,1200
+273,,kac_mre_free_float_ras_rifle_12inch_handguard,"KAC MRE RAS Free Float 12"" ",7,0.27,-11,-14,,,,,,,1400
+,,kac_mre_standard_front_filler_tube,KAC MRE Standard Front Filler Tube,1,0.06,,,,,,,,,0
+,,kac_mre_railed_front_filler_tube,KAC MRE Railed Front Filler Tube,1,0.1,,-1,,,,,,,500
+274,,kac_free_float_ras_rifle_12inch_handguard,"KAC Free Float RAS Rifle 12"" ",7,0.33,-10,-17,,,,,,,900
+275,,kac_free_float_ras_medium_long_10.375inch_handguard,"KAC Free Float RAS Medium Long 10.375""",9,0.28,-8,-15,,,,,,,1200
+,,kac_free_float_ras_carbine_7inch_handguard,"KAC Free Float RAS Carbine 7"" ",11,0.21,-5,-12,,,,,,,750
+276,,warsport_lvoa_s_13.5inch_handguard,"Warsport LVOA-S 13.5"" Handguard",9,0.32,-9,-14,,,,,,,900
+277,,warsport_lvoa_c_16.25inch_handguard,"Warsport LVOA-C 16.25"" Handguard",7,0.36,-11,-16,,,,,,,950
 278,,monster_10i_type_a_handguard,"Monster 10"" type A",8,0.27,-8,-14,,,,,,,600
 279,,monster_15i_type_a_handguard,"Monster 15"" type A",6,0.34,-10,-17,,,,,,,800
 280,,veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",14,0.13,-2,-5,,,,,,,700
@@ -2155,11 +2158,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mk10_top,,,,,,,,,,,,,
 1175,,mk10_top_adapter_large,MK10RL Large,-1,0.1,,,,,,,,,0
 1176,,mk10_top_adapter_small,MK10RL Small,-1,0.06,,,,,,,,,0
-,krytac_warsport_handguard_accessory_rail,,,,,,,,,,,,,
-,,krytac_warsport_handguard_long_accessory_rail_bottom,,,,,,,,,,,,0
-,,krytac_warsport_handguard_long_accessory_rail_side,,,,,,,,,,,,0
-,,krytac_warsport_handguard_short_accessory_rail_bottom,,,,,,,,,,,,0
-,,krytac_warsport_handguard_short_accessory_rail_side,,,,,,,,,,,,0
+,warsport_handguard_accessory_rail,,,,,,,,,,,,,
+,,warsport_handguard_long_accessory_rail_bottom,Warsport Long Accessory Rail,-2,0.07,,,,,,,,,700
+,,warsport_handguard_long_accessory_rail_side,Warsport Long Accessory Rail,-2,0.07,,,,,,,,,700
+,,warsport_handguard_short_accessory_rail_bottom,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300
+,,warsport_handguard_short_accessory_rail_side,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300
 ,oss_bpr_supp,,,,,,,,,,,,,
 1177,,oss_bpr_suppressor_system_srm_6,OSS BPR Suppressor System SRM-6,-4,0.14,-4,-6,,-0.2,0.05,150,,,1000
 ,prs_adjustment,,,,,,,,,,,,,
