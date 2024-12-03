@@ -1,4 +1,4 @@
-﻿0.23.3,Mon Dec 02 13:13:50 2024,,,,,,,,,,,,,
+﻿0.23.3,Mon Dec 02 22:59:54 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -206,8 +206,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,ncstar_vism_carry_handle_front_sight,NcStar VISM Carry Handle Front Sight,2,0.01,,,,,,,,,0
 ,,ncstar_vism_carry_handle_front_sight_folded,NcStar VISM Carry Handle Front Sight Folded,1,0.01,,,,,,,,,0
 ,,eotech_ogl_tactical_laser_module,EOTECH OGL Tactical Laser Module,-2,0.06,,,,,,,,,2500
-,,eotech_ogl_access_point_cap,EOTECH OGL Access Point Cap,1,0.01,,,,,,,,,0
+,,eotech_ogl_access_point_cap,EOTECH OGL Access Point Cap,0,0.01,,,,,,,,,0
 ,,eotech_ogl_lens_caps,EOTECH OGL Lens Caps,1,0.01,,,,,,,,,0
+,,wilcox_raid_xe_g18_high_power_laser_aiming_device,Wilcox RAID Xe G18 Laser Device,-2,0.06,,,,,,,,,4500
+,,wilcox_raid_xe_g14_high_power_laser_aiming_device,Wilcox RAID Xe G14 Laser Device ,-2,0.06,,,,,,,,,4000
+,,wilcox_raid_xe_junction_box_legacy_crane_connector,Wilcox RAID Xe Junction Box Crane Connector,0,0.01,,,,,,,,,0
+,,wilcox_raid_xe_front_caps,Wilcox RAID Xe Front Caps,0,0.01,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
@@ -232,7 +236,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 138,,izhmash_ak74_wood_6p20_sb5,Wooden 6P20 Sb.5 Wooden,16,0.2,-8,-12,,,,,,,0
 139,,zenitco_akm_ak74_pt_lock,Zenitco AKM/AK74 PT Lock,-1,0.02,-1,-1,,,,,,,400
 140,,me_adapter,ME Adapter,-6,0.1,3,2,,,,,,,400
-141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,-5,0.10,1,2,,,,,,,750
+141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,-5,0.1,1,2,,,,,,,750
 ,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,22,0.14,-9,-17,,,,,,,700
 142,,crh_customs_fixed_ak_triangle_stock,CRH Customs Fixed AK Triangle,19,0.1,-6,-5,,,,,,,750
 ,,custom_3d_printed_fixed_acr_stock_adapter,Custom 3d Printed Fixed ACR Stock Adaptor,2,0.12,-3,-3,,,,,,,1400
