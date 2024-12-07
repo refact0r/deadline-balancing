@@ -1,4 +1,4 @@
-﻿0.23.3,Mon Dec 02 23:34:52 2024,,,,,,,,,,,,,
+﻿0.23.3,Fri Dec 06 16:49:21 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -2384,6 +2384,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.16,-7,-6,,,,,,,1500
 ,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.21,-9,-9,,,,,,,1200
 ,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.15,-6,-7,,,,,,,1000
+,,ptr_mp5_trirail_handguard,PTR MP5 Trirail Handguard,7,0.12,-8,-6,,,,,,,900
 ,mp5_lower_receiver,,,,,,,,,,,,,
 ,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.34,0,0,,,,,,,0
 ,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.32,3,3,,,,,,,1000
@@ -2417,6 +2418,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,surefire_lm1_b_bk_flashlight,Surefire LM1-B-BK Visible Light Flashlight,-1,0.04,,,,,,,,,300
 ,,surefire_lm2_bk_flashlight,Surefire LM2-BK Visible Light Flashlight,-1,0.05,,,,,,,,,500
 ,,surefire_lm2_b_bk_flashlight,Surefire LM2-B-BK Visible Light Flashlight,-1,0.06,,,,,,,,,600
+,ptr_handguard_rails,,,,,,,,,,,,,
+,,ptr_mp5_hg_bottom_rail,PTR MP5 Handguard Rail,0,0.02,,,,,,,,,0
+,,ptr_mp5_hg_left_rail,PTR MP5 Handguard Rail,0,0.02,,,,,,,,,0
+,,ptr_mp5_hg_right_rail,PTR MP5 Handguard Rail,0,0.02,,,,,,,,,0
 ,rpg7_warhead,,,,,,,,,,,,,
 ,,npo_bazalt_pg_7vl_heat_warhead,NPO Bazalt PG-7VL Heat Warhead,,1.2,,,,,,,,,
 ,,npo_bazalt_og_7v_frag_warhead,NPO Bazalt OG-7V Frag Warhead,,1,,,,0.3,,,,,30000
