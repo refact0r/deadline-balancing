@@ -1,4 +1,4 @@
-﻿0.23.3,Fri Dec 06 16:49:21 2024,,,,,,,,,,,,,
+﻿0.23.3,Fri Dec 06 17:13:49 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -236,8 +236,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 138,,izhmash_ak74_wood_6p20_sb5,Wooden 6P20 Sb.5 Wooden,16,0.2,-8,-12,,,,,,,0
 139,,zenitco_akm_ak74_pt_lock,Zenitco AKM/AK74 PT Lock,-1,0.02,-1,-1,,,,,,,400
 140,,me_adapter,ME Adapter,-6,0.1,3,2,,,,,,,400
-141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,-5,0.1,1,2,,,,,,,750
-,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,22,0.14,-9,-17,,,,,,,700
+141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,3,0.09,-2,-3,,,,,,,750
+,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,16,0.18,-7,-8,,,,,,,700
 142,,crh_customs_fixed_ak_triangle_stock,CRH Customs Fixed AK Triangle,19,0.1,-6,-5,,,,,,,750
 ,,custom_3d_printed_fixed_acr_stock_adapter,Custom 3d Printed Fixed ACR Stock Adaptor,2,0.12,-3,-3,,,,,,,1400
 ,,rifle_dynamics_ak_to_m4_gen2_stock_adapter,Rifle Dynamics AK-to-M4 Gen2 Stock Adaptor,-4,0.12,2,3,,,,,,,1200
