@@ -206,8 +206,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,ncstar_vism_carry_handle_front_sight,NcStar VISM Carry Handle Front Sight,2,0.01,,,,,,,,,0
 ,,ncstar_vism_carry_handle_front_sight_folded,NcStar VISM Carry Handle Front Sight Folded,1,0.01,,,,,,,,,0
 ,,eotech_ogl_tactical_laser_module,EOTECH OGL Tactical Laser Module,-2,0.06,,,,,,,,,2500
-,,eotech_ogl_access_point_cap,EOTECH OGL Access Point Cap,1,0.01,,,,,,,,,0
+,,eotech_ogl_access_point_cap,EOTECH OGL Access Point Cap,0,0.01,,,,,,,,,0
 ,,eotech_ogl_lens_caps,EOTECH OGL Lens Caps,1,0.01,,,,,,,,,0
+,,wilcox_raid_xe_g18_high_power_laser_aiming_device,Wilcox RAID Xe G18 Laser Device,-2,0.06,,,,,,,,,4500
+,,wilcox_raid_xe_g14_high_power_laser_aiming_device,Wilcox RAID Xe G14 Laser Device ,-2,0.06,,,,,,,,,4000
+,,wilcox_raid_xe_junction_box_legacy_crane_connector,Wilcox RAID Xe Junction Box Crane Connector,0,0.01,,,,,,,,,0
+,,wilcox_raid_xe_front_caps,Wilcox RAID Xe Front Caps,0,0.01,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.25,-5,-19,,,,,,,1000
@@ -232,8 +236,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 138,,izhmash_ak74_wood_6p20_sb5,Wooden 6P20 Sb.5 Wooden,16,0.2,-8,-12,,,,,,,0
 139,,zenitco_akm_ak74_pt_lock,Zenitco AKM/AK74 PT Lock,-1,0.02,-1,-1,,,,,,,400
 140,,me_adapter,ME Adapter,-6,0.1,3,2,,,,,,,400
-141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,-5,0.10,1,2,,,,,,,750
-,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,22,0.14,-9,-17,,,,,,,700
+141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,3,0.09,-2,-3,,,,,,,750
+,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,16,0.18,-7,-8,,,,,,,700
 142,,crh_customs_fixed_ak_triangle_stock,CRH Customs Fixed AK Triangle,19,0.1,-6,-5,,,,,,,750
 ,,custom_3d_printed_fixed_acr_stock_adapter,Custom 3d Printed Fixed ACR Stock Adaptor,2,0.12,-3,-3,,,,,,,1400
 ,,rifle_dynamics_ak_to_m4_gen2_stock_adapter,Rifle Dynamics AK-to-M4 Gen2 Stock Adaptor,-4,0.12,2,3,,,,,,,1200
@@ -505,13 +509,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 267,,geissele_smr_mk16_mlok_urg_i_13.5inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 13.5""",8,0.33,-13,-12,,,,,,,1100
 268,,geissele_smr_mk16_mlok_urg_i_15inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 15""",7,0.36,-15,-12,,,,,,,1200
 269,,geissele_smr_mk16_mlok_urg_i_9.3inch,"Geissele Super Modular Rail MK16 M-LOK URG-I 9.3""",11,0.26,-11,-8,,,,,,,1000
-272,,kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,0,0,0,0,,,,,,,0
-,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-11,-16,,0.04,,,,,1200
-273,,kac_mre_ras_free_float_12inch,"KAC MRE RAS Free Float 12"" ",7,0.31,-10,-16,,,,,,,950
-274,,kac_ras_free_float_12inch,"KAC RAS Free Float 12"" ",7,0.33,-10,-17,,,,,,,900
-275,,kac_ras_free_float_5inch,"KAC RAS Free Float 5"" ",11,0.21,-5,-12,,,,,,,750
-276,,krytac_warsport_lvoa_s_13.5inch_handguard,LVOA-C,11,0.32,-10,-18,,,,,,,900
-277,,krytac_warsport_lvoa_c_16.25inch_handguard,LVOA-S,9,0.36,-12,-20,,,,,,,950
+272,,kac_m5_ras_lower_handguard,KAC M5 RAS Lower Handguard,,,,,,,,,,,0
+,,kac_m5_ras_upper_handguard,KAC M5 RAS Upper Handguard,8,0.34,-13,-13,,0.04,,,,,1200
+273,,kac_mre_free_float_ras_rifle_12inch_handguard,"KAC MRE RAS Free Float 12"" ",7,0.27,-11,-14,,,,,,,1400
+,,kac_mre_standard_front_filler_tube,KAC MRE Standard Front Filler Tube,1,0.06,,,,,,,,,0
+,,kac_mre_railed_front_filler_tube,KAC MRE Railed Front Filler Tube,1,0.1,,-1,,,,,,,500
+274,,kac_free_float_ras_rifle_12inch_handguard,"KAC Free Float RAS Rifle 12"" ",7,0.33,-10,-17,,,,,,,900
+275,,kac_free_float_ras_medium_long_10.375inch_handguard,"KAC Free Float RAS Medium Long 10.375""",9,0.28,-8,-15,,,,,,,1200
+,,kac_free_float_ras_carbine_7inch_handguard,"KAC Free Float RAS Carbine 7"" ",11,0.21,-5,-12,,,,,,,750
+276,,warsport_lvoa_s_13.5inch_handguard,"Warsport LVOA-S 13.5"" Handguard",9,0.32,-9,-14,,,,,,,900
+277,,warsport_lvoa_c_16.25inch_handguard,"Warsport LVOA-C 16.25"" Handguard",7,0.36,-11,-16,,,,,,,950
 278,,monster_10i_type_a_handguard,"Monster 10"" type A",8,0.27,-8,-14,,,,,,,600
 279,,monster_15i_type_a_handguard,"Monster 15"" type A",6,0.34,-10,-17,,,,,,,800
 280,,veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",14,0.13,-2,-5,,,,,,,700
@@ -957,7 +964,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 517,,sgm_tactical_glock_9x19_50r_drum_magazine,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
 ,,9x19_sgmt_50r_drum,SGMT 9x19 50R Drum,-6,0.55,,,50,,,,,,3000
 ,magazine_9x19_ump9,,,,,,,,,,,,,
-518,,ump9_9x19_30r_mag,UMP9 9x19 30R,4,0.25,,,30,,,,,,500
+518,,ump9_9x19_30r_mag,UMP9 9x19 30R,0,0.25,,,30,,,,,,500
 ,magazine_12g_r870,,,,,,,,,,,,,
 519,,lancer_systems_lsx_2rnd_extension,Lancer Systems LSX +2,9,0.07,,,,,,,,,550
 520,,lancer_systems_lsx_3rnd_extension,Lancer Systems LSX +3,8,0.1,,,,,,,,,750
@@ -1001,7 +1008,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 549,,9x19_pp19_std,Standard PP-19-01 30R,-1,0.31,,,30,,,,,,500
 550,,9x19_pp19_10r_cap_std,Standard PP-19-01 10R,4,0.13,,,10,,,,,,300
 ,magazine_45acp_ump45,,,,,,,,,,,,,
-551,,ump_std_25rnd_mag,UMP Standard .45 ACP 25R,6,0.3,,,25,,,,,,500
+551,,ump_std_25rnd_mag,UMP Standard .45 ACP 25R,0,0.3,,,25,,,,,,500
 ,magazine_5.8x42mm_qbz95,,,,,,,,,,,,,
 552,,magazine_5.8x42mm_qbz95,Norinco QBZ-95 5.8x42mm 30R,,,,,30,,,,,,500
 ,magazine_9x19_aug_para,,,,,,,,,,,,,
@@ -1604,7 +1611,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 895,,hk_bolt,HK416A5 Bolt,1.5,0.12,,,,,,,,,0
 ,ump_upper_receiver,,,,,,,,,,,,,
 896,,ump45_std_upper_receiver,UMP45 Standard .45 ACP Upper Receiver,0,0.25,0,0,,,,,,,0
-897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,0,0.25,-4,-13,,,,200,,0.25,3000
+897,,ump9_std_upper_receiver,UMP9 9x19 Upper Receiver,6,0.24,-10,-18,,,,200,,0.25,3000
 ,ump_trigger,,,,,,,,,,,,,
 898,,ump_std_trigger,UMP Standard,0,0.02,,,,,,,,,0
 ,ump_top_rail,,,,,,,,,,,,,
@@ -1813,7 +1820,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,steyr_aug_threaded,,,,,,,,,,,,,
 998,,steyr_aug_a1_tulip_5.56x45_closed_flash_hider,Steyr AUG A1 Tulip 5.56x45 Closed,1,0.05,-13,-11,,0,0.02,50,,,
 999,,steyr_aug_a3_5.56x45_closed_flash_hider,Steyr AUG A3 5.56x45 Closed,1,0.06,-12,-13,,0.05,0,60,,,500
-1000,,rat_worx_aug_5.56x45_supp_adapter,Rat Worx AUG 5.56x45 1/2x28,0,0.04,0,0,,0.1,0.02,30,,,1500
+1000,,rat_worx_aug_5.56x45_supp_adapter,Rat Worx AUG 5.56x45 1/2x28,0,0.04,0,0,,0.1,0,30,,,1500
 ,,steyr_aug_a3_5.56x45_original_closed_muzzle_brake,Steyr AUG A3 5.56 Original Closed Flash Hider,0,0.07,-13,-14,,0,0,0,,,750
 ,,steyr_breezer_ums_5.56x45_aug_suppressor,Steyr Breezer UMS 5.56 AUG Suppressor,-2,0.22,-14,-19,,-0.1,0.08,65,,,1800
 ,steyr_aug_austrian_mag_bottom_plates,,,,,,,,,,,,,
@@ -2072,7 +2079,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1139,,z_rail_side_mount2,Z-Rail Side,-1,0.04,,,,,,,,,0
 1140,,z_rail_side_mount1,Z-Rail Side,-1,0.04,,,,,,,,,0
 ,3lug_adapter,,,,,,,,,,,,,
-1141,,mp5_noveske_style_muzzle_brake,MP5 Noveske Style,-1,0.05,-5,-3,,0.1,0.1,20,,,500
+1141,,mp5_noveske_style_muzzle_brake,MP5 Noveske Style Muzzle Brake,-1,0.06,-9,-5,,0.1,0,20,,,600
 ,acog_fs,,,,,,,,,,,,,
 1142,,acog_fs,Acog Front Backup Sight,1,0.01,,,,,,,,,0
 ,acog_rs,,,,,,,,,,,,,
@@ -2151,11 +2158,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,mk10_top,,,,,,,,,,,,,
 1175,,mk10_top_adapter_large,MK10RL Large,-1,0.1,,,,,,,,,0
 1176,,mk10_top_adapter_small,MK10RL Small,-1,0.06,,,,,,,,,0
-,krytac_warsport_handguard_accessory_rail,,,,,,,,,,,,,
-,,krytac_warsport_handguard_long_accessory_rail_bottom,,,,,,,,,,,,0
-,,krytac_warsport_handguard_long_accessory_rail_side,,,,,,,,,,,,0
-,,krytac_warsport_handguard_short_accessory_rail_bottom,,,,,,,,,,,,0
-,,krytac_warsport_handguard_short_accessory_rail_side,,,,,,,,,,,,0
+,warsport_handguard_accessory_rail,,,,,,,,,,,,,
+,,warsport_handguard_long_accessory_rail_bottom,Warsport Long Accessory Rail,-2,0.07,,,,,,,,,700
+,,warsport_handguard_long_accessory_rail_side,Warsport Long Accessory Rail,-2,0.07,,,,,,,,,700
+,,warsport_handguard_short_accessory_rail_bottom,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300
+,,warsport_handguard_short_accessory_rail_side,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300
 ,oss_bpr_supp,,,,,,,,,,,,,
 1177,,oss_bpr_suppressor_system_srm_6,OSS BPR Suppressor System SRM-6,-4,0.14,-4,-6,,-0.2,0.05,150,,,1000
 ,prs_adjustment,,,,,,,,,,,,,
@@ -2377,6 +2384,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hk_mp5_slim_checkered_handguard,HK MP5 Slim Checkered Handguard,10,0.16,-7,-6,,,,,,,1500
 ,,surefire_628lmf_b_mp5_handguard,Surefire 628LMF-B MP5 Handguard,8,0.21,-9,-9,,,,,,,1200
 ,,midwest_industries_mp5_mlok_handguard,Midwest Industries MP5 MLOK Handguard,9,0.15,-6,-7,,,,,,,1000
+,,ptr_mp5_trirail_handguard,PTR MP5 Trirail Handguard,7,0.12,-8,-6,,,,,,,900
 ,mp5_lower_receiver,,,,,,,,,,,,,
 ,,hk_mp5_plastic_4_position_trigger_housing,HK MP5 Plastic 4 Position Trigger Housing,0,0.34,0,0,,,,,,,0
 ,,aeroknox_ax_mp5_trigger_housing,Aeroknox AX MP5 Trigger Housing,-3,0.32,3,3,,,,,,,1000
@@ -2410,6 +2418,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,surefire_lm1_b_bk_flashlight,Surefire LM1-B-BK Visible Light Flashlight,-1,0.04,,,,,,,,,300
 ,,surefire_lm2_bk_flashlight,Surefire LM2-BK Visible Light Flashlight,-1,0.05,,,,,,,,,500
 ,,surefire_lm2_b_bk_flashlight,Surefire LM2-B-BK Visible Light Flashlight,-1,0.06,,,,,,,,,600
+,ptr_handguard_rails,,,,,,,,,,,,,
+,,ptr_mp5_hg_bottom_rail,PTR MP5 Handguard Rail,0,0.02,,,,,,,,,0
+,,ptr_mp5_hg_left_rail,PTR MP5 Handguard Rail,0,0.02,,,,,,,,,0
+,,ptr_mp5_hg_right_rail,PTR MP5 Handguard Rail,0,0.02,,,,,,,,,0
 ,rpg7_warhead,,,,,,,,,,,,,
 ,,npo_bazalt_pg_7vl_heat_warhead,NPO Bazalt PG-7VL Heat Warhead,,1.2,,,,,,,,,
 ,,npo_bazalt_og_7v_frag_warhead,NPO Bazalt OG-7V Frag Warhead,,1,,,,0.3,,,,,30000
@@ -2483,7 +2495,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1347,,MP5,H&K MP5,30,0,45,55,0,1,1,1250,,,5000
 1348,,Vector,TDI Kriss Vector Gen II,30,0,60,40,0,1.2,1,900,,,90000
 1349,,MK9,CmmG MK9 T,30,0,60,75,0,1,1,1200,,,20000
-1350,,UMP45,H&K UMP,45,0.2,75,95,0,1,1,900,,,15000
+1350,,UMP45,H&K UMP,55,0.2,80,95,0,1,1,900,,,15000
 1351,,PP19,Izhmash PP-19 Vityaz,20,0.4,50,75,0,0.9,1,1200,,,11000
 ,turret,,,,,,,,,,,,,
 1352,,Turret,Handheld turret,30,3,60,40,200,1.6,1,600,,,100
