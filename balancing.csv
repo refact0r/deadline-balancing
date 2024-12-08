@@ -1,4 +1,4 @@
-﻿0.24.0,Sat Dec 07 17:21:50 2024,,,,,,,,,,,,,
+﻿0.24.0,Sat Dec 07 17:46:28 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -80,10 +80,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 63,,magpul_rvg,Magpul RVG,4,0.08,-2,-5,,,,,,,300
 ,,xtm_2_piece,Magpul XTM 2-Piece Panel,1,0.04,,,,,,,,,200
 ,,xtm_4_piece,Magpul XTM 4-Piece Panel,2,0.08,,,,,,,,,400
-64,,magpul_xtm_enhanced_handstop_1,Magpul XTM Enhanced Handstop Piece,1,0.015,-1,0,,,,,,,50
+64,,magpul_xtm_enhanced_handstop_1,Magpul XTM Enhanced Handstop Piece,6,0.03,-1,0,,,,,,,50
 65,,magpul_xtm_enhanced_half_panel_1,Magpul XTM Enhanced Modular Half Panel Piece,0.25,0.01,,,,,,,,,50
 66,,magpul_xtm_enhanced_panel_1,Magpul XTM Enhanced Modular Panel Piece,0.5,0.02,,,,,,,,,50
-67,,magpul_xtm_enhanced_short_handstop_1,Magpul XTM Enhanced Short Handstop Piece,0.5,0.02,0,0,,,,,,,50
+67,,magpul_xtm_enhanced_short_handstop_1,Magpul XTM Enhanced Short Handstop Piece,1,0.04,,,,,,,,,50
 68,,xtm_full_handstop,Magpul XTM Full Handstop,6,0.09,-2,-2,,,,,,,500
 69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.03,,,,,,,,,200
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
@@ -2227,13 +2227,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1207,,vism_pro_fs,NcStar VISM Pro Flip-Up Front,2,0.03,,,,,,,,,0
 1208,,vism_pro_rs,NcStar VISM Pro Flip-Up Rear,2,0.03,,,,,,,,,0
 ,xtm,,,,,,,,,,,,,
-1209,,magpul_xtm_enhanced_panel_2,Magpul XTM Enhanced Modular Panel Piece,0.5,0.015,-0.5,0,,,,,,,0
+1209,,magpul_xtm_enhanced_panel_2,Magpul XTM Enhanced Modular Panel Piece,,,,,,,,,,,0
 ,xtm_half,,,,,,,,,,,,,
-1210,,magpul_xtm_enhanced_half_panel_2,Magpul XTM Enhanced Modular Half Panel Piece,0.5,0.01,-0.5,0,,,,,,,0
+1210,,magpul_xtm_enhanced_half_panel_2,Magpul XTM Enhanced Modular Half Panel Piece,,,,,,,,,,,0
 ,xtm_handstop,,,,,,,,,,,,,
-1211,,magpul_xtm_enhanced_handstop_2,Magpul XTM Enhanced Handstop Piece,1,0.015,-1,0,,,,,,,0
+1211,,magpul_xtm_enhanced_handstop_2,Magpul XTM Enhanced Handstop Piece,,,,,,,,,,,0
 ,xtm_short_handstop,,,,,,,,,,,,,
-1212,,magpul_xtm_enhanced_short_handstop_2,Magpul XTM Enhanced Short Handstop Piece,0.5,0.02,-0.5,0,,,,,,,0
+1212,,magpul_xtm_enhanced_short_handstop_2,Magpul XTM Enhanced Short Handstop Piece,,,,,,,,,,,0
 ,z24_covers,,,,,,,,,,,,,
 1213,,z24_covers,Z24,4,0.03,,,,,,,,,0
 ,kac_qd_suppressor,,,,,,,,,,,,,
