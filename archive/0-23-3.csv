@@ -1,4 +1,4 @@
-﻿0.24.0,Sat Dec 07 17:21:50 2024,,,,,,,,,,,,,
+﻿0.23.3,Fri Dec 06 17:13:49 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -392,9 +392,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,arisaka_mlok_fingerstop,Arisaka MLOK Fingerstop,6,0.02,0,-1,,,,,,,500
 ,pmag_m3_bottom_plate,,,,,,,,,,,,,
 216,,magpul_std_m3_bottom_plate,Magpul Standard M3,0,0.02,,,,,,,,,0
-217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,0.5,0.04,,,,,,,,,200
-218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,0.5,0.04,,,,,,,,,200
-219,,magpul_pmag_ak74/akm_bottom_plate,Magpul PMAG AK74/AKM,0,0.02,,,,,,,,,0
+217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,2,0.04,,,,,,,,,200
+218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,3,0.04,,,,,,,,,200
+219,,magpul_pmag_ak74/akm_bottom_plate,Magpul PMAG AK74/AKM,1,0.02,,,,,,,,,0
 ,,aeroknox_plus_5_pmag_mag_extension,Aeroknox Plus 5 PMAG Magazine Extension,-2,0.08,,,5,,,,,,400
 ,izhmash_ak74_bottomplate,,,,,,,,,,,,,
 ,,izhmash_ak74_mag_bottomplate,Izhmash AK74 Mag Bottom Plate,0,0,,,,,,,,,
@@ -703,11 +703,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 360,,colt_m4a1_front_side_sling_swivel,Colt Front Side Sling Swivel,2,0.05,,,,,,,,,300
 ,,ergo_m4_forward_picatinny_rail,ERGO M4 Forward Picatinny Rail,-5,0.21,-2,-2,,0.05,,,,,800
 ,ar_mag_assists,,,,,,,,,,,,,
-361,,magpul_223_mag_assist_misc2,Magpul 223,1,0.04,,,,,,,,,200
-362,,magpul_223_mag_assist_misc1,Magpul 223,1,0.04,,,,,,,,,200
-363,,magpul_223_mag_assist_misc3,Magpul 223,1,0.04,,,,,,,,,200
-364,,magpul_223_mag_assist_pmag,Magpul 223,1,0.04,,,,,,,,,200
-365,,magpul_223_mag_assist_straightstanag,Magpul 223,1,0.04,,,,,,,,,200
+361,,magpul_223_mag_assist_misc2,Magpul 223,3,0.04,,,,,,,,,200
+362,,magpul_223_mag_assist_misc1,Magpul 223,3,0.04,,,,,,,,,200
+363,,magpul_223_mag_assist_misc3,Magpul 223,3,0.04,,,,,,,,,200
+364,,magpul_223_mag_assist_pmag,Magpul 223,3,0.04,,,,,,,,,200
+365,,magpul_223_mag_assist_straightstanag,Magpul 223,3,0.04,,,,,,,,,200
 ,ar_bolt,,,,,,,,,,,,,
 366,,ar_bolt,M4 Bolt,,,,,,,,,,,0
 ,ar15_plastic_handguard_bottom_mount,,,,,,,,,,,,,
@@ -1038,7 +1038,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 572,,lancer_systems_l7awm_translucent_7.62x51_20r,Lancer Systems L7AWM Translucent 7.62x51 20R,1,0.4,,,20,,,,,,1250
 573,,lancer_systems_l7awm_7.62x51_20r,Lancer Systems L7AWM 7.62x51 20R,0,0.39,,,20,,,,,,1250
 ,l7awm_mag_assist,,,,,,,,,,,,,
-,,magpul_223_mag_assist_l7awm,Magpul 223 Mag Assist L7AWM,1,0.04,,,,,,,,,200
+,,magpul_223_mag_assist_l7awm,Magpul 223 Mag Assist L7AWM,3,0.04,,,,,,,,,200
 ,magazine_9mm_vector,,,,,,,,,,,,,
 574,,9x19_glock_stick_31r_vector,Glock 9x19 31R Stick,17,0.29,,,29,,,,,,1000
 575,,9x19_sgmt_drum50r_vector,SGMT 9x19 50R Drum,18,0.55,,,50,,,,,,3000
