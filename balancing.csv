@@ -1,4 +1,4 @@
-﻿0.23.3,Fri Dec 06 17:13:49 2024,,,,,,,,,,,,,
+﻿0.23.3,Sat Dec 14 15:47:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -186,10 +186,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,troy_rear_battlesight,Troy Rear Battlesight,3,0.01,,,,,,,,,0
 ,,troy_rear_battlesight_folded,Troy Rear Battlesight Folded,2,0.01,,,,,,,,,0
 ,,troy_battlesight_picatinny_base,Troy Battlesight Base,0,0.02,,,,,,,,,400
-,,daniel_defense_rock_lock_rail_mounted_fixed_front_sight,Daniel Defense Rock & Lock Rail Mounted Front Fixed Ironsight,3,0.02,,,,,,,,,700
-,,daniel_defense_rock_lock_a1.5_fixed_rear_sight,Daniel Defense Rock & Lock A1.5 Rear Fixed Ironsight,3,0.03,,,,,,,,,700
-,,daniel_defense_fixed_sight_front_post,Daniel Defense Fixed Front Sight Post,0,0.005,,,,,,,,,0
-,,daniel_defense_fixed_sight_rear_aperture,Daniel Defense Fixed Rear Sight Aperture,0,0.005,,,,,,,,,0
+,,daniel_defense_rock_lock_rail_mounted_fixed_front_sight,Daniel Defense Rock & Lock Rail Mounted Front Fixed Ironsight,0,0.02,,,,,,,,,700
+,,daniel_defense_rock_lock_a1.5_fixed_rear_sight,Daniel Defense Rock & Lock A1.5 Rear Fixed Ironsight,0,0.03,,,,,,,,,700
+,,daniel_defense_fixed_sight_front_post,Daniel Defense Fixed Front Sight Post,3,0.005,,,,,,,,,0
+,,daniel_defense_fixed_sight_rear_aperture,Daniel Defense Fixed Rear Sight Aperture,3,0.005,,,,,,,,,0
 ,,arms_#40_rear_sight_base,A.R.M.S. #40 Rear Sight Base,0,0.02,,,,,,,,,400
 ,,arms_#40_rear_sight,A.R.M.S. #40 Rear Sight,3,0.02,,,,,,,,,0
 ,,arms_#40_rear_sight_folded,A.R.M.S. #40 Rear Sight Folded,2,0.02,,,,,,,,,0
