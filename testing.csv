@@ -80,10 +80,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 63,,magpul_rvg,Magpul RVG,4,0.08,-2,-5,,,,,,,300
 ,,xtm_2_piece,Magpul XTM 2-Piece Panel,1,0.04,,,,,,,,,200
 ,,xtm_4_piece,Magpul XTM 4-Piece Panel,2,0.08,,,,,,,,,400
-64,,magpul_xtm_enhanced_handstop_1,Magpul XTM Enhanced Handstop Piece,1,0.015,-1,0,,,,,,,50
+64,,magpul_xtm_enhanced_handstop_1,Magpul XTM Enhanced Handstop Piece,6,0.03,-1,0,,,,,,,50
 65,,magpul_xtm_enhanced_half_panel_1,Magpul XTM Enhanced Modular Half Panel Piece,0.25,0.01,,,,,,,,,50
 66,,magpul_xtm_enhanced_panel_1,Magpul XTM Enhanced Modular Panel Piece,0.5,0.02,,,,,,,,,50
-67,,magpul_xtm_enhanced_short_handstop_1,Magpul XTM Enhanced Short Handstop Piece,0.5,0.02,0,0,,,,,,,50
+67,,magpul_xtm_enhanced_short_handstop_1,Magpul XTM Enhanced Short Handstop Piece,1,0.04,,,,,,,,,50
 68,,xtm_full_handstop,Magpul XTM Full Handstop,6,0.09,-2,-2,,,,,,,500
 69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.03,,,,,,,,,200
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
@@ -236,8 +236,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 138,,izhmash_ak74_wood_6p20_sb5,Wooden 6P20 Sb.5 Wooden,16,0.2,-8,-12,,,,,,,0
 139,,zenitco_akm_ak74_pt_lock,Zenitco AKM/AK74 PT Lock,-1,0.02,-1,-1,,,,,,,400
 140,,me_adapter,ME Adapter,-6,0.1,3,2,,,,,,,400
-141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,3,0.09,-2,-3,,,,,,,750
-,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,16,0.18,-7,-8,,,,,,,700
+141,,caa_akts_akm_ak74_buffer_tube,CAA AKTS AKM/AK74 Buffer Tube,2,0.09,-2,-2,,,,,,,750
+,,caa_cbs_ar15_stock,CAA CBS AR-15 Collapsible AR Stock,17,0.18,-9,-8,,,,,,,700
 142,,crh_customs_fixed_ak_triangle_stock,CRH Customs Fixed AK Triangle,19,0.1,-6,-5,,,,,,,750
 ,,custom_3d_printed_fixed_acr_stock_adapter,Custom 3d Printed Fixed ACR Stock Adaptor,2,0.12,-3,-3,,,,,,,1400
 ,,rifle_dynamics_ak_to_m4_gen2_stock_adapter,Rifle Dynamics AK-to-M4 Gen2 Stock Adaptor,-4,0.12,2,3,,,,,,,1200
@@ -392,9 +392,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,arisaka_mlok_fingerstop,Arisaka MLOK Fingerstop,6,0.02,0,-1,,,,,,,500
 ,pmag_m3_bottom_plate,,,,,,,,,,,,,
 216,,magpul_std_m3_bottom_plate,Magpul Standard M3,0,0.02,,,,,,,,,0
-217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,2,0.04,,,,,,,,,200
-218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,3,0.04,,,,,,,,,200
-219,,magpul_pmag_ak74/akm_bottom_plate,Magpul PMAG AK74/AKM,1,0.02,,,,,,,,,0
+217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,0.5,0.04,,,,,,,,,200
+218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,0.5,0.04,,,,,,,,,200
+219,,magpul_pmag_ak74/akm_bottom_plate,Magpul PMAG AK74/AKM,0,0.02,,,,,,,,,0
 ,,aeroknox_plus_5_pmag_mag_extension,Aeroknox Plus 5 PMAG Magazine Extension,-2,0.08,,,5,,,,,,400
 ,izhmash_ak74_bottomplate,,,,,,,,,,,,,
 ,,izhmash_ak74_mag_bottomplate,Izhmash AK74 Mag Bottom Plate,0,0,,,,,,,,,
@@ -703,11 +703,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 360,,colt_m4a1_front_side_sling_swivel,Colt Front Side Sling Swivel,2,0.05,,,,,,,,,300
 ,,ergo_m4_forward_picatinny_rail,ERGO M4 Forward Picatinny Rail,-5,0.21,-2,-2,,0.05,,,,,800
 ,ar_mag_assists,,,,,,,,,,,,,
-361,,magpul_223_mag_assist_misc2,Magpul 223,3,0.04,,,,,,,,,200
-362,,magpul_223_mag_assist_misc1,Magpul 223,3,0.04,,,,,,,,,200
-363,,magpul_223_mag_assist_misc3,Magpul 223,3,0.04,,,,,,,,,200
-364,,magpul_223_mag_assist_pmag,Magpul 223,3,0.04,,,,,,,,,200
-365,,magpul_223_mag_assist_straightstanag,Magpul 223,3,0.04,,,,,,,,,200
+361,,magpul_223_mag_assist_misc2,Magpul 223,1,0.04,,,,,,,,,200
+362,,magpul_223_mag_assist_misc1,Magpul 223,1,0.04,,,,,,,,,200
+363,,magpul_223_mag_assist_misc3,Magpul 223,1,0.04,,,,,,,,,200
+364,,magpul_223_mag_assist_pmag,Magpul 223,1,0.04,,,,,,,,,200
+365,,magpul_223_mag_assist_straightstanag,Magpul 223,1,0.04,,,,,,,,,200
 ,ar_bolt,,,,,,,,,,,,,
 366,,ar_bolt,M4 Bolt,,,,,,,,,,,0
 ,ar15_plastic_handguard_bottom_mount,,,,,,,,,,,,,
@@ -1038,7 +1038,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 572,,lancer_systems_l7awm_translucent_7.62x51_20r,Lancer Systems L7AWM Translucent 7.62x51 20R,1,0.4,,,20,,,,,,1250
 573,,lancer_systems_l7awm_7.62x51_20r,Lancer Systems L7AWM 7.62x51 20R,0,0.39,,,20,,,,,,1250
 ,l7awm_mag_assist,,,,,,,,,,,,,
-,,magpul_223_mag_assist_l7awm,Magpul 223 Mag Assist L7AWM,3,0.04,,,,,,,,,200
+,,magpul_223_mag_assist_l7awm,Magpul 223 Mag Assist L7AWM,1,0.04,,,,,,,,,200
 ,magazine_9mm_vector,,,,,,,,,,,,,
 574,,9x19_glock_stick_31r_vector,Glock 9x19 31R Stick,17,0.29,,,29,,,,,,1000
 575,,9x19_sgmt_drum50r_vector,SGMT 9x19 50R Drum,18,0.55,,,50,,,,,,3000
@@ -2227,13 +2227,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1207,,vism_pro_fs,NcStar VISM Pro Flip-Up Front,2,0.03,,,,,,,,,0
 1208,,vism_pro_rs,NcStar VISM Pro Flip-Up Rear,2,0.03,,,,,,,,,0
 ,xtm,,,,,,,,,,,,,
-1209,,magpul_xtm_enhanced_panel_2,Magpul XTM Enhanced Modular Panel Piece,0.5,0.015,-0.5,0,,,,,,,0
+1209,,magpul_xtm_enhanced_panel_2,Magpul XTM Enhanced Modular Panel Piece,,,,,,,,,,,0
 ,xtm_half,,,,,,,,,,,,,
-1210,,magpul_xtm_enhanced_half_panel_2,Magpul XTM Enhanced Modular Half Panel Piece,0.5,0.01,-0.5,0,,,,,,,0
+1210,,magpul_xtm_enhanced_half_panel_2,Magpul XTM Enhanced Modular Half Panel Piece,,,,,,,,,,,0
 ,xtm_handstop,,,,,,,,,,,,,
-1211,,magpul_xtm_enhanced_handstop_2,Magpul XTM Enhanced Handstop Piece,1,0.015,-1,0,,,,,,,0
+1211,,magpul_xtm_enhanced_handstop_2,Magpul XTM Enhanced Handstop Piece,,,,,,,,,,,0
 ,xtm_short_handstop,,,,,,,,,,,,,
-1212,,magpul_xtm_enhanced_short_handstop_2,Magpul XTM Enhanced Short Handstop Piece,0.5,0.02,-0.5,0,,,,,,,0
+1212,,magpul_xtm_enhanced_short_handstop_2,Magpul XTM Enhanced Short Handstop Piece,,,,,,,,,,,0
 ,z24_covers,,,,,,,,,,,,,
 1213,,z24_covers,Z24,4,0.03,,,,,,,,,0
 ,kac_qd_suppressor,,,,,,,,,,,,,
