@@ -1,4 +1,4 @@
-﻿0.23.3,Sat Dec 14 15:47:55 2024,,,,,,,,,,,,,
+﻿0.23.3,Sun Dec 15 00:08:59 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -577,7 +577,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 299,,colt_m4a1_castlenut_for_all,Colt M4A1 Castle Nut,0,0.01,,,,,,,,,0
 300,,mdt_lss_stock_adapter,MDT LSS Fixed,-1,0.04,,,,,,,,,100
 301,,leapers_utg_model_15_fixed_a2_ar15_stock,UTG A2 Fixed,10,0.41,-12,-17,,,,,,,700
-302,,colt_m4a1_castlenut,Colt M4A1 Castle Nut,0,0.02,,,,,,,,,0
+302,,colt_m4a1_castlenut,Colt M4A1 Castle Nut,0,0.01,,,,,,,,,0
 303,,magpul_ubr_gen2_buffer,Magpul UBR Gen2 Receiver Extension,-1,0.14,-1,-2,,-0.2,,,,,400
 304,,troy_m7a1,Troy M7A1,-2,0.12,0,0,,,,,,,1000
 305,,colt_a2_buffer,Colt A2,-3,0.15,-1,-1,,-0.4,,,,,300
