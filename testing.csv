@@ -1,4 +1,4 @@
-﻿0.23.3,Sun Dec 15 13:18:46 2024,,,,,,,,,,,,,
+﻿0.23.3,Wed Dec 18 15:51:38 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -448,9 +448,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,susat_backup_sights,,,,,,,,,,,,,
 243,,susat_backup_sights,SUSAT Backup Sights,0,0,,,,,,,,,0
 ,asr_mounts,,,,,,,,,,,,,
-244,,silencerco_qd_asr_mount,SilencerCo QD ASR Mount,-0.5,0.03,,,,,,,,,200
+244,,silencerco_qd_asr_mount,SilencerCo QD ASR Mount,0,0.03,,,,,,,,,200
 ,asr_suppressors,,,,,,,,,,,,,
-245,,silencerco_omega_300_suppressor,SilencerCo OMEGA 300,-6,0.23,-6,-10,,-0.3,0.08,200,,,1000
+245,,silencerco_omega_300_suppressor,SilencerCo OMEGA 300,-6,0.27,-7,-8,,-0.15,0.03,140,,,1000
 ,hensoldt_zf_6x42_scope_eye_cup,,,,,,,,,,,,,
 246,,hensoldt_zf_6x42_eye_cup,Hensoldt ZF 6x42 Eye Cup,4.5,0.05,0,0,,,,,,,0
 ,dual_ring_30mm_sight_mount,,,,,,,,,,,,,
@@ -1171,8 +1171,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 645,,ak12_std_upper_handguard,Kalashnikov Concern AK-12 Std.,0,0.06,0,0,,,,,,,250
 ,,kalashnikov_concern_ak12_std_handguard_side_rail,Kalashnikov Concern AK-12 Std. Handguard Side Rail,-0.5,0.02,,,,,,,,,300
 ,ak308_barrel,,,,,,,,,,,,,
-646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,-4,-2,,0.25,0,350,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-4,0.4,-4,0,,0.3,0.05,100,,,1000
+646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,0,0,,0.25,0.05,400,,,500
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,1,1,,0.3,0.1,300,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1996,31 +1996,31 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,kalashnikov_concern_ak12k_5.45x39_flash_hider,Kalashnikov Concern AK12K Flash Hider,2,0.06,-9,-12,,0.05,0.04,20,,,500
 ,7.62x51nato_m15x1rh_muzzle_device,,,,,,,,,,,,,
 1090,,hughes_precision_m15x1rh_to_5_8x24_thread_adapter,Hughes Precision M15x1RH to 5/8x24 Thread,-1,0.09,0,0,,0.2,-0.05,100,,,1000
-1091,,hk_bird_cage_flash_hider_m15x1rh,HK Bird Cage Style M15x1RH 7.62x51 NATO,-2,0.05,-6,-5,,0,0.05,50,,,0
+1091,,hk_bird_cage_flash_hider_m15x1rh,HK Bird Cage Style M15x1RH 7.62x51 NATO,-1,0.05,-6,-5,,0,0.05,50,,,0
 ,7.62x51nato_muzzle_device,,,,,,,,,,,,,
-1092,,ak308_7.62x51_muzzle_brake,Kalashnikov Concern AK-308,-0.5,0.06,-8,-5,,0.05,0.05,50,,,0
+1092,,ak308_7.62x51_muzzle_brake,Kalashnikov Concern AK-308,-1,0.06,-10,-10,,0.05,0,50,,,0
 1093,,tiger_rock_ar10_7.62x51_barrett_style_muzzle_brake_with_jam_nut,Tiger Rock AR-10 .308 Barrett Style Muzzle Brake with Jam Nut,-6,0.17,13,-34,,0.3,-0.02,-20,,,1500
 1094,,dsa_3prong_trident_7.62x51_flash_hider,DSA 3-Prong Trident 7.62x51,-1,0.05,-3,-5,,0.05,0,30,,,0
 1095,,fn_fal_7.62x51_belgian_flash_hider,FN FAL Belgian Style 7.62x51,-2,0.07,-2,-7,,0,0,50,,,500
 1096,,fn_fal_austrian_7.62x51_stg58_flash_hider,FN FAL Austrian STG58 7.62x51,-2.5,0.15,-4,-6,,-0.05,0,130,,,500
-1097,,sig_srd762ti_suppressor,Sig SRD762Ti,-6,0.25,-6,-10,,-0.3,0.08,200,,,2000
-1098,,oss_bpr_suppressor_system_bpr_1425,OSS BPR Suppressor System BPR-1425,-5,0.21,-4,-6,,-0.2,0.05,150,,,2500
+1097,,sig_srd762ti_suppressor,Sig SRD762Ti,-6,0.26,-6,-10,,-0.15,0.04,200,,,2000
+1098,,oss_bpr_suppressor_system_bpr_1425,OSS BPR Suppressor System BPR-1425,-4,0.16,-5,-5,,-0.1,0.03,150,,,2500
 1099,,fn_scar17_7.62x51_3prong_european_flash_hider,FN Scar Mk17 .308 3-Prong European,-0.5,0.06,-1,-5,,0,0,50,,,0
 1100,,aac_scar_sd_blackout_51_tooth_flashhider_supp_mount,AAC SCAR-SD Blackout 51-Tooth Flash Hider,-0.5,0.08,-2,-5,,0,0,50,,,750
-1101,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston,-8,0.29,-3,-8,,-0.1,0.1,100,,,1500
-1102,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston_flipped,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston Flipped,-8,0.29,-3,-8,,-0.1,0.1,100,,,1500
+1101,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston,-5,0.21,-4,-9,,-0.07,0.05,100,,,1500
+1102,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston_flipped,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston Flipped,-5,0.21,-4,-9,,-0.07,0.05,100,,,1500
 1103,,lantac_dgn762b_asr_muzzle_brake,LANTAC DGM762B-ASR Muzzle Brake,-1,0.06,-6,-12,,0.12,-0.06,20,,,1000
-,,ips_7.62x51_1inch_barrel_extension,IPS 7.62x51 1in Barrel Extension,-1,0.06,0,0,,0.06,,40,,,500
-,,ips_7.62x51_2inch_barrel_extension,IPS 7.62x51 2in Barrel Extension,-1.5,0.09,-1,-1,,0.12,0.05,60,,,750
-,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-3,0.15,-2,-2,,0.24,0.1,80,,,1000
+,,ips_7.62x51_1inch_barrel_extension,IPS 7.62x51 1in Barrel Extension,-1,0.06,0,0,,0.05,0,20,,,500
+,,ips_7.62x51_2inch_barrel_extension,IPS 7.62x51 2in Barrel Extension,-2,0.09,-1,-1,,0.1,0.03,40,,,750
+,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-3,0.15,-2,-2,,0.15,0.06,80,,,1000
 ,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.08,-11,-8,,0.15,-0.1,30,,,900
-,,odin_works_tiduro_thread_adapter_module,Odin Works Tiduro Thread Adaptor Module,-3,0.08,-22,16,,0.15,-0.15,-30,,,300
-,,odin_works_tiduro_.338_modular_no_baffle_suppressor,Odin Works Tiduro .338 No Baffle Suppressor,-2,0.16,-2,-4,,-0.05,0.05,20,,,1500
-,,odin_works_tiduro_.338_modular_3_baffle_suppressor,Odin Works Tiduro .338 3 Baffle Suppressor,-4,0.2,-5,-5,,-0.1,0.1,50,,,2000
-,,odin_works_tiduro_.338_modular_5_baffle_suppressor,Odin Works Tiduro .338 5 Baffle Suppressor,-6,0.24,-7,-8,,-0.15,0.12,80,,,3000
+,,odin_works_tiduro_thread_adapter_module,Odin Works Tiduro Thread Adaptor Module,-1,0.04,-3,-3,,0.05,0,-30,,,300
+,,odin_works_tiduro_.338_modular_no_baffle_suppressor,Odin Works Tiduro .338 No Baffle Suppressor,-3,0.12,-5,-4,,-0.08,0.02,120,,,1500
+,,odin_works_tiduro_.338_modular_3_baffle_suppressor,Odin Works Tiduro .338 3 Baffle Suppressor,-5,0.15,-6,-5,,-0.12,0.04,160,,,2000
+,,odin_works_tiduro_.338_modular_5_baffle_suppressor,Odin Works Tiduro .338 5 Baffle Suppressor,-7,0.18,-7,-6,,-0.16,0.06,200,,,3000
 ,,strike_industries_jcomp_gen2_7.62x51_muzzle_brake,Strike Industries JCOMP Gen2 7.62x51 Muzzle Brake,-1,0.07,-9,-10,,0.2,-0.08,30,,,500
 ,odin_mount,,,,,,,,,,,,,
-,,odin_works_tiduro_modular_compensator,Odin Works Tiduro Modular Compensator,-3,0.08,-10,8,,0.15,-0.1,-30,,,700
+,,odin_works_tiduro_modular_compensator,Odin Works Tiduro Modular Compensator,-3,0.05,-1,-10,,0.05,-0.04,-30,,,700
 ,45acp_muzzle_device,,,,,,,,,,,,,
 1104,,direct_thread_adapter_omega45k,.45ACP Direct thread adapter for Omega 45K suppressor ,0,0.03,2,0,,0.05,0,5,,,200
 1105,,silencerco_osprey45_gen1_45acp_suppressor,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor,-7,0.29,-2,-9,,-0.05,0.2,200,,,1500
@@ -2164,7 +2164,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,warsport_handguard_short_accessory_rail_bottom,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300
 ,,warsport_handguard_short_accessory_rail_side,Warsport Short Accessory Rail,-1,0.04,,,,,,,,,300
 ,oss_bpr_supp,,,,,,,,,,,,,
-1177,,oss_bpr_suppressor_system_srm_6,OSS BPR Suppressor System SRM-6,-4,0.14,-4,-6,,-0.2,0.05,150,,,1000
+1177,,oss_bpr_suppressor_system_srm_6,OSS BPR Suppressor System SRM-6,-3,0.14,-3,-2,,-0.08,0.03,130,,,1000
 ,prs_adjustment,,,,,,,,,,,,,
 1178,,prs_adjustable_piece,Magpul PRS Gen3 Adjustment Piece,0,0.05,,,,,,,,,0
 ,pso_cup,,,,,,,,,,,,,
@@ -2476,7 +2476,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1330,,HK416A5,HK416A5,28,0,56,90,0,0.32,1,1600,,,30000
 1331,,AUG_A3,Steyr AUG A3,42,0,58,63,0,0.5,1,1550,,,42000
 1332,,AK12,Kalashnikov Concern AK-12,28,0.85,63,57,0,0.5,1,1500,,,25000
-1333,,AK308,Kalashnikov Concern AK-308,10,1.2,95,115,0,0.76,0.7,1300,,,65000
+1333,,AK308,Kalashnikov Concern AK-308,10,1.2,90,110,0,0.76,0.7,1300,,,65000
 1334,,M4A1,M4A1,15,0,64,87,0,0.46,1,1550,,,0
 1335,,QBZ95,Norinco QBZ-95,45,2.3,50,50,0,0.5,0.9,1550,,,25000
 1336,,SA58,DS Arms SA-58,41,1.08,66,99,0,0.66,0.75,1550,,,20000
