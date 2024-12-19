@@ -1,4 +1,4 @@
-﻿0.23.3,Wed Dec 18 17:57:50 2024,,,,,,,,,,,,,
+﻿0.23.3,Wed Dec 18 18:52:51 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -766,13 +766,13 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 400,,fn_scar_fire_selector,FN SCAR-H Standard,0,0,,,,,,,,,0
 401,,kinetic_development_group_talon_ambi_scar_45_90_safety_selector,Kinetic Development Group Talon Ambi SCAR 45/90,1.5,0.02,,,,,,,,,300
 ,fn_scar_h_barrel,,,,,,,,,,,,,
-402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,9,8,,-0.1,0.1,308,,,1500
-403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.14,358,,,2000
-404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0.12,208,,,1500
+402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,9,8,,-0.1,0.12,308,,,1500
+403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.1,358,,,2000
+404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0.08,208,,,1500
 ,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",3,0.51,7,7,,0.07,0.02,171,,,1500
 405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,5,0.49,4,5,,0.2,0,70,,,1000
-406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.12,-57,,,1200
-,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,24,0.3,11,8,,0.45,-0.16,-187,,0.05,1500
+406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.06,-57,,,1200
+,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,24,0.3,11,8,,0.45,-0.11,-187,,0.05,1500
 ,fn_scar_h_bolt,,,,,,,,,,,,,
 407,,fn_scar_h_bolt_carrier,FN SCAR-H Bolt,0,0.15,,,,,,,,,0
 ,,imperial_arms_buffered_scar_bolt_carrier,Imperial Arms Buffered Scar BCG,-1,0.17,-2,-2,,,,,,,500
@@ -1172,7 +1172,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,kalashnikov_concern_ak12_std_handguard_side_rail,Kalashnikov Concern AK-12 Std. Handguard Side Rail,-0.5,0.02,,,,,,,,,300
 ,ak308_barrel,,,,,,,,,,,,,
 646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,0,0,,0.25,0,0,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,1,1,,0.3,-0.03,-50,,,1000
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,1,1,,0.3,-0.02,-50,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1745,7 +1745,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,0,0.5,0,0,,0,0,70,,,0
 961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-4,0.6,-2,-2,,-0.1,0.04,143,,,800
 ,,hk_msg90a1_threaded_600mm_barrel,HK MSG90A1 Threaded 600mm Barrel,-6,0.67,0,0,,-0.25,0.15,410,,,4800
-962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,4,0.35,10,10,,0.4,-0.03,-331,,,3500
+962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,4,0.35,10,10,,0.4,-0.04,-331,,,3500
 963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,20,0.24,13,13,,0.45,-0.16,-561,,,1500
 ,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,12,0.22,15,15,,0.5,-0.18,-652,,,2500
 964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-5,0.75,1,1,,-0.35,0.19,509,,,4500
@@ -1995,7 +1995,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1089,,legal_arsenal_bayonet_thread_adapter_for_ak12,Legal Arsenal Bayonet Thread Adapter for AK-12,0,0.03,0,0,,0,0,0,,,1500
 ,,kalashnikov_concern_ak12k_5.45x39_flash_hider,Kalashnikov Concern AK12K Flash Hider,2,0.06,-9,-12,,0.05,0.04,20,,,500
 ,7.62x51nato_m15x1rh_muzzle_device,,,,,,,,,,,,,
-1090,,hughes_precision_m15x1rh_to_5_8x24_thread_adapter,Hughes Precision M15x1RH to 5/8x24 Thread,-1,0.09,0,0,,0.1,-0.03,-50,,,1000
+1090,,hughes_precision_m15x1rh_to_5_8x24_thread_adapter,Hughes Precision M15x1RH to 5/8x24 Thread,-1,0.09,0,0,,0.1,-0.02,-50,,,1000
 1091,,hk_bird_cage_flash_hider_m15x1rh,HK Bird Cage Style M15x1RH 7.62x51 NATO,1,0.05,-10,-8,,0,0,50,,,0
 ,7.62x51nato_muzzle_device,,,,,,,,,,,,,
 1092,,ak308_7.62x51_muzzle_brake,Kalashnikov Concern AK-308,-1,0.06,-10,-13,,0.05,0,50,,,0
