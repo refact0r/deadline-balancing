@@ -1,4 +1,4 @@
-﻿0.23.3,Wed Dec 18 16:44:17 2024,,,,,,,,,,,,,
+﻿0.23.3,Wed Dec 18 17:57:50 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -767,10 +767,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 401,,kinetic_development_group_talon_ambi_scar_45_90_safety_selector,Kinetic Development Group Talon Ambi SCAR 45/90,1.5,0.02,,,,,,,,,300
 ,fn_scar_h_barrel,,,,,,,,,,,,,
 402,,fn_scar_mk20_508mm_barrel,FN SCAR Mk20 508mm,-2,0.65,9,8,,-0.1,0.1,308,,,1500
-403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.05,358,,,2000
-404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0,208,,,1500
-,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",3,0.51,7,7,,0.07,-0.04,171,,,1500
-405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,5,0.49,4,5,,0.2,-0.07,70,,,1000
+403,,deadshot_scar20_spiral_508mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 20"" Threaded",0,0.61,7,11,,0,0.14,358,,,2000
+404,,fn_scar_h_508mm_barrel,FN SCAR-H 508mm,-6,0.54,2,2,,0.1,0.12,208,,,1500
+,,deadshot_scar20_spiral_406mm_threaded_barrel,"Deadshot FN SCAR 20 Spiral 16"" Threaded",3,0.51,7,7,,0.07,0.02,171,,,1500
+405,,fn_scar_h_406mm_barrel,FN SCAR-H 406mm,5,0.49,4,5,,0.2,0,70,,,1000
 406,,fn_scar_h_330mm_barrel,FN SCAR-H 330mm,12,0.38,8,6,,0.3,-0.12,-57,,,1200
 ,,hi_desertdog_hdd_tactical_scarh_267mm_7.62x51_barrel,Hi-desertdog HDD Tactical Scar H 267mm Barrel,24,0.3,11,8,,0.45,-0.16,-187,,0.05,1500
 ,fn_scar_h_bolt,,,,,,,,,,,,,
@@ -1172,7 +1172,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,kalashnikov_concern_ak12_std_handguard_side_rail,Kalashnikov Concern AK-12 Std. Handguard Side Rail,-0.5,0.02,,,,,,,,,300
 ,ak308_barrel,,,,,,,,,,,,,
 646,,ak308_std_415mm_barrel,AK-308 415mm 7.62x51,0,0.4,0,0,,0.25,0,0,,,500
-647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,1,1,,0.3,-0.04,-50,,,1000
+647,,custom_ak308_7.62x51_415mm_threaded_barrel,Custom AK-308 415mm Threaded 7.62x51,-2,0.4,1,1,,0.3,-0.03,-50,,,1000
 ,ak308_bolt,,,,,,,,,,,,,
 648,,ak308_std_7.62x51_bolt,AK-308 7.62x51 NATO,0,0,,,,,,,,,0
 ,ak308_lower_receiver,,,,,,,,,,,,,
@@ -1743,19 +1743,19 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 959,,hk_g3_std_trigger,HK G3 Standard,0,0.04,,,,,,,,,0
 ,hk_g3_barrel,,,,,,,,,,,,,
 960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,0,0.5,0,0,,0,0,70,,,0
-961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-4,0.6,-2,-2,,-0.1,0.06,143,,,800
-,,hk_msg90a1_threaded_600mm_barrel,HK MSG90A1 Threaded 600mm Barrel,-6,0.67,0,0,,-0.3,0.12,410,,,4800
-962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,8,0.35,7,9,,0.3,-0.12,-331,,,3500
-963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,14,0.24,11,13,,0.4,-0.2,-561,,,1500
-,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,16,0.22,12,8,,0.5,-0.2,-652,,,2500
-964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-5,0.75,1,1,,-0.4,0.16,509,,,4500
+961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-4,0.6,-2,-2,,-0.1,0.04,143,,,800
+,,hk_msg90a1_threaded_600mm_barrel,HK MSG90A1 Threaded 600mm Barrel,-6,0.67,0,0,,-0.25,0.15,410,,,4800
+962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,4,0.35,10,10,,0.4,-0.03,-331,,,3500
+963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,20,0.24,13,13,,0.45,-0.16,-561,,,1500
+,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,12,0.22,15,15,,0.5,-0.18,-652,,,2500
+964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-5,0.75,1,1,,-0.35,0.19,509,,,4500
 ,ptr_32_barrel,,,,,,,,,,,,,
 ,,ptr_32_7.62x39_457mm_barrel,PTR 32 7.62x39 18in Barrel,-3,0.6,-8,-11,,-0.15,0.35,-375,,,3000
 ,,ptr_32_7.62x39_457mm_5-8x24_barrel,PTR 32 7.62x39 18in 5/8 Threaded Barrel,-4,0.6,-7,-10,,-0.15,0.35,-375,,,3250
 ,,ptr_32_7.62x39_406mm_barrel,PTR 32 7.62x39 16in Barrel,-1,0.5,-5,-8,,-0.05,0.3,-409,,,2000
 ,,ptr_32_7.62x39_406mm_5-8x24_barrel,PTR 32 7.62x39 16in 5/8 Threaded Barrel,-2,0.5,-4,-7,,-0.05,0.3,-409,,,2250
 ,mc51sd_suppressor,,,,,,,,,,,,,
-,,fr_ordnance_mc51sd_suppressor,FR Ordinance MC51SD Suppressor,-7,0.25,-7,-6,,-0.3,0.2,90,,,5000
+,,fr_ordnance_mc51sd_suppressor,FR Ordinance MC51SD Suppressor,-7,0.27,-7,-7,,-0.2,0.18,90,,,5000
 ,hk_g3_rear_sight_assembly_top,,,,,,,,,,,,,
 965,,hk_g3_rear_sight_assembly_top,HK G3 Rear Sight Assembly,0,0.02,,,,,,,,,0
 966,,hk_mp5_g3_rear_sight_rmr_mount,HK MP5/G3 Rear Sight RMR,-1,0.05,,,,,,,,,600
@@ -1995,10 +1995,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1089,,legal_arsenal_bayonet_thread_adapter_for_ak12,Legal Arsenal Bayonet Thread Adapter for AK-12,0,0.03,0,0,,0,0,0,,,1500
 ,,kalashnikov_concern_ak12k_5.45x39_flash_hider,Kalashnikov Concern AK12K Flash Hider,2,0.06,-9,-12,,0.05,0.04,20,,,500
 ,7.62x51nato_m15x1rh_muzzle_device,,,,,,,,,,,,,
-1090,,hughes_precision_m15x1rh_to_5_8x24_thread_adapter,Hughes Precision M15x1RH to 5/8x24 Thread,-1,0.09,0,0,,0.1,-0.04,-50,,,1000
-1091,,hk_bird_cage_flash_hider_m15x1rh,HK Bird Cage Style M15x1RH 7.62x51 NATO,1,0.05,-11,-10,,0,0,50,,,0
+1090,,hughes_precision_m15x1rh_to_5_8x24_thread_adapter,Hughes Precision M15x1RH to 5/8x24 Thread,-1,0.09,0,0,,0.1,-0.03,-50,,,1000
+1091,,hk_bird_cage_flash_hider_m15x1rh,HK Bird Cage Style M15x1RH 7.62x51 NATO,1,0.05,-10,-8,,0,0,50,,,0
 ,7.62x51nato_muzzle_device,,,,,,,,,,,,,
-1092,,ak308_7.62x51_muzzle_brake,Kalashnikov Concern AK-308,-1,0.06,-11,-13,,0.05,0,50,,,0
+1092,,ak308_7.62x51_muzzle_brake,Kalashnikov Concern AK-308,-1,0.06,-10,-13,,0.05,0,50,,,0
 1093,,tiger_rock_ar10_7.62x51_barrett_style_muzzle_brake_with_jam_nut,Tiger Rock AR-10 .308 Barrett Style Muzzle Brake with Jam Nut,-6,0.17,13,-34,,0.3,-0.02,-20,,,1500
 1094,,dsa_3prong_trident_7.62x51_flash_hider,DSA 3-Prong Trident 7.62x51,-1,0.05,-3,-5,,0.05,0,30,,,0
 1095,,fn_fal_7.62x51_belgian_flash_hider,FN FAL Belgian Style 7.62x51,-2,0.07,-2,-7,,0,0,50,,,500
@@ -2010,9 +2010,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1101,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston,-5,0.21,-4,-9,,-0.07,0.05,100,,,1500
 1102,,silencerco_osprey45_gen1_45acp_suppressor_7.62x51_piston_flipped,SilencerCo Osprey 45 Gen 1 .45ACP Suppressor w/ 7.62x51 Piston Flipped,-5,0.21,-4,-9,,-0.07,0.05,100,,,1500
 1103,,lantac_dgn762b_asr_muzzle_brake,LANTAC DGM762B-ASR Muzzle Brake,-1,0.06,-6,-12,,0.12,-0.06,20,,,1000
-,,ips_7.62x51_1inch_barrel_extension,IPS 7.62x51 1in Barrel Extension,-1,0.06,0,0,,0.05,0.01,20,,,500
+,,ips_7.62x51_1inch_barrel_extension,IPS 7.62x51 1in Barrel Extension,-1,0.05,0,0,,0.05,0.01,20,,,500
 ,,ips_7.62x51_2inch_barrel_extension,IPS 7.62x51 2in Barrel Extension,-2,0.09,-1,-1,,0.1,0.03,40,,,750
-,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-3,0.15,-2,-2,,0.15,0.06,80,,,1000
+,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-3,0.17,-2,-2,,0.2,0.06,80,,,1000
 ,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.08,-11,-8,,0.15,-0.1,30,,,900
 ,,odin_works_tiduro_thread_adapter_module,Odin Works Tiduro Thread Adaptor Module,-1,0.04,-3,-3,,0.05,0,-30,,,300
 ,,odin_works_tiduro_.338_modular_no_baffle_suppressor,Odin Works Tiduro .338 No Baffle Suppressor,-3,0.12,-5,-4,,-0.08,0.02,120,,,1500
@@ -2069,11 +2069,11 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1131,,dsa_sa58_para_fold_assembly,DSA SA-58 Para Fold Assembly,0,0.08,0,0,,,,,,,500
 1132,,dsa_sa58_polymer_humpback_stock,DSA Humpback Polymer Fixed,3,0.24,0,-20,,,,,,,0
 ,sa58_barrel,,,,,,,,,,,,,
-1133,,dsa_sa58_305mm_barrel,"DSA SA-58 12""",12,0.38,5,6,,0.25,-0.1,-131,,,750
-1134,,dsa_sa58_330mm_barrel,"DSA SA-58 13""",6,0.42,7,11,,0.2,-0.05,-81,,,500
+1133,,dsa_sa58_305mm_barrel,"DSA SA-58 12""",10,0.38,2,2,,0.25,-0.08,-131,,,750
+1134,,dsa_sa58_330mm_barrel,"DSA SA-58 13""",5,0.42,7,11,,0.2,-0.06,-81,,,500
 1135,,dsa_sa58_406mm_barrel,"DSA SA-58 16""",0,0.55,0,0,,0.1,0,71,,,0
-1136,,dsa_sa58_457mm_barrel,"DSA SA-58 18""",-10,0.65,-2,-4,,0,0.15,143,,,750
-1137,,dsa_sa58_533mm_barrel,"DSA SA-58 21""",-15,0.8,-4,-6,,-0.05,0.18,238,,,1000
+1136,,dsa_sa58_457mm_barrel,"DSA SA-58 18""",-10,0.65,-2,-4,,0,0.04,143,,,750
+1137,,dsa_sa58_533mm_barrel,"DSA SA-58 21""",-15,0.8,-4,-6,,-0.05,0.1,238,,,1000
 1138,,dsa_sa58_406mm_fluted_barrel,"DSA SA-58 16"" Fluted",1,0.52,1,1,,0.1,0,46,,,400
 ,z_rail_mount,,,,,,,,,,,,,
 1139,,z_rail_side_mount2,Z-Rail Side,-1,0.04,,,,,,,,,0
@@ -2481,7 +2481,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1335,,QBZ95,Norinco QBZ-95,45,2.3,50,50,0,0.5,0.9,1550,,,25000
 1336,,SA58,DS Arms SA-58,35,1.08,65,100,0,0.66,0.8,1550,,,20000
 1337,,SCAR47,Handl Defense SCAR-47,40,0.35,60,60,0,0.2,0.9,1350,,,60000
-1338,,SCARH,FN SCAR Mk17,16,0.15,75,75,0,0.2,0.9,1650,,,75000
+1338,,SCARH,FN SCAR Mk17,16,0.15,75,75,0,0.2,0.8,1650,,,75000
 1339,,SCARL,FN SCAR Mk16,40,0,65,70,0,0.36,1.1,1650,,,40000
 1340,,G3,H&K G3,44,0.5,70,100,0,0.4,0.8,1700,,,30000
 1341,,Remington700,Remington Model 700,50,1,80,92,0,0.1,1,2150,,,42000
