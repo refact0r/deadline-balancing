@@ -1,4 +1,4 @@
-﻿0.23.3,Sat Dec 21 13:31:24 2024,,,,,,,,,,,,,
+﻿0.23.3,Sat Dec 21 13:49:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -214,6 +214,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,wilcox_raid_xe_front_caps,Wilcox RAID Xe Front Caps,0,0.01,,,,,,,,,0
 ,,kac_aimpoint_micro_nvg_high_rise_picatinny_mount,Aimpoint Micro NVG High Rise,-2,0.1,,,,,,,,,1300
 ,,sig_sauer_foxtrot1_flashlight,Sig Sauer Foxtrot1 Flashlight,0,0.05,,,,,,,,,900
+,,npz_pso_1_4x24_picatinny_scope,NPZ PSO-1 4x24 Picatinny Scope,-3,0.21,,-1,,,,,,,1200
+,,npz_pso_rear_cup,NPZ PSO Rear Cup,2,0.02,,,,,,,,,0
+,,npz_pso_front_cup,NPZ PSO Front Cup,1,0.02,,,,,,,,,0
 ,stock,,,,,,,,,,,,,
 122,,fortis_la_stock,Fortis LA,17,0.2,-12,-6,,,,,,,900
 123,,hk_slim_stock,HK Slim Line,16,0.26,-5,-19,,,,,,,1000
