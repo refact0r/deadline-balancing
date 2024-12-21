@@ -1,4 +1,4 @@
-﻿0.23.3,Sat Dec 21 13:49:55 2024,,,,,,,,,,,,,
+﻿0.23.3,Sat Dec 21 13:56:27 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -77,7 +77,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 60,,leupold_deltapoint_pro_ar_dloc,Leupold DeltaPoint PRO DLOC,0,0.05,,,,,,,,,250
 61,,magpul_afg_2_grip,Magpul AFG-2,4,0.09,-4,-3,,,,,,,600
 62,,magpul_mbus_gen2_base,Magpul MBUS Gen2,0,0.02,,,,,,,,,400
-63,,magpul_rvg,Magpul RVG,4,0.08,-2,-5,,,,,,,300
+63,,magpul_rvg_mag412_foregrip,Magpul RVG MAG412 Foregrip,4,0.08,-2,-5,,,,,,,300
 ,,xtm_2_piece,Magpul XTM 2-Piece Panel,1,0.04,,,,,,,,,200
 ,,xtm_4_piece,Magpul XTM 4-Piece Panel,2,0.08,,,,,,,,,400
 64,,magpul_xtm_enhanced_handstop_1,Magpul XTM Enhanced Handstop Piece,6,0.03,-1,0,,,,,,,50
@@ -385,7 +385,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 213,,magpul_mlok_1.6_bottom,Magpul mlok 1.6,-0.5,0.02,,,,,,,,,100
 214,,magpul_mlok_1.6_top,Magpul mlok 1.6,-0.5,0.02,,,,,,,,,100
 215,,magpul_mlok_1.6_side,Magpul mlok 1.6,-0.5,0.02,,,,,,,,,100
-,,magpul_mvg,Magpul MVG,4,0.05,-4,-1,,,,,,,300
+,,magpul_mvg_mag597_foregrip,Magpul MVG MAG597 Foregrip,4,0.05,-4,-1,,,,,,,300
 ,,okb_crazy_romanian_mlok_full_grip,OKB Crazy Romanian MLOK Full Grip,1,0.11,-5,-4,,,,,,,800
 ,,okb_crazy_romanian_mlok_half_grip,OKB Crazy Romanian MLOK Half Grip,4,0.07,-1,-4,,,,,,,600
 ,,railscales_rsb_vg,RailScales RSB Vertical Grip,5,0.07,-3,-2,,,,,,,800
