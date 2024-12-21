@@ -23,8 +23,10 @@ kac_free_float_ras_carbine_7inch_handguard,"KAC Free Float RAS Carbine 7"" ",11,
 veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",14,0.13,-2,-5,,,,,,,700,16
 magpul_moe_sl_carbine_handguard,Moe SL Carbine Length,14,0.21,-4,-8,,,,,,,500,17.8
 magpul_moe_sl_mid_handguard,MOE SL Mid Length,12,0.25,-6,-10,,,,,,,550,17.8
-monster_10i_type_a_handguard,"Monster 10"" type A",8,0.27,-8,-14,,,,,,,600,17.4
-monster_15i_type_a_handguard,"Monster 15"" type A",6,0.34,-10,-17,,,,,,,800,17.4
+monstrum_tactical_a_series_free_float_10inch_mlok_handguard,"Monstrum Tactical A Series Free Float 10"" MLOK",10,0.27,-8,-12,,,,,,,700,18.2
+monstrum_tactical_a_series_free_float_12inch_mlok_handguard,"Monstrum Tactical A Series Free Float 12"" MLOK",9,0.29,-9,-13,,,,,,,1000,18.2
+monstrum_tactical_a_series_free_float_15inch_mlok_handguard,"Monstrum Tactical A Series Free Float 15"" MLOK",6,0.34,-11,-17,,,,,,,1500,18.2
+monstrum_tactical_a_series_free_float_16.5inch_mlok_handguard,"Monstrum Tactical A Series Free Float 16.5"" MLOK",5,0.36,-12,-18,,,,,,,1650,18.2
 sai_10_qd_handguard,"SAI 10"" QD Rail",9,0.29,-10,-12,,,,,,,1000,18.4
 sai_14.5_qd_handguard,"SAI 14.5"" QD Rail",6,0.36,-12,-16,,,,,,,1200,18
 stngr_lvnc_10i,"Stngr Lvnc 10""",11,0.28,-7,-12,,,,,,,950,18.2

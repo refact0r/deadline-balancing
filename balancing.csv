@@ -1,4 +1,4 @@
-﻿0.23.3,Sun Dec 15 11:00:26 2024,,,,,,,,,,,,,
+﻿0.23.3,Sat Dec 21 13:06:39 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -519,8 +519,10 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,kac_free_float_ras_carbine_7inch_handguard,"KAC Free Float RAS Carbine 7"" ",11,0.21,-5,-12,,,,,,,750
 276,,warsport_lvoa_s_13.5inch_handguard,"Warsport LVOA-S 13.5"" Handguard",9,0.32,-9,-14,,,,,,,900
 277,,warsport_lvoa_c_16.25inch_handguard,"Warsport LVOA-C 16.25"" Handguard",7,0.36,-11,-16,,,,,,,950
-278,,monster_10i_type_a_handguard,"Monster 10"" type A",8,0.27,-8,-14,,,,,,,600
-279,,monster_15i_type_a_handguard,"Monster 15"" type A",6,0.34,-10,-17,,,,,,,800
+,,monstrum_tactical_a_series_free_float_10inch_mlok_handguard,"Monstrum Tactical A Series Free Float 10"" MLOK",10,0.27,-8,-12,,,,,,,700
+,,monstrum_tactical_a_series_free_float_12inch_mlok_handguard,"Monstrum Tactical A Series Free Float 12"" MLOK",9,0.29,-9,-13,,,,,,,1000
+,,monstrum_tactical_a_series_free_float_15inch_mlok_handguard,"Monstrum Tactical A Series Free Float 15"" MLOK",6,0.34,-11,-17,,,,,,,1500
+,,monstrum_tactical_a_series_free_float_16.5inch_mlok_handguard,"Monstrum Tactical A Series Free Float 16.5"" MLOK",5,0.36,-12,-18,,,,,,,1650
 280,,veriforce_tactical_ar15_4inch_ultralight_mlok_freefloat_hg,"Veriforce Tactical AR-15 Ultralight MLOK 4""",14,0.13,-2,-5,,,,,,,700
 281,,mk10_rl_handguard,MK10RL,13,0.34,-12,-12,,,,,,,1000
 282,,magpul_moe_sl_carbine_handguard,Moe SL Carbine Length,14,0.21,-4,-8,,,,,,,500
