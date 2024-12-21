@@ -1,4 +1,4 @@
-﻿0.23.3,Sat Dec 21 13:06:39 2024,,,,,,,,,,,,,
+﻿0.23.3,Sat Dec 21 13:13:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1234,6 +1234,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,hexagon_dtkp_ak12_5.45x39_suppressor,Hexagon DTKP 5.45x39,-5,0.24,-12,-14,,-0.1,0.1,40,,,3000
 ,,hexagon_dtkp_ak74_shortened_5.45x39_suppressor,Hexagon Shortened DTKP 5.45x39,-4,0.18,-9,-13,,-0.05,0.05,20,,,3500
 ,,hexagon_dtkp_ak12_shortened_5.45x39_suppressor,Hexagon Shortened DTKP 5.45x39,-4,0.18,-9,-13,,-0.05,0.05,20,,,3500
+,,zenitco_dtk_1_muzzle_break,Zenitco Dtk-1,-2.5,0.12,-14,-12,,0.2,0.05,0,,,1000
 ,ak_handguard_top_cover,,,,,,,,,,,,,
 682,,6p20_wooden_sb6_upper_piece,AK74 Wooden 6P20 Sb.6 Upper Piece,0,0.05,-1,-1,,,,,,,0
 683,,caf_wasr_10_63_wooden_upper_piece,Wooden CAF WASR 10-63 Upper Piece,0,0.05,-1,-1,,,,,,,200
@@ -1991,6 +1992,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,slr_rifleworks_sr47_single_port_muzzle_brake,SLR Rifleworks SR47 Single Port Muzzle Brake,-2,0.11,-7,-14,,0.15,-0.06,-30,,,600
 ,,slr_rifleworks_sr47_dual_port_muzzle_brake,SLR Rifleworks SR47 Dual Port Muzzle Brake,-4,0.14,-10,-17,,0.25,-0.08,-70,,,800
 ,,jmac_laf_14_1lh_muzzle_brake,JMAC Customs LAF 14-1LH Muzzle Brake,-5,0.15,-15,-10,,0.15,-0.04,-30,,,1000
+,,zenitco_dtk_1l_muzzle_brake,Zenitco Dtk-1l,-2.5,0.14,-12,-10,,0.1,-0.05,-40,,,1000
 ,ak12_5.45x39_muzzle_device,,,,,,,,,,,,,
 1087,,ak12_std_muzzle_device,Kalashnikov Concern AK-12 Std.,-0.5,0.05,-13,-10,,,,10,,,0
 1088,,kalashnikov_concern_6ch60_ak12_suppressor,Kalashnikov Concern 6Ch60 AK-12,-8,0.32,-12,-15,,-0.2,0.15,200,,,1000
