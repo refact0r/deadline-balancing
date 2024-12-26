@@ -1,4 +1,4 @@
-﻿0.23.3,Tue Dec 24 17:32:20 2024,,,,,,,,,,,,,
+﻿0.23.3,Thu Dec 26 12:28:58 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -455,7 +455,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,asr_mounts,,,,,,,,,,,,,
 244,,silencerco_qd_asr_mount,SilencerCo QD ASR Mount,0,0.03,,,,,,,,,200
 ,asr_suppressors,,,,,,,,,,,,,
-245,,silencerco_omega_300_suppressor,SilencerCo OMEGA 300,-6,0.2,-9,-9,,-0.15,0.04,140,,,1000
+245,,silencerco_omega_300_suppressor,SilencerCo OMEGA 300,-6,0.2,-10,-9,,-0.15,0.04,140,,,1000
 ,hensoldt_zf_6x42_scope_eye_cup,,,,,,,,,,,,,
 246,,hensoldt_zf_6x42_eye_cup,Hensoldt ZF 6x42 Eye Cup,4.5,0.05,0,0,,,,,,,0
 ,dual_ring_30mm_sight_mount,,,,,,,,,,,,,
@@ -1754,9 +1754,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 960,,hk_g3_406mm_barrel,HK G3 406mm 7.62x51,0,0.71,0,0,,0,0,70,,,0
 961,,hk_g3_457mm_barrel,HK G3 457mm 7.62x51,-3,0.78,-1,-1,,-0.1,0.03,143,,,800
 ,,hk_msg90a1_threaded_600mm_barrel,HK MSG90A1 Threaded 600mm Barrel,-6,1,-2,-2,,-0.25,0.11,410,,,4800
-962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,4,0.41,10,10,,0.4,-0.05,-331,,,3500
-963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,20,0.32,11,11,,0.5,-0.16,-561,,,1500
-,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,14,0.29,14,14,,0.55,-0.16,-652,,,2500
+962,,fr_ordnance_mc51_211mm_7.62x51_barrel,FR Ordnance MC51 211mm 7.62x51,4,0.41,10,10,,0.45,-0.05,-331,,,3500
+963,,fr_ordnance_mc51k_145mm_7.62x51_barrel,FR Ordnance MC51k 145mm 7.62x51,20,0.32,11,11,,0.55,-0.15,-561,,,1500
+,,fr_ordnance_mc51sd_125mm_7.62x51_barrel,FR Ordinance MC51SD 125mm 7.62x51,14,0.29,14,14,,0.6,-0.16,-652,,,2500
 964,,hk_psg1_bull_650mm_barrel,HK PSG-1 Bull 650mm 7.62x51,-5,1.07,-1,-1,,-0.35,0.14,509,,,4500
 ,ptr_32_barrel,,,,,,,,,,,,,
 ,,ptr_32_7.62x39_457mm_barrel,PTR 32 7.62x39 18in Barrel,-3,0.6,-8,-11,,-0.15,0.35,-375,,,3000
@@ -2025,9 +2025,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,ips_7.62x51_4inch_barrel_extension,IPS 7.62x51 4in Barrel Extension,-3,0.17,-1,-1,,0.2,0.04,80,,,1000
 ,,surefire_socom762_sfmb_muzzle_brake,Surefire SOCOM762 SFMB Muzzle Break,-1,0.06,-16,-11,,0.07,-0.03,30,,,900
 ,,odin_works_tiduro_thread_adapter_module,Odin Works Tiduro Thread Adaptor Module,-1,0.04,-6,-6,,0,0,-30,,,300
-,,odin_works_tiduro_.338_modular_no_baffle_suppressor,Odin Works Tiduro .338 No Baffle Suppressor,-3,0.12,-7,-5,,-0.07,0.04,120,,,1500
-,,odin_works_tiduro_.338_modular_3_baffle_suppressor,Odin Works Tiduro .338 3 Baffle Suppressor,-5,0.15,-8,-6,,-0.12,0.05,160,,,2000
-,,odin_works_tiduro_.338_modular_5_baffle_suppressor,Odin Works Tiduro .338 5 Baffle Suppressor,-7,0.18,-9,-7,,-0.17,0.06,200,,,3000
+,,odin_works_tiduro_.338_modular_no_baffle_suppressor,Odin Works Tiduro .338 No Baffle Suppressor,-3,0.12,-7,-5,,-0.06,0.04,120,,,1500
+,,odin_works_tiduro_.338_modular_3_baffle_suppressor,Odin Works Tiduro .338 3 Baffle Suppressor,-5,0.15,-8,-6,,-0.11,0.05,160,,,2000
+,,odin_works_tiduro_.338_modular_5_baffle_suppressor,Odin Works Tiduro .338 5 Baffle Suppressor,-7,0.18,-9,-7,,-0.16,0.06,200,,,3000
 ,,strike_industries_jcomp_gen2_7.62x51_muzzle_brake,Strike Industries JCOMP Gen2 7.62x51 Muzzle Brake,-1,0.05,-12,-15,,0.1,-0.02,30,,,500
 ,odin_mount,,,,,,,,,,,,,
 ,,odin_works_tiduro_modular_compensator,Odin Works Tiduro Modular Compensator,-1,0.05,-2,-5,,0.05,-0.03,-30,,,700
