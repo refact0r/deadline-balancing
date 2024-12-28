@@ -1,4 +1,4 @@
-﻿0.24.0,Sat Dec 28 14:18:46 2024,,,,,,,,,,,,,
+﻿0.24.0,Sat Dec 28 14:22:45 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -694,7 +694,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 348,,brwnls_m4a1_5.56x45_406mm_govt_m_barrel,"Brownells Government 16"" Mid Length Gastube 5.56x45",-4,0.68,-7,-7,,0,0.1,108,,-0.03,1100
 349,,brwnls_m4a1_5.56x45_508mm_hbar_r_barrel,"Brownells HBAR 20"" Rifle Length Gastube 5.56x45",-10,0.92,-11,-12,,-0.22,0.26,191,,-0.06,2000
 350,,brwnls_m4a1_5.56x45_406mm_socom_c_barrel,"Brownells Socom 16"" Carbine Length Gastube 5.56x45",-3,0.69,-6,-6,,-0.05,0.12,78,,,1200
-351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-13,0.91,-13,-13,,-0.3,0.4,262,,-0.06,5000
+351,,cmmg_ar_15_5.56x45_610mm_fluted_r_barrel,"CMMG 24"" Fluted AR-15 Rifle Length Gastube 5.56x45",-12,0.91,-16,-16,,-0.3,0.4,262,,-0.06,5000
 352,,colt_m4a1_5.56x45_267mm_govt_c_barrel,"Colt Government 10.5"" Carbine Length Gastube 5.56x45",3,0.47,-2,-1,,0.25,-0.1,-113,,,1200
 353,,colt_m4a1_5.56x45_317mm_govt_c_barrel,"Colt Government 12.5"" Carbine Length Gastube 5.56x45",1,0.53,-3,-3,,0.15,-0.04,-34,,,1200
 354,,colt_m4a1_5.56x45_368mm_govt_c_barrel,"Colt Government 14.5"" Carbine Length Gastube 5.56x45",0,0.6,-4,-4,,0.08,0.02,33,,,0
