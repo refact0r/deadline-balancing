@@ -1,4 +1,4 @@
-﻿0.24.0,Sun Dec 29 14:15:11 2024,,,,,,,,,,,,,
+﻿0.24.0,Sun Dec 29 14:23:52 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1256,6 +1256,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 693,,zenitco_b_31lv_sport_rail_mount,"Zenitco B-31LV ""Sport"" Rail Mount",0,0.14,0,-1,,,,,,,1200
 ,,midwest_industries_alpha_ak_series_6inch_mlok_upper_handguard,"Midwest Industries ALPHA AK Series 6"" MLOK Top Mount",-1,0.1,-2,0,,,,,,,800
 ,,midwest_industries_alpha_ak_series_10inch_mlok_upper_handguard,"Midwest Industries ALPHA AK Series 10"" MLOK Top Mount",-3,0.13,-2,-1,,,,,,,800
+,,5.45_design_aggressor_ak_upper_handguard,"5.45 DESIGN ""Aggressor"" AK Upper Handguard",0,0.07,,,,,,,,,0
+,,5.45_design_aggressor_ak_handguard_rails,"5.45 DESIGN ""Aggressor"" AK Handguard Rails",0,0.1,,,,,,,,,0
 ,ak_grip,,,,,,,,,,,,,
 694,,zenitco_rk3_ak_pistol_grip,RK-3,7,0.11,-3,-5,,,,,,,1000
 695,,ak12_gen1_pistol_grip,AK-12 Gen 1,5,0.1,-5,-3,,,,,,,800
@@ -1272,7 +1274,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 704,,midwest_industries_ak74_extended_gen1_handguard,Midwest Industries AK74 Extended Gen 1 Handguard,7,0.22,-7,-9,,,,,,,1600
 705,,midwest_industries_ak74_gen1_handguard,Midwest Industries AK74 Gen 1 Handguard,11,0.14,-6,-5,,,,,,,1200
 706,,magpul_ak_zhukov_u_lower_handguard,AK Magpul ZHUKOV-U,16,0.23,0,-1,,,,,,,1500
-707,,ak_5.45_design_aggressor_handguard,AK 5.45 Design Aggressor Handguard,7,0.25,-2,-4,,,,,,,3000
+,,5.45_design_aggressor_ak_lower_handguard,"5.45 DESIGN ""Aggressor"" AK Lower Handguard",8,0.1,-4,-4,,,,,,,3000
 708,,6p20_wooden_sb6_lower_handguard,AK74 Wooden 6P20 Sb.6 Lower Handguard,14,0.14,-8,-8,,,,,,,0
 710,,zenitco_b_30_gen1_lower_handguard,Zenitco B-30 Gen 1 Lower,6,0.2,-6,-8,,,,,,,1500
 711,,6p20_polymer_sb9_lower_handguard,AK74 Polymer 6P20 Sb.9 Lower,16,0.1,-5,-6,,,,,,,400
@@ -1281,9 +1283,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 712,,magpul_ak_moe_lower_handguard,AK Magpul MOE,15,0.17,-2,-4,,,,,,,500
 713,,tdiarms_ak_x47_rail_system,TDI Arms X47 Rail System,4,0.26,-9,-6,,,,,,,2000
 714,,zenitco_b_10m_gen1_lower_handguard,Zenitco B-10M Gen 1 Lower,12,0.12,-5,-5,,,,,,,1000
-,,zenitco_b_10m_gen1_lower_handguard_alt,Zenitco B-10M Gen 1 Lower,12,0.12,-5,-5,,,,,,,1000 
 715,,zenitco_b_10l_sport_lower_handguard,"Zenitco B-10L ""Sport"" Lower",12,0.13,-8,-11,,,,,,,1100
-,,zenitco_b_10l_sport_lower_handguard_alt,"Zenitco B-10L ""Sport"" Lower",12,0.13,-8,-11,,,,,,,1100
 ,,midwest_industries_alpha_ak_series_6inch_mlok_lower_handguard,"Midwest Industries ALPHA AK Series 6"" MLOK Lower Handguard",12,0.15,-4,-5,,,,,,,1200
 ,,midwest_industries_alpha_ak_series_10inch_mlok_lower_handguard,"Midwest Industries ALPHA AK Series 10"" MLOK Lower Handguard",8,0.21,-5,-7,,,,,,,1600
 ,,was_woodworks_lower_ak_handguard_with_handstop,WAS Woodworks Lower AK Handguard with Handstop,18,0.16,-2,-3,,,,,,,1000
@@ -1300,6 +1300,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 720,,magpul_ak_moe_lower_handguard_alt,AK Magpul MOE,15,0.17,-2,-4,,,,,,,500
 721,,6p20_polymer_sb9_lower_handguard_alt,AK74 Polymer 6P20 Sb.9 Lower,15,0.1,-5,-6,,,,,,,400
 ,,was_woodworks_lower_ak_handguard_with_handstop_alt,WAS Woodworks Lower AK Handguard with Handstop,18,0.16,-2,-3,,,,,,,1000
+,,zenitco_b_10m_gen1_lower_handguard_alt,Zenitco B-10M Gen 1 Lower,12,0.12,-5,-5,,,,,,,1000
+,,zenitco_b_10l_sport_lower_handguard_alt,"Zenitco B-10L ""Sport"" Lower",12,0.13,-8,-11,,,,,,,1100
 ,zenitco_rail_extension,,,,,,,,,,,,,
 722,,zenitco_dl_2_gen2_sport_handguard_extension,"Zenitco DL-2 Gen2 ""Sport"" Handguard",4,0.07,-2,-1,,,,,,,600
 ,ak_magwell,,,,,,,,,,,,,
