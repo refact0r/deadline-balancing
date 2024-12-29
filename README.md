@@ -4,10 +4,11 @@ attachment stats for deadline. game link: <https://www.roblox.com/games/38378410
 
 ## changelogs
 
-- [0.23.0](changelogs/0-23-0.md)
-- [0.23.1](changelogs/0-23-1.md)
-- [0.23.2](changelogs/0-23-2.md)
+- [0.24.0](changelogs/0-24-0.md)
 - [0.23.3](changelogs/0-23-3.md)
+- [0.23.2](changelogs/0-23-2.md)
+- [0.23.1](changelogs/0-23-1.md)
+- [0.23.0](changelogs/0-23-0.md)
 
 ## guide
 
