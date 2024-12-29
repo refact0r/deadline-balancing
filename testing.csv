@@ -1,4 +1,4 @@
-﻿0.24.0,Sun Dec 29 13:59:27 2024,,,,,,,,,,,,,
+﻿0.24.0,Sun Dec 29 14:10:58 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1415,7 +1415,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 788,,izhevsk_pm_9x18_std_frame,Izhevsk PM 9x18 Standard Frame,0,0.2,,,,,,,,,0
 ,makarov_pistol_grip,,,,,,,,,,,,,
 789,,izhevsk_pm_bakelite_grip,Izhevsk PM Bakelite Grip,2,0.06,-1,-1,,,,,,,0
-790,,fab_defense_pm_g_pistol_grip,FAB Defense PM-G,6,0.08,0,-2,,,,,,,800
+790,,fab_defense_pm_g_pistol_grip,FAB Defense PM-G Pistol Grip,4,0.12,-2,-2,,,,,,,1000
+,,gun_custom_tuning_pm_tactic_kit_pistol_grip,GCT PM Tactic Kit Pistol Grip,2,0.21,-3,-3,,,,,,,2000
 ,makarov_slide,,,,,,,,,,,,,
 791,,izhevsk_pm_9x18_std_slide,Izhevsk PM 9x18 Standard Slide,0,0.1,,,,,,,,,0
 ,makarov_barrel,,,,,,,,,,,,,
@@ -1430,8 +1431,12 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,izhevsk_pm_std_safety,Izhesvk PM Standard Safety,,0.01,,,,,,,,,0
 ,,izhevsk_pm_9x18_firing_pin,Izhevsk PM 9x18 Firing Pin,,0.01,,,,,,,,,0
 ,,izhevsk_pm_trigger_guard,Izhevsk PM Trigger Guard,,0.01,,,,,,,,,0
+,makarov_trigger,,,,,,,,,,,,,
 ,,izhevsk_pm_std_trigger,Izhevsk PM Standard Trigger,,0.01,,,,,,,,,0
+,,legal_arsenal_pm_straight_trigger,Legal Arsenal PM Straight Trigger,1,0.03,,1,,,,,,0.05,300
+,makarov_rear_sight,,,,,,,,,,,,,
 ,,izhevsk_pm_std_rear_sight,Izhevsk PM Standard Rear Sight,1,0.01,,,,,,,,,0
+,,rtm_pm1_makarov_rear_sight,RTM PM1 Makarov Rear Sight,2,0.03,,,,,,,,,500
 ,glock_slide,,,,,,,,,,,,,
 793,,glock_standard_slide,Glock Standard,0,0.15,-1,-1,,,,,,,0
 794,,hex_slide,Zev Tech Hex Gen3,3,0.1,0,-3,,,,,,,0
