@@ -1,4 +1,4 @@
-﻿0.24.0,Sun Dec 29 20:13:51 2024,,,,,,,,,,,,,
+﻿0.24.0,Sun Dec 29 20:17:30 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1517,7 +1517,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 818,,pachmayr_rubber_grip,Pachmayr Rubber,3,0.05,0,0,,,,,,,750
 819,,pachmayr_rubber_grip_for_g20,Pachmayr Rubber,3,0.05,0,0,,,,,,,750
 ,glock_stock,,,,,,,,,,,,,
-820,,glr_17,GLR-17,-5,0.15,-2,-8,,,,,,,1500
+820,,glr_17,GLR-17,-5,0.15,-2,-8,,-0.15,,,,,1500
 821,,tsa_g,TSA G,-15,0.14,7,7,,,,,,,2000
 ,glock_front_sight,,,,,,,,,,,,,
 822,,truglo_glock_tfx_fs,Truglo TFX,2,0.03,,,,,,,,,500
