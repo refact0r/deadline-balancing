@@ -1,4 +1,4 @@
-﻿0.24.0,Sun Dec 29 14:23:52 2024,,,,,,,,,,,,,
+﻿0.24.0,Sun Dec 29 20:13:51 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -397,8 +397,8 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,arisaka_mlok_fingerstop,Arisaka MLOK Fingerstop,6,0.02,0,-1,,,,,,,500
 ,pmag_m3_bottom_plate,,,,,,,,,,,,,
 216,,magpul_std_m3_bottom_plate,Magpul Standard M3,0,0.02,,,,,,,,,0
-217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,0.5,0.04,,,,,,,,,200
-218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,0.5,0.04,,,,,,,,,200
+217,,magpul_ranger_m3_bottom_plate,Magpul Ranger M3,1,0.06,,,,,,,,,200
+218,,magpul_ranger_ak74/akm_bottom_plate,Magpul Ranger AK74/AKM,1,0.06,,,,,,,,,200
 219,,magpul_pmag_ak74/akm_bottom_plate,Magpul PMAG AK74/AKM,0,0.02,,,,,,,,,0
 ,,aeroknox_plus_5_pmag_mag_extension,Aeroknox Plus 5 PMAG Magazine Extension,-2,0.08,,,5,,,,,,400
 ,izhmash_ak74_bottomplate,,,,,,,,,,,,,
@@ -1863,7 +1863,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1011,,corvus_defensio_aug_enhanced_release_button,Corvus Defensio AUG Enhanced Mag Release Button,1,0.03,,,,,,,,,400
 ,,arid_concepts_aug_improved_mag_release,Arid Concepts AUG Improved Mag Release,1,0.03,,,,,,,,,600
 ,,arid_concepts_aug_mag_release_std_paddle,Arid Concepts Standard Paddle,0.5,0.01,,,,,,,,,0
-,,arid_concepts_aug_mag_release_large_paddle,Arid Concepts Large Paddle,0.5,0.01,,,,,,,,,100
+,,arid_concepts_aug_mag_release_large_paddle,Arid Concepts Large Paddle,1,0.02,,,,,,,,,100
 ,aug_a3_stock,,,,,,,,,,,,,
 1012,,steyr_aug_a3_para_9x19_stock,Steyr AUG Para 9x19,17,0.23,-12,-13,,0.2,0.05,-300,,,2000
 1013,,fbt_aug_carbon_fiber_stock,Fine Ballistic Tools AUG Carbon Fiber Stock,20,0.3,-8,-7,,,,,,,4000
