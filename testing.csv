@@ -1,4 +1,4 @@
-﻿0.24.0,Tue Dec 31 00:22:44 2024,,,,,,,,,,,,,
+﻿0.24.0,Tue Dec 31 00:43:55 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -388,7 +388,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,,magpul_mvg_mag597_foregrip,Magpul MVG MAG597 Foregrip,4,0.05,-4,-1,,,,,,,300
 ,,okb_crazy_romanian_mlok_full_grip,OKB Crazy Romanian MLOK Full Grip,1,0.11,-5,-4,,,,,,,800
 ,,okb_crazy_romanian_mlok_half_grip,OKB Crazy Romanian MLOK Half Grip,4,0.07,-1,-4,,,,,,,600
-,,railscales_rsb_vg,RailScales RSB Vertical Grip,5,0.07,-3,-2,,,,,,,800
+,,railscales_rsb_vg,RailScales RSB Vertical Grip,4,0.07,-4,-2,,,,,,,800
 ,,si_link_curved_mlok_fg,Strike Industries LINK Curved MLOK Foregrip,6,0.06,-2,-1,,,,,,,500
 ,,magpul_mlok_afg_grip,Magpul MLOK AFG,4,0.05,-3,-3,,,,,,,500
 ,,kac_mlok_3inch_5_slot_rail_section_bottom,KAC MLOK 3in 5 Slot Rail Section Bottom,-2,0.06,,,,,,,,,500
