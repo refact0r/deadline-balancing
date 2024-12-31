@@ -1,4 +1,4 @@
-﻿0.24.0,Sun Dec 29 20:17:30 2024,,,,,,,,,,,,,
+﻿0.24.0,Tue Dec 31 00:22:44 2024,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -87,7 +87,7 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 68,,xtm_full_handstop,Magpul XTM Full Handstop,6,0.09,-2,-2,,,,,,,500
 69,,matech_usgi_rear_buis_base,MaTech USGI Rear BUIS Base,0,0.03,,,,,,,,,200
 70,,maxwell_grip,Maxwell,,4,,,,,,,,,10000
-71,,mission_first_folding_grip,Mission First Tactical Folding Grip,3,0.1,-5,-3,,,,,,,400
+71,,mission_first_folding_grip,Mission First Tactical Folding Grip,3,0.1,-6,-2,,,,,,,400
 ,,monstrum_tactical_compact_scope_mount,Monstrum Tactical Compact Scope Mount,0,0.05,,,,,,,,,400
 72,,monstrum_tactical_s232p_2x32_prism_scope,Monstrum Tactical Compact Prism Scope 2x32,-2,0.16,,,,,,,,,1000
 73,,aim_sports_mt012h_riser_mount,"Aim Sports MT012H 1""",-1,0.06,,,,,,,,,400
