@@ -1,4 +1,4 @@
-﻿0.24.0,Tue Dec 31 00:43:55 2024,,,,,,,,,,,,,
+﻿0.24.0,Wed Jan 01 21:32:57 2025,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1742,16 +1742,16 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 ,hk_upper_receiver_mounts,,,,,,,,,,,,,
 955,,addon_hk_upper_receiver_picatinny_rail,Custom Addon HK Upper Receiver Picatinny,-0.5,0.07,0,0,,,,,,,0
 ,hk_g3_stock,,,,,,,,,,,,,
-956,,hk_g3_std_fixed_plastic_stock,HK G3 Standard Fixed Plastic,8,0.26,-11,-13,,,,,,,0
-,,haga_defense_hk_g3_acr_stock_adapter,Haga Defense HK G3 ACR Stock Adaptor,3,0.06,-1,-2,,,,,,,1500
-,,ptr_hk_g3_milspec_ar15_buffer_tube_adapter,PTR HK G3 MilSpec AR15 Buffer Tube Adaptor,1,0.14,3,4,,0.1,,,,,1200
+956,,hk_g3_std_fixed_plastic_stock,HK G3 Standard Fixed Plastic,9,0.26,-12,-12,,,,,,,0
+,,haga_defense_hk_g3_acr_stock_adapter,Haga Defense HK G3 ACR Stock Adaptor,1,0.09,,-1,,,,,,,1500
+,,ptr_hk_g3_milspec_ar15_buffer_tube_adapter,PTR HK G3 MilSpec AR15 Buffer Tube Adaptor,1,0.08,1,3,,0.1,,,,,1200
 ,,spuhr_g3_r410_stock_assembly_adapter,Spuhr G3 R410 Stock Assembly Adaptor,-2,0.07,0,0,,,,,,,1000
 ,hk_psg1_stock_assembly,,,,,,,,,,,,,
 ,,hk_psg1_stock_buttpad,HK PSG-1 Stock Buttpad,2,0.07,,,,,,,,,0
 ,,hk_psg1_stock_cheek_rest,HK PSG-1 Stock Cheek Rest,4,0.08,,,,,,,,,0
-,,hk_psg1_stock_base,HK Sniper PSG-1 Version 2 Stock Assembly,16,0.26,-4,-5,,,,,,,3000
+,,hk_psg1_stock_base,HK Sniper PSG-1 Version 2 Stock Assembly,16,0.26,-4,-6,,,,,,,
 ,spuhr_stock,,,,,,,,,,,,,
-,,spuhr_g3_r410_stock_assembly_stock,Spuhr G3 R410 Stock,8,0.07,-10,-22,,,,,,,0
+,,spuhr_g3_r410_stock_assembly_stock,Spuhr G3 R410 Stock,8,0.18,-8,-19,,,,,,,0
 ,,spuhr_g3_r410_stock_assembly_cheek_pad,Spuhr G3 R410 Stock Cheek Pad,2,0.03,,,,,,,,,0
 ,hk_psg1_plunger,,,,,,,,,,,,,
 957,,hk_psg1_fa_plunger,HK PSG-1 Receiver Bolt FA Plunger,0,0.01,0,0,,,,,,,0
