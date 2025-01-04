@@ -1,4 +1,4 @@
-﻿0.24.0,Fri Jan 03 15:55:48 2025,,,,,,,,,,,,,
+﻿0.24.0,Fri Jan 03 17:48:11 2025,,,,,,,,,,,,,
 id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,magazine_capacity,barrel_deviation,bullet_damage,bullet_velocity,buck_barrel_deviation,fire_rate,price
 ,picatinny,,,,,,,,,,,,,
 1,,primary_arms_slx_1x_microprism_acss_g2_scope,Primary Arms SLx 1x MicroPrism ACSS-G2,-1,0.08,,,,,,,,,1300
@@ -1965,9 +1965,9 @@ id,class,name,pretty_name,ergonomics,weight,horizontal_recoil,vertical_recoil,ma
 1068,,jg_usgi_a2_birdcage_m4a1_flash_hider,JG Standard birdcage M4A1,2,0.03,-9,-9,,0.1,0,0,,,0
 1069,,surefire_warcomp_5.56x45_flash_hider,Surefire WarComp 5.56x45,1,0.06,-13,-13,,0.05,0,0,,,700
 1070,,kac_qdc_m4qd_5.56x56_flash_suppressor,KAC QDC M4QD 5.56x45,2,0.04,-9,-15,,0.1,0,0,,,500
-,,ips_5.56x45_1inch_barrel_extension,IPS 5.56 1in Barrel Extension,-0.5,0.04,0,0,,0.06,0.02,20,,,400
-,,ips_5.56x45_2inch_barrel_extension,IPS 5.56 2in Barrel Extension,-1,0.08,-1,-1,,0.12,0.04,40,,,500
-,,ips_5.56x45_4inch_barrel_extension,IPS 5.56 4in Barrel Extension,-2,0.16,-2,-2,,0.24,0.08,80,,,600
+,,ips_5.56x45_1inch_barrel_extension,IPS 5.56 1in Barrel Extension,-1,0.04,0,0,,0.05,0.01,20,,,400
+,,ips_5.56x45_2inch_barrel_extension,IPS 5.56 2in Barrel Extension,-2,0.08,0,-1,,0.1,0.03,40,,,500
+,,ips_5.56x45_4inch_barrel_extension,IPS 5.56 4in Barrel Extension,-3,0.16,-1,-1,,0.2,0.06,80,,,600
 ,,ips_1_2x28_to_5_8x24_knurled_thread_adapter,ISP 1/2x28 to 5/8x24 Knurled Thread Adapter,-1,0.05,2,2,,0.2,,-200,,,1000
 ,,surefire_socom556_sfmb_muzzle_brake,Surefire SOCOM556 SFMB Muzzle Break,-1,0.06,-17,-11,,0.05,0,0,,,700
 ,,surefire_warden_blast_regulator,Surefire Warden Blast Regulator,0,0.12,-15,-11,,0,0.02,40,,,1000
