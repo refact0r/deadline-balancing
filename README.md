@@ -20,6 +20,18 @@ Master balancing sheet. Should always be up to date with the latest changes.
 
 Testing sheet. Gets imported into dev branch when updated.
 
+### /changes
+
+Folder containing all change sheets. These are used to balance groups of attachments to then be ported into `balancing.csv`.
+
+### /changelogs
+
+Folder containing all generated changelog markdown files.
+
+### /archive
+
+Folder containing all balancing sheets from previous versions. These are used to generate changelogs.
+
 ### port.py
 
 Script to port changes from a change sheet into `balancing.csv` or `testing.csv`. Usage:
